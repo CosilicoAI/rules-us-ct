@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-63b"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-63b"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-63b"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-63b/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-63b/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-63b/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-63b/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_203">
+        <num>203</num>
+        <heading>Property Tax Assessment</heading>
+        <section eId="sec_12_63b">
+          <num>12-63b</num>
+          <heading>Valuations of rental income real property</heading>
+          <subsection eId="12_63b__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The assessor or board of assessors in any town, at any time, when determining the present true and actual value of real property as provided in section12-63, which property is used primarily for the purpose of producing rental income, exclusive of such property used solely for residential purposes, containing not more than six dwelling units and in which the owner resides, shall determine such value on the basis of an appraisal which shall include to the extent applicable with respect to such property, consideration of each of the following methods of appraisal:</p>
+            </content>
+            <paragraph eId="12_63b__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>Replacement cost less depreciation, plus the market value of the land,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_63b__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>capitalization of net income based on market rent for similar property, and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_63b__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>a sales comparison approach based on current bona fide sales of comparable property. The provisions of this section shall not be applicable with respect to any housing assisted by the federal or state government except any such housing for which the federal assistance directly related to rent for each unit in such housing is no less than the difference between the fair market rent for each such unit in the applicable area and the amount of rent payable by the tenant in each such unit, as determined under the federal program providing for such assistance.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_63b__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>In the case of an eligible workforce housing opportunity development project, as defined in section8-395a, the assessor shall use the capitalization of net income method based on the actual rent received for the property.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_63b__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>For purposes of subdivision</p>
+            </content>
+            <paragraph eId="12_63b__subsec_c__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_63b__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section and, generally, in its use as a factor in any appraisal with respect to real property used primarily for the purpose of producing rental income, the term “market rent” means the rental income that such property would most probably command on the open market as indicated by present rentals being paid for comparable space. In determining market rent the assessor shall consider the actual rental income applicable with respect to such real property under the terms of an existing contract of lease at the time of such determination.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

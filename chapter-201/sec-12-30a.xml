@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-30a"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-30a"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-30a"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-30a/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-30a/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-30a/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-30a/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_201">
+        <num>201</num>
+        <heading>State and Local Revenue Services. Department of Revenue Services</heading>
+        <section eId="sec_12_30a">
+          <num>12-30a</num>
+          <heading>Imposition of interest. Determination of basis. Regulations</heading>
+          <subsection eId="12_30a__subsec_a">
+            <num>(a)</num>
+            <paragraph eId="12_30a__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>Whenever the provisions of section12-35,12-204,12-205,12-206,12-225,12-226,12-229,12-235,12-242d,12-263c,12-263d,12-263m,12-268d,12-268h,12-293a,12-309,12-330d,12-330i,12-376,12-376a,12-376b,12-392,12-414,12-415,12-416,12-419,12-419a,12-439,12-440,12-458,12-458d,12-486a,12-488,12-547,12-548,12-590,12-594,12-638c,12-638d,12-646a,12-647,12-667,12-722,12-723,12-728,12-731,12-735,22a-132,22a-232,22a-237c,38a-277or51-81brequire interest to be paid to the Commissioner of Revenue Services at the rate of one per cent per month or fraction thereof or one per cent for each month or fraction thereof, the Commissioner of Revenue Services may adopt regulations in accordance with the provisions of chapter 54 that require interest to be paid to said commissioner at the equivalent daily rate in lieu of such monthly rate.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_30a__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>If such regulations are adopted, such regulations shall provide that (A) if notice and demand is made by said commissioner for payment of any amount to said commissioner, and if such amount is paid within ten days after the date of such notice and demand, interest under this section on the amount so paid shall not be imposed for the period after the date of such notice and demand and (B) such regulations are applicable to interest required to be paid to the Commissioner of Revenue Services on taxes due and owing on or after the date specified in such regulations, whether or not such taxes first became due before said date.</p>
+              </content>
+              <subparagraph eId="12_30a__subsec_a__subsec_2__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>if notice and demand is made by said commissioner for payment of any amount to said commissioner, and if such amount is paid within ten days after the date of such notice and demand, interest under this section on the amount so paid shall not be imposed for the period after the date of such notice and demand and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_30a__subsec_a__subsec_2__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>such regulations are applicable to interest required to be paid to the Commissioner of Revenue Services on taxes due and owing on or after the date specified in such regulations, whether or not such taxes first became due before said date.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_30a__subsec_b">
+            <num>(b)</num>
+            <paragraph eId="12_30a__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>Whenever the provisions of section12-208,12-268l,12-312,12-376,12-392,12-422,12-448,12-463,12-489,12-554,12-638i,12-730or12-732require interest to be paid by the Commissioner of Revenue Services at the rate of two-thirds of one per cent per month or fraction thereof or two-thirds of one per cent for each month or fraction thereof, the Commissioner of Revenue Services may adopt regulations in accordance with the provisions of chapter 54 that require interest to be paid by said commissioner at the equivalent daily rate in lieu of such monthly rate.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_30a__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>If such regulations are adopted, they shall provide that (A) interest shall be allowed and paid, in the case of a refund, from the date of the overpayment to a date, to be determined by the commissioner, preceding the date of the refund check by not more than thirty days and, in the case of a credit, from the date of the overpayment to the due date of the amount against which the credit is taken, and (B) such regulations shall be applicable to interest required to be paid by the Commissioner of Revenue Services on amounts due and owing on or after the date specified in such regulations, whether or not such amounts first became due before said date.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+              </content>
+              <subparagraph eId="12_30a__subsec_b__subsec_2__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>interest shall be allowed and paid, in the case of a refund, from the date of the overpayment to a date, to be determined by the commissioner, preceding the date of the refund check by not more than thirty days and, in the case of a credit, from the date of the overpayment to the due date of the amount against which the credit is taken, and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_30a__subsec_b__subsec_2__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>such regulations shall be applicable to interest required to be paid by the Commissioner of Revenue Services on amounts due and owing on or after the date specified in such regulations, whether or not such amounts first became due before said date.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

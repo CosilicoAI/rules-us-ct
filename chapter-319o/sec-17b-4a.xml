@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-4a"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-4a"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17b-4a"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-4a/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-4a/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-4a/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-4a/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319o">
+        <num>319o</num>
+        <heading>Personal Care Assistance</heading>
+        <section eId="sec_17b_4a">
+          <num>17b-4a</num>
+          <heading>Department of Social Services: Public information and access to programs. Plan for comprehensive state service approach. Client-friendly application process</heading>
+          <subsection eId="17b_4a__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The Department of Social Services, in consultation with the Labor Department and the Departments of Education, Public Health and Children and Families, shall seek, within available appropriations, to promote efficiency, reduce costs and administrative error rates and simplify the application process for families eligible for benefits by streamlining and integrating public information and access to programs.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_4a__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>For the purpose of subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_4a__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section, the Department of Social Services shall develop, within available appropriations, a plan for a comprehensive state service approach that may include</p>
+            </content>
+            <paragraph eId="17b_4a__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>the development and promotion of a single, simplified, on-line application and enrollment process for programs administered by the Department of Social Services that serve children or families;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_4a__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>the use of the Internet to develop and increase public access to on-line screening tools, benefit calculators and on-line applications that facilitate prompt access to programs administered by the Department of Social Services and benefit information; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_4a__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>the promotion of access to direct assistance with application and enrollment processes through community-based organizations. Not later than January 31, 2011, the department shall submit the plan to the joint standing committee of the General Assembly having cognizance of matters relating to human services and to the select committee of the General Assembly having cognizance of matters relating to children. The department may consult with and accept donations from philanthropic organizations to accomplish the purposes of this section.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_4a__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The Department of Social Services shall develop, in accordance with the provisions of federal law, a client-friendly application process which shall not require applications to be resubmitted if a family applied for services and, not more than thirty days after the date the application was submitted, the family experienced a change in circumstances or the program closed to intake applications and then reopened.
+See Sec. 4-165c re immunity of the state and its officials, employees and agents.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

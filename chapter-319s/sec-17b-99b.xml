@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-99b"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-99b"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17b-99b"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-99b/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-99b/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-99b/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-99b/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319s">
+        <num>319s</num>
+        <heading>Connecticut Partnership for Long-Term Care</heading>
+        <section eId="sec_17b_99b">
+          <num>17b-99b</num>
+          <heading>Joint report re Medicaid fraud prevention and overpayment recovery</heading>
+          <subsection eId="17b_99b__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>On January 1, 2015, and annually thereafter, the Commissioner of Social Services, in coordination with the Chief State's Attorney and the Attorney General, shall submit a joint report on the state's efforts in the previous fiscal year to prevent and control fraud, abuse and errors in the Medicaid payment system and to recover Medicaid overpayments, except as otherwise required. The joint report shall include a final reconciled and unduplicated accounting of identified, ordered, collected and outstanding Medicaid recoveries from all sources. No personally identifying information related to any Medicaid claim or payment shall be included in the joint report. Nothing in this section shall require the Department of Social Services, the office of the Chief State's Attorney or the office of the Attorney General to report information that is protected from disclosure under state or federal law or by court rule.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_99b__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The Department of Social Services shall provide information, including, but not limited to:</p>
+            </content>
+            <paragraph eId="17b_99b__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>Data related to Medicaid audits conducted by the department, including: (A) The number of such audits completed by provider type; (B) the amount of overpayments identified due to such audits; (C) the amount of avoided costs identified due to such audits; (D) the amount of overpayments recovered due to such audits; and (E) the number of such audits resulting in referral to the office of the Chief State's Attorney;</p>
+              </content>
+              <subparagraph eId="17b_99b__subsec_b__subsec_1__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>The number of such audits completed by provider type;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17b_99b__subsec_b__subsec_1__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>the amount of overpayments identified due to such audits;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17b_99b__subsec_b__subsec_1__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>the amount of avoided costs identified due to such audits;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17b_99b__subsec_b__subsec_1__subsec_D">
+                <num>(D)</num>
+                <content>
+                  <p>the amount of overpayments recovered due to such audits; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17b_99b__subsec_b__subsec_1__subsec_E">
+                <num>(E)</num>
+                <content>
+                  <p>the number of such audits resulting in referral to the office of the Chief State's Attorney;</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="17b_99b__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>Data related to Medicaid program integrity investigations conducted by the department, including: (A) The number of complaints received by source type and reason; (B) the number of investigations opened by source type and provider type; (C) the number of investigations completed, with outcomes for each investigation by source type and provider type; (D) the amount of overpayments identified due to investigations; (E) the amount of overpayments collected due to investigations; (F) the number of investigations resulting in a referral to the office of the Chief State's Attorney; (G) for each closed investigation, the length of time elapsed between case opening and closing by time ranges, from between</p>
+              </content>
+              <subparagraph eId="17b_99b__subsec_b__subsec_2__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>The number of complaints received by source type and reason;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17b_99b__subsec_b__subsec_2__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>the number of investigations opened by source type and provider type;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17b_99b__subsec_b__subsec_2__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>the number of investigations completed, with outcomes for each investigation by source type and provider type;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17b_99b__subsec_b__subsec_2__subsec_D">
+                <num>(D)</num>
+                <content>
+                  <p>the amount of overpayments identified due to investigations;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17b_99b__subsec_b__subsec_2__subsec_E">
+                <num>(E)</num>
+                <content>
+                  <p>the amount of overpayments collected due to investigations;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17b_99b__subsec_b__subsec_2__subsec_F">
+                <num>(F)</num>
+                <content>
+                  <p>the number of investigations resulting in a referral to the office of the Chief State's Attorney;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17b_99b__subsec_b__subsec_2__subsec_G">
+                <num>(G)</num>
+                <content>
+                  <p>for each closed investigation, the length of time elapsed between case opening and closing by time ranges, from between</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_99b__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>less than one month to six months, (ii) seven months to twelve months, (iii) thirteen months to twenty-four months, or (iv) twenty-five or more months; (H) for each investigation resulting in a referral to another agency, the length of time elapsed between case opening and referral for the time ranges described in subparagraph (G) of this subdivision; (I) the number of investigations resulting in suspension of Medicaid payments by provider type; and (J) the number of investigations resulting in suspension of provider enrollment from the Medicaid program by provider type; and</p>
+            </content>
+            <paragraph eId="17b_99b__subsec_i__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>The amount of overpayments collected by recovery contractors by type of contractor.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_99b__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The Chief State's Attorney shall provide Medicaid information including, but not limited to:</p>
+            </content>
+            <paragraph eId="17b_99b__subsec_c__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>The number of investigations opened by source type;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_99b__subsec_c__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>the general nature of the allegations by provider type;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_99b__subsec_c__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>for each closed case, the length of time elapsed between case opening and closing by the time ranges described in subparagraph (G) of subdivision</p>
+              </content>
+              <subparagraph eId="17b_99b__subsec_c__subsec_3__subsec_G">
+                <num>(G)</num>
+                <content>
+                  <p>of subdivision</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="17b_99b__subsec_c__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_99b__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section;</p>
+            </content>
+            <paragraph eId="17b_99b__subsec_b__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>the final disposition category of closed cases by provider type;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_99b__subsec_b__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>the monetary recovery sought and realized by action, including (A) criminal charges, (B) settlements, and (C) judgments; and</p>
+              </content>
+              <subparagraph eId="17b_99b__subsec_b__subsec_5__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>criminal charges,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17b_99b__subsec_b__subsec_5__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>settlements, and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17b_99b__subsec_b__subsec_5__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>judgments; and</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="17b_99b__subsec_b__subsec_6">
+              <num>(6)</num>
+              <content>
+                <p>the number of referrals declined and reason.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_99b__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>The Attorney General shall provide Medicaid information including, but not limited to:</p>
+            </content>
+            <paragraph eId="17b_99b__subsec_d__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>The number of investigations opened by source type;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_99b__subsec_d__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>the general nature of the allegations by provider type;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_99b__subsec_d__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>for each closed case, the length of time elapsed between case opening and closing by the time ranges described in subparagraph (G) of subdivision</p>
+              </content>
+              <subparagraph eId="17b_99b__subsec_d__subsec_3__subsec_G">
+                <num>(G)</num>
+                <content>
+                  <p>of subdivision</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="17b_99b__subsec_d__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_99b__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section;</p>
+            </content>
+            <paragraph eId="17b_99b__subsec_b__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>the final disposition category of closed cases by provider type;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_99b__subsec_b__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>the monetary recovery sought and realized by action, including (A) civil monetary penalties, (B) settlements, and (C) judgments; and</p>
+              </content>
+              <subparagraph eId="17b_99b__subsec_b__subsec_5__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>civil monetary penalties,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17b_99b__subsec_b__subsec_5__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>settlements, and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17b_99b__subsec_b__subsec_5__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>judgments; and</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="17b_99b__subsec_b__subsec_6">
+              <num>(6)</num>
+              <content>
+                <p>the number of referrals declined and reason.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_99b__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>The joint report shall include third-party liability recovery information for the previous three-year period by fiscal year, including, but not limited to:</p>
+            </content>
+            <paragraph eId="17b_99b__subsec_e__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>The total number of claims selected for billing by commercial health insurance and Medicare;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_99b__subsec_e__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>the total amount billed for such claims;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_99b__subsec_e__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>the number of claims where recovery occurred;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_99b__subsec_e__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>the actual amount collected;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_99b__subsec_e__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>an explanation of any claim denials by category;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_99b__subsec_e__subsec_6">
+              <num>(6)</num>
+              <content>
+                <p>the number of files updated with third-party insurance information; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_99b__subsec_e__subsec_7">
+              <num>(7)</num>
+              <content>
+                <p>the estimated cost avoidance in the future related to updated files.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_99b__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>The joint report shall include:</p>
+            </content>
+            <paragraph eId="17b_99b__subsec_f__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>Detailed and unit specific performance standards, benchmarks and metrics;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_99b__subsec_f__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>projected cost savings for the following fiscal year; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_99b__subsec_f__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>new initiatives taken to prevent and detect overpayments.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_99b__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>The Commissioner of Social Services, in coordination with the Chief State's Attorney and the Attorney General, shall submit the joint report, in accordance with the provisions of section11-4a, to the joint standing committees of the General Assembly having cognizance of matters relating to human services and appropriations and the budgets of state agencies. Each agency shall also post the joint report on the agency's Internet web site.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

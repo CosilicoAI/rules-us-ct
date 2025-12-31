@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-483"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-483"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17a-483"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-483/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-483/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-483/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-483/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319i">
+        <num>319i</num>
+        <heading>Connecticut HUSKY Plan</heading>
+        <section eId="sec_17a_483">
+          <num>17a-483</num>
+          <heading>(Formerly Sec. 17-226k). Catchment area council; representatives; duties</heading>
+          <subsection eId="17a_483__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Each catchment area council shall consist of one representative from each town or portion thereof located within the same catchment area, except that if a catchment area consists of</p>
+            </content>
+            <paragraph eId="17a_483__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>only two towns or portions thereof, three representatives shall be appointed from each town or portion thereof, or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_483__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>only one town or portion thereof, seven representatives shall be appointed. Such representatives shall be consumers and shall be appointed by the first selectmen, mayor or governing official of such town or portion thereof. The representatives appointed shall elect by majority vote an additional number of representatives, which number shall not exceed the number initially appointed. Not less than fifty-one per cent and not more than sixty per cent of the total catchment area council membership shall be persons with lived experience of a behavioral health disorder.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17a_483__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Each catchment area council shall study and evaluate the delivery of mental health services in its respective catchment area in accordance with regulations adopted by the Commissioner of Mental Health and Addiction Services. Each council shall make such reports and recommendations to the regional behavioral health action organizations as such organizations may require or which the catchment area council may deem necessary.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_483__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Each catchment area council shall elect four members of its council to serve as members of the regional behavioral health action organization of the region in which it is located, not more than two of whom shall be providers of mental health services. The regional behavioral health action organizations shall consist of the members elected by the catchment area councils and one representative designated by the Commissioner of Mental Health and Addiction Services from each state-operated facility serving the region.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_483__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Members of catchment area councils shall receive no compensation for their services but may be reimbursed by the Department of Mental Health and Addiction Services for necessary expenses incurred in the performance of their duties.
+See Sec. 17a-478 re establishment of mental health regions.
+See Sec. 17a-482 for applicable definitions.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

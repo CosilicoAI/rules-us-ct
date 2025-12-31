@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-59f"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-59f"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17b-59f"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-59f/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-59f/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-59f/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-59f/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319o">
+        <num>319o</num>
+        <heading>Personal Care Assistance</heading>
+        <section eId="sec_17b_59f">
+          <num>17b-59f</num>
+          <heading>State Health Information Technology Advisory Council. Establishment of All-Payer Claims Database Advisory Group</heading>
+          <subsection eId="17b_59f__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>There shall be a State Health Information Technology Advisory Council to advise the Commissioner of Health Strategy and the health information technology officer, designated in accordance with section19a-754a, in developing priorities and policy recommendations for advancing the state's health information technology and health information exchange efforts and goals and to advise the commissioner and officer in the development and implementation of the state-wide health information technology plan and standards and the State-wide Health Information Exchange, established pursuant to section17b-59d. The advisory council shall also advise the commissioner and officer regarding the development of appropriate governance, oversight and accountability measures to ensure success in achieving the state's health information technology and exchange goals.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_59f__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The council shall consist of the following members:</p>
+            </content>
+            <paragraph eId="17b_59f__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>One member appointed by the Commissioner of Health Strategy, who shall be an expert in state health care reform initiatives;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_59f__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>The health information technology officer, designated in accordance with section19a-754a, or the health information technology officer's designee;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_59f__subsec_b__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>The Commissioners of Social Services, Mental Health and Addiction Services, Children and Families, Correction, Public Health and Developmental Services, or the commissioners' designees;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_59f__subsec_b__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>The Chief Information Officer of the state, or the Chief Information Officer's designee;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_59f__subsec_b__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>The chief executive officer of the Connecticut Health Insurance Exchange, or the chief executive officer's designee;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_59f__subsec_b__subsec_6">
+              <num>(6)</num>
+              <content>
+                <p>The chief information officer of The University of Connecticut Health Center, or the chief information officer's designee;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_59f__subsec_b__subsec_7">
+              <num>(7)</num>
+              <content>
+                <p>The Healthcare Advocate, or the Healthcare Advocate's designee;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_59f__subsec_b__subsec_8">
+              <num>(8)</num>
+              <content>
+                <p>The Comptroller, or the Comptroller's designee;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_59f__subsec_b__subsec_9">
+              <num>(9)</num>
+              <content>
+                <p>The Attorney General, or the Attorney General's designee;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_59f__subsec_b__subsec_10">
+              <num>(10)</num>
+              <content>
+                <p>Five members appointed by the Governor, one each who shall be (A) a representative of a health system that includes more than one hospital, (B) a representative of the health insurance industry, (C) an expert in health information technology, (D) a health care consumer or consumer advocate, and (E) a current or former employee or trustee of a plan established pursuant to subdivision</p>
+              </content>
+              <subparagraph eId="17b_59f__subsec_b__subsec_10__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>a representative of a health system that includes more than one hospital,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17b_59f__subsec_b__subsec_10__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>a representative of the health insurance industry,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17b_59f__subsec_b__subsec_10__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>an expert in health information technology,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17b_59f__subsec_b__subsec_10__subsec_D">
+                <num>(D)</num>
+                <content>
+                  <p>a health care consumer or consumer advocate, and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17b_59f__subsec_b__subsec_10__subsec_E">
+                <num>(E)</num>
+                <content>
+                  <p>a current or former employee or trustee of a plan established pursuant to subdivision</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="17b_59f__subsec_b__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_59f__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of 29 USC 186;</p>
+            </content>
+            <paragraph eId="17b_59f__subsec_c__subsec_11">
+              <num>(11)</num>
+              <content>
+                <p>Three members appointed by the president pro tempore of the Senate, one each who shall be (A) a representative of a federally qualified health center, (B) a provider of behavioral health services, and (C) a physician licensed under chapter 370;</p>
+              </content>
+              <subparagraph eId="17b_59f__subsec_c__subsec_11__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>a representative of a federally qualified health center,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17b_59f__subsec_c__subsec_11__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>a provider of behavioral health services, and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17b_59f__subsec_c__subsec_11__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>a physician licensed under chapter 370;</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="17b_59f__subsec_c__subsec_12">
+              <num>(12)</num>
+              <content>
+                <p>Three members appointed by the speaker of the House of Representatives, one each who shall be (A) a technology expert who represents a hospital system, as defined in section19a-486i, (B) a provider of home health care services, and (C) a health care consumer or a health care consumer advocate;</p>
+              </content>
+              <subparagraph eId="17b_59f__subsec_c__subsec_12__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>a technology expert who represents a hospital system, as defined in section19a-486i,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17b_59f__subsec_c__subsec_12__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>a provider of home health care services, and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17b_59f__subsec_c__subsec_12__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>a health care consumer or a health care consumer advocate;</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="17b_59f__subsec_c__subsec_13">
+              <num>(13)</num>
+              <content>
+                <p>One member appointed by the majority leader of the Senate, who shall be a representative of an independent community hospital;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_59f__subsec_c__subsec_14">
+              <num>(14)</num>
+              <content>
+                <p>One member appointed by the majority leader of the House of Representatives, who shall be a physician who provides services in a multispecialty group and who is not employed by a hospital;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_59f__subsec_c__subsec_15">
+              <num>(15)</num>
+              <content>
+                <p>One member appointed by the minority leader of the Senate, who shall be a primary care physician who provides services in a small independent practice;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_59f__subsec_c__subsec_16">
+              <num>(16)</num>
+              <content>
+                <p>One member appointed by the minority leader of the House of Representatives, who shall be an expert in health care analytics and quality analysis;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_59f__subsec_c__subsec_17">
+              <num>(17)</num>
+              <content>
+                <p>The president pro tempore of the Senate, or the president's designee;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_59f__subsec_c__subsec_18">
+              <num>(18)</num>
+              <content>
+                <p>The speaker of the House of Representatives, or the speaker's designee;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_59f__subsec_c__subsec_19">
+              <num>(19)</num>
+              <content>
+                <p>The minority leader of the Senate, or the minority leader's designee; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_59f__subsec_c__subsec_20">
+              <num>(20)</num>
+              <content>
+                <p>The minority leader of the House of Representatives, or the minority leader's designee.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_59f__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Any member appointed or designated under subdivisions</p>
+            </content>
+            <paragraph eId="17b_59f__subsec_c__subsec_11">
+              <num>(11)</num>
+              <content>
+                <p>to</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_59f__subsec_c__subsec_20">
+              <num>(20)</num>
+              <content>
+                <p>, inclusive, of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_59f__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section may be a member of the General Assembly.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_59f__subsec_d">
+            <num>(d)</num>
+            <paragraph eId="17b_59f__subsec_d__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>The health information technology officer, designated in accordance with section19a-754a, shall serve as a chairperson of the council. The council shall elect a second chairperson from among its members, who shall not be a state official. The chairpersons of the council may establish subcommittees and working groups and may appoint individuals other than members of the council to serve as members of the subcommittees or working groups. The terms of the members shall be coterminous with the terms of the appointing authority for each member and subject to the provisions of section4-1a. If any vacancy occurs on the council, the appointing authority having the power to make the appointment under the provisions of this section shall appoint a person in accordance with the provisions of this section. A majority of the members of the council shall constitute a quorum. Members of the council shall serve without compensation, but shall be reimbursed for all reasonable expenses incurred in the performance of their duties.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_59f__subsec_d__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>The chairpersons of the council may appoint up to four additional members to the council, who shall serve at the pleasure of the chairpersons.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_59f__subsec_e">
+            <num>(e)</num>
+            <paragraph eId="17b_59f__subsec_e__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>The council shall establish a working group to be known as the All-Payer Claims Database Advisory Group. Said group shall include, but need not be limited to, (A) the Secretary of the Office of Policy and Management, the Comptroller, the Commissioners of Public Health, Social Services and Mental Health and Addiction Services, the Insurance Commissioner, the Healthcare Advocate and the Chief Information Officer, or their designees; (B) a representative of the Connecticut State Medical Society; and (C) representatives of health insurance companies, health insurance purchasers, hospitals, consumer advocates and health care providers. The health information technology officer may appoint additional members to said group.</p>
+              </content>
+              <subparagraph eId="17b_59f__subsec_e__subsec_1__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>the Secretary of the Office of Policy and Management, the Comptroller, the Commissioners of Public Health, Social Services and Mental Health and Addiction Services, the Insurance Commissioner, the Healthcare Advocate and the Chief Information Officer, or their designees;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17b_59f__subsec_e__subsec_1__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>a representative of the Connecticut State Medical Society; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17b_59f__subsec_e__subsec_1__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>representatives of health insurance companies, health insurance purchasers, hospitals, consumer advocates and health care providers. The health information technology officer may appoint additional members to said group.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="17b_59f__subsec_e__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>The All-Payer Claims Database Advisory Group shall develop a plan to implement a state-wide multipayer data initiative to enhance the state's use of health care data from multiple sources to increase efficiency, enhance outcomes and improve the understanding of health care expenditures in the public and private sectors.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_59f__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>Prior to submitting any application, proposal, planning document or other request seeking federal grants, matching funds or other federal support for health information technology or health information exchange, the Commissioner of Health Strategy or the Commissioner of Social Services shall present such application, proposal, document or other request to the council for review and comment.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

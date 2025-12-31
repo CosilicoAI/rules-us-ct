@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-218f"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-218f"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-218f"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-218f/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-218f/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-218f/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-218f/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_208">
+        <num>208</num>
+        <heading>Estate Taxes</heading>
+        <section eId="sec_12_218f">
+          <num>12-218f</num>
+          <heading>Combined group determined on world-wide basis, affiliated group basis or water's-edge basis. Tax havens</heading>
+          <subsection eId="12_218f__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>For purposes of this section, “affiliated group” means an affiliated group as defined in Section 1504 of the Internal Revenue Code, except such affiliated group shall include all domestic corporations that are commonly owned, directly or indirectly, by any member of such affiliated group, without regard to whether the affiliated group includes</p>
+            </content>
+            <paragraph eId="12_218f__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>corporations included in more than one federal consolidated return,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_218f__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>corporations engaged in one or more unitary businesses, or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_218f__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>corporations that are not engaged in a unitary business with any other member of the affiliated group. Such affiliated group shall also include any member of the combined group, determined on a world-wide basis, incorporated in a tax haven as determined by the commissioner in accordance with subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_218f__subsec_a__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_218f__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section, unless it is proven to the satisfaction of the commissioner that such member is incorporated in a tax haven for a legitimate business purpose.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_218f__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The designated taxable member of a combined group may elect to have the combined group determined on a world-wide basis or an affiliated group basis. If no such election is made, the combined group shall be determined on a water's-edge basis and will include only taxable members and those nontaxable members described in any one or more of the categories set forth in subdivisions</p>
+            </content>
+            <paragraph eId="12_218f__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>to</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_218f__subsec_b__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>, inclusive, of this subsection:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_218f__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>Any member incorporated in the United States, or formed under the laws of the United States, any state, the District of Columbia, or any territory or possession of the United States, excluding such a member if eighty per cent or more of both its property and payroll during the income year are located outside the United States, the District of Columbia, and any territory or possession of the United States;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_218f__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>Any member, wherever incorporated or formed, if twenty per cent or more of both its property and payroll during the income year are located in the United States, the District of Columbia, or any territory or possession of the United States;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_218f__subsec_b__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>Any member that is incorporated in a jurisdiction that is determined by the commissioner to be a tax haven as that term is defined in subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_218f__subsec_b__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>of this subsection, unless it is proven to the satisfaction of the commissioner that such member is incorporated in a tax haven for a legitimate business purpose; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_218f__subsec_b__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>For purposes of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_218f__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section and subdivision</p>
+            </content>
+            <paragraph eId="12_218f__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>of this subsection, “tax haven” means a jurisdiction that (A) has laws or practices that prevent effective exchange of information for tax purposes with other governments on taxpayers benefiting from the tax regime; (B) has a tax regime which lacks transparency; (C) facilitates the establishment of foreign-owned entities without the need for a local substantive presence or prohibits these entities from having any commercial impact on the local economy; (D) explicitly or implicitly excludes the jurisdiction's resident taxpayers from taking advantage of the tax regime benefits or prohibits enterprises that benefit from the regime from operating in the jurisdiction's domestic market; or (E) has created a tax regime which is favorable for tax avoidance, based upon an overall assessment of relevant factors, including whether the jurisdiction has a significant untaxed offshore financial or services sector relative to its overall economy. “Tax haven” does not include a jurisdiction that has entered into a comprehensive income tax treaty with the United States, which the Secretary of the Treasury has determined is satisfactory for purposes of Section 1</p>
+              </content>
+              <subparagraph eId="12_218f__subsec_a__subsec_3__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>has laws or practices that prevent effective exchange of information for tax purposes with other governments on taxpayers benefiting from the tax regime;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_218f__subsec_a__subsec_3__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>has a tax regime which lacks transparency;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_218f__subsec_a__subsec_3__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>facilitates the establishment of foreign-owned entities without the need for a local substantive presence or prohibits these entities from having any commercial impact on the local economy;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_218f__subsec_a__subsec_3__subsec_D">
+                <num>(D)</num>
+                <content>
+                  <p>explicitly or implicitly excludes the jurisdiction's resident taxpayers from taking advantage of the tax regime benefits or prohibits enterprises that benefit from the regime from operating in the jurisdiction's domestic market; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_218f__subsec_a__subsec_3__subsec_E">
+                <num>(E)</num>
+                <content>
+                  <p>has created a tax regime which is favorable for tax avoidance, based upon an overall assessment of relevant factors, including whether the jurisdiction has a significant untaxed offshore financial or services sector relative to its overall economy. “Tax haven” does not include a jurisdiction that has entered into a comprehensive income tax treaty with the United States, which the Secretary of the Treasury has determined is satisfactory for purposes of Section 1</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_218f__subsec_h">
+            <num>(h)</num>
+            <paragraph eId="12_218f__subsec_h__subsec_11">
+              <num>(11)</num>
+              <content>
+                <p>(C)</p>
+              </content>
+              <subparagraph eId="12_218f__subsec_h__subsec_11__subsec_C">
+                <num>(C)</num>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_218f__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>(II) of the Internal Revenue Code.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_218f__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>A world-wide election or an affiliated group election is effective only if made on a timely filed, original return for an income year by the designated taxable member of the combined group. Such election is binding for, and applicable to, the income year for which it is made and for the ten immediately succeeding income years.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_218f__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>If the designated taxable member elects to determine the members of a combined group on an affiliated group basis, the taxable members shall take into account the net income or loss and apportionment factors of all of the members of its affiliated group, regardless of whether such members are engaged in a unitary business, that are subject to tax or would be subject to tax under this chapter, if doing business in this state.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

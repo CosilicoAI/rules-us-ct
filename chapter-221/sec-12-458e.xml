@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-458e"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-458e"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-458e"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-458e/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-458e/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-458e/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-458e/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_221">
+        <num>221</num>
+        <heading>Real Estate Conveyance Tax</heading>
+        <section eId="sec_12_458e">
+          <num>12-458e</num>
+          <heading>Liability for wilful nonpayment of taxes collected</heading>
+          <content>
+            <p>Sec. 12-458e. Liability for wilful nonpayment of taxes collected.Each person, other than a distributor, who is required, on behalf of a distributor, to collect, truthfully account for and pay over the tax imposed on such distributor under this chapter and who wilfully fails to collect such tax or truthfully account for and pay over such tax or who wilfully attempts in any manner to evade or defeat the tax or the payment thereof, shall, in addition to other penalties provided by law, be liable for a penalty equal to the total amount of the tax evaded, or not collected, or not accounted for and paid over, including any penalty or interest attributable to such wilful failure to collect or truthfully account for and pay over such tax or such wilful attempt to evade or defeat such tax, provided such penalty shall only be imposed against such person in the event that such tax, penalty or interest cannot otherwise be collected from the distributor itself in accordance with section12-475. The amount of such penalty with respect to which a person may be personally liable under this section shall be collected in accordance with said section12-475and any amount so collected shall be allowed as a credit against the amount of such tax, penalty or interest due and owing from the distributor. The dissolution of such distributor shall not discharge any person in relation to any personal liability under this section for wilful failure to collect or truthfully account for and pay over such tax or for a wilful attempt to evade or defeat such tax prior to dissolution, except as otherwise provided in this section. For purposes of this section, “person” includes any individual, corporation, limited liability company or partnership and any officer or employee of any corporation, including a dissolved corporation, and a member or employee of any partnership or limited liability company who, as such officer, employee or member, is under a duty to file a tax return under this chapter on behalf of a distributor or to collect or truthfully account for and pay over the tax imposed under this chapter on behalf of a distributor.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

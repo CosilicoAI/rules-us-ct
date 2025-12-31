@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-217j"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-217j"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-217j"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-217j/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-217j/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-217j/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-217j/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_208">
+        <num>208</num>
+        <heading>Estate Taxes</heading>
+        <section eId="sec_12_217j">
+          <num>12-217j</num>
+          <heading>Tax credit for research and experimental expenditures</heading>
+          <subsection eId="12_217j__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>There shall be allowed as a credit against the tax imposed on any corporation under this chapter, with respect to income years of such corporation commencing on or after January 1, 1994, an amount equal to twenty per cent of the amount spent by such corporation directly on research and experimental expenditures, as defined in Section 174 of the Internal Revenue Code of 1986, or any subsequent corresponding internal revenue code of the United States, as from time to time amended, which are conducted in this state and which exceeds the amount spent by such corporation during the preceding income year of such corporation for such expenditures.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_217j__subsec_b">
+            <num>(b)</num>
+            <paragraph eId="12_217j__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>With respect to any income year commencing on or after January 1, 2000, a credit or any portion of a credit that is allowed under this section but that is not used by a taxpayer because the amount of the credit exceeds the tax due and owing by the taxpayer shall be carried forward to each of the successive income years until such credit, or applicable portion of the credit, is fully taken. In no case shall a credit, or any portion of a credit, that is not used by a taxpayer be carried forward for a period of more than fifteen years.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_217j__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>(A) With respect to any income year commencing on or after January 1, 1997, and prior to January 1, 2000, a credit or any portion of a credit that is allowed under this section but that is not used by a biotechnology company because the amount of the credit exceeds the tax due and owing by the taxpayer shall be carried forward to each of the successive income years until such credit, or applicable portion of the credit, is fully taken. In no case shall a credit, or any portion of a credit, that is not used by a biotechnology company be carried forward for a period of more than fifteen years.
+(B) For purposes of this subsection, “biotechnology company” means a company engaged in the business of applying technologies, such as recombinant DNA techniques, biochemistry, molecular and cellular biology, genetics and genetic engineering, biological cell fusion techniques, and new bioprocesses, using living organisms, or parts of organisms, to produce or modify products, to improve plants or animals, to develop microorganisms for specific uses, to identify targets for small molecule pharmaceutical development, or to transform biological systems into useful processes and products.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+              </content>
+              <subparagraph eId="12_217j__subsec_b__subsec_2__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>With respect to any income year commencing on or after January 1, 1997, and prior to January 1, 2000, a credit or any portion of a credit that is allowed under this section but that is not used by a biotechnology company because the amount of the credit exceeds the tax due and owing by the taxpayer shall be carried forward to each of the successive income years until such credit, or applicable portion of the credit, is fully taken. In no case shall a credit, or any portion of a credit, that is not used by a biotechnology company be carried forward for a period of more than fifteen years.</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_217j__subsec_b__subsec_2__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>For purposes of this subsection, “biotechnology company” means a company engaged in the business of applying technologies, such as recombinant DNA techniques, biochemistry, molecular and cellular biology, genetics and genetic engineering, biological cell fusion techniques, and new bioprocesses, using living organisms, or parts of organisms, to produce or modify products, to improve plants or animals, to develop microorganisms for specific uses, to identify targets for small molecule pharmaceutical development, or to transform biological systems into useful processes and products.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

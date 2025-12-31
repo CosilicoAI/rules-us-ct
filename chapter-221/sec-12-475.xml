@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-475"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-475"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-475"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-475/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-475/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-475/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-475/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_221">
+        <num>221</num>
+        <heading>Real Estate Conveyance Tax</heading>
+        <section eId="sec_12_475">
+          <num>12-475</num>
+          <heading>Regulations. Enforcement. Collection procedure. Lien against real estate. Investigation or hearing procedure</heading>
+          <subsection eId="12_475__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The Commissioner of Revenue Services shall prescribe regulations for the enforcement of this chapter.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_475__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The commissioner is authorized to avail himself or herself of the services of the state police and the Commissioner of Motor Vehicles in enforcing this chapter.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_475__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The amount of any tax, penalty or interest due and unpaid under the provisions of this chapter may be collected under the provisions of section12-35. The warrant therein provided for shall be signed by the commissioner or his or her authorized agent. The amount of any such tax, penalty and interest shall be a lien, from the last day of the month next preceding the due date of such tax until discharged by payment, against all real estate of the taxpayer within the state, and a certificate of such lien signed by the commissioner may be filed for record in the office of the clerk of any town in which such real estate is situated, provided no such lien shall be effective as against any bona fide purchaser or qualified encumbrancer of any interest in any such property. When any tax with respect to which a lien has been recorded under the provisions of this section has been satisfied, the commissioner, upon request of any interested party, shall issue a certificate discharging such lien, which certificate shall be recorded in the same office in which the lien is recorded. Any action for the foreclosure of such lien shall be brought by the Attorney General in the name of the state in the superior court for the judicial district in which the property subject to such lien is situated, or, if such property is located in two or more judicial districts, in the superior court for any one such judicial district, and the court may limit the time for redemption or order the sale of such property or make such other or further decree as it judges equitable.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_475__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>In carrying out the provisions of this chapter, the commissioner, and any representative of the commissioner authorized to conduct any inquiry, investigation or hearing, may administer oaths and take testimony under oath in any inquiry or investigation related to the tax imposed under this chapter. At any such hearing ordered by the commissioner, the commissioner or the commissioner's representative authorized to conduct such hearing and to issue such process as may be necessary for such hearing may subpoena witnesses and require the production of books, papers and documents pertinent to such inquiry. No witness under subpoena shall be excused from testifying or from producing books or other documentary evidence on the ground that such testimony or the production of such books or other documentary evidence would tend to incriminate the witness provided such evidence or the books or other documentary evidence so produced shall not be used in any criminal proceeding against the witness. If any person disobeys such process or, having appeared in obedience to such process, refuses to answer any pertinent question put to him or her by the commissioner or the commissioner's authorized representative, or to produce any books and other documentary evidence pursuant to such questioning, the commissioner or such representative may apply to the superior court for the judicial district in which the taxpayer resides or in which the business has been conducted setting forth such disobedience to process or refusal to answer. The court shall order such person to appear before said court to answer such question or to produce such books and documentary evidence and, upon such person's refusal to do so, shall commit such person to a community correctional center until such person testifies, but not for a longer period than sixty days. Notwithstanding the serving of the term of such commitment by any person, the commissioner may proceed in all respects with such inquiry and examination</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-293a"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-293a"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-293a"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-293a/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-293a/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-293a/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-293a/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_214">
+        <num>214</num>
+        <heading>Business Tax Credits</heading>
+        <section eId="sec_12_293a">
+          <num>12-293a</num>
+          <heading>Reporting requirements. Registration fee for vending machines. List of customers</heading>
+          <subsection eId="12_293a__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Each licensed distributor and dealer shall file with the Commissioner of Revenue Services, on or before the twenty-fifth day of each month, a report for the calendar month immediately preceding in such form and containing such information as the commissioner may prescribe. The return shall be accompanied by a payment of the amount of the tax shown to be due thereon. The commissioner by regulation may exempt from the monthly reporting requirements of this section those distributors and dealers who do not acquire unstamped cigarettes and in lieu thereof may require an annual report, prescribed as to form by the Commissioner of Revenue Services and bearing notice to the effect that false statements made in such report are punishable, if, in the commissioner's discretion, the enforcement of this chapter would not be adversely affected.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_293a__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Each licensed distributor or dealer who owns or operates cigarette vending machines shall file a report with the Commissioner of Revenue Services, at such time and in such form as the commissioner may prescribe.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_293a__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>If any person fails to pay the amount of tax reported due on its report within the time specified under this section, there shall be imposed a penalty equal to ten per cent of such amount due and unpaid, or fifty dollars, whichever is greater. No person shall be subject to a penalty under both this section and subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_293a__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of section12-309. Such amount shall bear interest at the rate of one per cent per month or fraction thereof, from the due date of such tax until the date of payment.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_293a__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Subject to the provisions of section12-3a, the commissioner may waive all or part of the penalties provided under this chapter when it is proven to his satisfaction that the failure to pay any tax was due to reasonable cause and was not intentional or due to neglect.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

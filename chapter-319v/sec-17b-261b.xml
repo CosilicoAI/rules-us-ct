@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-261b"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-261b"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17b-261b"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-261b/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-261b/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-261b/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-261b/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319v">
+        <num>319v</num>
+        <heading>Temporary Assistance for Needy Families</heading>
+        <section eId="sec_17b_261b">
+          <num>17b-261b</num>
+          <heading>Program eligibility determined by department. Spousal support</heading>
+          <subsection eId="17b_261b__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The Department of Social Services shall be the sole agency to determine eligibility for assistance and services under programs operated and administered by said department.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_261b__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Any person filing an application with a probate court for spousal support, in accordance with section45a-655, shall certify to that court that a copy of the application and accompanying attachments have been sent by regular mail, postage prepaid, to the Commissioner of Social Services. The probate court shall provide a notice of hearing to the commissioner at least fifteen business days prior to the hearing. The commissioner or a designee shall have the right to appear at such hearing and may present the commissioner's position as to the application in person or in writing. Any final order by the court on such application for spousal support shall be sent to the commissioner within seven business days of the order.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_261b__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>No probate court shall approve an application for spousal support of a community spouse unless</p>
+            </content>
+            <paragraph eId="17b_261b__subsec_c__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>notice is provided in accordance with subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_261b__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section, and</p>
+            </content>
+            <paragraph eId="17b_261b__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>the order is consistent with state and federal law.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

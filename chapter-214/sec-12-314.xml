@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-314"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-314"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-314"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-314/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-314/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-314/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-314/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_214">
+        <num>214</num>
+        <heading>Business Tax Credits</heading>
+        <section eId="sec_12_314">
+          <num>12-314</num>
+          <heading>Packaging for sale. Penalties</heading>
+          <subsection eId="12_314__subsec_a">
+            <num>(a)</num>
+            <paragraph eId="12_314__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>The sale of cigarettes other than in an unopened package containing twenty or more cigarettes originating with the manufacturer that bears the health warning required by law is prohibited. Any cigarettes sold other than as specified under this subdivision shall be deemed contraband and shall be subject to confiscation.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_314__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>If the Commissioner of Revenue Services finds, after a hearing, that any person has violated the provisions of this subsection, said commissioner may assess such person a civil penalty of one hundred fifty dollars for a first offense, five hundred dollars for a second offense and one thousand dollars for a third or subsequent offense. Such penalty may be in addition to any other penalty provided by law, including, but not limited to, the suspension or revocation, if such person is a licensed dealer or distributor, of such license pursuant to section12-295. Any person aggrieved by any action of said commissioner pursuant to this subsection may take an appeal of such action as provided in sections12-311and12-312.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_314__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The sale of cigarettes, the stamping of which is prohibited by subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_314__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of section12-302or subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_314__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of section12-303, is prohibited.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

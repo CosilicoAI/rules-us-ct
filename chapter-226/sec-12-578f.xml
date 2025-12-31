@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-578f"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-578f"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-578f"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-578f/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-578f/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-578f/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-578f/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_226">
+        <num>226</num>
+        <heading>Prepared Food and Beverage Tax</heading>
+        <section eId="sec_12_578f">
+          <num>12-578f</num>
+          <heading>Authorization of MMCT Venture, LLC to operate casino gaming facility</heading>
+          <subsection eId="12_578f__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>For the purposes of this section and section12-578g:</p>
+            </content>
+            <paragraph eId="12_578f__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>“Authorized games” means any game of chance, including, but not limited to, blackjack, poker, dice, money-wheels, roulette, baccarat, chuck-a-luck, pan game, over and under, horse race game, acey-deucy, beat the dealer, bouncing ball, video facsimile game and any other game of chance authorized by the Commissioner of Consumer Protection;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_578f__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>“Mashantucket Pequot memorandum of understanding” means the memorandum of understanding entered into by and between the state and the Mashantucket Pequot Tribe on January 13, 1993, as amended on April 30, 1993;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_578f__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>“Mashantucket Pequot procedures” means the Final Mashantucket Pequot Gaming Procedures prescribed by the Secretary of the United States Department of the Interior pursuant to Section 2710</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_578f__subsec_d">
+            <num>(d)</num>
+            <paragraph eId="12_578f__subsec_d__subsec_7">
+              <num>(7)</num>
+              <content>
+                <p>(B)(vii) of Title 25 of the United States Code and published in 56 Federal Register 24996 (May 31, 1991);</p>
+              </content>
+              <subparagraph eId="12_578f__subsec_d__subsec_7__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>(vii) of Title 25 of the United States Code and published in 56 Federal Register 24996 (May 31, 1991);</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_578f__subsec_d__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>“MMCT Venture, LLC” means a limited liability company described in subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_578f__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>of this section;</p>
+            </content>
+            <paragraph eId="12_578f__subsec_d__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>“Mohegan compact” means the Tribal-State Compact entered into by and between the state and the Mohegan Tribe of Indians of Connecticut on May 17, 1994; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_578f__subsec_d__subsec_6">
+              <num>(6)</num>
+              <content>
+                <p>“Mohegan memorandum of understanding” means the memorandum of understanding entered into by and between the state and the Mohegan Tribe of Indians of Connecticut on May 17, 1994.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_578f__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>MMCT Venture, LLC, is authorized to conduct authorized games at a casino gaming facility at 171 Bridge Street, East Windsor, Connecticut.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_578f__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Such authorization shall not be effective unless the following conditions have been met:</p>
+            </content>
+            <paragraph eId="12_578f__subsec_c__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>(A) The Governor enters into amendments to the Mashantucket Pequot procedures and to the Mashantucket Pequot memorandum of understanding with the Mashantucket Pequot Tribe and amendments to the Mohegan compact and to the Mohegan memorandum of understanding with the Mohegan Tribe of Indians of Connecticut concerning the operation of a casino gaming facility in the state.
+(B) The amendments to the Mashantucket Pequot procedures and the Mohegan compact shall include a provision that the authorization of MMCT Venture, LLC, to conduct authorized games in the state does not terminate the moratorium against the operation of video facsimile games by the Mashantucket Pequot Tribe and Mohegan Tribe of Indians of Connecticut on each tribe's reservation.
+(C) The amendments to each tribe's memorandum of understanding shall include a provision that the authorization of MMCT Venture, LLC, to conduct authorized games in the state does not relieve each tribe from each tribe's obligation to contribute a percentage of the gross operating revenues of video facsimile games to the state as provided in each tribe's memorandum of understanding.</p>
+              </content>
+              <subparagraph eId="12_578f__subsec_c__subsec_1__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>The Governor enters into amendments to the Mashantucket Pequot procedures and to the Mashantucket Pequot memorandum of understanding with the Mashantucket Pequot Tribe and amendments to the Mohegan compact and to the Mohegan memorandum of understanding with the Mohegan Tribe of Indians of Connecticut concerning the operation of a casino gaming facility in the state.</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_578f__subsec_c__subsec_1__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>The amendments to the Mashantucket Pequot procedures and the Mohegan compact shall include a provision that the authorization of MMCT Venture, LLC, to conduct authorized games in the state does not terminate the moratorium against the operation of video facsimile games by the Mashantucket Pequot Tribe and Mohegan Tribe of Indians of Connecticut on each tribe's reservation.</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_578f__subsec_c__subsec_1__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>The amendments to each tribe's memorandum of understanding shall include a provision that the authorization of MMCT Venture, LLC, to conduct authorized games in the state does not relieve each tribe from each tribe's obligation to contribute a percentage of the gross operating revenues of video facsimile games to the state as provided in each tribe's memorandum of understanding.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_578f__subsec_c__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>The amendments to the Mashantucket Pequot procedures, the Mashantucket Pequot memorandum of understanding, the Mohegan compact and the Mohegan memorandum of understanding are approved or deemed approved by the Secretary of the United States Department of the Interior pursuant to the federal Indian Gaming Regulatory Act, P.L. 100-497, 25 USC 2701 et seq., and its implementing regulations. If such approval is overturned by a court in a final judgment, which is not appealable, the authorization provided under this section shall cease to be effective.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_578f__subsec_c__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>The amendments to the Mashantucket Pequot procedures and to the Mohegan compact are approved by the General Assembly pursuant to section3-6c.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_578f__subsec_c__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>The amendments to the Mashantucket Pequot memorandum of understanding and to the Mohegan memorandum of understanding are approved by the General Assembly pursuant to the process described in section3-6c.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_578f__subsec_c__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>The governing bodies of the Mashantucket Pequot Tribe and Mohegan Tribe of Indians of Connecticut enact resolutions providing: (A) That if MMCT Venture, LLC, fails to pay any fees or taxes due the state, the tribes, as the members of MMCT Venture, LLC, waive the possible defense of sovereign immunity with respect to any action or claim by the state against the tribes as the members of MMCT Venture, LLC, to the extent such action or claim is permitted to be brought against a member of a limited liability company under state law to collect any fees or taxes, while preserving any other defenses available to the tribes, and (B) that the venue for such action or claim shall be in the judicial district of Hartford.</p>
+              </content>
+              <subparagraph eId="12_578f__subsec_c__subsec_5__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>That if MMCT Venture, LLC, fails to pay any fees or taxes due the state, the tribes, as the members of MMCT Venture, LLC, waive the possible defense of sovereign immunity with respect to any action or claim by the state against the tribes as the members of MMCT Venture, LLC, to the extent such action or claim is permitted to be brought against a member of a limited liability company under state law to collect any fees or taxes, while preserving any other defenses available to the tribes, and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_578f__subsec_c__subsec_5__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>that the venue for such action or claim shall be in the judicial district of Hartford.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_578f__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Such authorization shall apply to MMCT Venture, LLC, provided:</p>
+            </content>
+            <paragraph eId="12_578f__subsec_d__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>MMCT Venture, LLC, is a limited liability company jointly and exclusively owned by the Mashantucket Pequot Tribe and the Mohegan Tribe of Indians of Connecticut;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_578f__subsec_d__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>no other person or business organization holds an equity interest in MMCT Venture, LLC; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_578f__subsec_d__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>each tribe holds at least a twenty-five per cent equity interest in MMCT Venture, LLC. If MMCT Venture, LLC, ceases to be a limited liability company jointly and exclusively owned by the Mashantucket Pequot Tribe and the Mohegan Tribe of Indians of Connecticut in which each tribe holds at least a twenty-five per cent equity interest, such authorization shall be void.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_578f__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>Notwithstanding the provisions of subsections</p>
+            </content>
+          </subsection>
+          <subsection eId="12_578f__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>and</p>
+            </content>
+          </subsection>
+          <subsection eId="12_578f__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of this section, the authorization to conduct authorized games at a casino gaming facility pursuant to said subsections shall not be effective during the ten-year initial term that amendments to the Mashantucket Pequot procedures and to the Mashantucket Pequot memorandum of understanding with the Mashantucket Pequot Tribe, or a new compact with the Mashantucket Pequot Tribe, and amendments to the Mohegan compact and to the Mohegan memorandum of understanding with the Mohegan Tribe of Indians of Connecticut, or a new compact with the Mohegan Tribe of Indians of Connecticut, entered into pursuant to section12-851are effective, as described in subdivision</p>
+            </content>
+            <paragraph eId="12_578f__subsec_c__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_578f__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of section12-851.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

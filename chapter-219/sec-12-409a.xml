@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-409a"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-409a"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-409a"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-409a/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-409a/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-409a/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-409a/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_219">
+        <num>219</num>
+        <heading>Motor Vehicle Fuels Tax</heading>
+        <section eId="sec_12_409a">
+          <num>12-409a</num>
+          <heading>Direct payment permits</heading>
+          <subsection eId="12_409a__subsec_a">
+            <num>(a)</num>
+            <heading>Issuance of permit</heading>
+            <content>
+              <p>Any person who purchases tangible personal property or services may apply to the Commissioner of Revenue Services for a direct payment permit. At the time of making an application, the applicant shall pay to the commissioner a permit fee of twenty dollars for each permit. If the commissioner finds that</p>
+            </content>
+            <paragraph eId="12_409a__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>the collection of the sales and use taxes will not be jeopardized by the issuance of such a permit,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_409a__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>because of the nature of the applicant's business, the permit will significantly reduce the work of administering the taxes under this chapter,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_409a__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>the applicant's accounting system will clearly indicate the amount of tax that the applicant owes under this chapter, and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_409a__subsec_a__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>the applicant makes taxable purchases in sufficient volume to justify the expense of regular audits by the commissioner, the commissioner may, in the commissioner's discretion, issue such a permit to the purchaser. Such direct payment permit shall bear an identifying registration number. No vendor making a sale to a direct payment permit holder shall be required to collect the sales tax otherwise payable on such sale. Each direct payment permit holder shall report, on a form designated by the commissioner, and pay directly to the commissioner the tax due on any tangible personal property or services acquired by such permit holder pursuant to such permit. The use of a direct payment permit shall be subject to such conditions, including the obligation to make payment of the tax due in accordance with the provisions of chapter 228g, as the commissioner shall determine to be appropriate to insure the collection of the tax and may be suspended or revoked by the commissioner at any time if the commissioner determines that the collection of any tax due from the permit holder is in jeopardy or that the permit holder has not complied with the conditions to which the permit is subject. The commissioner may adopt regulations in accordance with chapter 54 to carry out the provisions of this section.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_409a__subsec_b">
+            <num>(b)</num>
+            <heading>Acceptance of certificate</heading>
+            <content>
+              <p>The acceptance in good faith by any vendor of a certificate from a direct payment permit holder stating that he is in possession of a valid direct payment permit shall relieve such vendor of any obligation to collect the sales tax from the permit holder. Such certificate shall be signed by and bear the name, address and registration number of the permit holder.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

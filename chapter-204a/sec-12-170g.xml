@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-170g"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-170g"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-170g"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-170g/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-170g/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-170g/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-170g/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_204a">
+        <num>204a</num>
+        <heading>Property Tax Relief for Elderly Homeowners and Renters and Persons with Permanent Total Disability</heading>
+        <section eId="sec_12_170g">
+          <num>12-170g</num>
+          <heading>Appeals from secretary or assessor</heading>
+          <content>
+            <p>Sec. 12-170g. Appeals from secretary or assessor.Any person aggrieved by the action of the assessor or agent in fixing the amount of the grant under section12-170f, or in disapproving the claim therefor may apply to the Secretary of the Office of Policy and Management in writing or electronically in a manner prescribed by the secretary, within thirty business days from the date of notice given to such person by the assessor or agent, giving notice of such grievance. The secretary shall promptly consider such notice and may grant or deny the relief requested, provided such decision shall be made not later than thirty business days after the receipt of such notice. If the relief is denied, the applicant shall be notified forthwith, and the applicant may appeal the decision of the secretary in accordance with the provisions of section12-120b.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-390"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-390"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-390"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-390/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-390/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-390/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-390/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_216">
+        <num>216</num>
+        <heading>Sales and Use Taxes</heading>
+        <section eId="sec_12_390">
+          <num>12-390</num>
+          <heading>Applicability of this chapter. Continuance in force of former statutes</heading>
+          <subsection eId="12_390__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>if the transferor died on or after January 15, 1959, having made, prior to said date, an irrevocable transfer taxable under the provisions of the general statutes relating to succession and transfer taxes in force at the date of such transfer, then such provisions shall be continued in force, and the value of such transfer, calculated as of the date of the transferor's death, shall be included in his gross taxable estate;</p>
+            </content>
+          </subsection>
+          <subsection eId="12_390__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>if the transferor died prior to said January 15, 1959, having made any transfers whether by will, by intestacy or otherwise, and whether revocable or irrevocable, taxable under former provisions of the general statutes relating to succession and transfer taxes, such provisions shall be continued in force for that purpose.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

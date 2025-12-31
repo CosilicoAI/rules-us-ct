@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-171"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-171"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-171"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-171/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-171/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-171/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-171/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_205">
+        <num>205</num>
+        <heading>Tax Liens</heading>
+        <section eId="sec_12_171">
+          <num>12-171</num>
+          <heading>Definitions</heading>
+          <content>
+            <p>Sec. 12-171. Definitions.Unless the context otherwise requires, “municipality”, wherever used in sections12-172to12-177, inclusive, has the same meaning as that given it in section12-141; “town” includes each town, consolidated town and city, and consolidated town and borough; and “tax” includes (1) each property tax and each installment and part thereof due a municipality as it may have been increased by interest, fees and charges, and (2) each obligation to make a payment in lieu of such tax with respect to any real estate, provided such obligation arises under an agreement made by the owner or owners of such real estate, which agreement shall (A) be in writing, (B) be witnessed and acknowledged as required for a conveyance of land, (C) contain a legally sufficient description of such real estate, (D) describe the nature and extent of the obligation to make such payment in lieu of taxes, (E) expressly grant to the municipality the lien described in this chapter on such real estate to secure such obligation as it becomes due and payable, and (F) be recorded in the land records of the municipality in which such real estate is located.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

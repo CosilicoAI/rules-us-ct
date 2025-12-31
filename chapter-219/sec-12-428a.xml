@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-428a"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-428a"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-428a"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-428a/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-428a/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-428a/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-428a/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_219">
+        <num>219</num>
+        <heading>Motor Vehicle Fuels Tax</heading>
+        <section eId="sec_12_428a">
+          <num>12-428a</num>
+          <heading>Sales suppression devices or phantom-ware. Penalty</heading>
+          <subsection eId="12_428a__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>As used in this section:</p>
+            </content>
+            <paragraph eId="12_428a__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>“Automated sales suppression device” or “zapper” means a software program, carried on a memory stick or removable compact disc, accessed through an Internet link or accessed through any other means, that falsifies the electronic records of electronic cash registers and other point-of-sale systems, including, but not limited to, transaction data and transaction reports.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_428a__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>“Electronic cash register” means a device that keeps a register or supporting documents through the means of an electronic device or computer system designed to record transaction data for the purpose of computing, compiling or processing retail sales transaction data in whatever manner.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_428a__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>“Phantom-ware” means a hidden, preinstalled or installed at a later time, programming option embedded in the operating system of an electronic cash register or hardwired into the electronic cash register that may be used to create a virtual second till, or may eliminate or manipulate transaction records that may or may not be preserved in digital formats to represent the true or manipulated record of transactions in the electronic cash register.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_428a__subsec_a__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>“Transaction data” means information that includes items purchased by a customer, the price for each item, a taxability determination for each item, a segregated tax amount for each of the taxed items, the amount of cash or credit tendered, the net amount returned to the customer in change, the date and time of the purchase, the name, address and identification number of the retailer, and the receipt or invoice number of the transaction.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_428a__subsec_a__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>“Transaction report” means a report that includes, but need not be limited to, sales, taxes collected, media totals and discount voids at an electronic cash register that is printed on cash register tape at the end of a day or shift, or a report that documents every action at an electronic cash register that is stored electronically.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_428a__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Any person who wilfully and knowingly sells, purchases, installs, transfers or possesses any automated sales suppression device or phantom-ware shall</p>
+            </content>
+            <paragraph eId="12_428a__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>be guilty of a class D felony, except that such person shall be fined not more than one hundred thousand dollars,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_428a__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>be liable for all taxes, penalties and interest due to the state as a result of such sale, purchase, installation, transfer or possession, and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_428a__subsec_b__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>forfeit all profits resulting from the sale or use of such automated sales suppression device or phantom-ware.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_428a__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>An automated sales suppression device or phantom-ware and any device containing such device or software shall be contraband, and shall be subject to confiscation by the Commissioner of Revenue Services.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

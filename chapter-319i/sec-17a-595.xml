@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-595"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-595"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17a-595"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-595/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-595/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-595/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-595/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319i">
+        <num>319i</num>
+        <heading>Connecticut HUSKY Plan</heading>
+        <section eId="sec_17a_595">
+          <num>17a-595</num>
+          <heading>(Formerly Sec. 17-257p). Testimony of witnesses before board. Subpoena</heading>
+          <subsection eId="17a_595__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Upon request of any party to a hearing before the board, the board or its designated representative shall issue, or the board on its own motion may issue, subpoenas requiring the attendance and testimony of witnesses.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_595__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Upon request of any party to a hearing before the board and upon a proper showing of the general relevance and reasonable scope of the documentary or physical evidence sought, the board or its designated representative shall issue, or the board on its own motion may issue, subpoenas duces tecum.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_595__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Witnesses appearing under subpoenas, other than the parties or state officers or employees, shall receive fees and mileage as prescribed by law for witnesses in civil actions. If the board or its designated representative certifies that the testimony of a witness was relevant and material, any person who has paid fees and mileage to such witness shall be reimbursed by the board.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_595__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>If any person, agency or facility fails to comply with a subpoena issued under subsections</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_595__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>or</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_595__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section or any party or witness refuses to testify regarding any matter on which he may be lawfully interrogated, any judge of the Superior Court, on the application of the board or its designated representative or of the party requesting the issuance of the subpoena, shall compel obedience by proceedings for contempt as in the case of disobedience of the requirements of a subpoena issued by the court.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

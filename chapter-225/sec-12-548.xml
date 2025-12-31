@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-548"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-548"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-548"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-548/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-548/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-548/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-548/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_225">
+        <num>225</num>
+        <heading>Room Occupancy Tax</heading>
+        <section eId="sec_12_548">
+          <num>12-548</num>
+          <heading>Examination of records. Deficiency assessment. Penalty. Limitation of assessment period</heading>
+          <subsection eId="12_548__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The commissioner may examine the records of any person subject to a tax imposed under the provisions of this chapter as the commissioner deems necessary. If the commissioner determines that there is a deficiency with respect to the payment of any such tax due under the provisions of this chapter, the commissioner shall assess or reassess the deficiency in tax, give notice of such deficiency assessment or reassessment to the taxpayer and make demand upon the taxpayer for payment. Such amount shall bear interest at the rate of one per cent per month or fraction thereof from the date when the original tax was due and payable. When it appears that any part of the deficiency for which a deficiency assessment is made is due to negligence or intentional disregard of the provisions of this chapter or regulations promulgated thereunder, there shall be imposed a penalty equal to ten per cent of the amount of such deficiency assessment, or fifty dollars, whichever is greater. When it appears that any part of the deficiency for which a deficiency assessment is made is due to fraud or intent to evade the provisions of this chapter or regulations promulgated thereunder, there shall be imposed a penalty equal to twentyfive per cent of the amount of such deficiency assessment. No taxpayer shall be subject to more than one penalty under this subsection in relation to the same tax period. Subject to the provisions of section12-3a, the commissioner may waive all or part of the penalties provided under this chapter when it is proven to the commissioner's satisfaction that the failure to pay any tax was due to reasonable cause and was not intentional or due to neglect. Any decision rendered by any federal court holding that a taxpayer has filed a fraudulent return with the Director of Internal Revenue shall subject the taxpayer to the penalty imposed by this section without the necessity of further proof thereof, except when it can be shown that the return to the state so differed from </p>
+            </content>
+          </subsection>
+          <subsection eId="12_548__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Except in the case of a wilfully false or fraudulent return with intent to evade the tax, no assessment of additional tax shall be made after the expiration of more than three years from the date of the filing of a return or from the original due date of a return, whichever is later. If no return has been filed as provided under the provisions of this chapter, the commissioner may make such return at any time thereafter, according to the best information obtainable and according to the form prescribed. To the tax imposed upon the basis of such return, there shall be added an amount equal to ten per cent of such tax, or fifty dollars, whichever is greater. The tax shall bear interest at the rate of one per cent per month or fraction thereof from the due date of such tax to the date of payment. No person shall be subject to a penalty under both this subsection and section12-547. Where, before the expiration of the period prescribed herein for the assessment of an additional tax, a taxpayer has consented in writing that such period may be extended, the amount of such additional tax due may be determined at any time within such extended period. The period so extended may be further extended by subsequent consents in writing before the expiration of the extended period.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

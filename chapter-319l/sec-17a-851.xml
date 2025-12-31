@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-851"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-851"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17a-851"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-851/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-851/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-851/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-851/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319l">
+        <num>319l</num>
+        <heading>Nursing Home Financial Assistance</heading>
+        <section eId="sec_17a_851">
+          <num>17a-851</num>
+          <heading>(Formerly Sec. 17a-305). Allocation of funds. Review. Voluntary fee for meals. Payment schedule. Required reporting, continuity of effort plan</heading>
+          <subsection eId="17a_851__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The Department of Aging and Disability Services shall equitably allocate, in accordance with federal law, federal funds received under Title IIIB and IIIC of the Older Americans Act to the five area agencies on aging established pursuant to section17a-850. The department, before seeking federal approval to spend any amount above that allotted for administrative expenses under said act, shall inform the joint standing committees of the General Assembly having cognizance of matters relating to aging and human services that it is seeking such approval.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_851__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Sixty per cent of the state funds appropriated to the five area agencies on aging for elderly nutrition and social services shall be allocated in the same proportion as allocations made pursuant to subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_851__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section. Forty per cent of all state funds appropriated to the five area agencies on aging for elderly nutrition and social services used for purposes other than the required nonfederal matching funds shall be allocated at the discretion of the Commissioner of Aging and Disability Services, in consultation with the five area agencies on aging, based on their need for such funds. Any state funds appropriated to the five area agencies on aging for administrative expenses shall be allocated equally.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_851__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The Department of Aging and Disability Services, in consultation with the five area agencies on aging, shall review the method of allocation set forth in subsections</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_851__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>and</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_851__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section and evaluate the method used to allocate funding for elderly nutrition services based on factors including, but not limited to, for each of the five elderly planning and service areas as described in section17a-850,</p>
+            </content>
+            <paragraph eId="17a_851__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>elderly population data from the most recent United States census, and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_851__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>average and individual nutritional risk assessment scores on nutritional risk assessment surveys. The department shall solicit information and recommendations from elderly nutrition program providers for consideration in the department's evaluation. Not later than July 1, 2023, the department shall report, in accordance with the provisions of section11-4a, to the joint standing committees of the General Assembly having cognizance of matters relating to aging, appropriations and the budgets of state agencies and human services on (A) the data collected pursuant to this subsection, (B) the rates of reimbursement for each meals on wheels provider in the department's elderly nutrition program compared to the cost to provide meals on wheels for each such provider, (C) the administrative expenses of each such meals on wheels provider, (D) the number of such meals on wheels providers that have reduced or eliminated deliveries based on inadequate state reimbursement, and (E) any recommended changes in the method of allocation of funds. Providers of meals in the department's elderly nutrition program shall annually provide the department with data on service levels and costs.</p>
+              </content>
+              <subparagraph eId="17a_851__subsec_b__subsec_2__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>the data collected pursuant to this subsection,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17a_851__subsec_b__subsec_2__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>the rates of reimbursement for each meals on wheels provider in the department's elderly nutrition program compared to the cost to provide meals on wheels for each such provider,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17a_851__subsec_b__subsec_2__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>the administrative expenses of each such meals on wheels provider,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17a_851__subsec_b__subsec_2__subsec_D">
+                <num>(D)</num>
+                <content>
+                  <p>the number of such meals on wheels providers that have reduced or eliminated deliveries based on inadequate state reimbursement, and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17a_851__subsec_b__subsec_2__subsec_E">
+                <num>(E)</num>
+                <content>
+                  <p>any recommended changes in the method of allocation of funds. Providers of meals in the department's elderly nutrition program shall annually provide the department with data on service levels and costs.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="17a_851__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>An area agency may request a person participating in the elderly nutrition program to pay a voluntary fee for meals furnished, except that no eligible person shall be denied a meal due to an inability to pay such fee.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_851__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>The Department of Aging and Disability Services shall disburse additional payments under the elderly nutrition program to any area agency on aging contracting with the department that has expended fifty per cent or more of the initial disbursement of funding under such contract. Within available appropriations, the department shall disburse additional payments not later than thirty days after the area agency on aging provides documentation prescribed by the department of such expenditures. The area agency on aging shall transfer additional payments not later than thirty days after receipt from the department to vendors that contract with the agency to participate in the elderly nutrition program. Not later than July 1, 2025, and annually thereafter, the Commissioner of Aging and Disability Services shall file a report, in accordance with the provisions of section11-4a, with the joint standing committees of the General Assembly having cognizance of matters relating to aging and human services on the feasibility of the department disbursing additional funds under an elderly nutrition program contract upon evidence that a contracting area agency on aging has expended twenty-five per cent or more of the initial disbursement of funding under the contract.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_851__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>The Commissioner of Aging and Disability Services shall require each area agency on aging, in consultation with the chief elected officials of the municipalities and municipal agents for elderly persons appointed pursuant to section7-127bwithin the area each agency serves, to develop a continuity of effort plan to minimize any disruption to benefits provided under the elderly nutrition program in such area when a provider leaves the program or there is a significant increase in service levels or demand for the program. Such plan shall include an area agency on aging applying for funding to support elderly nutrition program services through any available grant source. An area agency on aging shall, not later than January 1, 2025, submit such plan to the commissioner and notify, in writing, chief elected officials, municipal agents for the elderly and state and federal elected officials of the area such agency serves not later than ten business days after a significant increase in service levels or demand for the elderly nutrition program. The commissioner may withhold funding from an area agency on aging or take other remedial measures against such agency for violating any provision of this subsection.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

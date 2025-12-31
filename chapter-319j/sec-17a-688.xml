@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-688"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-688"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17a-688"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-688/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-688/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-688/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-688/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319j">
+        <num>319j</num>
+        <heading>Health Care For Uninsured Children</heading>
+        <section eId="sec_17a_688">
+          <num>17a-688</num>
+          <heading>(Formerly Sec. 19a-126h). Record keeping and confidentiality. Permitted disclosure. Treatment or rehabilitation of minor</heading>
+          <subsection eId="17a_688__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>All records maintained by the court of cases coming before it under the provisions of sections17a-673and17a-680to17a-690, inclusive, shall be sealed and available only to the respondent or the respondent's counsel unless the court, after hearing held with notice to the respondent, determines such record should be disclosed for cause shown.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_688__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Medical treatment facilities shall keep and submit such records of all persons examined, admitted or treated pursuant to sections17a-673and17a-680to17a-690, inclusive, as may be required by the department.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_688__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>No person, hospital or treatment facility may disclose or permit the disclosure of, nor may the department disclose or permit the disclosure of, the identity, diagnosis, prognosis or treatment of any such patient that would constitute a violation of federal statutes concerning confidentiality of alcohol or drug patient records and any regulations pursuant thereto, as such federal statutes and regulations may be amended from time to time. The department shall adopt regulations, in accordance with chapter 54, to protect the confidentiality of any such information that is obtained by the department.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_688__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>If the person seeking treatment or rehabilitation for alcohol dependence or drug dependence is a minor, the fact that the minor sought such treatment or rehabilitation or that the minor is receiving such treatment or rehabilitation, shall not be reported or disclosed to the parents or legal guardian of the minor without the minor's consent. The minor may give legal consent to receipt of such treatment and rehabilitation. A minor shall be personally liable for all costs and expenses for alcohol and drug dependency treatment afforded to the minor at the minor's request under section17a-682.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_688__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>The commissioner may use or make available to authorized persons information from patients' records for purposes of conducting scientific research, management audits, financial audits or program evaluation, provided such information shall not be utilized in a manner that discloses a patient's name or other identifying information.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

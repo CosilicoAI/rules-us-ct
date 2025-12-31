@@ -1,0 +1,620 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-213"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-213"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-213"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-213/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-213/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-213/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-213/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_208">
+        <num>208</num>
+        <heading>Estate Taxes</heading>
+        <section eId="sec_12_213">
+          <num>12-213</num>
+          <heading>Definitions</heading>
+          <subsection eId="12_213__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>When used in this chapter, unless the context otherwise requires:</p>
+            </content>
+            <paragraph eId="12_213__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>“Taxpayer” and “company” mean any corporation, foreign municipal electric utility, as defined in section12-59, electric distribution company, as defined in section16-1, electric supplier, as defined in section16-1, generation entity or affiliate, as defined in section16-1, joint stock company or association or any fiduciary thereof and any dissolved corporation which continues to conduct business, but does not include a passive investment company or municipal utility, as defined in section12-265;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_213__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>“Dissolved corporation” means any company which has terminated its corporate existence by resolution, expiration, decree or forfeiture;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_213__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>“Commissioner” means the Commissioner of Revenue Services;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_213__subsec_a__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>“Tax year” means the calendar year in which the tax is payable;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_213__subsec_a__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>“Income year” means the calendar year upon the basis of which net income is computed under this part, unless a fiscal year other than the calendar year has been established for federal income tax purposes, in which case it means the fiscal year so established or a period of less than twelve months ending as of the date on which liability under this chapter ceases to accrue by reason of dissolution, forfeiture, withdrawal, merger or consolidation;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_213__subsec_a__subsec_6">
+              <num>(6)</num>
+              <content>
+                <p>“Fiscal year” means the income year ending on the last day of any month other than December or an annual period which varies from fifty-two to fifty-three weeks elected by the taxpayer in accordance with the provisions of the Internal Revenue Code;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_213__subsec_a__subsec_7">
+              <num>(7)</num>
+              <content>
+                <p>“Paid” means “paid or accrued” or “paid or incurred”, construed according to the method of accounting upon the basis of which net income is computed under this part;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_213__subsec_a__subsec_8">
+              <num>(8)</num>
+              <content>
+                <p>“Received” means “received” or “accrued”, construed according to the method of accounting upon the basis of which net income is computed under this part;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_213__subsec_a__subsec_9">
+              <num>(9)</num>
+              <content>
+                <p>(A) “Gross income” means gross income, as defined in the Internal Revenue Code, and, in addition, means any interest or exempt interest dividends, as defined in Section 852</p>
+              </content>
+              <subparagraph eId="12_213__subsec_a__subsec_9__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>“Gross income” means gross income, as defined in the Internal Revenue Code, and, in addition, means any interest or exempt interest dividends, as defined in Section 852</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_213__subsec_b">
+            <num>(b)</num>
+            <paragraph eId="12_213__subsec_b__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>of the Internal Revenue Code, received by the taxpayer or losses of other calendar or fiscal years, retroactive to include all calendar or fiscal years beginning after January 1, 1935, incurred by the taxpayer which are excluded from gross income for purposes of assessing the federal corporation net income tax, and in addition, notwithstanding any other provision of law, means interest or exempt interest dividends, as defined in said Section 852</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_213__subsec_b">
+            <num>(b)</num>
+            <paragraph eId="12_213__subsec_b__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>of the Internal Revenue Code, accrued on or after the application date, as defined in section12-242ff, with respect to any obligation issued by or on behalf of the state, its agencies, authorities, commissions and other instrumentalities, or by or on behalf of its political subdivisions and their agencies, authorities, commissions and other instrumentalities;
+(B) “Gross income” shall include, to the extent not properly includable in gross income for federal income tax purposes, an amount equal to</p>
+              </content>
+              <subparagraph eId="12_213__subsec_b__subsec_5__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>“Gross income” shall include, to the extent not properly includable in gross income for federal income tax purposes, an amount equal to</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_213__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>any distribution from a manufacturing reinvestment account not used in accordance with subdivision</p>
+            </content>
+            <paragraph eId="12_213__subsec_i__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_213__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of section32-9zzto the extent that a contribution to such account was subtracted from gross income pursuant to subparagraph (F) of subdivision</p>
+            </content>
+            <paragraph eId="12_213__subsec_c__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_213__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of section12-217in computing net income for the current or a preceding income year, and (ii) any return of money from a manufacturing reinvestment account pursuant to subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_213__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>of section32-9zzto the extent that a contribution to such account was subtracted from gross income pursuant to subparagraph (F) of subdivision</p>
+            </content>
+            <paragraph eId="12_213__subsec_d__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_213__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of section12-217in computing net income for the current or a preceding income year;
+(C) “Gross income” shall not include the amount which for federal income tax purposes is treated as a dividend received by a domestic United States corporation from a foreign corporation on account of foreign taxes deemed paid by such domestic corporation, when such domestic corporation elects the foreign tax credit for federal income tax purposes;
+(D) “Gross income” shall not include any amount which for federal income tax purposes is treated as a dividend received directly or indirectly by a taxpayer from a passive investment company;</p>
+            </content>
+            <paragraph eId="12_213__subsec_a__subsec_10">
+              <num>(10)</num>
+              <content>
+                <p>“Net income” means net earnings received during the income year and available for contributors of capital, whether they are creditors or stockholders, computed by subtracting from gross income the deductions allowed by the terms of section12-217, except that in the case of a domestic insurance company which is a life insurance company, “net income” means life insurance company taxable income (A) increased by any amount or amounts which have been deducted in the computation of gain or loss from operations in respect of</p>
+              </content>
+              <subparagraph eId="12_213__subsec_a__subsec_10__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>increased by any amount or amounts which have been deducted in the computation of gain or loss from operations in respect of</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_213__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>the life insurance company's share of tax-exempt interest, (ii) operations loss carry-backs and capital loss carry-backs, and (iii) operations loss carry-overs and capital loss carry-overs arising in any taxable year commencing prior to January 1, 1973, and (B) reduced by any amount or amounts which have been deducted as operations loss carry-backs or capital loss carry-backs in the computation of gain or loss from operations for any taxable year commencing on or after January 1, 1973, but only to the extent that such amount or amounts would, for federal tax purposes, have been deductible in the taxable year as operations loss carry-overs or capital loss carry-overs if they had not been deducted in a previous taxable year as carry-backs, and provided no expense related to income, the taxation of which by the state of Connecticut is prohibited by the law or Constitution of the United States, as applied, or by the law or Constitution of this state, as applied, shall be deducted under this chapter and provided further no item may, directly or indirectly be excluded or deducted more than once;</p>
+            </content>
+            <paragraph eId="12_213__subsec_i__subsec_11">
+              <num>(11)</num>
+              <content>
+                <p>“Life insurance company” has the same meaning as it has under the Internal Revenue Code;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_213__subsec_i__subsec_12">
+              <num>(12)</num>
+              <content>
+                <p>“Life insurance company taxable income” has the same meaning as it has under the Internal Revenue Code;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_213__subsec_i__subsec_13">
+              <num>(13)</num>
+              <content>
+                <p>“Life insurance company's share” has the same meaning as it has under the Internal Revenue Code;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_213__subsec_i__subsec_14">
+              <num>(14)</num>
+              <content>
+                <p>“Operations loss carry-over”, with respect to a life insurance company, has the same meaning as it has under the Internal Revenue Code;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_213__subsec_i__subsec_15">
+              <num>(15)</num>
+              <content>
+                <p>“Operations loss carry-back”, with respect to a life insurance company, has the same meaning as it has under the Internal Revenue Code;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_213__subsec_i__subsec_16">
+              <num>(16)</num>
+              <content>
+                <p>“Capital loss carry-over”, with respect to a life insurance company, has the same meaning as it has under the Internal Revenue Code;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_213__subsec_i__subsec_17">
+              <num>(17)</num>
+              <content>
+                <p>“Capital loss carry-back”, with respect to a life insurance company, has the same meaning as it has under the Internal Revenue Code;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_213__subsec_i__subsec_18">
+              <num>(18)</num>
+              <content>
+                <p>“Gain or loss from operations”, with respect to a life insurance company, has the same meaning as it has under the Internal Revenue Code;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_213__subsec_i__subsec_19">
+              <num>(19)</num>
+              <content>
+                <p>“Fiduciary” means any receiver, liquidator, referee, trustee, assignee or other fiduciary or officer or agent appointed by any court or by any other authority, except the Banking Commissioner acting as receiver or liquidator under the authority of the provisions of sections36a-210and36a-218to36a-239, inclusive;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_213__subsec_i__subsec_20">
+              <num>(20)</num>
+              <content>
+                <p>(A) “Carrying on or doing business” means and includes each and every act, power or privilege exercised or enjoyed in this state, as an incident to, or by virtue of, the powers and privileges acquired by the nature of any organization whether the form of existence is corporate, associate, joint stock company or fiduciary, and includes the direct or indirect engaging in, transacting or conducting of activity in this state by an electric supplier, as defined in section16-1, or generation entity or affiliate, as defined in section16-1, for the purpose of establishing or maintaining a market for the sale of electricity or of electric generation services, as defined in section16-1, to end use customers located in this state through the use of the transmission or distribution facilities of an electric distribution company, as defined in section16-1;
+(B) A company that has contracted with a commercial printer for printing and distribution of printed material shall not be deemed to be carrying on or doing business in this state because of</p>
+              </content>
+              <subparagraph eId="12_213__subsec_i__subsec_20__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>“Carrying on or doing business” means and includes each and every act, power or privilege exercised or enjoyed in this state, as an incident to, or by virtue of, the powers and privileges acquired by the nature of any organization whether the form of existence is corporate, associate, joint stock company or fiduciary, and includes the direct or indirect engaging in, transacting or conducting of activity in this state by an electric supplier, as defined in section16-1, or generation entity or affiliate, as defined in section16-1, for the purpose of establishing or maintaining a market for the sale of electricity or of electric generation services, as defined in section16-1, to end use customers located in this state through the use of the transmission or distribution facilities of an electric distribution company, as defined in section16-1;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_213__subsec_i__subsec_20__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>A company that has contracted with a commercial printer for printing and distribution of printed material shall not be deemed to be carrying on or doing business in this state because of</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_213__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>the ownership or leasing by that company of tangible or intangible personal property located at the premises of the commercial printer in this state, (ii) the sale by that company of property of any kind produced or processed at and shipped or distributed from the premises of the commercial printer in this state, (iii) the activities of that company's employees or agents at the premises of the commercial printer in this state, which activities relate to quality control, distribution or printing services performed by the printer, or (iv) the activities of any kind performed by the commercial printer in this state for or on behalf of that company;
+(C) A company that participates in a trade show or shows at the convention center, as defined in subdivision</p>
+            </content>
+            <paragraph eId="12_213__subsec_i__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>of section32-600, shall not be deemed to be carrying on or doing business in this state, regardless of whether the company has employees or other staff present at such trade shows, provided such company's activity at such trade shows is limited to displaying goods or promoting services, no sales are made, any orders received are sent outside this state for acceptance or rejection and are filled from outside this state, and provided further that such participation is not more than fourteen days, or part thereof, in the aggregate during the company's income year for federal income tax purposes;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_213__subsec_i__subsec_21">
+              <num>(21)</num>
+              <content>
+                <p>“Alternative energy system” means design systems, equipment or materials which utilize as their energy source solar, wind, water or biomass energy in providing space heating or cooling, water heating or generation of electricity, but shall not include wood-burning stoves;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_213__subsec_i__subsec_22">
+              <num>(22)</num>
+              <content>
+                <p>“S corporation” means any corporation which is an S corporation for federal income tax purposes and includes any subsidiary of such S corporation that is a qualified subchapter S subsidiary, as defined in Section 1361</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_213__subsec_b">
+            <num>(b)</num>
+            <paragraph eId="12_213__subsec_b__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>(B) of the Internal Revenue Code, all of whose assets, liabilities and items of income, deduction and credit are treated under the Internal Revenue Code, and shall be treated under this chapter, as assets, liabilities and such items, as the case may be, of such S corporation;</p>
+              </content>
+              <subparagraph eId="12_213__subsec_b__subsec_3__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>of the Internal Revenue Code, all of whose assets, liabilities and items of income, deduction and credit are treated under the Internal Revenue Code, and shall be treated under this chapter, as assets, liabilities and such items, as the case may be, of such S corporation;</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_213__subsec_b__subsec_23">
+              <num>(23)</num>
+              <content>
+                <p>“Internal Revenue Code” means the Internal Revenue Code of 1986, or any subsequent internal revenue code of the United States, as from time to time amended, effective and in force on the last day of the income year;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_213__subsec_b__subsec_24">
+              <num>(24)</num>
+              <content>
+                <p>“Partnership” means a partnership, as defined in the Internal Revenue Code, and includes a limited liability company that is treated as a partnership for federal income tax purposes;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_213__subsec_b__subsec_25">
+              <num>(25)</num>
+              <content>
+                <p>“Partner” means a partner, as defined in the Internal Revenue Code, and includes a member of a limited liability company that is treated as a partnership for federal income tax purposes;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_213__subsec_b__subsec_26">
+              <num>(26)</num>
+              <content>
+                <p>“Investment partnership” means a limited partnership that meets the gross income requirement of Section 851</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_213__subsec_b">
+            <num>(b)</num>
+            <paragraph eId="12_213__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>of the Internal Revenue Code, except that income and gains from commodities that are not described in Section 1221</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_213__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>of the Internal Revenue Code or from futures, forwards and options with respect to such commodities shall be included in income which qualifies to meet such gross income requirement, provided such commodities are of a kind customarily dealt with in an organized commodity exchange and the transaction is of a kind customarily consummated at such place, as required by Section 864</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_213__subsec_b">
+            <num>(b)</num>
+            <paragraph eId="12_213__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>(B)(iii) of the Internal Revenue Code. To the extent that such a partnership has income and gains from commodities that are not described in Section 1221</p>
+              </content>
+              <subparagraph eId="12_213__subsec_b__subsec_2__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>(iii) of the Internal Revenue Code. To the extent that such a partnership has income and gains from commodities that are not described in Section 1221</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_213__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>of the Internal Revenue Code or from futures, forwards and options with respect to such commodities, such income and gains must be derived by a partnership which is not a dealer in commodities and is trading for its own account as described in Section 864</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_213__subsec_b">
+            <num>(b)</num>
+            <paragraph eId="12_213__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>(B)(ii) of the Internal Revenue Code. The term “investment partnership” does not include a dealer, within the meaning of Section 1236 of the Internal Revenue Code, in stocks or securities;</p>
+              </content>
+              <subparagraph eId="12_213__subsec_b__subsec_2__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>(ii) of the Internal Revenue Code. The term “investment partnership” does not include a dealer, within the meaning of Section 1236 of the Internal Revenue Code, in stocks or securities;</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_213__subsec_b__subsec_27">
+              <num>(27)</num>
+              <content>
+                <p>“Passive investment company” means any corporation which is a related person to a financial service company, as defined in section12-218b, or to an insurance company, as defined in section12-218b, and (A) employs not less than five full-time equivalent employees in the state; (B) maintains an office in the state; and (C) confines its activities to the purchase, receipt, maintenance, management and sale of its intangible investments, and the collection and distribution of the income from such investments, including, but not limited to, interest and gains from the sale, transfer or assignment of such investments or from the foreclosure upon or sale, transfer or assignment of the collateral securing such investments. For purposes of this subdivision, “intangible investments” shall be limited to loans secured by real property, as defined in section12-218b, including a line of credit which is a loan secured by real property and which permits future advances by the passive investment company; the collateral or an interest in the collateral that secured such loans if the sale of such collateral or interest is actively marketed by or on behalf of the passive investment company; and any short-term investment of cash held by the passive investment company which cash is reasonably necessary for the operations of such passive investment company;</p>
+              </content>
+              <subparagraph eId="12_213__subsec_b__subsec_27__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>employs not less than five full-time equivalent employees in the state;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_213__subsec_b__subsec_27__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>maintains an office in the state; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_213__subsec_b__subsec_27__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>confines its activities to the purchase, receipt, maintenance, management and sale of its intangible investments, and the collection and distribution of the income from such investments, including, but not limited to, interest and gains from the sale, transfer or assignment of such investments or from the foreclosure upon or sale, transfer or assignment of the collateral securing such investments. For purposes of this subdivision, “intangible investments” shall be limited to loans secured by real property, as defined in section12-218b, including a line of credit which is a loan secured by real property and which permits future advances by the passive investment company; the collateral or an interest in the collateral that secured such loans if the sale of such collateral or interest is actively marketed by or on behalf of the passive investment company; and any short-term investment of cash held by the passive investment company which cash is reasonably necessary for the operations of </p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_213__subsec_b__subsec_28">
+              <num>(28)</num>
+              <content>
+                <p>(A) “Captive real estate investment trust” means, except as provided in subparagraph (B) of this subdivision, a corporation, a trust or an association</p>
+              </content>
+              <subparagraph eId="12_213__subsec_b__subsec_28__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>“Captive real estate investment trust” means, except as provided in subparagraph</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_213__subsec_b__subsec_28__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>of this subdivision, a corporation, a trust or an association</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_213__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>that is considered a real estate investment trust for the taxable year under Section 856 of the Internal Revenue Code; (ii) that is not regularly traded on an established securities market; (iii) in which more than fifty per cent of the voting power, beneficial interests or shares are owned or controlled, directly or constructively, by a single entity that is subject to Subchapter C of Chapter 1 of the Internal Revenue Code; and (iv) that is not a qualified real estate investment trust, as defined in subdivision</p>
+            </content>
+            <paragraph eId="12_213__subsec_i__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_213__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of section12-217. Any voting power, beneficial interests or shares in a real estate investment trust that are directly owned or controlled by a segregated asset account of a life insurance company, as described in Section 817 of the Internal Revenue Code, shall not be taken into account for purposes of determining whether a real estate investment trust is a captive real estate investment trust.
+(B) “Captive real estate investment trust” does not include a corporation, a trust or an association, in which more than fifty per cent of the entity's voting power, beneficial interests or shares are owned by a single entity described in subparagraph (A)(iii) of this subdivision that is owned or controlled, directly or constructively, by</p>
+            </content>
+          </subsection>
+          <subsection eId="12_213__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>a corporation, a trust or an association that is considered a real estate investment trust under Section 856 of the Internal Revenue Code; (ii) a person exempt from taxation under Section 501 of the Internal Revenue Code; (iii) a listed property trust or other foreign real estate investment trust that is organized in a country that has a tax treaty with the United States Treasury Department governing the tax treatment of these trusts; or (iv) a real estate investment trust that is intended to become regularly traded on an established securities market and that satisfies the requirements of Sections 856</p>
+            </content>
+          </subsection>
+          <subsection eId="12_213__subsec_a">
+            <num>(a)</num>
+            <paragraph eId="12_213__subsec_a__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>and 856</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_213__subsec_a">
+            <num>(a)</num>
+            <paragraph eId="12_213__subsec_a__subsec_6">
+              <num>(6)</num>
+              <content>
+                <p>of the Internal Revenue Code, as determined under Section 856</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_213__subsec_h">
+            <num>(h)</num>
+            <content>
+              <p>of the Internal Revenue Code.
+(C) For purposes of this subdivision, the constructive ownership rules of Section 318 of the Internal Revenue Code, as modified by Section 856</p>
+            </content>
+          </subsection>
+          <subsection eId="12_213__subsec_d">
+            <num>(d)</num>
+            <paragraph eId="12_213__subsec_d__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>of the Internal Revenue Code, apply to the determination of the ownership of stock, assets or net profits of any person;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_213__subsec_d__subsec_29">
+              <num>(29)</num>
+              <content>
+                <p>“Combined group” means the group of all companies that have common ownership and are engaged in a unitary business, where at least one company is subject to tax under this chapter;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_213__subsec_d__subsec_30">
+              <num>(30)</num>
+              <content>
+                <p>“Combined group's net income” means the amount calculated under subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_213__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of section12-218e;</p>
+            </content>
+            <paragraph eId="12_213__subsec_a__subsec_31">
+              <num>(31)</num>
+              <content>
+                <p>“Common ownership” means that more than fifty per cent of the voting control of each member of a combined group is directly or indirectly owned by a common owner or owners, either corporate or noncorporate, whether or not the owner or owners are members of the combined group. Whether voting control is indirectly owned shall be determined in accordance with Section 318 of the Internal Revenue Code;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_213__subsec_a__subsec_32">
+              <num>(32)</num>
+              <content>
+                <p>“Unitary business” means a single economic enterprise that is made up either of separate parts of a single business entity or of a group of business entities under common ownership, which enterprise is sufficiently interdependent, integrated or interrelated through its activities so as to provide mutual benefit and produce a significant sharing or exchange of value among such entities, or a significant flow of value among the separate parts. For purposes of this chapter, (A) any business conducted by a pass-through entity shall be treated as conducted by its members, whether directly held or indirectly held through a series of pass-through entities, to the extent of the member's distributive share of the pass-through entity's income, regardless of the percentage of the member's ownership interest or its distributive or any other share of pass-through entity income, and (B) any business conducted directly or indirectly by one corporation is unitary with that portion of a business conducted by another corporation through its direct or indirect interest in a pass-through entity if there is a mutual benefit and a significant sharing of exchange or flow of value between the two parts of the business and the two corporations are members of the same group of business entities under common ownership;</p>
+              </content>
+              <subparagraph eId="12_213__subsec_a__subsec_32__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>any business conducted by a pass-through entity shall be treated as conducted by its members, whether directly held or indirectly held through a series of pass-through entities, to the extent of the member's distributive share of the pass-through entity's income, regardless of the percentage of the member's ownership interest or its distributive or any other share of pass-through entity income, and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_213__subsec_a__subsec_32__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>any business conducted directly or indirectly by one corporation is unitary with that portion of a business conducted by another corporation through its direct or indirect interest in a pass-through entity if there is a mutual benefit and a significant sharing of exchange or flow of value between the two parts of the business and the two corporations are members of the same group of business entities under common ownership;</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_213__subsec_a__subsec_33">
+              <num>(33)</num>
+              <content>
+                <p>“Designated taxable member” means, if the combined group has a common parent corporation and that common parent corporation is a taxable member, the common parent corporation and, in all other cases, the taxable member of the combined group that such group selects, in the manner prescribed by section12-222, as its designated taxable member or, in the discretion of the commissioner or upon the failure of such group to select its designated taxable member in the manner prescribed by section12-222, the taxable member of the combined group selected by the commissioner as the designated taxable member;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_213__subsec_a__subsec_34">
+              <num>(34)</num>
+              <content>
+                <p>“Group income year” means, if two or more members in the combined group file in the same federal consolidated tax return, the same income year as that used on the federal consolidated tax return and, in all other cases, the income year of the designated taxable member;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_213__subsec_a__subsec_35">
+              <num>(35)</num>
+              <content>
+                <p>“Nontaxable member” means a combined group member that is not a taxable member, but does not include a company that is exempt from the tax imposed by this chapter under subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_213__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_213__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of section12-214;</p>
+            </content>
+            <paragraph eId="12_213__subsec_a__subsec_36">
+              <num>(36)</num>
+              <content>
+                <p>“Taxable member” means a combined group member that is subject to tax pursuant to this chapter;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_213__subsec_a__subsec_37">
+              <num>(37)</num>
+              <content>
+                <p>“Pass-through entity” means a partnership or an S corporation.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_213__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>As used in sections12-214,12-218and12-219a:</p>
+            </content>
+            <paragraph eId="12_213__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>“Limited partner” means a limited partner of a limited partnership that is treated as a partnership for federal income tax purposes and includes a member of a limited liability company that is treated as a partnership for federal income tax purposes and that is managed by managers, if such member is not a member-manager of such company;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_213__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>“General partner” means a partner of a general partnership, a general partner of a limited partnership that is treated as a partnership for federal income tax purposes and a partner of a limited liability partnership and includes a member of a limited liability company that is treated as a partnership for federal income tax purposes if such company is managed by managers and such member is a member-manager of such company, or if such company is not managed by managers;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_213__subsec_b__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>“Member-manager” means a member of a limited liability company that is treated as a partnership for federal income tax purposes, which member is, alone or together with others, vested with the management of the business, property and affairs of the limited liability company;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_213__subsec_b__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>“Proportionate part” means, with respect to a partner of a partnership, the percentage that the partnership used to determine such partner's distributive share of the ordinary income or loss of the partnership in an income year;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_213__subsec_b__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>“Derived from or connected with sources within this state” has the same meaning as it has under chapter 229 and the regulations adopted thereunder;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_213__subsec_b__subsec_6">
+              <num>(6)</num>
+              <content>
+                <p>“Distributive share” means, with respect to a partner of a partnership, such partner's distributive share of ordinary income or loss as determined for federal income tax purposes in an income year.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

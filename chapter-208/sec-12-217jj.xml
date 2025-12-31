@@ -1,0 +1,562 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-217jj"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-217jj"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-217jj"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-217jj/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-217jj/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-217jj/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-217jj/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_208">
+        <num>208</num>
+        <heading>Estate Taxes</heading>
+        <section eId="sec_12_217jj">
+          <num>12-217jj</num>
+          <heading>Film production tax credit. Regulations</heading>
+          <subsection eId="12_217jj__subsec_a">
+            <num>(a)</num>
+            <heading>As used in this section:
+(1) “Commissioner” means the Commissioner of Revenue Services</heading>
+            <paragraph eId="12_217jj__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>“Department” means the Department of Economic and Community Development.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_217jj__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>(A) “Qualified production” means entertainment content created in whole or in part within the state, including motion pictures, except as otherwise provided in this subparagraph; documentaries; long-form, specials, mini-series, series, sound recordings, videos and music videos and interstitials television programming; interactive television; relocated television production; interactive games; videogames; commercials; any format of digital media, including an interactive web site, created for distribution or exhibition to the general public; and any trailer, pilot, video teaser or demo created primarily to stimulate the sale, marketing, promotion or exploitation of future investment in either a product or a qualified production via any means and media in any digital media format, film or videotape, provided such program meets all the underlying criteria of a qualified production. For state fiscal years ending on or after June 30, 2014, “qualified production” shall not include a motion picture that has not been designated as a state-certified qualified production prior to July 1, 2013, and no tax credit voucher for such motion picture may be issued for such motion picture, except, for state fiscal years ending on or after June 30, 2015, “qualified production” shall include a motion picture for which twenty-five per cent or more of the principal photography shooting days are in this state at a facility that receives not less than twenty-five million dollars in private investment and opens for business on or after July 1, 2013, and a tax credit voucher may be issued for such motion picture.
+(B) “Qualified production” shall not include any ongoing television program created primarily as news, weather or financial market reports; a production featuring current events, other than a relocated television production, sporting events, an awards show or other gala event; a production whose sole purpose is fundraising; a long-form production that primarily markets a product or s</p>
+              </content>
+              <subparagraph eId="12_217jj__subsec_a__subsec_3__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>“Qualified production” means entertainment content created in whole or in part within the state, including motion pictures, except as otherwise provided in this subparagraph; documentaries; long-form, specials, mini-series, series, sound recordings, videos and music videos and interstitials television programming; interactive television; relocated television production; interactive games; videogames; commercials; any format of digital media, including an interactive web site, created for distribution or exhibition to the general public; and any trailer, pilot, video teaser or demo created primarily to stimulate the sale, marketing, promotion or exploitation of future investment in either a product or a qualified production via any means and media in any digital media format, film or videotape, provided such program meets all the underlying criteria of a qualified production. For state fiscal years ending on or after June 30, 2014, “qualified production” shall not include a motion pictu</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_217jj__subsec_a__subsec_3__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>“Qualified production” shall not include any ongoing television program created primarily as news, weather or financial market reports; a production featuring current events, other than a relocated television production, sporting events, an awards show or other gala event; a production whose sole purpose is fundraising; a long-form production that primarily markets a product or service; a production used for corporate training or in-house corporate advertising or other similar productions; or any production for which records are required to be maintained under 18 USC 2257, as amended from time to time, with respect to sexually explicit content.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_217jj__subsec_a__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>“Eligible production company” means a corporation, partnership, limited liability company, or other business entity engaged in the business of producing qualified productions on a one-time or ongoing basis, and qualified by the Secretary of the State to engage in business in the state.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_217jj__subsec_a__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>“Production expenses or costs” means all expenditures clearly and demonstrably incurred in the state in the preproduction, production or postproduction costs of a qualified production, including:
+(A) Expenditures incurred in the state in the form of either compensation or purchases including production work, production equipment not eligible for the infrastructure tax credit provided in section12-217kk, production software, postproduction work, postproduction equipment, postproduction software, set design, set construction, props, lighting, wardrobe, makeup, makeup accessories, special effects, visual effects, audio effects, film processing, music, sound mixing, editing, location fees, soundstages and any and all other costs or services directly incurred in connection with a state-certified qualified production;
+(B) Expenditures for distribution, including preproduction, production or postproduction costs relating to the creation of trailers, marketing videos, commercials, point-of-purchase videos and any and all content created on film or digital media, including the duplication of films, videos, CDs, DVDs and any and all digital files now in existence and those yet to be created for mass consumer consumption; the purchase, by a company in the state, of any and all equipment relating to the duplication or mass market distribution of any content created or produced in the state by any digital media format which is now in use and those formats yet to be created for mass consumer consumption; and
+(C) “Production expenses or costs” does not include the following:</p>
+              </content>
+              <subparagraph eId="12_217jj__subsec_a__subsec_5__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>Expenditures incurred in the state in the form of either compensation or purchases including production work, production equipment not eligible for the infrastructure tax credit provided in section12-217kk, production software, postproduction work, postproduction equipment, postproduction software, set design, set construction, props, lighting, wardrobe, makeup, makeup accessories, special effects, visual effects, audio effects, film processing, music, sound mixing, editing, location fees, soundstages and any and all other costs or services directly incurred in connection with a state-certified qualified production;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_217jj__subsec_a__subsec_5__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>Expenditures for distribution, including preproduction, production or postproduction costs relating to the creation of trailers, marketing videos, commercials, point-of-purchase videos and any and all content created on film or digital media, including the duplication of films, videos, CDs, DVDs and any and all digital files now in existence and those yet to be created for mass consumer consumption; the purchase, by a company in the state, of any and all equipment relating to the duplication or mass market distribution of any content created or produced in the state by any digital media format which is now in use and those formats yet to be created for mass consumer consumption; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_217jj__subsec_a__subsec_5__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>“Production expenses or costs” does not include the following:</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_217jj__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>On and after January 1, 2008, compensation in excess of fifteen million dollars paid to any individual or entity representing an individual, for services provided in the production of a qualified production and on or after January 1, 2010, compensation subject to Connecticut personal income tax in excess of twenty million dollars paid in the aggregate to any individuals or entities representing individuals, for star talent provided in the production of a qualified production; (ii) media buys, promotional events or gifts or public relations associated with the promotion or marketing of any qualified production; (iii) deferred, leveraged or profit participation costs relating to any and all personnel associated with any and all aspects of the production, including, but not limited to, producer fees, director fees, talent fees and writer fees; (iv) costs relating to the transfer of the production tax credits;</p>
+            </content>
+          </subsection>
+          <subsection eId="12_217jj__subsec_v">
+            <num>(v)</num>
+            <content>
+              <p>any amounts paid to persons or businesses as a result of their participation in profits from the exploitation of the qualified production; and (vi) any expenses or costs relating to an independent certification, as required by subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_217jj__subsec_h">
+            <num>(h)</num>
+            <content>
+              <p>of this section, or as the department may otherwise require, pertaining to the amount of production expenses or costs set forth by an eligible production company in its application for a production tax credit.</p>
+            </content>
+            <paragraph eId="12_217jj__subsec_h__subsec_6">
+              <num>(6)</num>
+              <content>
+                <p>“Sound recording” means a recording of music, poetry or spoken-word performance, but does not include the audio portions of dialogue or words spoken and recorded as part of a motion picture, video, theatrical production, television news coverage or athletic event.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_217jj__subsec_h__subsec_7">
+              <num>(7)</num>
+              <content>
+                <p>“State-certified qualified production” means a qualified production produced by an eligible production company that (A) is in compliance with regulations adopted pursuant to subsection</p>
+              </content>
+              <subparagraph eId="12_217jj__subsec_h__subsec_7__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>is in compliance with regulations adopted pursuant to subsection</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_217jj__subsec_l">
+            <num>(l)</num>
+            <content>
+              <p>of this section, (B) is authorized to conduct business in this state, and (C) has been approved by the department as qualifying for a production tax credit under this section.</p>
+            </content>
+            <paragraph eId="12_217jj__subsec_l__subsec_8">
+              <num>(8)</num>
+              <content>
+                <p>“Interactive web site” means a web site, the production costs of which (A) exceed five hundred thousand dollars per income year, and (B) is primarily</p>
+              </content>
+              <subparagraph eId="12_217jj__subsec_l__subsec_8__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>exceed five hundred thousand dollars per income year, and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_217jj__subsec_l__subsec_8__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>is primarily</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_217jj__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>interactive games or end user applications, or (ii) animation, simulation, sound, graphics, story lines or video created or repurposed for distribution over the Internet. An interactive web site does not include a web site primarily used for institutional, private, industrial, retail or wholesale marketing or promotional purposes, or which contains obscene content.</p>
+            </content>
+            <paragraph eId="12_217jj__subsec_i__subsec_9">
+              <num>(9)</num>
+              <content>
+                <p>“Post-certification remedy” means the recapture, disallowance, recovery, reduction, repayment, forfeiture, decertification or any other remedy that would have the effect of reducing or otherwise limiting the use of a tax credit provided by this section.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_217jj__subsec_i__subsec_10">
+              <num>(10)</num>
+              <content>
+                <p>“Compensation” means base salary or wages and does not include bonus pay, stock options, restricted stock units or similar arrangements.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_217jj__subsec_i__subsec_11">
+              <num>(11)</num>
+              <content>
+                <p>“Relocated television production” means:
+(A) An ongoing television program all of the prior seasons of which were filmed outside this state, and may include current events shows, except those referenced in subparagraph (B)</p>
+              </content>
+              <subparagraph eId="12_217jj__subsec_i__subsec_11__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>An ongoing television program all of the prior seasons of which were filmed outside this state, and may include current events shows, except those referenced in subparagraph</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_217jj__subsec_i__subsec_11__subsec_B">
+                <num>(B)</num>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_217jj__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>of this subdivision.
+(B) An eligible production company's television programming in this state that</p>
+            </content>
+          </subsection>
+          <subsection eId="12_217jj__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>is not a general news program, sporting event or game broadcast, and (ii) is created at a qualified production facility that has had a minimum investment of twenty-five million dollars made by such eligible production company on or after January 1, 2012, at which facility the eligible production company creates ongoing television programming as defined in subparagraph (A) of this subdivision, and creates at least two hundred new jobs in Connecticut on or after January 1, 2012. For purposes of this subdivision, “new job” means a full-time job, as defined in section12-217ii, that did not exist in this state prior to January 1, 2012, and is filled by a new employee, and “new employee” includes a person who was employed outside this state by the eligible production company prior to January 1, 2012, but does not include a person who was employed in this state by the eligible production company or a related person, as defined in section12-217ii, with respect to the eligible production company during the prior twelve months.
+(C) A relocated television production may be a state-certified qualified production for not more than ten successive income years, after which period the eligible production company shall be ineligible to resubmit an application for certification.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_217jj__subsec_b">
+            <num>(b)</num>
+            <paragraph eId="12_217jj__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>The Department of Economic and Community Development shall administer a system of tax credit vouchers within the resources, requirements and purposes of this section for eligible production companies producing a state-certified qualified production in the state.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_217jj__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>Any eligible production company incurring production expenses or costs shall be eligible for a credit (A) for income years commencing on or after January 1, 2010, but prior to January 1, 2018, against the tax imposed under chapter 207 or this chapter, (B) for income years commencing on or after January 1, 2018, but prior to January 1, 2022, against the tax imposed under chapter 207 or 211 or this chapter, and (C) for income years commencing on or after January 1, 2022, against the tax imposed under chapter 207, 211, 219 or this chapter, as follows:</p>
+              </content>
+              <subparagraph eId="12_217jj__subsec_b__subsec_2__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>for income years commencing on or after January 1, 2010, but prior to January 1, 2018, against the tax imposed under chapter 207 or this chapter,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_217jj__subsec_b__subsec_2__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>for income years commencing on or after January 1, 2018, but prior to January 1, 2022, against the tax imposed under chapter 207 or 211 or this chapter, and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_217jj__subsec_b__subsec_2__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>for income years commencing on or after January 1, 2022, against the tax imposed under chapter 207, 211, 219 or this chapter, as follows:</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_217jj__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>For any such company incurring such expenses or costs of not less than one hundred thousand dollars, but not more than five hundred thousand dollars, a credit equal to ten per cent of such expenses or costs, (ii) for any such company incurring such expenses or costs of more than five hundred thousand dollars, but not more than one million dollars, a credit equal to fifteen per cent of such expenses or costs, and (iii) for any such company incurring such expenses or costs of more than one million dollars, a credit equal to thirty per cent of such expenses or costs.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_217jj__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>No eligible production company incurring an amount of production expenses or costs that qualifies for such credit shall be eligible for such credit unless on or after January 1, 2010, such company conducts</p>
+            </content>
+            <paragraph eId="12_217jj__subsec_c__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>not less than fifty per cent of principal photography days within the state, or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_217jj__subsec_c__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>expends not less than fifty per cent of postproduction costs within the state, or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_217jj__subsec_c__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>expends not less than one million dollars of postproduction costs within the state.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_217jj__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>For income years commencing on or after January 1, 2010, no expenses or costs incurred outside the state and used within the state shall be eligible for a credit, and one hundred per cent of such expenses or costs shall be counted toward such credit when incurred within the state and used within the state.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_217jj__subsec_e">
+            <num>(e)</num>
+            <paragraph eId="12_217jj__subsec_e__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>On and after July 1, 2006, and for income years commencing on or after January 1, 2006, any credit allowed pursuant to this section may be sold, assigned or otherwise transferred, in whole or in part, to one or more taxpayers, provided (A) no credit, after issuance, may be sold, assigned or otherwise transferred, in whole or in part, more than three times, (B) in the case of a credit allowed for the income year commencing on or after January 1, 2011, but prior to January 1, 2012, any entity that is not subject to tax under chapter 207 or this chapter may transfer not more than fifty per cent of such credit in any one income year, and (C) in the case of a credit allowed for an income year commencing on or after January 1, 2012, any entity that is not subject to tax under chapter 207 or this chapter may transfer not more than twenty-five per cent of such credit in any one income year.</p>
+              </content>
+              <subparagraph eId="12_217jj__subsec_e__subsec_1__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>no credit, after issuance, may be sold, assigned or otherwise transferred, in whole or in part, more than three times,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_217jj__subsec_e__subsec_1__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>in the case of a credit allowed for the income year commencing on or after January 1, 2011, but prior to January 1, 2012, any entity that is not subject to tax under chapter 207 or this chapter may transfer not more than fifty per cent of such credit in any one income year, and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_217jj__subsec_e__subsec_1__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>in the case of a credit allowed for an income year commencing on or after January 1, 2012, any entity that is not subject to tax under chapter 207 or this chapter may transfer not more than twenty-five per cent of such credit in any one income year.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_217jj__subsec_e__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>Notwithstanding the provisions of subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_217jj__subsec_e__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>of this subsection, any entity that is not subject to tax under this chapter or chapter 207 shall not be subject to the limitations on the transfer of credits provided in subparagraphs (B) and (C) of said subdivision</p>
+              </content>
+              <subparagraph eId="12_217jj__subsec_e__subsec_1__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_217jj__subsec_e__subsec_1__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>of said subdivision</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_217jj__subsec_e__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>, provided such entity owns not less than fifty per cent, directly or indirectly, of a business entity, as defined in section12-284b.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_217jj__subsec_e__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>Notwithstanding the provisions of subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_217jj__subsec_e__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>of this subsection, any qualified production that is created in whole or in significant part, as determined by the Commissioner of Economic and Community Development, at a qualified production facility shall not be subject to the limitations of subparagraph (B) or (C) of said subdivision</p>
+              </content>
+              <subparagraph eId="12_217jj__subsec_e__subsec_1__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_217jj__subsec_e__subsec_1__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>of said subdivision</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_217jj__subsec_e__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>. For purposes of this subdivision, “qualified production facility” means a facility (A) located in this state, (B) intended for film, television or digital media production, and (C) that has had a minimum investment of three million dollars, or less if the Commissioner of Economic and Community Development determines such facility otherwise qualifies.</p>
+              </content>
+              <subparagraph eId="12_217jj__subsec_e__subsec_1__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>located in this state,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_217jj__subsec_e__subsec_1__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>intended for film, television or digital media production, and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_217jj__subsec_e__subsec_1__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>that has had a minimum investment of three million dollars, or less if the Commissioner of Economic and Community Development determines such facility otherwise qualifies.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_217jj__subsec_e__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>(A) For the income year commencing on or after January 1, 2018, but prior to January 1, 2019, any credit that is sold, assigned or otherwise transferred, in whole or in part, to one or more taxpayers pursuant to subdivision</p>
+              </content>
+              <subparagraph eId="12_217jj__subsec_e__subsec_4__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>For the income year commencing on or after January 1, 2018, but prior to January 1, 2019, any credit that is sold, assigned or otherwise transferred, in whole or in part, to one or more taxpayers pursuant to subdivision</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_217jj__subsec_e__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>of this subsection may be claimed against the tax imposed under chapter 211 only if there is common ownership of at least fifty per cent between such taxpayer and the eligible production company that sold, assigned or otherwise transferred such credit. Such taxpayer may only claim ninety-two per cent of the amount of such credit entered by the department on the production tax credit voucher.
+(B) For income years commencing on or after January 1, 2019, any credit that is sold, assigned or otherwise transferred, in whole or in part, to one or more taxpayers pursuant to subdivision</p>
+              </content>
+              <subparagraph eId="12_217jj__subsec_e__subsec_1__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>For income years commencing on or after January 1, 2019, any credit that is sold, assigned or otherwise transferred, in whole or in part, to one or more taxpayers pursuant to subdivision</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_217jj__subsec_e__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>of this subsection, which credit is claimed against the tax imposed under chapter 211, shall be subject to the following limits:</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_217jj__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>The taxpayer may only claim ninety-five per cent of the amount of such credit entered by the department on the production tax credit voucher; and
+(ii) If there is common ownership of at least fifty per cent between such taxpayer and the eligible production company that sold, assigned or otherwise transferred such credit, such taxpayer may only claim ninety-two per cent of the amount of such credit entered by the department on the production tax credit voucher.</p>
+            </content>
+            <paragraph eId="12_217jj__subsec_i__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>(A) For income years commencing on or after January 1, 2022, but prior to January 1, 2024, and on or after January 1, 2026, any credit that is claimed against the tax imposed under chapter 219 shall be subject to the following limits:</p>
+              </content>
+              <subparagraph eId="12_217jj__subsec_i__subsec_5__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>For income years commencing on or after January 1, 2022, but prior to January 1, 2024, and on or after January 1, 2026, any credit that is claimed against the tax imposed under chapter 219 shall be subject to the following limits:</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_217jj__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Any credit that is sold, assigned or otherwise transferred, in whole or in part, to one or more taxpayers pursuant to subdivision</p>
+            </content>
+            <paragraph eId="12_217jj__subsec_i__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>of this subsection may be claimed against the tax imposed under chapter 219 only if there is common ownership of at least fifty per cent between such taxpayer and the eligible production company that sold, assigned or otherwise transferred such credit; and
+(ii) The eligible production company or taxpayer claiming the credit against the tax imposed under chapter 219 may only claim seventy-eight per cent of the amount of such credit entered by the department on the production tax credit voucher.
+(B) For income years commencing on or after January 1, 2024, but prior to January 1, 2026, any credit that is claimed against the tax imposed under chapter 219 shall be subject to the following limits:</p>
+              </content>
+              <subparagraph eId="12_217jj__subsec_i__subsec_1__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>For income years commencing on or after January 1, 2024, but prior to January 1, 2026, any credit that is claimed against the tax imposed under chapter 219 shall be subject to the following limits:</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_217jj__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Any credit that is sold, assigned or otherwise transferred, in whole or in part, to one or more taxpayers pursuant to subdivision</p>
+            </content>
+            <paragraph eId="12_217jj__subsec_i__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>of this subsection may be claimed against the tax imposed under chapter 219 only if there is common ownership of at least fifty per cent between such taxpayer and the eligible production company that sold, assigned or otherwise transferred such credit; and
+(ii) The eligible production company or taxpayer claiming the credit against the tax imposed under chapter 219 may only claim ninety-two per cent of the amount of such credit entered by the department on the production tax credit voucher.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_217jj__subsec_f">
+            <num>(f)</num>
+            <paragraph eId="12_217jj__subsec_f__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>On and after July 1, 2006, and for income years commencing on or after January 1, 2006, but prior to January 1, 2015, all or part of any such credit allowed under this section may be claimed against the tax imposed under chapter 207 or this chapter for the income year in which the production expenses or costs were incurred, or in the three immediately succeeding income years.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_217jj__subsec_f__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>For production tax credit vouchers issued on or after July 1, 2015, but prior to January 1, 2018, all or part of any such credit may be claimed against the tax imposed under chapter 207 or this chapter, for the income year in which the production expenses or costs were incurred, or in the five immediately succeeding income years.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_217jj__subsec_f__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>For production tax credit vouchers issued on or after July 1, 2018, but prior to January 1, 2022, all or part of any such credit may be claimed against the tax imposed under chapter 207 or 211 or this chapter, for the income year in which the production expenses or costs were incurred, or in the five immediately succeeding income years.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_217jj__subsec_f__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>For production tax credit vouchers issued on or after January 1, 2022, all or part of any such credit may be claimed against the tax imposed under chapter 207, 211, 219 or this chapter, for the income year in which the production expenses or costs were incurred, or in the five immediately succeeding income years.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_217jj__subsec_g">
+            <num>(g)</num>
+            <heading>Any production tax credit allowed under this section shall be nonrefundable</heading>
+          </subsection>
+          <subsection eId="12_217jj__subsec_h">
+            <num>(h)</num>
+            <paragraph eId="12_217jj__subsec_h__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>An eligible production company shall apply to the department for a tax credit voucher on an annual basis, but not later than ninety days after the first production expenses or costs are incurred in the production of a qualified production, and shall provide with such application such information as the department may require to determine such company's eligibility to claim a credit under this section. No production expenses or costs may be listed more than once for purposes of the tax credit voucher pursuant to this section, or pursuant to section12-217kkor 12-217ll, and if a production expense or cost has been included in a claim for a credit, such production expense or cost may not be included in any subsequent claim for a credit.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_217jj__subsec_h__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>Not later than ninety days after the end of the annual period, or after the last production expenses or costs are incurred in the production of a qualified production, an eligible production company shall apply to the department for a production tax credit voucher, and shall provide with such application (A) a report that includes the number of full-time jobs and the number of part-time jobs created by the eligible production company during the annual period, a description of each such job and an explanation of what the eligible production company considers to be job creation for purposes of the report, and (B) such information and independent certification as the department may require pertaining to the amount of such company's production expenses or costs. Such independent certification shall be provided by an audit professional chosen from a list compiled by the department. If the department determines that such company is eligible to be issued a production tax credit voucher, the department shall enter on the voucher the amount of production expenses or costs that has been established to the satisfaction of the department and the amount of such company's credit under this section. The department shall provide a copy of such voucher to the commissioner, upon request.</p>
+              </content>
+              <subparagraph eId="12_217jj__subsec_h__subsec_2__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>a report that includes the number of full-time jobs and the number of part-time jobs created by the eligible production company during the annual period, a description of each such job and an explanation of what the eligible production company considers to be job creation for purposes of the report, and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_217jj__subsec_h__subsec_2__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>such information and independent certification as the department may require pertaining to the amount of such company's production expenses or costs. Such independent certification shall be provided by an audit professional chosen from a list compiled by the department. If the department determines that such company is eligible to be issued a production tax credit voucher, the department shall enter on the voucher the amount of production expenses or costs that has been established to the satisfaction of the department and the amount of such company's credit under this section. The department shall provide a copy of such voucher to the commissioner, upon request.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_217jj__subsec_h__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>The department shall charge a reasonable administrative fee sufficient to cover the department's costs to analyze applications submitted under this section.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_217jj__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>If an eligible production company sells, assigns or otherwise transfers a credit under this section to another taxpayer, the transferor and transferee shall jointly submit written notification of such transfer to the department not later than thirty days after such transfer. If such transferee sells, assigns or otherwise transfers a credit under this section to a subsequent transferee, such transferee and such subsequent transferee shall jointly submit written notification of such transfer to the department not later than thirty days after such transfer. The notification after each transfer shall include the credit voucher number, the date of transfer, the amount of such credit transferred, the tax credit balance before and after the transfer, the tax identification numbers for both the transferor and the transferee, and any other information required by the department. Failure to comply with this subsection will result in a disallowance of the tax credit until there is full compliance on the part of the transferor and the transferee, and for a second or third transfer, on the part of all subsequent transferors and transferees. The department shall provide a copy of the notification of assignment to the commissioner upon request.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_217jj__subsec_j">
+            <num>(j)</num>
+            <content>
+              <p>Any eligible production company that submits information to the department that it knows to be fraudulent or false shall, in addition to any other penalties provided by law, be liable for a penalty equal to the amount of such company's credit entered on the production tax credit voucher issued under this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_217jj__subsec_k">
+            <num>(k)</num>
+            <content>
+              <p>No tax credits transferred pursuant to this section shall be subject to a post-certification remedy, and the department and the commissioner shall have no right, except in the case of possible material misrepresentation or fraud, to conduct any further or additional review, examination or audit of the expenditures or costs for which such tax credits were issued. The sole and exclusive remedy of the department and the commissioner shall be to seek collection of the amount of such tax credits from the entity that committed the fraud or misrepresentation.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_217jj__subsec_l">
+            <num>(l)</num>
+            <content>
+              <p>The department, in consultation with the commissioner, shall adopt regulations, in accordance with the provisions of chapter 54, as may be necessary for the administration of this section.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

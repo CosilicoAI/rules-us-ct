@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-509"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-509"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17a-509"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-509/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-509/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-509/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-509/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319i">
+        <num>319i</num>
+        <heading>Connecticut HUSKY Plan</heading>
+        <section eId="sec_17a_509">
+          <num>17a-509</num>
+          <heading>(Formerly Sec. 17-191). Placement of persons with psychiatric disabilities in residential care homes or chronic and convalescent hospitals</heading>
+          <subsection eId="17a_509__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of section17a-458, may place any person with psychiatric disabilities committed to such state-operated facility, if such person is no longer in need of active psychiatric treatment in such state-operated facility, in a residential care home licensed by the Department of Public Health in accordance with sections19a-490to19a-503, inclusive, or a chronic and convalescent hospital, provided such person shall, despite such transfer, remain subject to the medical supervision of the superintendent or director of such state-operated facility, and such superintendent or director may, if medically indicated, order and provide for the return of any such patient to such state-operated facility, subject to any limitations of the term of commitment contained in the order of commitment under which such patient was committed to such state-operated facility. The provisions of this section shall not apply to any person who is under a term of imprisonment or who has not met the requirements of the condition of release set to provide the reasonable assurance of such person's appearance in court.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

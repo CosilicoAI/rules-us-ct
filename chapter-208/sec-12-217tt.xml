@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-217tt"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-217tt"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-217tt"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-217tt/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-217tt/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-217tt/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-217tt/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_208">
+        <num>208</num>
+        <heading>Estate Taxes</heading>
+        <section eId="sec_12_217tt">
+          <num>12-217tt</num>
+          <heading>Tax credit for contributions into ABLE accounts of employees</heading>
+          <subsection eId="12_217tt__subsec_a">
+            <num>(a)</num>
+            <paragraph eId="12_217tt__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>There shall be allowed a credit against the tax imposed under this chapter or chapter 229, other than the liability imposed by section12-707, for contributions made by taxpayers into the ABLE accounts of employees who are employed by such taxpayers. For purposes of this section, “ABLE account” has the same meaning as provided in section3-39j.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_217tt__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>The amount of the credit shall be equal to the amount of the contributions made by the taxpayer into the ABLE accounts of employees of such taxpayer during the income or taxable year, provided the amount of credit allowed for any income or taxable year with respect to a specific employee shall not exceed two thousand five hundred dollars.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_217tt__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>If the taxpayer is an S corporation or an entity treated as a partnership for federal income tax purposes, the credit may be claimed by the shareholders or partners of the taxpayer. If the taxpayer is a single member limited liability company that is disregarded as an entity separate from its owner, the credit may be claimed by such limited liability company's owner, provided such owner is a person subject to the tax imposed under this chapter or chapter 229.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

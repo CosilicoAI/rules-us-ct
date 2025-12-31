@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-127a"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-127a"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-127a"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-127a/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-127a/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-127a/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-127a/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_204">
+        <num>204</num>
+        <heading>Local Levy and Collection of Taxes</heading>
+        <section eId="sec_12_127a">
+          <num>12-127a</num>
+          <heading>Abatement of taxes on structures of historical or architectural merit</heading>
+          <subsection eId="12_127a__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Any municipality may by ordinance provide for the abatement in whole or in part of real property taxes on structures of historical or architectural merit. Such municipality shall determine which structures within its locality shall be available for classification as historically or architecturally meritorious, or it may delegate such determination to local private preservation or architectural bodies.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_127a__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Such tax abatement shall be available to the owners of real property which is so classified if it can be shown to the satisfaction of the municipality that the current level of taxation is a material factor which threatens the continued existence of the structure, necessitating either its demolition or remodeling in a manner which destroys the historical or architectural value. If, after taxes on such structure have been abated under the terms of this section, such structure is demolished or remodeled in a way which destroys its architectural or historical value, the then owner shall pay to the municipality an amount equal to the total amount of taxes which had been abated under the provisions of this section.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

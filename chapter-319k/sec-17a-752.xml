@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-752"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-752"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17a-752"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-752/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-752/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-752/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-752/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319k">
+        <num>319k</num>
+        <heading>Connecticut Home Care Program for Elders</heading>
+        <section eId="sec_17a_752">
+          <num>17a-752</num>
+          <heading>Organization of council. Negotiated investment strategy</heading>
+          <subsection eId="17a_752__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The Institute of Public Service at The University of Connecticut shall organize the negotiating council and call the first meeting of the negotiating council on or before August 1, 1997. The negotiating council shall, with the assistance of such Institute for Public Service, prepare and issue a request for proposals for a qualified mediator to coordinate, organize, facilitate and mediate the negotiated investment strategy process. Prior to securing the services of a mediator, the negotiating council shall acquire the funds necessary to obtain such services including funds to support the operation of the negotiating council and participation by each sector.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_752__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Prior to or at the first joint meeting of the negotiating council, the members may request and exchange information about issues related to the formation of the five-year strategic plan. On or before the first meeting or between the first two meetings of the negotiating council, the members shall prepare preliminary positions on issues related to a five-year strategic plan. At the first meeting of the negotiating council, each of the five members shall agree in writing to a set of rules of procedure consistent with the negotiated investment strategy process.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_752__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Following the initial exchange of information, the members of the negotiating council shall negotiate their differences. Between meetings, members shall continue to work towards the resolution of differences and may establish subcommittees to facilitate such efforts. Written position papers shall be prepared and exchanged through the mediator. The mediator shall summarize points of agreement and disagreement. Unanimous agreement on issues shall result in a written memorandum of understanding which will then be circulated by the mediator. The members of the negotiating council shall determine when to meet jointly and shall establish formal and informal deadlines for the work of the negotiating council. After each meeting elements of the final agreement shall be incorporated into the final agreement by the mediator. After agreement has been obtained on all outstanding issues, such agreements shall be incorporated into one document and signed by all participants in the process and adopted by all agencies and authorities represented in the negotiations. The council may be called back at the call of any one of the council members to review or discuss issues as they deem necessary.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_752__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>All meetings of the negotiating council, except caucuses of members initiated during a joint meeting of the council, shall be public meetings and advertised to the general public. Meetings shall be held in facilities that permit the observation by members of the general public. The negotiating council shall hold a public hearing in the northeastern region upon the completion of the five-year strategic plan prepared pursuant to section17a-753and prior to the adoption of the plan by the negotiating council.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-440"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-440"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-440"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-440/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-440/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-440/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-440/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_220">
+        <num>220</num>
+        <heading>Controlled Substances Tax</heading>
+        <section eId="sec_12_440">
+          <num>12-440</num>
+          <heading>Determination of tax</heading>
+          <content>
+            <p>Sec. 12-440. Determination of tax.As soon as practicable after each return has been filed, the commissioner shall cause it to be examined and shall compute and determine the amount of the tax payable thereon. If it should appear then or thereafter within three years, as a result of such examination or as a result of any examination of the records of the taxpayer or of any other inquiry or investigation provided for under this chapter, that the correct amount of tax is greater or less than that shown on the return, the tax shall be recomputed and corrected accordingly, and notices of such correction shall be delivered or mailed forthwith to the taxpayer. When it appears that any part of the deficiency for which a deficiency assessment is made is due to negligence or intentional disregard of the provisions of this chapter or regulations promulgated thereunder, there shall be imposed a penalty equal to ten per cent of the amount of such deficiency assessment, or fifty dollars, whichever is greater. When it appears that any part of the deficiency for which a deficiency assessment is made is due to fraud or intent to evade the provisions of this chapter or regulations promulgated thereunder, there shall be imposed a penalty equal to twenty-five per cent of the amount of such deficiency assessment. No taxpayer shall be subject to more than one penalty under this section in relation to the same tax period. Each addition to the amount shown to be payable by any taxpayer for any period, including the amount of any penalty and interest imposed hereunder, shall be payable within thirty days of the mailing of notice thereof in cash or by check, draft or money order drawn to the order of the Commissioner of Revenue Services. The amount of the deficiency shall bear interest at the rate of one per cent per month or fraction thereof from the date when the original tax was due and payable. In case of payment by any taxpayer under this chapter of any amount in excess of any tax lawfully due, through clerical error or by reason of any reduction of the amount of tax by action of the commissioner or by court action on appeal, discovery thereof being made within three years from the date of payment of the tax, the excess payment may, in the discretion of the commissioner, be credited on the amount of tax due from the same taxpayer for any prior tax period, or be retained and credited against the tax payable for any ensuing tax period, or be refunded to the taxpayer upon order of the Comptroller drawn on the Treasurer. If prior to the expiration of the period prescribed in this section for the assessment of additional tax with respect to any return, a taxpayer has consented in writing that such period may be extended, the amount of such additional tax due may be determined at any time within such extended period. Any such extended period may be further extended by consent in writing before the expiration of such extended period.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

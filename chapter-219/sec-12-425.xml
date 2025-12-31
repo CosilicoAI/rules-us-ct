@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-425"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-425"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-425"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-425/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-425/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-425/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-425/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_219">
+        <num>219</num>
+        <heading>Motor Vehicle Fuels Tax</heading>
+        <section eId="sec_12_425">
+          <num>12-425</num>
+          <heading>Overpayments and refunds</heading>
+          <subsection eId="12_425__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>of section12-415.</p>
+            </content>
+            <paragraph eId="12_425__subsec_g__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>Conditions; sales tax reimbursement.No credit or refund of any amount paid pursuant to section12-411shall be allowed on the ground that the storage, acceptance, consumption or other use of the services or property is exempted under subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_425__subsec_g__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>of section12-413, unless in addition to the overpayment for which the claim is filed the claimant also has reimbursed the claimant's vendor for the amount of the sales tax imposed upon the claimant's vendor with respect to the sale of the property and paid by the vendor to the state.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_425__subsec_g__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>Form and content of claim.Every claim shall be in writing and shall state the specific grounds upon which the claim is founded.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_425__subsec_g__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>Effect of failure to file claim.Failure to file a claim within the time prescribed in this section constitutes a waiver of any demand against the state on account of overpayment.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_425__subsec_g__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>Determination of validity. Notice of action.(A) The commissioner, upon receipt of such claim for refund, shall determine whether such claim is valid and, if so, shall notify the State Comptroller of the amount of such refund and the State Comptroller shall draw an order on the State Treasurer for payment of such refund. If the commissioner determines that such claim is not valid, either in whole or in part, he shall mail notice of the proposed disallowance to the claimant in the manner prescribed for service of notice of a deficiency assessment. Sixty days after the date on which it is mailed, a notice of proposed disallowance shall constitute a final disallowance except only for such amounts as to which the claimant has filed, as provided in subparagraph (B) of this subdivision, a written protest with the commissioner.
+(B) On or before the sixtieth day after the mailing of the proposed disallowance, the claimant may file with the commissioner a written protest against the proposed disallowance in which the claimant sets forth the grounds on which the protest is based. If a protest is filed, the commissioner shall reconsider the proposed disallowance and, if the claimant has so requested, may grant or deny the claimant or the claimant's authorized representatives an oral hearing.
+(C) The commissioner shall mail notice of his determination to the claimant, which notice shall set forth briefly the commissioner's findings of fact and the basis of decision in each case decided in whole or in part adversely to the claimant.
+(D) The action of the commissioner on the claimant's protest shall be final upon the expiration of one month from the date on which he mails notice of his action to the claimant unless within such period the claimant seeks judicial review of the commissioner's determination pursuant to section12-422.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+              </content>
+              <subparagraph eId="12_425__subsec_g__subsec_5__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>The commissioner, upon receipt of such claim for refund, shall determine whether such claim is valid and, if so, shall notify the State Comptroller of the amount of such refund and the State Comptroller shall draw an order on the State Treasurer for payment of such refund. If the commissioner determines that such claim is not valid, either in whole or in part, he shall mail notice of the proposed disallowance to the claimant in the manner prescribed for service of notice of a deficiency assessment. Sixty days after the date on which it is mailed, a notice of proposed disallowance shall constitute a final disallowance except only for such amounts as to which the claimant has filed, as provided in subparagraph</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_425__subsec_g__subsec_5__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>of this subdivision, a written protest with the commissioner.</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_425__subsec_g__subsec_5__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>On or before the sixtieth day after the mailing of the proposed disallowance, the claimant may file with the commissioner a written protest against the proposed disallowance in which the claimant sets forth the grounds on which the protest is based. If a protest is filed, the commissioner shall reconsider the proposed disallowance and, if the claimant has so requested, may grant or deny the claimant or the claimant's authorized representatives an oral hearing.</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_425__subsec_g__subsec_5__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>The commissioner shall mail notice of his determination to the claimant, which notice shall set forth briefly the commissioner's findings of fact and the basis of decision in each case decided in whole or in part adversely to the claimant.</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_425__subsec_g__subsec_5__subsec_D">
+                <num>(D)</num>
+                <content>
+                  <p>The action of the commissioner on the claimant's protest shall be final upon the expiration of one month from the date on which he mails notice of his action to the claimant unless within such period the claimant seeks judicial review of the commissioner's determination pursuant to section12-422.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

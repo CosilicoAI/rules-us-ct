@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-157"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-157"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-157"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-157/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-157/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-157/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-157/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_204">
+        <num>204</num>
+        <heading>Local Levy and Collection of Taxes</heading>
+        <section eId="sec_12_157">
+          <num>12-157</num>
+          <heading>Method of selling real estate for taxes</heading>
+          <subsection eId="12_157__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>When a collector levies one or more tax warrants on real estate, he or she shall prepare notices thereof, containing the name of the taxpayer, a legal description of the real property or citation to an instrument in the land records, an assessor's map or another publicly available document identifying the real property's boundaries, the street address, if such real property has one, the amount of the tax or taxes due, including any interest and charges attributable to the property as of the last day of the month immediately preceding the notice, a statement that additional taxes, interest, fees and other charges authorized by law accruing after the last day of the month immediately preceding the notice are owed in addition to the amount indicated as due and owing in the notice, and the date, time and place of sale. The collector shall post one notice on a bulletin board in or near the collector's office in the town where such real estate is situated, if any, or at some other exterior place near the office of the town clerk, which is nearest thereto; one shall be filed in the town clerk's office of such town and such town clerk shall record and index the same as a part of the land records of such town, which recording shall serve as constructive notice equivalent to a lis pendens for all purposes, and one shall be sent by certified mail, return receipt requested, to the taxpayer and each mortgage, lienholder and other encumbrancer of record whose interest is choate and will be affected by the sale. Such posting, filing and mailing shall be done not more than twelve and not less than nine weeks before the time of sale and shall constitute a legal levy of such warrant or warrants upon the real estate referred to in the notice. Such collector shall also publish a similar notice for three weeks, at least once each week, in a newspaper published in such town, or in a newspaper published in the state having a general circulation in such town. The first notice shall be publ</p>
+            </content>
+          </subsection>
+          <subsection eId="12_157__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The collector may, for any reason, adjourn such sale from time to time by causing public notice of such adjournment and the time and place of such adjourned sale to be given either by oral announcement or posting of a written notice at the time and place designated for the sale in the notices of such sale. If the adjourned date is set for a date more than three days from the date of the original or rescheduled sale date, the tax collector shall provide a postage prepaid written notice of the new time and place of the sale to the delinquent taxpayer and each mortgagee, lienholder and other encumbrancer of record whose interest is choate and will be affected by the sale.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_157__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>At the time and place stated in such notices, or, if such sale is adjourned, at the time and place specified at the time of adjournment as aforesaid, such collector</p>
+            </content>
+            <paragraph eId="12_157__subsec_c__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>may sell at public auction to the highest bidder all of said real property, to pay the taxes with the interest, fees and other charges allowed by law, including, but not limited to, those charges set forth in section12-140, or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_157__subsec_c__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>may sell all of said real property to his municipality if there has been no bidder or the amount bid is insufficient to pay the amount due.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_157__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>The collector shall post, at the time and place of the sale, a written notice stating the amount of all taxes, interest, fees and other charges authorized by law with respect to each property to be sold. The tax collector may publish or announce any rules for the orderly conduct of the auction and the making of payment by successful bidders which are not inconsistent with the requirements of law. The tax collector or the municipality may retain the services of auctioneers, clerks and other persons to assist the tax collector in the conduct of the sale and the cost of such persons paid for their services shall be added to the taxes due from the delinquent taxpayer. If more than one property is sold, the tax collector shall apportion all shared costs equally among all the properties.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_157__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>Within two weeks after such sale, the collector shall execute a deed thereof to the purchaser or to the municipality conducting the sale and shall lodge the same in the office of the town clerk of such town, where it shall remain unrecorded six months from the date of such sale.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_157__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>Within sixty days after such sale, the collector shall cause to be published in a newspaper having a daily general circulation in the town in which the real property is located, and shall send by certified mail, return receipt requested, to the delinquent taxpayer and each mortgagee, lienholder and other encumbrancer of record whose interest in such property is choate and is affected by such sale, a notice stating the date of the sale, the name and address of the purchaser, the amount the purchaser paid for the property and the date the redemption period will expire. The notice shall include a statement that if redemption does not take place by the date stated and in the manner provided by law, the delinquent taxpayer, and all mortgagees, lienholders and other encumbrancers who have received actual or constructive notice of such sale as provided by law, that their respective titles, mortgages, liens, restraints on alienation and other encumbrances in such property shall be extinguished. After such notice is published, and not later than six months after the date of the sale or within sixty days if the property was abandoned or meets other conditions established by ordinance adopted by the legislative body of the municipality, if the delinquent taxpayer, mortgagee, lienholder or other encumbrancer whose interest in the property will be affected by such sale, pays to the collector, the amount of taxes, interest and charges which were due and owing at the time of the sale together with interest on the total purchase price paid by the purchaser at the rate of eighteen per cent per annum from the date of such sale plus any taxes and debts owed to the municipality that were not recovered by the sale and any additional charges under section12-140, such deed, executed pursuant to subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_157__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>of this section, shall be delivered to the collector by the town clerk for cancellation and the collector shall provide a certificate of satisfaction to the person paying the money who, if not the person whose primary duty it was to pay the tax or taxes, shall have a claim against the person whose primary duty it was to pay such tax or taxes for the amount so paid, and may add the same with the equivalent precedence, rate of interest and priority as the tax paid over other nongovernmental encumbrances but without precedence or priority over any state or municipal tax lien or any tax that was not yet due and payable when notice of the levy was first published to any claim for which he has security upon the property sold, provided the certificate of satisfaction is recorded on the land records but the interests of other persons in the property shall not be affected. Within ten days of receipt of such amounts in redemption of the levied property, the collector shall notify the purchaser by certified mail, return receipt requested, that the property has been redeemed and shall tender such payment, together with the amount held pursuant to subparagraph (A) of subdivision</p>
+            </content>
+            <paragraph eId="12_157__subsec_e__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_157__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>of this section, if any, to the purchaser. If the purchase money and interest are not paid within such redemption period, the deed shall be recorded and have full effect.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_157__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>During the redemption period, the purchaser or the municipality shall have a sufficient insurable interest in buildings and improvements upon such property to insure them against fire and other risk of physical loss, and may petition the Superior Court for the appointment of a receiver or for other equitable relief if there shall be imminent danger of damage or destruction thereto or imminent danger of injury to persons or to other property resulting from conditions thereon or on adjoining properties. The purchaser or the municipality shall not be liable to any person, or subjected to forfeiture of their interest, solely by reason of acquisition by the person of the tax deed, for any condition existing or occurrence upon such property or adjoining public sidewalks and streets, or for any failure to act to remedy or investigate any such condition or occurrence during such redemption period. The expenses of any receiver appointed on the application of such purchaser or municipality in excess of any rents or profits paid to the receiver, all taxes and debts owed to the municipality that were not recovered by the sale, and any additional charges under section12-140shall be added to the amount of the purchase money and interest required to be paid by any person to the purchaser or municipality for the collector's deed and paid to the party that incurred such expenses.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_157__subsec_h">
+            <num>(h)</num>
+            <content>
+              <p>Any municipality holding a lien for unpaid taxes on real estate, other than the municipality conducting the sale, may purchase all of such property at a tax sale.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_157__subsec_i">
+            <num>(i)</num>
+            <paragraph eId="12_157__subsec_i__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>If the sale realizes an amount in excess of the amount needed to pay all delinquent taxes, interest, penalties, fees, and costs, the amount of the excess shall be held in an interest-bearing escrow account separate from all other accounts of the municipality. Any interest earned from such escrow account shall be the property of the municipality. (A) If the property is redeemed prior to the expiration of the redemption period, the amount held in escrow shall, within ten days of the tax collector receiving notice of redemption, be turned over to the purchaser. (B) If the property is not redeemed in the redemption period, the amount held in escrow may be used to pay the delinquent taxes, interest, penalties, fees and costs on the same or any other property of the taxpayer, including personal property and motor vehicles. In the case of subparagraph (B) of this subdivision, the tax collector shall, within ten days of the expiration of the redemption period, pay to the clerk of the court for the judicial district in which the property is located the amount held in escrow remaining after paying the delinquent taxes, interest, fees, penalties and costs owed by the taxpayer to the municipality. The tax collector shall, within five days of the payment, provide notice to the delinquent taxpayer, any mortgagee, lienholder, or other encumbrancer of record whose interest in such property is choate and is affected by the sale, by certified mail, return receipt requested of the name and address of the court to which the moneys were paid, the person's right to file an application with the court for return of said money, and the amount of money paid to the court.</p>
+              </content>
+              <subparagraph eId="12_157__subsec_i__subsec_1__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>If the property is redeemed prior to the expiration of the redemption period, the amount held in escrow shall, within ten days of the tax collector receiving notice of redemption, be turned over to the purchaser.</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_157__subsec_i__subsec_1__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>If the property is not redeemed in the redemption period, the amount held in escrow may be used to pay the delinquent taxes, interest, penalties, fees and costs on the same or any other property of the taxpayer, including personal property and motor vehicles. In the case of subparagraph</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_157__subsec_i__subsec_1__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>of this subdivision, the tax collector shall, within ten days of the expiration of the redemption period, pay to the clerk of the court for the judicial district in which the property is located the amount held in escrow remaining after paying the delinquent taxes, interest, fees, penalties and costs owed by the taxpayer to the municipality. The tax collector shall, within five days of the payment, provide notice to the delinquent taxpayer, any mortgagee, lienholder, or other encumbrancer of record whose interest in such property is choate and is affected by the sale, by certified mail, return receipt requested of the name and address of the court to which the moneys were paid, the person's right to file an application with the court for return of said money, and the amount of money paid to the court.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_157__subsec_i__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>If the tax collector pays to the court any moneys pursuant to subparagraph (B) of subdivision</p>
+              </content>
+              <subparagraph eId="12_157__subsec_i__subsec_2__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>of subdivision</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_157__subsec_i__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>of this subsection, the delinquent taxpayer, any mortgagee, lienholder or other encumbrancer whose interest in such property is choate and is affected by the sale may, within ninety days of the date the tax collector paid the moneys to the court, file an application with the court for return of the proceeds. Any person may make an application for payment of moneys deposited in court as provided for in this subsection to the superior court for the judicial district in which the property that is the subject of the proceedings referred to is located, or if said court is not in session to any judge thereof, for a determination of the equity of the parties having an interest in such moneys. Notice of such application shall be served in the same manner as to commence a civil action on all persons having an interest of record in such property on the date the collector's deed is recorded, provided neither the purchaser nor the municipality shall be a party to such action without such purchaser's or municipality's consent. The court or judge upon such motion or upon its own motion may appoint a state referee to hear the facts and to make a determination of the equity of the parties in such moneys. Such referee, after providing at least ten days' notice to the parties interested of the time and place of hearing, shall hear the applicant and any parties interested, take such testimonies as such referee deems material and determine the equities of the parties having a record interest in such moneys and immediately report to the court or judge. The report shall contain a detailed statement of findings by the referee, sufficient to enable the court to determine the considerations upon which the referee based his conclusions. The report may be rejected for any irregular or improper conduct in the performance of the duties of such referee. If the report is rejected, the court or judge shall appoint another referee to make such determination and report. If the report is accepted, su</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_157__subsec_i__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>If no application is filed with the court, any moneys held by the court shall escheat to the state pursuant to the provisions of part III of chapter 32.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

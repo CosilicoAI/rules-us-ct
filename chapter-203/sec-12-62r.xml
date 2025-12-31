@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-62r"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-62r"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-62r"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-62r/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-62r/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-62r/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-62r/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_203">
+        <num>203</num>
+        <heading>Property Tax Assessment</heading>
+        <section eId="sec_12_62r">
+          <num>12-62r</num>
+          <heading>Annual adjustments to assessment rates adopted for apartment and residential properties. Referendum. Treatment of certain property as residential property</heading>
+          <subsection eId="12_62r__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>For the purposes of this section:</p>
+            </content>
+            <paragraph eId="12_62r__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>“Apartment property” means a building containing four or more dwelling units used for human habitation, the parcel of land on which such building is situated, any accessory buildings or other improvements located on such parcel and condominium units converted after July 1, 2018, unless such conversion is made pursuant to subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_62r__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>of this section;</p>
+            </content>
+            <paragraph eId="12_62r__subsec_i__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>“Residential property” means (A) a building containing three or fewer dwelling units used for human habitation, the parcel of land on which such building is situated, and any accessory buildings or other improvements located on such parcel, (B) common interest communities, as defined in section47-202, including common interest communities converted from apartment properties prior to July 1, 2018, or (C) condominiums, as defined in section47-68a, that are used for residential purposes, including condominiums converted from apartment properties prior to July 1, 2018;</p>
+              </content>
+              <subparagraph eId="12_62r__subsec_i__subsec_2__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>a building containing three or fewer dwelling units used for human habitation, the parcel of land on which such building is situated, and any accessory buildings or other improvements located on such parcel,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_62r__subsec_i__subsec_2__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>common interest communities, as defined in section47-202, including common interest communities converted from apartment properties prior to July 1, 2018, or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_62r__subsec_i__subsec_2__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>condominiums, as defined in section47-68a, that are used for residential purposes, including condominiums converted from apartment properties prior to July 1, 2018;</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_62r__subsec_i__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>“Base year” means the assessment year commencing October 1, 2010;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_62r__subsec_i__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>“Adjusted tax levy” means the total amount of taxes raised by taxation in a fiscal year by a municipality;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_62r__subsec_i__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>“Owner-occupied residential property” means a dwelling unit in a residential property that is occupied as a primary residence by the owner of the property; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_62r__subsec_i__subsec_6">
+              <num>(6)</num>
+              <content>
+                <p>“Common ownership” means that more than fifty per cent of the voting control of the owner of a unit described in subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_62r__subsec_i__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>of this subsection is directly or indirectly owned by a common owner or owners, either corporate or noncorporate. Whether voting control is indirectly owned shall be determined in accordance with Section 318 of the Internal Revenue Code of 1986, or any subsequent corresponding internal revenue code of the United States, as amended from time to time.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_62r__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Notwithstanding any provision of the general statutes or any special act, municipal charter or any home rule ordinance, any municipality in which the provisions of section12-62nwere effective for the assessment year commencing October 1, 2010, shall make annual adjustments to the assessment rate charged to apartment and residential property in accordance with the provisions of this section, but in no event shall the assessment rate for any class of property be in excess of seventy per cent.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_62r__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>For the assessment year commencing October 1, 2011, in any municipality that adopts the property tax system under this section, apartment property shall be assessed at a rate of fifty per cent. For assessment years commencing on and after October 1, 2012, the assessor shall determine a rate of assessment for apartment property that will have the effect of phasing in proportionate increases in the rate so that, by the assessment year commencing October 1, 2015, the assessment rate for apartment property shall be seventy per cent.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_62r__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>In any municipality that adopts the property tax system under this section, for the assessment year commencing October 1, 2011, and only for said assessment year, the assessor shall determine a rate of assessment for residential property that will have the effect of increasing the average property tax for residential property as a result of revaluation by three and one-half per cent over the property tax for such property class in the base year, but in no event shall the assessment rate be less than twenty-three per cent. For assessment years commencing on and after October 1, 2011, the assessor shall then calculate an adjustment to the rate of assessment for residential property in accordance with subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_62r__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>of this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_62r__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>Not later than January thirty-first or the completion of the grand list, whichever is later, the assessor shall annually calculate the residential assessment ratio. The assessor shall first adjust the adjusted tax levy for the preceding fiscal year in accordance with any change in the consumer price index for all urban consumers in the northeast region in the preceding fiscal year, as reported generally in February for the year-over-year January index. If, after such adjustment,</p>
+            </content>
+            <paragraph eId="12_62r__subsec_e__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>the adjusted tax levy in the current fiscal year exceeds the adjusted tax levy in the prior fiscal year by more than one hundred per cent of the rate of inflation, as determined in accordance with such consumer price index, the assessor, in his or her calculation of the assessment ratios for the next grand list, shall increase the rate of assessment for residential properties from the prior grand list year by five per cent;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_62r__subsec_e__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>the adjusted tax levy in the current fiscal year exceeds the adjusted tax levy in the prior fiscal year by more than fifty per cent, but not more than one hundred per cent, of such rate of inflation, the assessor shall increase such rate of assessment by three and one-half per cent;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_62r__subsec_e__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>the adjusted tax levy in the current fiscal year exceeds the adjusted tax levy in the prior fiscal year by not more than fifty per cent of such rate of inflation, the assessor shall increase such rate of assessment by two and one-half per cent;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_62r__subsec_e__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>the adjusted tax levy in the current fiscal year is equal to the adjusted tax levy in the prior fiscal year, or is less than one-half per cent less than the adjusted tax levy in the prior fiscal year, the assessor shall increase such rate of assessment by one and one-half per cent; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_62r__subsec_e__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>the adjusted tax levy in the current fiscal year is less than the adjusted tax levy in the prior fiscal year by at least one-half per cent, the assessor shall make no change in such rate of assessment.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_62r__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>For assessment years commencing on and after October 1, 2016, any municipality that adopts the property tax system under this section may, by vote of its legislative body, enact an ordinance to establish a program to encourage homeownership by adjusting the annual assessment rate for nonowner-occupied residential properties so that, while the annual assessment rate for owner-occupied residential properties shall be calculated at all times in accordance with subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_62r__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>of this section, the annual assessment rate for nonowner-occupied residential properties shall be calculated at a rate that shall keep the annual assessment rate for owner-occupied residential properties lower than that of nonowner-occupied residential properties. Any ordinance enacted pursuant to this subsection may be amended only in a year in which such municipality conducts a revaluation of real property pursuant to section12-62.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_62r__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>Not later than June fifteenth in any year in which the adjusted tax levy in the current fiscal year increases by more than two and six-tenths per cent over the adjusted tax levy in the prior fiscal year, one per cent of the total number of electors of such municipality may petition in writing for a referendum on the budget establishing such increase. Any such referendum shall be held not more than ten days after receipt of such petition by the town clerk and shall be conducted in accordance with the provisions of chapter 90. Such budget shall not become effective unless a majority of the electors voting in such referendum vote in favor thereof. Only one referendum may be held, and, if the vote is against the budget, such municipality shall so adjust the budget as to limit any increase to be equal to or less than two and six-tenths per cent.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_62r__subsec_h">
+            <num>(h)</num>
+            <content>
+              <p>Nothing in this section shall change the assessment of apartment property created or converted by the Capital Region Development Authority created pursuant to section32-601. Such apartment property shall continue to be assessed as residential property.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_62r__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>If a purchaser of a building containing four or more residential units invests an amount in excess of thirty-five per cent of the purchase price of such building within three years after the purchase date recorded on the land records, then the purchaser shall be entitled to convert the building into a common interest community and such form of ownership shall remain in perpetuity, unless dissolved by the owner of such building. Such property shall be treated as residential property for tax purposes.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_62r__subsec_j">
+            <num>(j)</num>
+            <content>
+              <p>Verification of investments made pursuant to subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_62r__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>of this section shall be determined by the assessor for the municipality in which the building is located. If an owner disagrees with the decision of the assessor, such owner may take an appeal pursuant to section12-117a.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

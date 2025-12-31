@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-506a"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-506a"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-506a"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-506a/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-506a/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-506a/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-506a/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_224">
+        <num>224</num>
+        <heading>Community Revitalization and Investment</heading>
+        <section eId="sec_12_506a">
+          <num>12-506a</num>
+          <heading>Exchange of property</heading>
+          <subsection eId="12_506a__subsec_a">
+            <num>(a)</num>
+            <heading>Repealed by P</heading>
+            <content>
+              <p>A. 73-356, S. 5, 10.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_506a__subsec_b">
+            <num>(b)</num>
+            <heading>A partnership as such shall not be subject to the tax imposed by this chapter</heading>
+            <content>
+              <p>Persons who are partners shall be liable for said tax only in their individual capacities in the same manner that individuals are liable for partnership income under the federal Internal Revenue Code in effect for the taxable year.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_506a__subsec_c">
+            <num>(c)</num>
+            <heading>Repealed by P</heading>
+            <content>
+              <p>A. 73-356, S. 5, 10.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_506a__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>The tax imposed in this chapter shall not be applicable with respect to any sale or exchange of agricultural animals.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-667"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-667"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17a-667"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-667/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-667/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-667/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-667/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319j">
+        <num>319j</num>
+        <heading>Health Care For Uninsured Children</heading>
+        <section eId="sec_17a_667">
+          <num>17a-667</num>
+          <heading>Connecticut Alcohol and Drug Policy Council</heading>
+          <subsection eId="17a_667__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>There is established a Connecticut Alcohol and Drug Policy Council which shall be within the Department of Mental Health and Addiction Services.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_667__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The council shall consist of the following members:</p>
+            </content>
+            <paragraph eId="17a_667__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>The Secretary of the Office of Policy and Management, or the secretary's designee;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_667__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>the Commissioners of Children and Families, Consumer Protection, Correction, Education, Mental Health and Addiction Services, Public Health, Emergency Services and Public Protection, Aging and Disability Services and Social Services, and the Insurance Commissioner, or their designees;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_667__subsec_b__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>the Chief Court Administrator, or the Chief Court Administrator's designee;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_667__subsec_b__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>the chairperson of the Board of Regents for Higher Education, or the chairperson's designee;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_667__subsec_b__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>the president of The University of Connecticut, or the president's designee;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_667__subsec_b__subsec_6">
+              <num>(6)</num>
+              <content>
+                <p>the Chief State's Attorney, or the Chief State's Attorney's designee;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_667__subsec_b__subsec_7">
+              <num>(7)</num>
+              <content>
+                <p>the Chief Public Defender, or the Chief Public Defender's designee;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_667__subsec_b__subsec_8">
+              <num>(8)</num>
+              <content>
+                <p>the Child Advocate, or the Child Advocate's designee; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_667__subsec_b__subsec_9">
+              <num>(9)</num>
+              <content>
+                <p>the cochairpersons and ranking members of the joint standing committees of the General Assembly having cognizance of matters relating to public health, criminal justice and appropriations, or their designees. The Commissioner of Mental Health and Addiction Services and the Commissioner of Children and Families shall be cochairpersons of the council and may jointly appoint up to seven individuals to the council as follows: (A) Two individuals in recovery from a substance use disorder or representing an advocacy group for individuals with a substance use disorder; (B) a provider of community-based substance abuse services for adults; (C) a provider of community-based substance abuse services for adolescents; (D) an addiction medicine physician; (E) a family member of an individual in recovery from a substance use disorder; and (F) an emergency medicine physician currently practicing in a Connecticut hospital. The cochairpersons of the council may establish subcommittees and working groups and may appoint individuals other than members of the council to serve as members of the subcommittees or working groups. Such individuals may include, but need not be limited to:</p>
+              </content>
+              <subparagraph eId="17a_667__subsec_b__subsec_9__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>Two individuals in recovery from a substance use disorder or representing an advocacy group for individuals with a substance use disorder;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17a_667__subsec_b__subsec_9__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>a provider of community-based substance abuse services for adults;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17a_667__subsec_b__subsec_9__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>a provider of community-based substance abuse services for adolescents;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17a_667__subsec_b__subsec_9__subsec_D">
+                <num>(D)</num>
+                <content>
+                  <p>an addiction medicine physician;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17a_667__subsec_b__subsec_9__subsec_E">
+                <num>(E)</num>
+                <content>
+                  <p>a family member of an individual in recovery from a substance use disorder; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17a_667__subsec_b__subsec_9__subsec_F">
+                <num>(F)</num>
+                <content>
+                  <p>an emergency medicine physician currently practicing in a Connecticut hospital. The cochairpersons of the council may establish subcommittees and working groups and may appoint individuals other than members of the council to serve as members of the subcommittees or working groups. Such individuals may include, but need not be limited to:</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="17a_667__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Licensed alcohol and drug counselors; (ii) pharmacists; (iii) municipal police chiefs; (iv) emergency medical services personnel; and</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_667__subsec_v">
+            <num>(v)</num>
+            <content>
+              <p>representatives of organizations that provide education, prevention, intervention, referrals, rehabilitation or support services to individuals with substance use disorder or chemical dependency.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_667__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The council shall review policies and practices of state agencies and the Judicial Department concerning substance abuse treatment programs, substance abuse prevention services, the referral of persons to such programs and services, and criminal justice sanctions and programs and shall develop and coordinate a state-wide, interagency, integrated plan for such programs and services and criminal sanctions.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_667__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Such plan shall be amended not later than January 1, 2017, to contain measurable goals, including, but not limited to, a goal for a reduction in the number of opioid-induced deaths in the state.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

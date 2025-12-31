@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-596a"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-596a"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17a-596a"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-596a/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-596a/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-596a/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-596a/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319i">
+        <num>319i</num>
+        <heading>Connecticut HUSKY Plan</heading>
+        <section eId="sec_17a_596a">
+          <num>17a-596a</num>
+          <heading>Image or recording of acquittee under jurisdiction of the board. Reviewable by counsel in matter before board or Superior Court. Property of Department of Mental Health and Addiction Services</heading>
+          <subsection eId="17a_596a__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Any image or recording of an acquittee, who is under the jurisdiction of the Psychiatric Security Review Board, that is recorded within or on the property of any inpatient facility of the Department of Mental Health and Addiction Services where the acquittee receives treatment, shall be reviewable by counsel representing the acquittee in any matter before the Psychiatric Security Review Board or the Superior Court related to the jurisdiction of the Psychiatric Security Review Board upon written request made to the director of such facility. The director of such facility shall permit such review to occur not later than thirty days after the date of receipt of the written request, provided</p>
+            </content>
+            <paragraph eId="17a_596a__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>the acquittee consents to such review;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_596a__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>any other identifiable patient in the image or recording consents to such review;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_596a__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>such review shall be conducted in accordance with the provisions of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17a_596a__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>of section17a-596; and</p>
+            </content>
+            <paragraph eId="17a_596a__subsec_d__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>the image or recording for which review is sought is not the subject of a pending criminal investigation by state or local law enforcement officials, including any agency police of the Department of Mental Health and Addiction Services, for which there exists a record of such investigation or a pending criminal prosecution. The Department of Mental Health and Addiction Services, when permitting such review, shall adhere to all other provisions of the general statutes and federal law or regulation concerning the confidentiality of records and protected health information of psychiatric patients. As used in this section, “image or recording” includes, but is not limited to, a still or electronically stored photograph and any video or audio recording stored on any device.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17a_596a__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Notwithstanding the provisions of subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_596a__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section, any such image or recording shall remain the property of the Department of Mental Health and Addiction Services and shall be utilized and maintained in compliance with all applicable state and federal laws and regulations.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-125b"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-125b"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-125b"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-125b/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-125b/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-125b/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-125b/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_204">
+        <num>204</num>
+        <heading>Local Levy and Collection of Taxes</heading>
+        <section eId="sec_12_125b">
+          <num>12-125b</num>
+          <heading>Exemption or abatement of tax on real property bought from the state by a municipality</heading>
+          <content>
+            <p>Sec. 12-125b. Exemption or abatement of tax on real property bought from the state by a municipality.Any municipality that purchases a parcel of land, or a portion thereof owned by the state may enter into an agreement (1) exempting such parcel or portion thereof from any property tax imposed by the municipality, or providing that such parcel or portion thereof is subject to all or any portion of such property tax, and (2) providing for payments in lieu of, or fixing, property taxes with respect to such parcel or portion thereof. Such agreement shall be for such amounts, duration and on such terms as may be approved by the legislative body of such municipality. Any payments in lieu of, or fixing, such taxes, together with interest thereon as provided in any such agreement, shall constitute a lien upon such property, taking precedence over all other liens and encumbrances. Such lien may be foreclosed in the same manner as a lien for property taxes.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

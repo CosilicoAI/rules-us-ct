@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-506"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-506"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17a-506"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-506/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-506/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-506/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-506/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319i">
+        <num>319i</num>
+        <heading>Connecticut HUSKY Plan</heading>
+        <section eId="sec_17a_506">
+          <num>17a-506</num>
+          <heading>(Formerly Sec. 17-187). Voluntary admissions. Notification of next of kin. Restriction on right to leave. Commitment proceedings. Continuation of confinement. Probable cause hearing</heading>
+          <subsection eId="17a_506__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Any hospital for psychiatric disabilities may receive for observation and treatment any person who in writing requests to be received; but no such person shall be confined in any such hospital for psychiatric disabilities for more than three business days, after he or she has given notice in writing of his or her desire to leave, unless an application for commitment has been filed in a court of competent jurisdiction. Such person shall be informed at the time of such admission concerning such patient's ability to leave after three days' notice pursuant to this subsection and shall also be informed that an application may be filed under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_506__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>of this section in which case such patient's ability to leave may be delayed in accordance with the provisions of said subsection.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_506__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Any person desiring admission to a hospital for psychiatric disabilities for care and treatment of psychiatric disabilities may be admitted as a patient without making formal or written application therefor if the superintendent deems such person clinically suitable for such admission, care and treatment, and any such patient may be free to leave such hospital at any time after admission.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_506__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Any person for whom a conservator of the person has been appointed in accordance with sections45a-644to45a-662, inclusive, may request admission to a hospital for psychiatric disabilities and such hospital may admit such person. The hospital shall notify the conservator and the probate court which appointed the conservator of the admission not later than five business days after such admission. The probate court shall, not later than ten business days after such notice, appoint a physician who is a psychiatrist from the list provided by the Commissioner of Mental Health and Addiction Services as set forth in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_506__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of section17a-498. The physician shall examine the patient within ten business days of his appointment to determine if the patient has given informed consent to his or her hospitalization. The physician shall make a report forthwith to the court. If the court concludes that the patient did not give informed consent to the hospitalization, the court, on its own motion, may proceed in the manner provided in subsections</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_506__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>,</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_506__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>,</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_506__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>and</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_506__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>of section17a-498. All costs and expenses, including Probate Court entry fees, shall be paid by the patient or, if he has a conservator of the estate, by such conservator.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_506__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Whenever a person is admitted to a hospital for psychiatric disabilities under the provisions of this section, such person, if he or she consents in writing at the time of admission, shall furnish the name of his or her next of kin or a close friend. The person in charge of such hospital shall notify such next of kin or close friend of the admission of such patient and the discharge of such patient, provided such patient consents in writing to any such notification.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_506__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>Whenever a person is confined to a hospital for psychiatric disabilities under the provisions of this section and gives notice of the desire to leave under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_506__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>hereof, any person, including the person in charge of such hospital, may institute proceedings for his or her commitment in the court of probate having jurisdiction in the town where such hospital is located. In such event, such confinement shall be continued for an additional period of time in order for the respondent to prepare for the hearing to be held upon such application, provided no such confinement shall be continued for more than fifteen days from the date of the filing of the notice in writing of the desire to leave, and provided further such person shall not be confined in any hospital, either public or private, upon an emergency certificate issued prior to discharge and within fifteen days excluding Saturdays, Sundays and holidays, after such person gives notice of his or her desire to leave, as provided in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_506__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section. Such respondent shall have the right to a probable cause hearing under the provisions of section17a-502.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

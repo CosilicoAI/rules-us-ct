@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-7c"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-7c"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-7c"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-7c/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-7c/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-7c/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-7c/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_201">
+        <num>201</num>
+        <heading>State and Local Revenue Services. Department of Revenue Services</heading>
+        <section eId="sec_12_7c">
+          <num>12-7c</num>
+          <heading>Report on the overall incidence of certain taxes</heading>
+          <subsection eId="12_7c__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The Commissioner of Revenue Services shall, on or before December 15, 2023, and biennially thereafter, submit to the joint standing committee of the General Assembly having cognizance of matters relating to finance, revenue and bonding, and post on the department's Internet web site a report on the overall incidence of the personal income tax, the affected business entity tax, sales and excise taxes, the corporation business tax, property tax and any other tax that generated at least one hundred million dollars in the most recent fiscal year prior to the submission of each report, for each of the most recent ten tax years for which complete data are available.</p>
+            </content>
+            <paragraph eId="12_7c__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>The report shall include incidence projections for each such tax and shall present information on the distribution of the tax burden as follows:
+(A) For individuals:</p>
+              </content>
+              <subparagraph eId="12_7c__subsec_a__subsec_1__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>For individuals:</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_7c__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Income classes, including income distribution and population distribution expressed for (I) every ten percentage points, (II) the top five per cent of all income taxpayers, (III) the top one per cent of all income taxpayers, and (IV) the top one-half of one per cent of all income taxpayers;
+(ii) For each income class, the percentage of taxpayers who (I) are homeowners, (II) are single, (III) are married, (IV) are seniors, or (V) have children;
+(iii) Effective tax rates by population distribution expressed as state taxes compared to local taxes;
+(iv) Effective tax rates by population distribution expressed as taxes imposed on businesses compared to taxes imposed on individuals; and</p>
+            </content>
+          </subsection>
+          <subsection eId="12_7c__subsec_v">
+            <num>(v)</num>
+            <heading>Other appropriate taxpayer characteristics, as determined by said commissioner</heading>
+            <content>
+              <p>(B) For businesses:</p>
+            </content>
+          </subsection>
+          <subsection eId="12_7c__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Business size as established by gross receipts;
+(ii) Legal organization; and
+(iii) Industry by NAICS code.</p>
+            </content>
+            <paragraph eId="12_7c__subsec_i__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>In addition to the information required under subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_7c__subsec_i__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>of this subsection, the report shall include the following:
+(A) For the personal income tax, information on the distribution of the property tax credit under section12-704c, the earned income tax credit under section12-704e, the affected business entity tax credit under section12-699and any other modification against the personal income tax that resulted in a revenue loss to the state of at least twenty-five million dollars in the most recent fiscal year prior to the submission of each report. Each such distribution shall be expressed for</p>
+              </content>
+              <subparagraph eId="12_7c__subsec_i__subsec_1__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>For the personal income tax, information on the distribution of the property tax credit under section12-704c, the earned income tax credit under section12-704e, the affected business entity tax credit under section12-699and any other modification against the personal income tax that resulted in a revenue loss to the state of at least twenty-five million dollars in the most recent fiscal year prior to the submission of each report. Each such distribution shall be expressed for</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_7c__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>every ten percentage points, (ii) the top five per cent of all income taxpayers, (iii) the top one per cent of all income taxpayers, and (iv) the top one-half per cent of all income taxpayers;
+(B) For property tax, to the extent available, information on the distribution of residential and commercial property and for residential property, the distribution of homeowners and renters; and
+(C) For any other tax other than the personal income tax or property tax that generated at least one hundred million dollars in the most recent fiscal year prior to the submission of each report, information on the distribution of any modification against such tax that resulted in a revenue loss to the state of at least twenty-five million dollars in the most recent fiscal year prior to the submission of each report. Each such distribution shall be expressed for</p>
+            </content>
+          </subsection>
+          <subsection eId="12_7c__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>every ten percentage points, (ii) the top five per cent of all taxpayers paying such tax, (iii) the top one per cent of all taxpayers paying such tax, and (iv) the top one-half per cent of all taxpayers paying such tax.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_7c__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The Commissioner of Revenue Services may enter into a contract with any public or private entity for the purpose of preparing the report required pursuant to subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_7c__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section, provided, if the commissioner enters into such contract, the commissioner shall include in such report the resources that the commissioner deems necessary to allow the Department of Revenue Services to prepare such report in-house.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

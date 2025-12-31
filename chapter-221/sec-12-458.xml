@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-458"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-458"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-458"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-458/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-458/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-458/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-458/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_221">
+        <num>221</num>
+        <heading>Real Estate Conveyance Tax</heading>
+        <section eId="sec_12_458">
+          <num>12-458</num>
+          <heading>Returns. Rate and payment of tax. Exemptions. Penalties</heading>
+          <subsection eId="12_458__subsec_a">
+            <num>(a)</num>
+            <paragraph eId="12_458__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>Each distributor shall, on or before the twenty-fifth day of each month, render a return to the commissioner. Each return shall be signed by the person required to file the return or by his authorized agent but need not be verified by oath. Any return required to be filed by a corporation shall be signed by an officer of such corporation or his authorized agent. Such return shall state the number of gallons of fuel sold or used by him during the preceding calendar month, on forms to be furnished by the commissioner, and shall contain such further information as the commissioner shall prescribe. The commissioner may make public the number of gallons of fuel sold or used by the distributor, as contained in such report, notwithstanding the provisions of section12-15or any other section. For purposes of this section, fuel sold shall include, but not be limited to, the transfer of fuel by a distributor into a receptacle from which fuel is supplied or intended to be supplied to other than such distributor's motor vehicles.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_458__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>On said date and coincident with the filing of such return each distributor shall pay to the commissioner for the account of the purchaser or consumer a tax (A) on each gallon of such fuels sold or used in this state during the preceding calendar month, of twenty-five cents on and after July 1, 2000; and (B) in lieu of said taxes, each distributor shall pay a tax on each gallon of gasohol, as defined in section14-1, sold or used in this state during such preceding calendar month, of twenty-five cents on and after July 1, 2004; (C) in lieu of said taxes, each distributor shall pay a tax on each gallon of propane or natural gas sold or used in this state during such preceding calendar month, of twenty-six cents on and after August 1, 2002; (D) in lieu of said taxes, each distributor shall pay a tax on each gallon of propane or natural gas sold or used in this state during such preceding calendar month, of twenty-six cents on and after July 1, 2007; and (E) in lieu of said taxes, each distributor shall pay a tax on each gallon of diesel fuel sold or used in this state during such preceding calendar month, at the applicable tax rate, as determined by the commissioner pursuant to section12-458hon and after July 1, 2008.</p>
+              </content>
+              <subparagraph eId="12_458__subsec_a__subsec_2__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>on each gallon of such fuels sold or used in this state during the preceding calendar month, of twenty-five cents on and after July 1, 2000; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_458__subsec_a__subsec_2__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>in lieu of said taxes, each distributor shall pay a tax on each gallon of gasohol, as defined in section14-1, sold or used in this state during such preceding calendar month, of twenty-five cents on and after July 1, 2004;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_458__subsec_a__subsec_2__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>in lieu of said taxes, each distributor shall pay a tax on each gallon of propane or natural gas sold or used in this state during such preceding calendar month, of twenty-six cents on and after August 1, 2002;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_458__subsec_a__subsec_2__subsec_D">
+                <num>(D)</num>
+                <content>
+                  <p>in lieu of said taxes, each distributor shall pay a tax on each gallon of propane or natural gas sold or used in this state during such preceding calendar month, of twenty-six cents on and after July 1, 2007; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_458__subsec_a__subsec_2__subsec_E">
+                <num>(E)</num>
+                <content>
+                  <p>in lieu of said taxes, each distributor shall pay a tax on each gallon of diesel fuel sold or used in this state during such preceding calendar month, at the applicable tax rate, as determined by the commissioner pursuant to section12-458hon and after July 1, 2008.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_458__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>Said tax shall not be payable on such fuel as may have been:
+(A) Sold to the United States;
+(B) Sold to a municipality of this state,</p>
+              </content>
+              <subparagraph eId="12_458__subsec_a__subsec_3__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>Sold to the United States;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_458__subsec_a__subsec_3__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>Sold to a municipality of this state,</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_458__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>for use by any contractor performing a service for such municipality in accordance with a contract, provided such fuel is used by such contractor exclusively for the purposes of and in accordance with such contract, or (ii) for use exclusively in a school bus, as defined in section14-275;
+(C) Sold to a municipality of this state, a transit district of this state, or this state, at other than a retail outlet, for governmental purposes and for use in vehicles owned and operated, or leased and operated by such municipality, such transit district or this state;
+(D) Sold to a person licensed as a distributor in this state under section12-456;
+(E) Transferred from storage within this state to some point without this state;
+(F) Sold to the holder of a permit issued under section12-458afor sale or use without this state;
+(G) Sold to the holder of a permit issued under subdivision</p>
+            </content>
+            <paragraph eId="12_458__subsec_i__subsec_63">
+              <num>(63)</num>
+              <content>
+                <p>of section12-412, provided</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_458__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>such fuel is not used in motor vehicles registered or required to be registered to operate upon the public highways of this state, unless such fuel is used in motor vehicles registered exclusively for farming purposes, (ii) such fuel is not delivered, upon such sale, to a tank in which such person keeps fuel for personal and farm use, and (iii) a statement, prescribed as to form by the Commissioner of Revenue Services and bearing notice to the effect that false statements made under this section are punishable, that such fuel is used exclusively for farming purposes, is submitted by such person to the distributor;
+(H) Sold exclusively to furnish power for an industrial plant in the actual fabrication of finished products to be sold, or for the fishing industry;
+(I) Sold exclusively for heating purposes;
+(J) Sold exclusively to furnish gas, water, steam or electricity, if delivered to consumers through mains, lines or pipes;
+(K) Sold to the owner or operator of an aircraft, as defined in section15-34, exclusively for aviation purposes, provided</p>
+            </content>
+          </subsection>
+          <subsection eId="12_458__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>for purposes of this subdivision, “aviation purposes” means for the purpose of powering an aircraft or an aircraft engine, (ii) such fuel is delivered, upon such sale, to a tank in which fuel is kept exclusively for aviation purposes, and (iii) a statement, prescribed as to form by the Commissioner of Revenue Services and bearing notice to the effect that false statements made under this section are punishable, that such fuel is used exclusively for aviation purposes, is submitted by such person to the distributor;
+(L) Sold to a dealer who is licensed under section12-462and whose place of business is located upon an established airport within this state;
+(M) Diesel fuel sold exclusively for use in portable power system generators that are larger than one hundred fifty kilowatts;
+(N) Sold for use in any vessel</p>
+            </content>
+          </subsection>
+          <subsection eId="12_458__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>having a displacement exceeding four thousand dead weight tons, or (ii) primarily engaged in interstate commerce; or
+(O) Dyed diesel fuel, as defined in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_458__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>of section12-487, sold to the owner or operator of marine fuel docks exclusively for marine purposes, provided</p>
+            </content>
+          </subsection>
+          <subsection eId="12_458__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>such fuel is delivered, upon such sale, to a tank in which fuel is kept exclusively for marine purposes, and (ii) a statement, prescribed as to form by the Commissioner of Revenue Services and bearing notice to the effect that false statements made under this section are punishable, that such fuel is used exclusively for marine purposes, is submitted by such person to the distributor.</p>
+            </content>
+            <paragraph eId="12_458__subsec_i__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>Each distributor, when making a taxable sale, shall furnish to the purchaser an invoice showing the quantities of fuel sold, the classification thereof under the provisions of this chapter and the amount of tax to be paid by the distributor for the account of the purchaser or consumer.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_458__subsec_i__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>If any distributor fails to pay the amount of tax reported to be due on its report within the time specified under the provisions of this section, there shall be imposed a penalty equal to ten per cent of such amount due and unpaid, or fifty dollars, whichever is greater. The tax shall bear interest at the rate of one per cent per month or fraction thereof from the due date of the tax until the date of payment.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_458__subsec_i__subsec_6">
+              <num>(6)</num>
+              <content>
+                <p>If no return has been filed within three months after the time specified under the provisions of this chapter, the commissioner may make such return at any time thereafter, according to the best information obtainable and the form prescribed. There shall be added to the tax imposed upon the basis of such return an amount equal to ten per cent of such tax, or fifty dollars, whichever is greater. The tax shall bear interest at the rate of one per cent per month or fraction thereof from the due date of such tax to the date of payment.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_458__subsec_i__subsec_7">
+              <num>(7)</num>
+              <content>
+                <p>Subject to the provisions of section12-3a, the commissioner may waive all or part of the penalties provided under this chapter when it is proven to his satisfaction that the failure to pay any tax was due to reasonable cause and was not intentional or due to neglect.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_458__subsec_i__subsec_8">
+              <num>(8)</num>
+              <content>
+                <p>A distributor who is exclusively making sales of fuel on which the tax imposed by this chapter is not payable may be permitted, as specified in regulations adopted in accordance with the provisions of chapter 54, to file reports less frequently than monthly but not less frequently than annually if the commissioner determines that enforcement of this section would not be adversely affected by less frequent filings. Distributors permitted to file such reports shall maintain records that shall detail (A) the persons from whom the fuel was purchased, (B) the persons to whom, the quantities in which and the dates on which such fuel was sold, and (C) any other information deemed necessary by the commissioner.</p>
+              </content>
+              <subparagraph eId="12_458__subsec_i__subsec_8__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>the persons from whom the fuel was purchased,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_458__subsec_i__subsec_8__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>the persons to whom, the quantities in which and the dates on which such fuel was sold, and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_458__subsec_i__subsec_8__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>any other information deemed necessary by the commissioner.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_458__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The commissioner shall, within three years after the due date for the filing of a return or, in the case of a completed return filed after such due date, within three years after the date of which such return was received by him, examine it and, in case any error is disclosed by such examination, shall, within thirty days after such disclosure, notify the taxpayer thereof. When it appears that any part of the deficiency for which a deficiency assessment is made is due to negligence or intentional disregard of the provisions of this chapter or regulations promulgated thereunder, there shall be imposed a penalty equal to ten per cent of the amount of such deficiency assessment, or fifty dollars, whichever is greater. When it appears that any part of the deficiency for which a deficiency assessment is made is due to fraud or intent to evade the provisions of this chapter or regulations promulgated thereunder, there shall be imposed a penalty equal to twenty-five per cent of the amount of such deficiency assessment. No taxpayer shall be subject to more than one penalty under this subsection in relation to the same tax period. Within thirty days of the mailing of such notice, the taxpayer shall pay to the commissioner, in cash or by check, draft or money order drawn to the order of the Commissioner of Revenue Services, any additional amount of tax shown to be due by the corrected return or shall be paid by the State Treasurer, upon order of the Comptroller, any amount shown to be due such taxpayer by such corrected return. The failure of such taxpayer to receive any notice required by this section shall not relieve such taxpayer of the obligation to pay the tax or any interest or penalties thereon. When, before the expiration of the time prescribed in this section for the examination of the return or the assessment of said tax, both the commissioner and such taxpayer have consented in writing to such examination or assessment after such time, the return may be examined a</p>
+            </content>
+          </subsection>
+          <subsection eId="12_458__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Any person who owns or operates a vehicle that runs only upon rails or tracks and that is properly registered with the federal government, in accordance with the provisions of Section 4222 of the Internal Revenue Code of 1986, or any subsequent corresponding internal revenue code of the United States, as amended from time to time, shall be exempt from paying to a distributor the motor fuels tax imposed pursuant to this section for use in such vehicle.
+See Sec. 12-462 re exempt aviation fuel.
+See Sec. 12-462a re exempt dyed diesel fuel.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

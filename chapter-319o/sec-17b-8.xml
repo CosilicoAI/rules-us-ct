@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-8"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-8"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17b-8"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-8/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-8/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-8/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-8/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319o">
+        <num>319o</num>
+        <heading>Personal Care Assistance</heading>
+        <section eId="sec_17b_8">
+          <num>17b-8</num>
+          <heading>(Formerly Sec. 17-2k). Commissioner's submission of application for waiver from federal law or waiver renewal and proposed amendment to the Medicaid state plan. Legislative review. Public hearing. Procedural requirements</heading>
+          <subsection eId="17b_8__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The Commissioner of Social Services shall submit an application for a federal waiver or renewal of such waiver of any assistance program requirements, except such application pertaining to routine operational issues, and any proposed amendment to the Medicaid state plan to make a change in program requirements that would have required a waiver were it not for the passage of the Patient Protection and Affordable Care Act, P.L. 111-148, and the Health Care and Education Reconciliation Act of 2010, P.L. 111-152 to the joint standing committees of the General Assembly having cognizance of matters relating to human services and appropriations and the budgets of state agencies, and, for the waiver application required under section17b-312, the joint standing committee of the General Assembly having cognizance of matters relating to insurance, prior to the submission of such application or proposed amendment to the federal government. Not later than thirty days after the date of their receipt of such application or proposed amendment, the joint standing committees shall:</p>
+            </content>
+            <paragraph eId="17b_8__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>Hold a public hearing on the waiver application, or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_8__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>in the case of a proposed amendment to the Medicaid state plan, notify the Commissioner of Social Services whether or not said joint standing committees intend to hold a public hearing. Any notice to the commissioner indicating that the joint standing committees intend to hold a public hearing on a proposed amendment to the Medicaid state plan shall state the date on which the joint standing committees intend to hold such public hearing, which shall not be later than sixty days after the joint standing committees' receipt of the proposed amendment. At the conclusion of a public hearing held in accordance with the provisions of this section, the joint standing committees shall advise the commissioner of their approval, denial or modifications, if any, of the commissioner's waiver application or proposed amendment. If the joint standing committees advise the commissioner of their denial of the commissioner's waiver application or proposed amendment, the commissioner shall not submit the application for a federal waiver or proposed amendment to the federal government. If such committees do not concur, the committee chairpersons shall appoint a committee of conference which shall be composed of three members from each joint standing committee. At least one member appointed from each joint standing committee shall be a member of the minority party. The report of the committee of conference shall be made to each joint standing committee, which shall vote to accept or reject the report. The report of the committee of conference may not be amended. If a joint standing committee rejects the report of the committee of conference, that joint standing committee shall notify the commissioner of the rejection and the commissioner's waiver application or proposed amendment shall be deemed approved. If the joint standing committees accept the report, the committee having cognizance of matters relating to appropriations and the budgets of state agencies shall advise the commissioner</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_8__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The Commissioner of Social Services shall annually, not later than December fifteenth, notify the joint standing committee of the General Assembly having cognizance of matters relating to appropriations and the budgets of state agencies and the joint standing committee of the General Assembly having cognizance of matters relating to human services of potential Medicaid waivers and amendments to the Medicaid state plan that may result in a cost savings for the state. The commissioner shall notify the committees of the possibility of any Medicaid waiver application or proposed amendment to the Medicaid state plan that the commissioner is considering in developing a budget for the next fiscal year before the commissioner submits such budget for legislative approval.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_8__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Thirty days prior to submission of an application for a waiver from federal law, renewal of such waiver or proposed amendment to the joint standing committees of the General Assembly under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_8__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section, the Commissioner of Social Services shall publish a notice that the commissioner intends to seek such a waiver or waiver renewal, or submit a proposed amendment to the federal government in the Connecticut Law Journal and on the Department of Social Services' Internet web site, along with a summary of the provisions of the waiver application or the proposed amendment and the manner in which individuals may submit comments. The commissioner shall allow thirty days for written comments on the waiver application or proposed amendment prior to submission of the application for a waiver, waiver renewal or proposed amendment to the General Assembly under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_8__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section and shall include all written comments with the waiver, waiver renewal application or proposed amendment in the submission to the General Assembly.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_8__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>The commissioner shall include with any waiver application or proposed amendment submitted to the federal government pursuant to this section:</p>
+            </content>
+            <paragraph eId="17b_8__subsec_d__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>Any written comments received pursuant to subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_8__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of this section; and</p>
+            </content>
+            <paragraph eId="17b_8__subsec_c__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>any additional written comments submitted to the joint standing committees at such proceedings. The joint standing committees shall transmit any such materials to the commissioner for inclusion with any such waiver application or proposed amendment.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

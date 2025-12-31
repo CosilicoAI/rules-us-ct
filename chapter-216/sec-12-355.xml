@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-355"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-355"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-355"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-355/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-355/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-355/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-355/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_216">
+        <num>216</num>
+        <heading>Sales and Use Taxes</heading>
+        <section eId="sec_12_355">
+          <num>12-355</num>
+          <heading>Compounding of tax. Contingent remainders</heading>
+          <subsection eId="12_355__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>If it is impossible to compute the present value of any of the property transferred, or of any interest therein, or if the tax cannot be determined because of a contingency as to who will take, the Commissioner of Revenue Services may enter into an agreement with the fiduciary to compound the tax upon such terms as may be deemed equitable, and the payment of any amount agreed upon shall be in full satisfaction for the tax imposed by this chapter, and such amount shall be payable out of the property transferred. The fiduciary is authorized to enter into such agreements on behalf of the estate or trust without the formal authorization of the Probate Court provided by section45a-151.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_355__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>If such an agreement cannot be reached within thirty days after the mailing by the Commissioner of Revenue Services to the fiduciary of an offer to compromise the tax, said commissioner shall, if the return filed under the provisions of section12-359is correctly made out, make a computation of the tax, based upon the whole net taxable estate, upon the assumption that the contingencies will so resolve themselves as to lead to the highest tax possible under the provisions of this chapter, and the executor, trustee and transferee shall be liable for such tax as in other cases. Copies of such computation shall be filed, and further proceedings taken in connection therewith, in accordance with the provisions of section12-367. If, after such first computation and upon the determination of any of the contingencies, any part of the estate so passes as to lead to a lower tax, and if the fiduciary, within two years of such determination, notifies the Commissioner of Revenue Services thereof, the Commissioner of Revenue Services shall forthwith recompute the whole tax in the same manner as would have been done originally had the outcome of the contingencies in question been known. Copies of such recomputation shall be filed, and further proceedings taken in connection therewith, in accordance with the provisions of section12-367. Upon the final determination of the amount of tax due on the recomputation the commissioner shall certify to the Comptroller that a refund is due in an amount equal to the difference between the tax paid at the highest rate and the tax actually due as shown by the recomputation. Before certifying to the Comptroller that a refund is due, the commissioner shall determine whether any additional estate tax is due under section12-391on account of such recomputation, and, if the commissioner so determines, the commissioner shall reduce, but not below zero, the amount of the refund otherwise due by the amount of such additional estate tax. Such refund, as so</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

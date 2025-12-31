@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-107d"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-107d"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-107d"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-107d/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-107d/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-107d/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-107d/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_203">
+        <num>203</num>
+        <heading>Property Tax Assessment</heading>
+        <section eId="sec_12_107d">
+          <num>12-107d</num>
+          <heading>Regulations re evaluation of land as forest land. Implementation of standards and procedures. Certification requirements. Fees. Notice of termination of forest land classification. Application for classification as forest land. Appeal. Report to State Forester</heading>
+          <subsection eId="12_107d__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Not later than June 1, 2006, the Commissioner of Energy and Environmental Protection shall adopt regulations, in accordance with the provisions of chapter 54, regarding standards for forest stocking, distribution and conditions and procedures for evaluation by a certified forester of land proposed for classification as forest land. Standards and procedures regarding forest stocking, distribution and conditions and procedures for evaluation by a certified forester of land proposed for classification as forest land shall be implemented by the State Forester while the commissioner is in the process of establishing such regulations, provided notice of intent to adopt the regulations is published not later than twenty days after the date of implementation. The standards and procedures implemented by the State Forester shall be valid until June 1, 2006, or until regulations are adopted, whichever date is earlier.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_107d__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>A certified forester may evaluate land proposed for classification as forest land and attest to the qualifications of such land for classification as forest land, provided such certified forester has satisfactorily completed training by and obtained a certificate from the State Forester or his or her designee related to policies and standards for evaluating land proposed for classification as forest land and, in the opinion of the State Forester, the certified forester acts in conformance with such policies and standards.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_107d__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>An owner of land seeking classification of such land as forest land shall employ a certified forester to examine the land to determine if it conforms to forest stocking, distribution and condition standards established by the State Forester pursuant to subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_107d__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section. If the certified forester determines that such land conforms to such standards, such forester shall issue a report to the owner of the land pursuant to subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_107d__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>of this section and retain one copy of the report.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_107d__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Fees charged by a certified forester for services to examine land and determine if said land conforms to the standards of forest stocking, distribution and condition established by the State Forester shall not be contingent upon or otherwise influenced by the classification of the land as forest land or the failure of such land to qualify for said classification.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_107d__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>Upon termination of classification as forest land, the assessor of the municipality in which the land is located shall issue a notice of cancellation and provide a copy of such notice to the owner of the land and to the office of the assessor of any other municipality in which the owner's land is classified as forest land.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_107d__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>An owner of land may apply for its classification as forest land on any grand list of a municipality by filing a written application for such classification accompanied by a copy of the certified forester's report described in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_107d__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>of this section with the assessor thereof not earlier than thirty days before or later than thirty days after the assessment date and, if the assessor determines that the use of such land as forest land has not changed as of a date at or prior to the assessment date such assessor shall classify such land as forest land and include it as such on the grand list, provided in a year in which a revaluation of all real property in accordance with section12-62becomes effective such application may be filed not later than ninety days after such assessment date in such year.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_107d__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>A report issued by a certified forester pursuant to subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_107d__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of this section shall be on a form prescribed by the State Forester and shall set forth a description of the land, a description of the forest growth upon the land, a description of forest management activities recommended to be undertaken to maintain the land in a state of proper forest condition and such other information as the State Forester may require as measures of forest stocking, distribution and condition and shall include the name, address and certificate number of the certified forester and a signed, sworn statement that the certified forester has determined that the land proposed for classification conforms to the standards of forest stocking, distribution and condition established by the State Forester. An application to an assessor for classification of land as forest land shall be made upon a form prescribed by such assessor and approved by the Commissioner of Energy and Environmental Protection and shall set forth a description of the land and the date of the issuance of the certified forester's report and a statement of the potential liability for tax under the provisions of sections12-504ato12-504e, inclusive. The certified forester's report shall be signed and dated by the certified forester not later than October first and shall be attached to and made a part of such application.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_107d__subsec_h">
+            <num>(h)</num>
+            <content>
+              <p>Failure to file an application for classification of land as forest land within the time limit prescribed in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_107d__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>of this section and in the manner and form prescribed in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_107d__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>of this section shall be considered a waiver of the right to such classification on such assessment list.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_107d__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>The municipality within which land proposed for classification as forest land is situated or the owner of such land may appeal to the State Forester for a review of the findings of the certified forester as issued in the certified forester's report. Such appeal shall be filed with the State Forester not later than thirty business days after the issuance of the report and shall be brought by petition in writing. The State Forester shall review the report of the certified forester and any information the certified forester relied upon in developing his or her findings and may gather additional information at his or her discretion. The State Forester shall render the results of his or her review of the certified forester's report not later than sixty calendar days after the appeal was filed.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_107d__subsec_j">
+            <num>(j)</num>
+            <content>
+              <p>An owner of land aggrieved by the denial of any application to the assessor of a municipality for classification of land as forest land shall have the same rights and remedies for appeal and relief as are provided in the general statutes for taxpayers claiming to be aggrieved by the doings of assessors or boards of assessment appeals.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_107d__subsec_k">
+            <num>(k)</num>
+            <content>
+              <p>During the month of June each year the assessor of a municipality within which land classified as forest land is situated shall report to the State Forester, in a format prescribed by the State Forester, the total number of owners of land classified as farm land, forest land or open space land as of the most recent grand list and a listing of the parcels of land so classified showing the acreage of each parcel, the total acreage of all such parcels, the number of acres of each parcel classified as farm land, forest land or open space land, and the total acreage for all such parcels.
+See Sec. 12-63 re rule of valuation.
+See Sec. 12-96 et seq. re forest lands.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

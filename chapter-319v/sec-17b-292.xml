@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-292"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-292"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17b-292"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-292/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-292/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-292/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-292/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319v">
+        <num>319v</num>
+        <heading>Temporary Assistance for Needy Families</heading>
+        <section eId="sec_17b_292">
+          <num>17b-292</num>
+          <heading>HUSKY B. Eligibility. Expedited eligibility under HUSKY B. Presumptive eligibility under Medicaid. State-funded coverage for certain children not otherwise covered. Postpartum care</heading>
+          <subsection eId="17b_292__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>A child who resides in a household with household income that exceeds one hundred ninety-six per cent of the federal poverty level but does not exceed three hundred eighteen per cent of the federal poverty level may be eligible for benefits under HUSKY B. Until June 30, 2024, the Commissioner of Social Services shall, within available appropriations, provide state-funded medical assistance to any child twelve years of age and younger, regardless of immigration status,</p>
+            </content>
+            <paragraph eId="17b_292__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>with a household income that exceeds two hundred one per cent of the federal poverty level but does not exceed three hundred twenty-three per cent of the federal poverty level, and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_292__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>who does not otherwise qualify for Medicaid, the Children's Health Insurance Program, or an offer of affordable, employer-sponsored insurance, as defined in the Affordable Care Act, as an employee or a dependent of an employee. On and after July 1, 2024, the commissioner shall, within available appropriations, provide state-funded medical assistance to any child fifteen years of age and younger, regardless of immigration status, who qualifies pursuant to subdivisions</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_292__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_292__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>of this subsection. A child eligible for such assistance under this subsection shall continue to receive such assistance until such child is nineteen years of age, provided the child continues to meet the eligibility requirements prescribed in subdivisions</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_292__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_292__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>of this subsection. The provisions of section17b-265shall apply with respect to any medical assistance provided pursuant to this subsection.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_292__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Whenever a court or family support magistrate orders a noncustodial parent to provide health insurance for a child, such parent may provide for coverage under HUSKY B.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_292__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>To the extent allowed under federal law, the commissioner shall not pay for services or durable medical equipment under HUSKY B if the member has other insurance coverage for such services or equipment. If a HUSKY B member has limited benefit insurance coverage for services that are also covered under HUSKY B, the commissioner shall require such other coverage to pay for the goods or services prior to any payment under HUSKY B.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_292__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>On or after April 1, 2022, the commissioner shall extend medical assistance for postpartum care for twelve months after birth to a HUSKY B beneficiary, to the extent permissible under federal law. The commissioner shall amend the state plan for the Children's Health Insurance Program in accordance with the American Rescue Plan Act of 2021 to provide federal reimbursement to the state for such postpartum care extension and shall extend such coverage following federal approval. The commissioner shall take any other action necessary under federal law to maintain federal reimbursement for such postpartum coverage. A newborn child who otherwise meets the eligibility criteria for HUSKY B shall be eligible for benefits retroactive to his or her date of birth, provided an application is filed on behalf of the child not later than thirty days after such date. Any uninsured child born in a hospital in this state or in a border state hospital shall be enrolled on an expedited basis in HUSKY B, provided</p>
+            </content>
+            <paragraph eId="17b_292__subsec_d__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>the parent or caretaker relative of such child resides in this state, and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_292__subsec_d__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>the parent or caretaker relative of such child authorizes enrollment in the program. The commissioner shall pay any premium cost such household would otherwise incur for the first four months of coverage.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_292__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>The commissioner shall implement presumptive eligibility for children applying for Medicaid and may, if cost effective, implement presumptive eligibility for children in households with income not exceeding three hundred eighteen per cent of the federal poverty level applying for HUSKY B. Such presumptive eligibility determinations shall be in accordance with applicable federal law and regulations. The commissioner shall adopt regulations, in accordance with chapter 54, to establish standards and procedures for the designation of an organization as a qualified entity to grant presumptive eligibility. A qualified entity shall, at the time a presumptive eligibility determination is made, provide assistance to applicants with the completion and submission of an application for a full eligibility determination. In establishing such standards and procedures, the commissioner shall ensure the representation of state-wide and local organizations that provide services to children of all ages in each region of the state.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_292__subsec_f">
+            <num>(f)</num>
+            <heading>In accordance with 42 CFR 435</heading>
+            <content>
+              <p>1110, the commissioner shall provide Medicaid during a presumptive eligibility period to individuals who are determined presumptively eligible by a qualified hospital. A hospital making such a presumptive eligibility determination shall provide assistance to individuals in completing and submitting an application for full Medicaid benefits.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_292__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>The commissioner shall implement HUSKY B while in the process of adopting necessary policies and procedures in regulation form in accordance with the provisions of section17b-10.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

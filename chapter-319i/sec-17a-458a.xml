@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-458a"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-458a"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17a-458a"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-458a/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-458a/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-458a/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-458a/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319i">
+        <num>319i</num>
+        <heading>Connecticut HUSKY Plan</heading>
+        <section eId="sec_17a_458a">
+          <num>17a-458a</num>
+          <heading>Term “psychiatric disability” substituted for “mental illness”</heading>
+          <subsection eId="17a_458a__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Whenever the term “mental illness” is used or referred to in the following sections of the general statutes, the term “psychiatric disabilities” shall be substituted in lieu thereof:17a-474,17a-478,17a-479,17a-495, to17a-508, inclusive,17a-510to17a-513, inclusive,17a-515,17a-521,17a-523,17a-524,17a-526,17a-528,17a-540to17a-543, inclusive,17a-546,17a-582,17a-584,17a-586to17a-588, inclusive,17a-592,17a-593,17a-594,17a-596and17a-599.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_458a__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Whenever the term “mentally ill person” or “mentally ill persons” is used or referred to in the following sections of the general statutes, the term “person with psychiatric disabilities” or “persons with psychiatric disabilities”, as the context requires, shall be substituted in lieu thereof:17a-497to17a-501, inclusive,17a-504,17a-509,17a-514and17a-580.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_458a__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Whenever the term “state hospital for the mentally ill” is used in the following sections of the general statutes, the term “state hospital for persons with psychiatric disabilities” shall be substituted in lieu thereof:17a-499,17a-510and17a-517.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_458a__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Whenever the term “mentally ill” is used or referred to in the following sections of the general statutes, the term “a person with psychiatric disabilities” shall be substituted in lieu thereof:17a-514,17a-593,17a-594and17a-596.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_458a__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>Whenever the term “the mentally ill” is used or referred to in the following sections of the general statutes, the term “persons with psychiatric disabilities” shall be substituted in lieu thereof:17a-469,17a-474,17a-475,17a-479,17a-499,17a-501,17a-510,17a-521,17a-522and17a-523.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_458a__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>Whenever the term “is mentally ill” is used or referred to in the following sections of the general statutes, the term “has psychiatric disabilities” shall be substituted in lieu thereof:17a-497,17a-498,17a-502,17a-503,17a-504,17a-508,17a-526,17a-566,17a-569and17a-580.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_458a__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>Whenever the term “is not mentally ill” is used or referred to in the following sections of the general statutes, the term “does not have psychiatric disabilities” shall be substituted in lieu thereof:17a-504,17a-510,17a-514and17a-580.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_458a__subsec_h">
+            <num>(h)</num>
+            <content>
+              <p>Whenever the term “be mentally ill” is used or referred to in the following sections of the general statutes, the term “have psychiatric disabilities” shall be substituted in lieu thereof:17a-519,17a-525,17a-528and17a-567.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

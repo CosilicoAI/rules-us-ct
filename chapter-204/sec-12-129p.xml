@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-129p"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-129p"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-129p"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-129p/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-129p/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-129p/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-129p/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_204">
+        <num>204</num>
+        <heading>Local Levy and Collection of Taxes</heading>
+        <section eId="sec_12_129p">
+          <num>12-129p</num>
+          <heading>Maximum benefits for homeowner receiving tax relief under section 12-129b</heading>
+          <subsection eId="12_129p__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Notwithstanding the provisions of sections12-129bto12-129d, inclusive, if the amount of tax benefit calculated in accordance with said sections and provided thereunder for any homeowner qualified for the program of tax relief under said sections is equivalent to two thousand dollars or more in the assessment year commencing October 1, 1985, such benefit shall not, in any subsequent assessment year exceed the amount of such benefit to which such homeowner was entitled for said assessment year commencing October 1, 1985, and additionally, if the amount of such tax benefit for any homeowner so qualified is less than two thousand dollars in the assessment year commencing October 1, 1985, the amount of such homeowner's benefit shall not, in any subsequent assessment year, exceed two thousand dollars.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_129p__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>In any municipality which, as of July 6, 1987, has deferred any part of the amount of increased assessed value of real property pursuant to subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_129p__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>of section12-62aof the general statutes, revision of 1958, revised to 2005, the maximum benefit to which any homeowner shall be entitled pursuant to subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_129p__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section shall be the amount to which such homeowner is entitled pursuant to sections12-129bto12-129d, inclusive, in the first assessment year in which no deferral of assessed value occurs, and no maximum benefit shall be imposed in any year prior to such first assessment year in which no deferral occurs.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

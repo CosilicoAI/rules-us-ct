@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-243"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-243"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-243"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-243/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-243/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-243/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-243/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_209">
+        <num>209</num>
+        <heading>Taxes on Corporations</heading>
+        <section eId="sec_12_243">
+          <num>12-243</num>
+          <heading>Definitions</heading>
+          <subsection eId="12_243__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>“Air carrier” means any person, firm, partnership, corporation, limited liability company, association, trustee, receiver or assignee which engages in the transportation by air of persons or property for hire and which makes landings or takeoffs or air pickups or deliveries in this state;</p>
+            </content>
+          </subsection>
+          <subsection eId="12_243__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>“Aircraft arrivals and departures” means scheduled landings and takeoffs in this state of the aircraft of an air carrier, scheduled air pickups and deliveries in this state by the aircraft of an air carrier, and, in the case of nonscheduled operations, shall include all landings and takeoffs, pickups and deliveries;</p>
+            </content>
+          </subsection>
+          <subsection eId="12_243__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>“Flight equipment” means full equipment of aircraft for flight;</p>
+            </content>
+          </subsection>
+          <subsection eId="12_243__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>“Originating revenue” within this state means revenue to an air carrier from the transportation of revenue passengers and revenue cargo, exclusive of express and mail, first received by such carrier either as originating or connecting traffic at airports within this state. When it cannot otherwise be determined, the revenue of an air carrier from the transportation of revenue cargo attributable to a particular airport for any period shall be computed by multiplying the pounds of revenue cargo first received by such air carrier at such airport during such period by the average revenue per pound received by such air carrier from the transportation of revenue cargo over its entire system for the same period;</p>
+            </content>
+          </subsection>
+          <subsection eId="12_243__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>“Revenue tons handled” by an air carrier at an airport means the weight in tons of revenue passengers, at two hundred pounds per passenger, and revenue cargo first received either as originating or connecting traffic or finally discharged by such carrier at such airport.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-227"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-227"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-227"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-227/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-227/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-227/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-227/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_208">
+        <num>208</num>
+        <heading>Estate Taxes</heading>
+        <section eId="sec_12_227">
+          <num>12-227</num>
+          <heading>Interest on refunds</heading>
+          <subsection eId="12_227__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>To any refunds granted as a result of overpayment of any tax imposed under this chapter or chapter 209, there shall, except as otherwise provided in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_227__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>or</p>
+            </content>
+          </subsection>
+          <subsection eId="12_227__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of this section, be added interest at the rate of two-thirds of one per cent for each month and fraction of a month from the date of making such overpayment to a date, to be determined by the Commissioner of Revenue Services, preceding the date of the refund check by not more than thirty days.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_227__subsec_b">
+            <num>(b)</num>
+            <paragraph eId="12_227__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>Notwithstanding any provision of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_227__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section, in the case of an overpayment of tax reported on a tax return, no interest shall be allowed or paid under this section on such overpayment for any month or fraction thereof before (A) the ninety-first day after the last day prescribed for filing the tax return on which such overpayment was reported, determined without regard to any extension of time for filing, or (B) the ninety-first day after the date such return was filed, whichever is later.</p>
+            </content>
+            <paragraph eId="12_227__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>Notwithstanding any provision of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_227__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section, in the case of an overpayment of tax reported on an amended tax return, no interest shall be allowed or paid under this section on such overpayment for any month or fraction thereof before the ninety-first day after the date such amended tax return was filed. For purposes of this subsection, any amended return filed before the last day prescribed for filing the tax return for such year, determined without regard to any extension of time for filing, shall be considered as filed on such last day.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_227__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>For purposes of this section, a tax return or amended tax return shall not be treated as filed until it is filed in processible form. A tax return or amended tax return is in a processible form if such return is filed on a permitted form, and such return contains the taxpayer's name, address and identifying number and the required signatures, and sufficient required information, whether on the return or on required attachments, to permit the mathematical verification of tax liability shown on the return.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

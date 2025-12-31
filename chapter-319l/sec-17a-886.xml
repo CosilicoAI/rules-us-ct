@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-886"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-886"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17a-886"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-886/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-886/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-886/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-886/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319l">
+        <num>319l</num>
+        <heading>Nursing Home Financial Assistance</heading>
+        <section eId="sec_17a_886">
+          <num>17a-886</num>
+          <heading>Community Ombudsman program. Appointment of Community Ombudsman. Authority. Duties. Reporting</heading>
+          <subsection eId="17a_886__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>As used in this section,</p>
+            </content>
+            <paragraph eId="17a_886__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>“authorized representative” means a person designated by a home care client, in writing, to act on such client's behalf, including, but not limited to, a health care representative appointed pursuant to section19a-575aor19a-577;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_886__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>“home care” means long-term services and supports provided to adults in a home or community-based program administered by the Department of Social Services;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_886__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>“home care provider” means a person or organization, including, but not limited to, (A) a home health agency or hospice agency, as defined in section19a-490, or (B) a homemaker-companion agency, as defined in section20-670; and</p>
+              </content>
+              <subparagraph eId="17a_886__subsec_a__subsec_3__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>a home health agency or hospice agency, as defined in section19a-490, or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17a_886__subsec_a__subsec_3__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>a homemaker-companion agency, as defined in section20-670; and</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="17a_886__subsec_a__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>“long-term services and supports” means (A) health, health-related, personal care and social services provided to persons with physical, cognitive or mental health conditions or disabilities to facilitate optimal functioning and quality of life, or (B) hospice care provided to persons who may be nearing the end of their lives.</p>
+              </content>
+              <subparagraph eId="17a_886__subsec_a__subsec_4__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>health, health-related, personal care and social services provided to persons with physical, cognitive or mental health conditions or disabilities to facilitate optimal functioning and quality of life, or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17a_886__subsec_a__subsec_4__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>hospice care provided to persons who may be nearing the end of their lives.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="17a_886__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>There is established a Community Ombudsman program within the independent Office of the Long-Term Care Ombudsman, established pursuant to section17a-405. Not later than October 1, 2022, the State Ombudsman appointed pursuant to said section shall, within available appropriations, appoint a Community Ombudsman who shall have access to data pertaining to long-term services and supports provided by a home care provider to a client, including, but not limited to, medical, social and other data relating to such client, provided</p>
+            </content>
+            <paragraph eId="17a_886__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>such client or such client's authorized representative provides written consent to such access,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_886__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>if such client is incapable of providing such consent due to a physical, cognitive or mental health condition or disability, the client communicates consent orally, visually or through the use of auxiliary aids and services, or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_886__subsec_b__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>if such client is incapable of providing such consent as described in subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_886__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>of this subsection, and has no authorized representative, the Community Ombudsman determines the data is necessary to investigate a complaint concerning such client's care.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17a_886__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The Community Ombudsman program may:</p>
+            </content>
+            <paragraph eId="17a_886__subsec_c__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>Identify, investigate, refer and resolve complaints about home care services;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_886__subsec_c__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>Raise public awareness about home care and the program;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_886__subsec_c__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>Promote access to home care services;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_886__subsec_c__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>Advocate for long-term care options;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_886__subsec_c__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>Coach individuals in self advocacy; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_886__subsec_c__subsec_6">
+              <num>(6)</num>
+              <content>
+                <p>Provide referrals to home care clients for legal, housing and social services.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17a_886__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>The Office of the Long-Term Care Ombudsman shall oversee the Community Ombudsman program and provide administrative and organizational support by:</p>
+            </content>
+            <paragraph eId="17a_886__subsec_d__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>Developing and implementing a public awareness strategy about the Community Ombudsman program;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_886__subsec_d__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>Applying for, or working in collaboration with other state agencies to apply for, available federal funding for Community Ombudsman services;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_886__subsec_d__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>Collaborating with persons administering other state programs and services to design and implement an agenda to promote the rights of elderly persons and persons with disabilities;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_886__subsec_d__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>Providing information to public and private agencies, elected and appointed officials, the media and other persons regarding the problems and concerns of older adults and people with disabilities receiving home care;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_886__subsec_d__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>Advocating for improvements in the home and community-based long-term services and supports system; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_886__subsec_d__subsec_6">
+              <num>(6)</num>
+              <content>
+                <p>Recommending changes in federal, state and local laws, regulations, policies and actions pertaining to the health, safety, welfare and rights of people receiving home care.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17a_886__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>Not later than December 1, 2023, and annually thereafter, the State Ombudsman shall submit a report, in accordance with the provisions of section11-4a, to the joint standing committees of the General Assembly having cognizance of matters relating to aging, human services and public health on</p>
+            </content>
+            <paragraph eId="17a_886__subsec_e__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>implementation of the public awareness strategy relating to the Community Ombudsman program,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_886__subsec_e__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>the number of persons served in the program,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_886__subsec_e__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>the number of complaints regarding home care filed with the program,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_886__subsec_e__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>the disposition of such complaints, and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_886__subsec_e__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>any gaps in services and resources needed to address such gaps.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17a_886__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>The State Ombudsman and the Community Ombudsman shall ensure that any health data obtained pursuant to subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_886__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section relating to a home care client is protected in accordance with the Health Insurance Portability and Accountability Act of 1996, P.L. 104-191, as amended from time to time.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_886__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>The State Ombudsman may assign a regional community ombudsman the duties and responsibilities of a regional ombudsman for the Office of the Long-Term Care Ombudsman, as deemed necessary by the State Ombudsman.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

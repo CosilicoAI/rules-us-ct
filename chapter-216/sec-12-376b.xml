@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-376b"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-376b"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-376b"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-376b/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-376b/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-376b/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-376b/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_216">
+        <num>216</num>
+        <heading>Sales and Use Taxes</heading>
+        <section eId="sec_12_376b">
+          <num>12-376b</num>
+          <heading>Optional payment in installments up to ten years when interest in closely held business exceeds thirty-five per cent of gross estate</heading>
+          <subsection eId="12_376b__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Whenever the value of an interest in a closely held business, as defined in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_376b__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section, included in the gross estate of any decedent exceeds an amount determined as thirty-five per cent of the value of such gross estate, the fiduciary of such estate may elect to pay all or part of the tax imposed under this chapter in equal annual installments but not in excess of ten such installments. The maximum amount of tax which may be paid in such installments shall be an amount which bears the same ratio to the tax imposed under this chapter with respect to such decedent's estate as the value of such interest in a closely held business bears to the total value of such gross estate. The amount of tax paid in such installments shall bear interest in relation to the unpaid portion of such tax from the expiration of six months after the death of the decedent until such tax is paid at the rate of one per cent per month or fraction thereof. If the fiduciary of such estate elects to pay such tax or any portion thereof in accordance with this section, notice of such election shall be filed in writing with the Commissioner of Revenue Services not later than six months after the date of death of the decedent. The first such installment payment, including interest, shall be due not later than sixty days immediately following determination by said commissioner of the amount of tax applicable to such estate under this chapter. If such interest in a closely held business is transferred from such estate or if the fiduciary fails to make the first installment payment, including interest, or if the fiduciary fails to make any subsequent installment payment, including interest, within twelve months immediately following such preceding payment, such estate shall cease to be eligible for the payment procedure allowed in accordance with this section. Whenever the tax imposed under this chapter is paid in installments as provided in this section, the fiduciary of the estate shall deposit with the Commissioner of Revenue Services a surety bond, or such other form of </p>
+            </content>
+          </subsection>
+          <subsection eId="12_376b__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>For purposes of this section “closely held business” means</p>
+            </content>
+            <paragraph eId="12_376b__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>a trade or business carried on as a sole proprietorship,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_376b__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>a trade or business carried on as a partnership, provided (A) twenty per cent or more of the total capital interest in such partnership is included in determining the gross estate of the decedent or (B) such partnership had fifteen or fewer partners at the time of the decedent's death, or</p>
+              </content>
+              <subparagraph eId="12_376b__subsec_b__subsec_2__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>twenty per cent or more of the total capital interest in such partnership is included in determining the gross estate of the decedent or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_376b__subsec_b__subsec_2__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>such partnership had fifteen or fewer partners at the time of the decedent's death, or</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_376b__subsec_b__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>a trade or business carried on as a corporation, provided (A) twenty per cent or more in value of the voting stock of such corporation is included in determining the gross estate of the decedent or (B) such corporation had fifteen or fewer shareholders.</p>
+              </content>
+              <subparagraph eId="12_376b__subsec_b__subsec_3__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>twenty per cent or more in value of the voting stock of such corporation is included in determining the gross estate of the decedent or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_376b__subsec_b__subsec_3__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>such corporation had fifteen or fewer shareholders.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_376b__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The provisions of this section shall be applicable to the estate of any person whose death occurs on or after July 1, 1985. The estate of any person whose death occurs prior to July 1, 1985, shall be subject to the provisions of this chapter in effect at the time of such person's death.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

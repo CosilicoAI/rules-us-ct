@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-195a"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-195a"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-195a"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-195a/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-195a/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-195a/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-195a/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_205">
+        <num>205</num>
+        <heading>Tax Liens</heading>
+        <section eId="sec_12_195a">
+          <num>12-195a</num>
+          <heading>Personal property tax liens: Definitions</heading>
+          <subsection eId="12_195a__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>“Goods” means goods as defined in subdivision</p>
+            </content>
+            <paragraph eId="12_195a__subsec_a__subsec_44">
+              <num>(44)</num>
+              <content>
+                <p>of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_195a__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of section42a-9-102;</p>
+            </content>
+          </subsection>
+          <subsection eId="12_195a__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>“Proceeds” means proceeds as defined in subdivision</p>
+            </content>
+            <paragraph eId="12_195a__subsec_b__subsec_64">
+              <num>(64)</num>
+              <content>
+                <p>of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_195a__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of section42a-9-102;</p>
+            </content>
+          </subsection>
+          <subsection eId="12_195a__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>“Debtor” means taxpayer;</p>
+            </content>
+          </subsection>
+          <subsection eId="12_195a__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>“Secured party” means municipality;</p>
+            </content>
+          </subsection>
+          <subsection eId="12_195a__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>“Collateral” means property which is the subject of the lien;</p>
+            </content>
+          </subsection>
+          <subsection eId="12_195a__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>“Obligations” means amount of tax and accrued interest claimed to be due by the municipality by the lien;</p>
+            </content>
+          </subsection>
+          <subsection eId="12_195a__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>“Default” means the date of filing of notice of a tax lien;</p>
+            </content>
+          </subsection>
+          <subsection eId="12_195a__subsec_h">
+            <num>(h)</num>
+            <content>
+              <p>“Person” means any individual, trust, partnership, association, company, limited liability company or corporation;</p>
+            </content>
+          </subsection>
+          <subsection eId="12_195a__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>“Purchase money security interest” means purchase money security interest as defined in section42a-9-103a.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-81m"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-81m"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-81m"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-81m/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-81m/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-81m/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-81m/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_203">
+        <num>203</num>
+        <heading>Property Tax Assessment</heading>
+        <section eId="sec_12_81m">
+          <num>12-81m</num>
+          <heading>Municipal option to abate up to fifty per cent of property taxes of dairy farm, fruit orchard, vegetable, nursery, nontraditional or tobacco farm or commercial lobstering business operated on maritime heritage land</heading>
+          <content>
+            <p>Sec. 12-81m. Municipal option to abate up to fifty per cent of property taxes of dairy farm, fruit orchard, vegetable, nursery, nontraditional or tobacco farm or commercial lobstering business operated on maritime heritage land.A municipality may, by vote of its legislative body or, in a municipality where the legislative body is a town meeting, by vote of the board of selectmen, and by vote of its board of finance, abate up to fifty per cent of the property taxes of any of the following properties provided such property is maintained as a business: (1) Dairy farm, (2) fruit orchard, including a vineyard for the growing of grapes for wine, (3) vegetable farm, (4) nursery farm, (5) any farm which employs nontraditional farming methods, including, but not limited to, hydroponic farming, (6) tobacco farms, or (7) commercial lobstering businesses operated on maritime heritage land, as defined in section12-107b. Such a municipality may also establish a recapture in the event of sale provided such recapture shall not exceed the original amount of taxes abated and may not go back further than ten years. For purposes of this section, the municipality may include in the abatement for such fruit orchard any building for seasonal residential use by workers in such orchard which is adjacent to the fruit orchard itself, but shall not include any residence of the person receiving such abatement.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

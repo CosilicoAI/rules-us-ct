@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-144b"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-144b"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-144b"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-144b/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-144b/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-144b/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-144b/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_204">
+        <num>204</num>
+        <heading>Local Levy and Collection of Taxes</heading>
+        <section eId="sec_12_144b">
+          <num>12-144b</num>
+          <heading>Application of tax payments</heading>
+          <content>
+            <p>Sec. 12-144b. Application of tax payments.Except as otherwise provided by the general statutes, all payments made to or recovered by the municipality shall be applied (1) first, for any outstanding unsecured taxes, to expenses concerning such unsecured taxes, including attorney's fees, collection expenses, collector's fees and other expenses and charges related to all delinquencies owed by the party liable therefor before the interest accrued, then to the principal of such outstanding unsecured taxes, paying the oldest such tax first, and (2) for any outstanding secured taxes, first to expenses concerning such secured taxes, including attorney's fees, collection expenses, collector's fees and other expenses and charges related to all delinquencies owed by the party liable therefor before the interest accrued, then to the principal of such outstanding secured taxes, paying the oldest such tax first. If there is litigation pending between the municipality and the party liable for the oldest outstanding tax on such property concerning such oldest outstanding tax, such tax payment shall only be applied to the oldest outstanding tax on such property which is not involved in such litigation, provided this section shall not apply to tax payments tendered by third parties pursuant to contract or by operation of law. The municipality shall follow written instructions from a party liable for taxes on more than one property as to which property or properties a specific payment shall be applied. The municipality shall not be bound by any notation on or accompanying a payment that purports to be payment in full, proposes to waive any rights or powers of the municipality, directs application of the payment in any manner that contradicts any applicable statute or ordinance or is otherwise contrary to law.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

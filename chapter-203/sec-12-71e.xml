@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-71e"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-71e"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-71e"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-71e/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-71e/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-71e/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-71e/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_203">
+        <num>203</num>
+        <heading>Property Tax Assessment</heading>
+        <section eId="sec_12_71e">
+          <num>12-71e</num>
+          <heading>*(See end of section for amended version and effective date.) Motor vehicle mill rate</heading>
+          <subsection eId="12_71e__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Notwithstanding the provisions of any special act, municipal charter or home rule ordinance,</p>
+            </content>
+            <paragraph eId="12_71e__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>for the assessment year commencing October 1, 2016, the mill rate for motor vehicles shall not exceed 39 mills,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_71e__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>for the assessment years commencing October 1, 2017, to October 1, 2020, inclusive, the mill rate for motor vehicles shall not exceed 45 mills, and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_71e__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>for the assessment year commencing October 1, 2021, and each assessment year thereafter, the mill rate for motor vehicles shall not exceed 32.46 mills.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_71e__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Any municipality or district may establish a mill rate for motor vehicles that is different from its mill rate for real property and personal property other than motor vehicles to comply with the provisions of this section. No district or borough may set a motor vehicle mill rate that if combined with the motor vehicle mill rate of the town, city, consolidated town and city or consolidated town and borough in which such district or borough is located would result in a combined motor vehicle mill rate</p>
+            </content>
+            <paragraph eId="12_71e__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>above 39 mills for the assessment year commencing October 1, 2016,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_71e__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>above 45 mills for the assessment years commencing October 1, 2017, to October 1, 2020, inclusive, or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_71e__subsec_b__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>above 32.46 mills for the assessment year commencing October 1, 2021, and each assessment year thereafter.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_71e__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Notwithstanding the provisions of any special act, municipal charter or home rule ordinance, a municipality or district that set a motor vehicle mill rate prior to May 7, 2022, for the assessment year commencing October 1, 2021, may, by vote of its legislative body, or if the legislative body is a town meeting, the board of selectmen, revise such mill rate to meet the requirements of this section, provided such revision occurs not later than June 15, 2022.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_71e__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Notwithstanding the provisions of section12-112, any board of assessment appeals of a municipality that mailed or distributed, prior to October 31, 2017, bills to taxpayers for motor vehicle property taxes based on assessments made for the assessment year commencing October 1, 2016, shall hear or entertain any appeals related to such assessments not later than December 15, 2017.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_71e__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>For the purposes of this section, “municipality” means any town, city, borough, consolidated town and city, consolidated town and borough and “district” means any district, as defined in section7-324.
+*Note:On and after July 1, 2025, this section, as amended by section 13 of public act 24-1 of the June special session, is to read as follows:
+“Sec. 12-71e. Motor vehicle mill rate.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_71e__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Notwithstanding the provisions of any special act, municipal charter or home rule ordinance,</p>
+            </content>
+            <paragraph eId="12_71e__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>for the assessment year commencing October 1, 2016, the mill rate for motor vehicles shall not exceed 39 mills,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_71e__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>for the assessment years commencing October 1, 2017, to October 1, 2020, inclusive, the mill rate for motor vehicles shall not exceed 45 mills, and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_71e__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>for the assessment year commencing October 1, 2021, and each assessment year thereafter, the mill rate for motor vehicles shall not exceed 32.46 mills.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_71e__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Any municipality or district may establish a mill rate for motor vehicles that is equal to or lower than 32.46 mills, including zero mills. Such mill rate may be different from the mill rate for real property and personal property other than motor vehicles to comply with the provisions of this section, provided the mill rate for motor vehicles is lower than the mill rate for real property and personal property. No district or borough may set a motor vehicle mill rate that if combined with the motor vehicle mill rate of the town, city, consolidated town and city or consolidated town and borough in which such district or borough is located would result in a combined motor vehicle mill rate</p>
+            </content>
+            <paragraph eId="12_71e__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>above 39 mills for the assessment year commencing October 1, 2016,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_71e__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>above 45 mills for the assessment years commencing October 1, 2017, to October 1, 2020, inclusive, or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_71e__subsec_b__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>above 32.46 mills for the assessment year commencing October 1, 2021, and each assessment year thereafter.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_71e__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Notwithstanding the provisions of any special act, municipal charter or home rule ordinance, a municipality or district that set a motor vehicle mill rate prior to May 7, 2022, for the assessment year commencing October 1, 2021, may, by vote of its legislative body, or if the legislative body is a town meeting, the board of selectmen, revise such mill rate to meet the requirements of this section, provided such revision occurs not later than June 15, 2022.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_71e__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Notwithstanding the provisions of section 12-112, any board of assessment appeals of a municipality that mailed or distributed, prior to October 31, 2017, bills to taxpayers for motor vehicle property taxes based on assessments made for the assessment year commencing October 1, 2016, shall hear or entertain any appeals related to such assessments not later than December 15, 2017.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_71e__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>The Secretary of the Office of Policy and Management shall notify the chief executive officer of each municipality:</p>
+            </content>
+            <paragraph eId="12_71e__subsec_e__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>Annually, (A) of the municipality's option to reduce the mill rate for motor vehicles to lower than 32.46 mills, including zero mills, and (B) that such mill rate may be different from the mill rate for real property and personal property other than motor vehicles to comply with the provisions of this section, provided the mill rate for motor vehicles is lower than the mill rate for real property and personal property; and</p>
+              </content>
+              <subparagraph eId="12_71e__subsec_e__subsec_1__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>of the municipality's option to reduce the mill rate for motor vehicles to lower than 32.46 mills, including zero mills, and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_71e__subsec_e__subsec_1__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>that such mill rate may be different from the mill rate for real property and personal property other than motor vehicles to comply with the provisions of this section, provided the mill rate for motor vehicles is lower than the mill rate for real property and personal property; and</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_71e__subsec_e__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>In advance of the implementation of a municipality's revaluation pursuant to section 12-62, of the municipality's option to consider and evaluate the reduction of the mill rate for motor vehicles in the same fiscal year in which the revaluation is implemented.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_71e__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>For the purposes of this section, “municipality” means any town, city, borough, consolidated town and city, consolidated town and borough and “district” has the same meaning as provided in section 7-324.”
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

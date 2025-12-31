@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-252"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-252"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17b-252"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-252/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-252/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-252/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-252/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319v">
+        <num>319v</num>
+        <heading>Temporary Assistance for Needy Families</heading>
+        <section eId="sec_17b_252">
+          <num>17b-252</num>
+          <heading>(Formerly Sec. 17-12q). Connecticut Partnership for Long-Term Care</heading>
+          <content>
+            <p>Sec. 17b-252. (Formerly Sec. 17-12q). Connecticut Partnership for Long-Term Care.The Office of Policy and Management shall coordinate a program entitled the Connecticut Partnership for Long-Term Care whereby private insurance and Medicaid, or its successor program, funds shall be combined to finance long-term care. Under such program, an individual may purchase a precertified long-term care insurance policy in an amount commensurate with his assets. Notwithstanding any provision of the general statutes, the resources of such an individual, to the extent such resources are equal to the amount of long-term care insurance benefit payments as provided in section17b-253, shall not be considered by the Department of Social Services in a determination of his eligibility for Medicaid, or its successor program, or in any subsequent recovery by the state of a payment for medical services.
+See Sec. 17a-861 re outreach program.
+See Sec. 17b-253 re amendments to Medicaid regulations and state plan, and regulations re determining eligibility of applicants for Medicaid and coverage requirements for long-term care benefits.
+See Sec. 17b-254 re foundation funds and federal approval and report to General Assembly.
+See Sec. 38a-475 re precertification of long-term care insurance policies.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

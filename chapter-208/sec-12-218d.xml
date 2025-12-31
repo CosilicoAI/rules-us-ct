@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-218d"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-218d"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-218d"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-218d/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-218d/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-218d/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-218d/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_208">
+        <num>208</num>
+        <heading>Estate Taxes</heading>
+        <section eId="sec_12_218d">
+          <num>12-218d</num>
+          <heading>Restriction on the deductibility of interest expenses or costs related to certain transactions with related members</heading>
+          <subsection eId="12_218d__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>As used in this section:</p>
+            </content>
+            <paragraph eId="12_218d__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>“Affiliated group” has the same meaning as in Section 1504 of the Internal Revenue Code.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_218d__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>“Interest expenses and costs” means amounts directly or indirectly allowed as deductions under Section 163 of the Internal Revenue Code.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_218d__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>“Related member” means a person that, with respect to the taxpayer during all or any portion of the taxable year, is: (A) A related entity, as defined in this subsection, (B) a component member, as defined in Section 1563</p>
+              </content>
+              <subparagraph eId="12_218d__subsec_a__subsec_3__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>A related entity, as defined in this subsection,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_218d__subsec_a__subsec_3__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>a component member, as defined in Section 1563</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_218d__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of the Internal Revenue Code, (C) a person to or from whom there is attribution of stock ownership in accordance with Section 1563</p>
+            </content>
+          </subsection>
+          <subsection eId="12_218d__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>of the Internal Revenue Code, other than a statutory business trust of which each beneficiary is not a related entity to the taxpayer, or (D) a person that, notwithstanding its form of organization, bears the same relationship to the taxpayer as a person described in subparagraphs (A) to (C), inclusive, of this subdivision.</p>
+            </content>
+            <paragraph eId="12_218d__subsec_e__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>“Related entity” means (A) a stockholder who is an individual, or a member of the stockholder's family enumerated in Section 318 of the Internal Revenue Code, if the stockholder and the members of the stockholder's family own, directly, indirectly, beneficially or constructively, in the aggregate, at least fifty per cent of the value of the taxpayer's outstanding stock; (B) a stockholder, or a stockholder's partnership, limited liability company, estate, trust or corporation, if the stockholder and the stockholder's partnerships, limited liability companies, estates, trusts and corporations own directly, indirectly, beneficially or constructively, in the aggregate, at least fifty per cent of the value of the taxpayer's outstanding stock; or (C) a corporation, or a party related to the corporation in a manner that would require an attribution of stock from the corporation to the party or from the party to the corporation under the attribution rules of the Internal Revenue Code, if the taxpayer owns, directly, indirectly, beneficially or constructively, at least fifty per cent of the value of the corporation's outstanding stock. The attribution rules of the Internal Revenue Code shall apply for purposes of determining whether the ownership requirements of this subdivision have been met.</p>
+              </content>
+              <subparagraph eId="12_218d__subsec_e__subsec_4__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>a stockholder who is an individual, or a member of the stockholder's family enumerated in Section 318 of the Internal Revenue Code, if the stockholder and the members of the stockholder's family own, directly, indirectly, beneficially or constructively, in the aggregate, at least fifty per cent of the value of the taxpayer's outstanding stock;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_218d__subsec_e__subsec_4__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>a stockholder, or a stockholder's partnership, limited liability company, estate, trust or corporation, if the stockholder and the stockholder's partnerships, limited liability companies, estates, trusts and corporations own directly, indirectly, beneficially or constructively, in the aggregate, at least fifty per cent of the value of the taxpayer's outstanding stock; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_218d__subsec_e__subsec_4__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>a corporation, or a party related to the corporation in a manner that would require an attribution of stock from the corporation to the party or from the party to the corporation under the attribution rules of the Internal Revenue Code, if the taxpayer owns, directly, indirectly, beneficially or constructively, at least fifty per cent of the value of the corporation's outstanding stock. The attribution rules of the Internal Revenue Code shall apply for purposes of determining whether the ownership requirements of this subdivision have been met.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_218d__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>For purposes of computing its net income under section12-217, a corporation shall add back otherwise deductible interest expenses and costs directly or indirectly paid, accrued or incurred to, or in connection directly or indirectly with one or more direct or indirect transactions with, one or more related members.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_218d__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The adjustments required in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_218d__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section shall not apply to an otherwise deductible interest expense or cost if the corporation establishes by clear and convincing evidence, as determined by the commissioner, that:</p>
+            </content>
+            <paragraph eId="12_218d__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>A principal purpose of the transaction giving rise to the payment of interest was not to avoid payment of taxes due under this chapter;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_218d__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>the interest is paid pursuant to a contract that reflects an arm's length rate of interest and terms; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_218d__subsec_b__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>either (A)</p>
+              </content>
+              <subparagraph eId="12_218d__subsec_b__subsec_3__subsec_A">
+                <num>(A)</num>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_218d__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>the related member was subject to tax on its net income in this state or another state or possession of the United States or a foreign nation; (ii) a measure of said tax included the interest received from the corporation; and (iii) the rate of tax applied to the interest received by the related member is no less than the statutory rate of tax applied to the corporation under section12-214, without regard to subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_218d__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of section12-214, minus three percentage points, or (B) the related member is a company subject to tax under chapter 207 or comparable tax under the laws of another state.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_218d__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>The adjustments required in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_218d__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section shall not apply in any of the following circumstances:</p>
+            </content>
+            <paragraph eId="12_218d__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>The corporation establishes by clear and convincing evidence, as determined by the commissioner, that the adjustments are unreasonable.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_218d__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>The corporation and the commissioner agree in writing to the application or use of an alternative method of determining the combined measure of the tax, provided the Commissioner of Revenue Services shall consider approval of such petition only in the event that the petitioners have clearly established to the satisfaction of said commissioner that there are substantial intercorporate business transactions among such included corporations and that the proposed alternative method of determining the combined measure of the tax accurately reflects the activity, business, income or capital of the taxpayers within the state.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_218d__subsec_b__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>The corporation elects, on forms authorized for such purpose by the commissioner, to calculate its tax on a unitary basis including all members of the unitary group, provided there are substantial intercorporate business transactions among such included corporations. Such election to file on a unitary basis shall be irrevocable for and applicable for five successive income years, but shall not be applicable to income years commencing on or after January 1, 2016. Nothing in this subsection shall be construed to limit or negate the commissioner's authority to otherwise enter into agreements and compromises otherwise allowed by law.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_218d__subsec_b__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>The corporation and the related member are both members of a combined group required to file a combined unitary tax return pursuant to section12-222.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_218d__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>The adjustments required in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_218d__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section shall not apply if interest is paid to a related member located in a country with which the United States has a comprehensive income tax treaty.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_218d__subsec_f">
+            <num>(f)</num>
+            <paragraph eId="12_218d__subsec_f__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>Gross income, as defined in section12-213, shall not include any amount received or accrued from a related member that is added back to the preapportionment income of such related member pursuant to subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_218d__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section.</p>
+            </content>
+            <paragraph eId="12_218d__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>The receipts factor determined under section12-218or12-218bshall not include any amount received or accrued from a related member that is added back to the preapportionment income of such related member pursuant to subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_218d__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_218d__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>Nothing in this section shall require a corporation to add to its net income more than once any amount of interest expenses and costs that the corporation pays, accrues or incurs to a related member described in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_218d__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_218d__subsec_h">
+            <num>(h)</num>
+            <content>
+              <p>Nothing in this section shall be construed to limit or negate the commissioner's authority to make adjustments under section12-221aor12-226a.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

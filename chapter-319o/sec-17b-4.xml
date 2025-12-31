@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-4"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-4"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17b-4"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-4/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-4/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-4/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-4/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319o">
+        <num>319o</num>
+        <heading>Personal Care Assistance</heading>
+        <section eId="sec_17b_4">
+          <num>17b-4</num>
+          <heading>Department of Social Services: Duties and services provided. Reports by nursing homes; regulations</heading>
+          <subsection eId="17b_4__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The Department of Social Services shall plan, develop, administer, operate, evaluate and provide funding for services for individuals and families served by the department who are in need of personal or economic development. In cooperation with other social service agencies and organizations, including community-based agencies, the department shall work to develop and fund prevention, intervention and treatment services for individuals and families. The department shall:</p>
+            </content>
+            <paragraph eId="17b_4__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>Provide appropriate services to individuals and families as needed through direct social work services rendered by the department and contracted services from community-based organizations funded by the department;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_4__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>collect, interpret and publish statistics relating to individuals and families serviced by the department;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_4__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>monitor, evaluate and review any program or service which is developed, operated or funded by the department;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_4__subsec_a__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>supervise the establishment of pilot programs funded by the department in local communities which assist and support individuals and families in personal and economic development;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_4__subsec_a__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>improve the quality of services provided, operated and funded by the department and increase the competency of its staff relative to the provision of effective social services by establishing and supporting ongoing staff development and training; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_4__subsec_a__subsec_6">
+              <num>(6)</num>
+              <content>
+                <p>encourage citizen participation in the development of social service priorities and programs.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_4__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The Department of Social Services, in conjunction with the Department of Public Health and the Department of Aging and Disability Services, may adopt regulations in accordance with the provisions of chapter 54 to establish requirements with respect to the submission of reports concerning financial solvency and quality of care by nursing homes for the purpose of determining the financial viability of such homes, identifying homes that appear to be experiencing financial distress and examining the underlying reasons for such distress. Such reports shall be submitted to the Nursing Home Financial Advisory Committee established under section17b-339.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

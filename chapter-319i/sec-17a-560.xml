@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-560"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-560"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17a-560"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-560/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-560/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-560/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-560/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319i">
+        <num>319i</num>
+        <heading>Connecticut HUSKY Plan</heading>
+        <section eId="sec_17a_560">
+          <num>17a-560</num>
+          <heading>(Formerly Sec. 17-238). Definitions</heading>
+          <content>
+            <p>Sec. 17a-560. (Formerly Sec. 17-238). Definitions.As used in sections17a-560to17a-575, inclusive, unless specifically provided otherwise, “hospital” means the Whiting Forensic Hospital, including the diagnostic unit established under the provisions of section17a-562, or any other facility of the Department of Mental Health and Addiction Services which the commissioner may designate as appropriate. The words “hospital” or “diagnostic unit”, as used in sections17a-566,17a-567,17a-570and17a-575when applied to children or youths under the age of eighteen, mean any facility of the Department of Children and Families designated by the Commissioner of Children and Families. “Board” means the advisory and review board appointed under the provisions of section17a-565. “Commissioner” means the Commissioner of Mental Health and Addiction Services or in the case of children, the Commissioner of Children and Families.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-129r"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-129r"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-129r"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-129r/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-129r/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-129r/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-129r/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_204">
+        <num>204</num>
+        <heading>Local Levy and Collection of Taxes</heading>
+        <section eId="sec_12_129r">
+          <num>12-129r</num>
+          <heading>Municipal option to abate taxes on open space in exchange for transfer of development rights to municipality</heading>
+          <subsection eId="12_129r__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>As used in this section:</p>
+            </content>
+            <paragraph eId="12_129r__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>“Municipality” means any city, town, borough, district or association with municipal powers; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_129r__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>“Open space land” means any area of land, including forest land, the preservation or restriction of the use of which would (A) maintain and enhance the conservation of natural or scenic resources, (B) protect natural streams or water supply, (C) promote conservation of soils, wetlands, beaches or tidal marshes, (D) enhance the value to the public of abutting or neighboring parks, forests, wildlife preserves, nature reservations or sanctuaries or other open spaces, (E) preserve historic sites, or (F) promote orderly urban or suburban development.</p>
+              </content>
+              <subparagraph eId="12_129r__subsec_a__subsec_2__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>maintain and enhance the conservation of natural or scenic resources,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_129r__subsec_a__subsec_2__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>protect natural streams or water supply,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_129r__subsec_a__subsec_2__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>promote conservation of soils, wetlands, beaches or tidal marshes,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_129r__subsec_a__subsec_2__subsec_D">
+                <num>(D)</num>
+                <content>
+                  <p>enhance the value to the public of abutting or neighboring parks, forests, wildlife preserves, nature reservations or sanctuaries or other open spaces,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_129r__subsec_a__subsec_2__subsec_E">
+                <num>(E)</num>
+                <content>
+                  <p>preserve historic sites, or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_129r__subsec_a__subsec_2__subsec_F">
+                <num>(F)</num>
+                <content>
+                  <p>promote orderly urban or suburban development.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_129r__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Any municipality may, by ordinance adopted by its legislative body, establish a program under which property taxes may be abated in exchange for the transfer to the municipality of development rights, conservation easements, rights-of-way or any combination thereof, to open space land. Such ordinance shall include, but not be limited to, provisions for requirements for application for the abatement, which shall include a certified appraisal of the property proposed for abatement both with and without development rights.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_129r__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The abatement may not exceed the market value of the open space land, may be transferable to any other taxable property in the municipality owned by the applicant and may exist for a period of time to be determined by the legislative body of the municipality.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

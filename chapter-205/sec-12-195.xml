@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-195"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-195"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-195"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-195/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-195/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-195/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-195/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_205">
+        <num>205</num>
+        <heading>Tax Liens</heading>
+        <section eId="sec_12_195">
+          <num>12-195</num>
+          <heading>Removal of taxes and assessments on real estate acquired by a municipality</heading>
+          <content>
+            <p>Sec. 12-195. Removal of taxes and assessments on real estate acquired by a municipality.When any municipality acquires real estate by foreclosure, including foreclosure by sale or auction, or by deed in lieu of foreclosure, of a tax or an assessment lien or liens thereon, the right to accept which deed is hereby granted to municipalities, the tax collector, upon proper notice of the recording of the certificate of foreclosure of the real estate so acquired or the recording of such deed in lieu of foreclosure, shall enter or cause to be entered in his books against the unpaid tax or assessment account of such real estate, the one of the following notations which the case may require: “Acquired by Foreclosure”, “Acquired by deed in lieu of Foreclosure”, which notation shall be completed by a statement of the day, month and year of the acquisition of such real estate. Immediately after such entry in his books against such unpaid account, the tax collector shall file for record, in the town clerk's office in the town in which such property is located, a release of such lien or liens on such real estate then on record in such office. The acquisition of such real estate by the municipality shall be deemed a cancellation by such municipality of all of its claims against the tax collector for unpaid taxes and assessments, interest or lien fees assessed against such real estate. The real estate so acquired shall be held free of any taxes or assessments levied by the municipality which has acquired it until such real estate is sold. Upon the sale of such acquired real estate by the municipality, the proceeds thereof remaining after payment of the expenses of such sale shall be deposited in the general treasury of the municipality.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

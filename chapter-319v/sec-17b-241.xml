@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-241"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-241"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17b-241"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-241/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-241/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-241/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-241/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319v">
+        <num>319v</num>
+        <heading>Temporary Assistance for Needy Families</heading>
+        <section eId="sec_17b_241">
+          <num>17b-241</num>
+          <heading>(Formerly Sec. 17-312b). Payments to mental health and substance abuse residential facilities and freestanding detoxification centers</heading>
+          <subsection eId="17b_241__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Any rates established by the Commissioner of Social Services in effect February 1, 1991, for mental health and substance abuse residential facilities shall remain in effect through June 30, 1992, except those which would have been decreased effective July 1, 1991, shall be decreased. Any rate increases made during the fiscal year ending June 30, 1993, shall not exceed the most recent annual increase in the consumer price index for urban consumers.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_241__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Any rates established by the Commissioner of Social Services in effect February 1, 1991, for freestanding detoxification centers shall remain in effect through June 30, 1992, except those which would have been decreased effective July 1, 1991, shall be decreased. Any rate increases made during the fiscal years ending June 30, 1993, June 30, 1994, and June 30, 1995, shall not exceed the most recent annual increase in the consumer price index for urban consumers. Any freestanding detoxification center which has an established rate below the average and, due to a material change in circumstances resulting in financial hardship, is aggrieved by a rate determined pursuant to this subsection may, within ten days of receipt of written notice of such rate from the commissioner, request in writing a hearing on such rate. The commissioner shall, upon the receipt of all documentation necessary to evaluate the request, determine whether there has been such a change in circumstances and shall conduct a hearing if appropriate.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

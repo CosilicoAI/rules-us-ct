@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-199"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-199"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-199"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-199/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-199/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-199/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-199/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_206">
+        <num>206</num>
+        <heading>Inheritance and Succession Taxes</heading>
+        <section eId="sec_12_199">
+          <num>12-199</num>
+          <heading>Assessment of real estate omitted from town list or with title changed</heading>
+          <content>
+            <p>Sec. 12-199. Assessment of real estate omitted from town list or with title changed.When any real estate in any district liable to taxation has not been put into the town list, one or more of the assessors of the town in which such omission has occurred, on application of such district, shall value such real estate and add such property to the list of the district. When a district lays a tax on the town list last completed, and the title to any real estate appearing on such list has been changed before the time of laying such tax, one or more of the assessors of the town in which such change of property occurred, on application of such district, shall value such real estate in the name of the person owning it at the time of laying such tax and deduct the same from the list of the person in whose name it stood on the town list. The assessors, in performing the duties herein prescribed, shall proceed in the manner prescribed in section12-198.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

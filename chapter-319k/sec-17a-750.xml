@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-750"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-750"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17a-750"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-750/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-750/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-750/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-750/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319k">
+        <num>319k</num>
+        <heading>Connecticut Home Care Program for Elders</heading>
+        <section eId="sec_17a_750">
+          <num>17a-750</num>
+          <heading>Delivery of human services in the northeastern region: Definitions</heading>
+          <content>
+            <p>Sec. 17a-750. Delivery of human services in the northeastern region: Definitions.As used in sections17a-750to17a-753, inclusive:
+(1) “Northeastern region” means the towns of Brooklyn, Canterbury, Eastford, Killingly, Plainfield, Pomfret, Putnam, Sterling, Thompson and Woodstock;
+(2) “Human services” means services provided to persons or families experiencing difficulty in meeting their basic human needs for (A) physical survival, including their need for food, shelter, clothing and maintenance of minimum income, (B) preparing for and sustaining employment, (C) job readiness, including employment and training programs and child care programs, (D) social support and interaction, especially in time of personal or family crisis, (E) assistance in addressing specific pathologies, such as health, mental health and substance abuse, and (F) access to available appropriate services, such as education, transportation, information and referral services and includes remedial and preventative services targeted to low and moderate income individuals and families, by age group or by specific need;
+(3) “Negotiated investment strategy” means a mediated negotiation process to solve problems, resolve conflicts, develop plans for joint action and to implement those plans by involving all affected interests and which requires (A) an implementation plan to establish coherent, coordinated strategies to guide and target the investment of time and resources by all public and private interests, and (B) a written agreement that sets forth each party's roles and commitments and provides for subsequent monitoring to assure the commitments are carried out; and
+(4) “State agency” means each state board, authority, commissioner, department, office, institution, council or other agency of the state, including, but not limited to, each constituent unit and each public institution of higher education.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

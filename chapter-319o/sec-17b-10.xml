@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-10"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-10"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17b-10"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-10/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-10/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-10/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-10/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319o">
+        <num>319o</num>
+        <heading>Personal Care Assistance</heading>
+        <section eId="sec_17b_10">
+          <num>17b-10</num>
+          <heading>(Formerly Sec. 17-3f). Department of Social Services policy manuals. Posting online. Policies adopted as regulations</heading>
+          <subsection eId="17b_10__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The Department of Social Services shall prepare and routinely update state medical services and public assistance manuals. The pages of such manuals shall be consecutively numbered and indexed, containing all departmental policy regulations and substantive procedure, written in clear and concise language. Said manuals shall be published online by the department and linked to the eRegulations System. All policy manuals of the department, as they exist on May 23, 1984, including the supporting bulletins but not including statements concerning only the internal management of the department and not affecting private rights or procedures available to the public, shall be construed to have been adopted as regulations in accordance with the provisions of chapter 54. After May 23, 1984, any policy issued by the department, except a policy necessary to conform to a requirement of a federal or joint federal and state program administered by the department, including, but not limited to, the state supplement program to the Supplemental Security Income Program, shall be adopted as a regulation in accordance with the provisions of chapter 54.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_10__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The department shall adopt as a regulation in accordance with the provisions of chapter 54, any new policy necessary to conform to a requirement of an approved federal waiver application initiated in accordance with section17b-8and any new policy necessary to conform to a requirement of a federal or joint state and federal program administered by the department, including, but not limited to, the state supplement program to the Supplemental Security Income Program, but the department may operate under such policy while it is in the process of adopting the policy as a regulation, provided the department posts such policy on the eRegulations System prior to adopting the policy. Such policy shall be valid until the time final regulations are effective.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_10__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>On and after July 1, 2004, the department shall submit proposed regulations that are required by subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_10__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section to the standing legislative regulation review committee, as provided in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_10__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of section4-170, not later than one hundred eighty days after posting of the notice of its intent to adopt regulations on the eRegulations System. The department shall include with the proposed regulation a statement identifying</p>
+            </content>
+            <paragraph eId="17b_10__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>the date on which the proposed regulation became effective as a policy as provided in subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_10__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section, and</p>
+            </content>
+            <paragraph eId="17b_10__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>any provisions of the proposed regulation that are no longer in effect on the date of the submittal of the proposed regulation, together with a list of all policies that the department has operated under, as provided in subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_10__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section, that superseded any provision of the proposed regulation.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_10__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>In lieu of submitting proposed regulations by the date specified in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_10__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of this section, the department may electronically submit to the legislative regulation review committee a notice not later than thirty-five days before such date that the department will not be able to submit the proposed regulations on or before such date and shall include in such notice</p>
+            </content>
+            <paragraph eId="17b_10__subsec_c__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>the reasons why the department will not submit the proposed regulations by such date, and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_10__subsec_c__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>the date by which the department will submit the proposed regulations. The legislative regulation review committee may require the department to appear before the committee at a time prescribed by the committee to further explain such reasons and to respond to any questions by the committee about the policy. The legislative regulation review committee may request the joint standing committee of the General Assembly having cognizance of matters relating to human services to review the department's policy, the department's reasons for not submitting the proposed regulations by the date specified in subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_10__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of this section and the date by which the department will submit the proposed regulations. Said joint standing committee may review the policy, such reasons and such date, may schedule a hearing thereon and may make a recommendation to the legislative regulation review committee.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_10__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>If amendments to an existing regulation are necessary solely to conform the regulation to amendments to the general statutes, and if the amendments to the regulation do not entail any discretion by the department, the department may elect to comply with the requirements of subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_10__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of section4-168or may proceed without prior notice or hearing, provided the department has posted such amendments on the eRegulations System. Any such amendments to a regulation shall be submitted in the form and manner prescribed in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_10__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of section4-170, to the Attorney General, as provided in section4-169, and to the committee, as provided in section4-170, for approval and upon approval shall be submitted to the office of the Secretary of the State for posting on the eRegulations System in accordance with section4-172.
+See Sec. 4-173b re eRegulations System.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

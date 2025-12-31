@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-245c"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-245c"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17b-245c"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-245c/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-245c/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-245c/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-245c/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319v">
+        <num>319v</num>
+        <heading>Temporary Assistance for Needy Families</heading>
+        <section eId="sec_17b_245c">
+          <num>17b-245c</num>
+          <heading>Demonstration project to provide telemedicine to Medicaid recipients at federally qualified community health centers</heading>
+          <subsection eId="17b_245c__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>As used in this section:</p>
+            </content>
+            <paragraph eId="17b_245c__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>“Telemedicine” means the use of interactive audio, interactive video or interactive data communication in the delivery of medical advice, diagnosis, care or treatment, and includes the types of services described in subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_245c__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>of section20-9and 42 CFR 410.78</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_245c__subsec_a">
+            <num>(a)</num>
+            <paragraph eId="17b_245c__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>. “Telemedicine” does not include the use of facsimile or audio-only telephone; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_245c__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>“Clinically appropriate” means care that is (A) provided in a timely manner and meets professionally recognized standards of acceptable medical care; (B) delivered in the appropriate medical setting; and (C) the least costly of multiple, equally effective alternative treatments or diagnostic modalities.</p>
+              </content>
+              <subparagraph eId="17b_245c__subsec_a__subsec_2__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>provided in a timely manner and meets professionally recognized standards of acceptable medical care;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17b_245c__subsec_a__subsec_2__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>delivered in the appropriate medical setting; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17b_245c__subsec_a__subsec_2__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>the least costly of multiple, equally effective alternative treatments or diagnostic modalities.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_245c__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The Commissioner of Social Services may establish a demonstration project to offer telemedicine as a Medicaid-covered service at federally qualified community health centers. Under the demonstration project, in-person contact between a health care provider and a patient shall not be required for health care services delivered by telemedicine that otherwise would be eligible for reimbursement under the state Medicaid plan program, to the extent permitted by federal law and where deemed clinically appropriate.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_245c__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The Commissioner of Social Services may establish rates for cost reimbursement for telemedicine services provided to Medicaid recipients under the demonstration project. The commissioner shall consider, to the extent applicable, reductions in travel costs by health care providers and patients to deliver or to access health care services and such other factors as the Commissioner of Social Services deems relevant.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_245c__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>The Commissioner of Social Services may apply, if necessary, to the federal government for an amendment to the state Medicaid plan to establish the demonstration project.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_245c__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>The transmission, storage and dissemination of data and records related to telemedicine services provided under the demonstration project shall be in accordance with federal and state law and regulations concerning the privacy, security, confidentiality and safeguarding of individually identifiable information.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_245c__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>The commissioner shall submit a report, in accordance with section11-4a, on any demonstration project established pursuant to this section to the joint standing committees of the General Assembly having cognizance of matters relating to appropriations and human services. The report shall concern the services offered and the cost-effectiveness of the program.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

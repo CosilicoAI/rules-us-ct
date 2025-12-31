@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-578"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-578"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-578"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-578/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-578/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-578/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-578/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_226">
+        <num>226</num>
+        <heading>Prepared Food and Beverage Tax</heading>
+        <section eId="sec_12_578">
+          <num>12-578</num>
+          <heading>Regulations governing registration and licenses. Fees. Criminal history records checks of applicants</heading>
+          <subsection eId="12_578__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The commissioner shall adopt regulations, in accordance with the provisions of chapter 54, governing registration and the issuance and annual renewal of licenses and payment of annual nonrefundable application fees for the same in accordance with the following schedule:</p>
+            </content>
+            <paragraph eId="12_578__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>Registration: (A) Stable name, one hundred dollars; (B) partnership name, one hundred dollars; and (C) colors, twenty dollars.</p>
+              </content>
+              <subparagraph eId="12_578__subsec_a__subsec_1__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>Stable name, one hundred dollars;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_578__subsec_a__subsec_1__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>partnership name, one hundred dollars; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_578__subsec_a__subsec_1__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>colors, twenty dollars.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_578__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>Occupational licenses: (A) Owner, one hundred dollars; (B) trainer, one hundred dollars; (C) assistant trainer, one hundred dollars; (D) jockey, forty dollars; (E) jockey agent, for each jockey, one hundred dollars; (F) stable employees, including exercise boy, groom, stable foreman, hot walker, outrider, twenty dollars; (G) veterinarian, one hundred dollars; (H) jockey apprentice, forty dollars; (I) driver, one hundred dollars; (J) valet, twenty dollars; (K) blacksmith, twenty dollars; (L) plater, twenty dollars; (M) concession employees, twenty dollars; (N) jai alai players, one hundred dollars; (O) officials and supervisors, one hundred dollars; (P) pari-mutuel employees, forty dollars; (Q) other personnel engaged in activities regulated under this chapter, twenty dollars; or (R) gaming employee, forty dollars.</p>
+              </content>
+              <subparagraph eId="12_578__subsec_a__subsec_2__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>Owner, one hundred dollars;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_578__subsec_a__subsec_2__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>trainer, one hundred dollars;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_578__subsec_a__subsec_2__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>assistant trainer, one hundred dollars;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_578__subsec_a__subsec_2__subsec_D">
+                <num>(D)</num>
+                <content>
+                  <p>jockey, forty dollars;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_578__subsec_a__subsec_2__subsec_E">
+                <num>(E)</num>
+                <content>
+                  <p>jockey agent, for each jockey, one hundred dollars;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_578__subsec_a__subsec_2__subsec_F">
+                <num>(F)</num>
+                <content>
+                  <p>stable employees, including exercise boy, groom, stable foreman, hot walker, outrider, twenty dollars;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_578__subsec_a__subsec_2__subsec_G">
+                <num>(G)</num>
+                <content>
+                  <p>veterinarian, one hundred dollars;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_578__subsec_a__subsec_2__subsec_H">
+                <num>(H)</num>
+                <content>
+                  <p>jockey apprentice, forty dollars;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_578__subsec_a__subsec_2__subsec_I">
+                <num>(I)</num>
+                <content>
+                  <p>driver, one hundred dollars;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_578__subsec_a__subsec_2__subsec_J">
+                <num>(J)</num>
+                <content>
+                  <p>valet, twenty dollars;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_578__subsec_a__subsec_2__subsec_K">
+                <num>(K)</num>
+                <content>
+                  <p>blacksmith, twenty dollars;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_578__subsec_a__subsec_2__subsec_L">
+                <num>(L)</num>
+                <content>
+                  <p>plater, twenty dollars;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_578__subsec_a__subsec_2__subsec_M">
+                <num>(M)</num>
+                <content>
+                  <p>concession employees, twenty dollars;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_578__subsec_a__subsec_2__subsec_N">
+                <num>(N)</num>
+                <content>
+                  <p>jai alai players, one hundred dollars;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_578__subsec_a__subsec_2__subsec_O">
+                <num>(O)</num>
+                <content>
+                  <p>officials and supervisors, one hundred dollars;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_578__subsec_a__subsec_2__subsec_P">
+                <num>(P)</num>
+                <content>
+                  <p>pari-mutuel employees, forty dollars;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_578__subsec_a__subsec_2__subsec_Q">
+                <num>(Q)</num>
+                <content>
+                  <p>other personnel engaged in activities regulated under this chapter, twenty dollars; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_578__subsec_a__subsec_2__subsec_R">
+                <num>(R)</num>
+                <content>
+                  <p>gaming employee, forty dollars.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_578__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>Business entity licenses: (A) Concessionaire, for each concession, two hundred fifty dollars; (B) concessionaire affiliate, for each concession of the concessionaire, two hundred fifty dollars; (C) vendor, for each contract, two hundred fifty dollars; (D) totalizator, for each contract, two hundred fifty dollars; (E) vendor and totalizator affiliates, for each contract of the vendor or totalizator, two hundred fifty dollars; (F) nongaming vendor, two hundred fifty dollars; (G) gaming services, five hundred dollars; and (H) gaming affiliate, two hundred fifty dollars. For the purposes of this subdivision, “concessionaire” means any individual or business organization granted the right to operate an activity at a dog race track or off-track betting facility for the purpose of making a profit that receives or, in the exercise of reasonable business judgment, can be expected to receive more than twenty-five thousand dollars or twenty-five per cent of its gross annual receipts from such activity at such track or facility, and “concessionaire affiliate” means a business organization, other than a shareholder in a publicly traded corporation, that may exercise control in or over a concessionaire.</p>
+              </content>
+              <subparagraph eId="12_578__subsec_a__subsec_3__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>Concessionaire, for each concession, two hundred fifty dollars;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_578__subsec_a__subsec_3__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>concessionaire affiliate, for each concession of the concessionaire, two hundred fifty dollars;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_578__subsec_a__subsec_3__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>vendor, for each contract, two hundred fifty dollars;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_578__subsec_a__subsec_3__subsec_D">
+                <num>(D)</num>
+                <content>
+                  <p>totalizator, for each contract, two hundred fifty dollars;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_578__subsec_a__subsec_3__subsec_E">
+                <num>(E)</num>
+                <content>
+                  <p>vendor and totalizator affiliates, for each contract of the vendor or totalizator, two hundred fifty dollars;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_578__subsec_a__subsec_3__subsec_F">
+                <num>(F)</num>
+                <content>
+                  <p>nongaming vendor, two hundred fifty dollars;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_578__subsec_a__subsec_3__subsec_G">
+                <num>(G)</num>
+                <content>
+                  <p>gaming services, five hundred dollars; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_578__subsec_a__subsec_3__subsec_H">
+                <num>(H)</num>
+                <content>
+                  <p>gaming affiliate, two hundred fifty dollars. For the purposes of this subdivision, “concessionaire” means any individual or business organization granted the right to operate an activity at a dog race track or off-track betting facility for the purpose of making a profit that receives or, in the exercise of reasonable business judgment, can be expected to receive more than twenty-five thousand dollars or twenty-five per cent of its gross annual receipts from such activity at such track or facility, and “concessionaire affiliate” means a business organization, other than a shareholder in a publicly traded corporation, that may exercise control in or over a concessionaire.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_578__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The commissioner shall require each applicant for a license under subdivision</p>
+            </content>
+            <paragraph eId="12_578__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_578__subsec_b__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_578__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section to submit to state and national criminal history records checks before such license is issued. The criminal history records checks required pursuant to this subsection shall be conducted in accordance with section29-17a.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

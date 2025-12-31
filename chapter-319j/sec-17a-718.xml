@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-718"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-718"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17a-718"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-718/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-718/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-718/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-718/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319j">
+        <num>319j</num>
+        <heading>Health Care For Uninsured Children</heading>
+        <section eId="sec_17a_718">
+          <num>17a-718</num>
+          <heading>Nicotine addiction programs for persons under twenty-one years of age. Settlement disbursement. Report</heading>
+          <subsection eId="17a_718__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Commencing with the fiscal year ending June 30, 2024, any moneys received in the preceding fiscal year pursuant to the stipulated judgment in State of Connecticut v. JUUL Labs, Inc., shall be disbursed to the Commissioner of Mental Health and Addiction Services for distribution to the regional behavioral health action organizations, as described in section17a-484f, for the funding of programs to support the abatement, mitigation, cessation, reduction or prevention of the use of nicotine or nicotine-synthetic products by residents under twenty-one years of age in accordance with such judgment.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_718__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Not later than September 1, 2024, and annually thereafter, the Commissioner of Mental Health and Addiction Services shall submit a report to the board of trustees of the Tobacco and Health Trust Fund established pursuant to section4-28fdetailing how the moneys disbursed in the preceding fiscal year were distributed by the commissioner and summarizing how the regional behavioral health action organizations expended such moneys for the purposes described in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_718__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section in the preceding fiscal year.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

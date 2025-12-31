@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-294"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-294"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-294"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-294/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-294/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-294/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-294/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_214">
+        <num>214</num>
+        <heading>Business Tax Credits</heading>
+        <section eId="sec_12_294">
+          <num>12-294</num>
+          <heading>Transfer of license. Successor tax liability</heading>
+          <subsection eId="12_294__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>If a distributor or dealer removes his or her business from one location to another during the period in which the license is in force, the commissioner shall transfer the license to the new location without an additional fee.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_294__subsec_b">
+            <num>(b)</num>
+            <paragraph eId="12_294__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>If any distributor or dealer liable for any amount due under this chapter sells out his or her business or stock of goods or quits the business, such distributor's or dealer's successors or assigns shall withhold a sufficient amount of the purchase price to pay the amount due under this chapter from the distributor or dealer until the distributor or dealer provides to such successor or assignee a receipt from the commissioner showing that such amount has been paid or a certificate stating that no amount is due.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_294__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>If any such successor or assignee fails to withhold the purchase price as required, such successor or assignee shall be personally liable for the payment of the amount required to be withheld by such successor or assignee to the extent of the purchase price, valued in money.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_294__subsec_c">
+            <num>(c)</num>
+            <paragraph eId="12_294__subsec_c__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>No later than the sixtieth day after the latest of the dates specified in subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_294__subsec_c__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>of this subsection, the commissioner shall either issue the certificate stating that no amount is due or mail notice of the amount that must be paid as a condition of issuing the certificate. Such notice shall be mailed to such successor or assignee at such successor's or assignee's address as it appears on the records of the commissioner.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_294__subsec_c__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>For purposes of subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_294__subsec_c__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>of this subsection, the latest of the following dates shall apply: (A) The date the commissioner receives a written request from the successor or assignee for a certificate; (B) the date of the sale of the business or stock of goods; or (C) the date the former owner's records are made available for audit.</p>
+              </content>
+              <subparagraph eId="12_294__subsec_c__subsec_1__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>The date the commissioner receives a written request from the successor or assignee for a certificate;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_294__subsec_c__subsec_1__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>the date of the sale of the business or stock of goods; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_294__subsec_c__subsec_1__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>the date the former owner's records are made available for audit.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_294__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Failure of the commissioner to mail the notice referred to in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_294__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of this section shall release the successor or assignee from any further obligation to withhold the purchase price as provided in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_294__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section. The period within which the obligation of the successor or assignee may be enforced shall commence on the date the distributor or dealer sells out his or her business or stock of goods or quits the business or on the date the assessment against such distributor or dealer becomes final, whichever event occurs later, and shall end three years after such date.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_294__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>The certificate provided for in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_294__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of this section may be issued after the payment of all amounts due under this chapter, according to the records of the department as of the date of the certificate, or after the payment of the amounts is secured to the satisfaction of the commissioner.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_294__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>The obligation of the successor or assignee shall be enforced by serving a notice of successor liability on the successor or assignee. Any such notice shall be issued not later than three years after the date the commissioner is notified by the successor or assignee of the purchase of the business or stock of goods. The successor or assignee may protest the assessment in the manner provided in section12-311. Upon the issuance of an order by the commissioner pursuant to section12-311, the successor or assignee may appeal such order in accordance with the provisions of section12-312.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

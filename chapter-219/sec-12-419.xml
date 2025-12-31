@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-419"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-419"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-419"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-419/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-419/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-419/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-419/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_219">
+        <num>219</num>
+        <heading>Motor Vehicle Fuels Tax</heading>
+        <section eId="sec_12_419">
+          <num>12-419</num>
+          <heading>Interest and penalties</heading>
+          <subsection eId="12_419__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Any person, other than an individual making purchases for personal use or consumption and not making purchases for use or consumption in carrying on a trade, occupation, business or profession, who fails to pay any tax to the state or any amount of tax required to be collected and paid to the state, except amounts of assessments or reassessments made by the commissioner under sections12-415and12-416, within the time required shall pay, in addition to such tax or such amount of tax required to be collected and paid, a penalty of fifteen per cent of the tax or fifty dollars, whichever amount is greater, plus interest on such tax or such amount of tax required to be collected and paid at the rate of one per cent per month or fraction thereof from the due date to the date of payment.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_419__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Any individual making purchases for personal use or consumption and not making purchases for use or consumption in carrying on a trade, occupation, business or profession who fails to pay use tax to the state, except amounts of assessments or reassessments made by the commissioner under sections12-415and12-416, within the time required shall pay, in addition to such tax, a penalty of ten per cent of the tax, plus interest on such tax at the rate of one per cent per month or fraction thereof from the due date of such tax to the date of payment.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_419__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Subject to the provisions of section12-3a, the commissioner may waive all or any part of the penalties provided under this chapter when it is proven to the satisfaction of the commissioner that failure to pay any tax was due to reasonable cause and was not intentional or due to neglect.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-415"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-415"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-415"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-415/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-415/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-415/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-415/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_219">
+        <num>219</num>
+        <heading>Motor Vehicle Fuels Tax</heading>
+        <section eId="sec_12_415">
+          <num>12-415</num>
+          <heading>Deficiency assessment or reassessment</heading>
+          <subsection eId="12_415__subsec_a">
+            <num>(a)</num>
+            <heading>Deficiency assessment or reassessment</heading>
+            <content>
+              <p>If the commissioner is not satisfied with the return or returns of the tax or the amount of tax required to be paid to the state by any person, the commissioner may compute and assess or reassess the amount required to be paid upon the basis of the facts contained in the return or returns or upon the basis of any information which is in or that may come into the commissioner's possession.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_415__subsec_b">
+            <num>(b)</num>
+            <heading>Interest</heading>
+            <content>
+              <p>The amount of the assessment or reassessment, exclusive of penalties, shall bear interest at the rate of one per cent per month or fraction thereof from the last day of the month succeeding the period for which the amount or any portion thereof should have been returned until the date of payment.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_415__subsec_c">
+            <num>(c)</num>
+            <heading>Deficiency due to negligence or intentional disregard</heading>
+            <content>
+              <p>When it appears that any part of the deficiency for which a deficiency assessment or reassessment is made is due to negligence or intentional disregard of the provisions of this chapter or regulations promulgated thereunder, there shall be imposed a penalty equal to fifteen per cent of the amount of such deficiency assessment or reassessment, or fifty dollars, whichever is greater.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_415__subsec_d">
+            <num>(d)</num>
+            <heading>Deficiency due to fraud or intent to evade</heading>
+            <content>
+              <p>When it appears that any part of the deficiency for which a deficiency assessment or reassessment is made is due to fraud or intent to evade the provisions of this chapter or regulations promulgated thereunder, there shall be imposed a penalty equal to twenty-five per cent of the amount of such deficiency assessment or reassessment. No taxpayer shall be subject to a penalty under both subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_415__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of this section and this subsection in relation to the same tax period.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_415__subsec_e">
+            <num>(e)</num>
+            <heading>Notice of assessment or reassessment</heading>
+            <content>
+              <p>The commissioner shall give to the retailer or person storing, accepting, consuming or otherwise using services or tangible personal property written notice of the commissioner's assessment or reassessment. The notice may be served personally or by mail. If by mail, it shall be addressed to the retailer or person storing, accepting, consuming or otherwise using services or tangible personal property at the address as it appears in the records of the commissioner's office.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_415__subsec_f">
+            <num>(f)</num>
+            <heading>Limitations on deficiency assessment or reassessment</heading>
+            <content>
+              <p>Except in the case of fraud, intent to evade this chapter or authorized regulations, failure to make a return, or claim for additional amount pursuant to subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_415__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of section12-418, every notice of a deficiency assessment or reassessment shall be mailed within three years after the last day of the month following the period for which the amount is proposed to be assessed or reassessed or within three years after the return is filed, whichever period expires later. The limitation specified in this subsection does not apply in case of a sales tax proposed to be assessed or reassessed with respect to sales of services or property for the storage, acceptance, consumption or other use of which notice of a deficiency assessment or reassessment has been or is given pursuant to this subsection, subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_415__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>of this section, subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_415__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of section12-416, and subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_415__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of section12-417. The limitation specified in this subsection does not apply in case of an amount of use tax proposed to be assessed or reassessed with respect to storage, acceptance, consumption or other use of services or property for the sale of which notice of a deficiency assessment or reassessment has been or is given pursuant to this subsection and said subsections.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_415__subsec_g">
+            <num>(g)</num>
+            <heading>Waiver</heading>
+            <content>
+              <p>If, before the expiration of the time prescribed in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_415__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>of this section for the mailing of a notice of deficiency assessment or reassessment, the taxpayer has consented in writing to the mailing of the notice after such time, the notice may be mailed at any time prior to the expiration of the period agreed upon. The period so agreed upon may be extended by subsequent agreements in writing made before the expiration of the period previously agreed upon.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

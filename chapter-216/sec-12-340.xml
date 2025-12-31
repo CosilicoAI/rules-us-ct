@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-340"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-340"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-340"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-340/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-340/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-340/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-340/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_216">
+        <num>216</num>
+        <heading>Sales and Use Taxes</heading>
+        <section eId="sec_12_340">
+          <num>12-340</num>
+          <heading>Tax on transfers of property. Sunset of chapter</heading>
+          <subsection eId="12_340__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The provisions of this chapter shall apply only to estates of decedents dying on or prior to January 1, 2005, that, prior to October 1, 2018, have filed a return under section12-359or been assessed a tax under section12-367.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_340__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>A tax is imposed, under the conditions and subject to the exemptions and limitations hereinafter prescribed, upon transfers, in trust or otherwise, of the following property or any interest therein or income therefrom:</p>
+            </content>
+            <paragraph eId="12_340__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>When the transfer is from a resident of this state, (A) real property situated in this state; (B) tangible personal property, except such as has an actual situs without this state; and (C) all intangible personal property; and</p>
+              </content>
+              <subparagraph eId="12_340__subsec_b__subsec_1__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>real property situated in this state;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_340__subsec_b__subsec_1__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>tangible personal property, except such as has an actual situs without this state; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_340__subsec_b__subsec_1__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>all intangible personal property; and</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_340__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>when the transfer is from a nonresident of this state, (A) real property situated in this state; and (B) tangible personal property which has an actual situs in this state. No tax shall be imposed or collected when the amount due is less than ten dollars.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+              </content>
+              <subparagraph eId="12_340__subsec_b__subsec_2__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>real property situated in this state; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_340__subsec_b__subsec_2__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>tangible personal property which has an actual situs in this state. No tax shall be imposed or collected when the amount due is less than ten dollars.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

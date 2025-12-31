@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-260e"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-260e"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17b-260e"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-260e/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-260e/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-260e/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-260e/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319v">
+        <num>319v</num>
+        <heading>Temporary Assistance for Needy Families</heading>
+        <section eId="sec_17b_260e">
+          <num>17b-260e</num>
+          <heading>Federal funding reductions. Requirements for state to offset Medicaid reductions for family planning services</heading>
+          <subsection eId="17b_260e__subsec_a">
+            <num>(a)</num>
+            <paragraph eId="17b_260e__subsec_a__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>(C), provided</p>
+              </content>
+              <subparagraph eId="17b_260e__subsec_a__subsec_4__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>, provided</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="17b_260e__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>the General Assembly approves such use of state funds in a vote scheduled not later than ninety days following notice of such federal funding reduction by the commissioner,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_260e__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>such services are otherwise covered by the medical assistance program, and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_260e__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>providers otherwise meet the requirements of the Department of Social Services for participation and enrollment in the medical assistance program.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

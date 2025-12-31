@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-245g"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-245g"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17b-245g"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-245g/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-245g/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-245g/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-245g/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319v">
+        <num>319v</num>
+        <heading>Temporary Assistance for Needy Families</heading>
+        <section eId="sec_17b_245g">
+          <num>17b-245g</num>
+          <heading>Telehealth services under the Connecticut medical assistance program. Audio-only telehealth services. Coverage criteria. Reimbursement</heading>
+          <subsection eId="17b_245g__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>As used in this section:</p>
+            </content>
+            <paragraph eId="17b_245g__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>“Telehealth” means the mode of delivering health care or other health services via information and communication technologies to facilitate the diagnosis, consultation and treatment, education, care management and self-management of a patient's physical, oral and mental health, and includes (A) interaction between the patient at the originating site and the telehealth provider at a distant site, and (B) synchronous interactions, asynchronous store and forward transfers or remote patient monitoring. “Telehealth” does not include the use of facsimile, texting or electronic mail.</p>
+              </content>
+              <subparagraph eId="17b_245g__subsec_a__subsec_1__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>interaction between the patient at the originating site and the telehealth provider at a distant site, and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17b_245g__subsec_a__subsec_1__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>synchronous interactions, asynchronous store and forward transfers or remote patient monitoring. “Telehealth” does not include the use of facsimile, texting or electronic mail.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="17b_245g__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>“Connecticut medical assistance program” means the state's Medicaid program and the Children's Health Insurance Program under Title XXI of the Social Security Act, as amended from time to time.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_245g__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Notwithstanding the provisions of section17b-245c,17b-245eor19a-906or any other section, regulation, rule, policy or procedure governing the Connecticut medical assistance program, the Commissioner of Social Services shall, to the extent permissible under federal law, provide coverage under the Connecticut medical assistance program for audio-only telehealth services when</p>
+            </content>
+            <paragraph eId="17b_245g__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>clinically appropriate, as determined by the commissioner,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_245g__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>it is not possible to provide comparable covered audiovisual telehealth services, and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_245g__subsec_b__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>provided to individuals who are unable to use or access comparable, covered audiovisual telehealth services.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_245g__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>To the extent permissible under federal law, the commissioner shall provide Medicaid reimbursement for services provided by means of telehealth to the same extent as if the service was provided in person.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

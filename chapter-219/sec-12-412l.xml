@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-412l"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-412l"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-412l"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-412l/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-412l/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-412l/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-412l/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_219">
+        <num>219</num>
+        <heading>Motor Vehicle Fuels Tax</heading>
+        <section eId="sec_12_412l">
+          <num>12-412l</num>
+          <heading>Exemption for sales of products used to fulfill paving contracts</heading>
+          <subsection eId="12_412l__subsec_a">
+            <num>(a)</num>
+            <paragraph eId="12_412l__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>For purposes of subparagraph (A) of subdivision</p>
+              </content>
+              <subparagraph eId="12_412l__subsec_a__subsec_1__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>of subdivision</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_412l__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>and subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_412l__subsec_a__subsec_18">
+              <num>(18)</num>
+              <content>
+                <p>of section12-412and section12-412i, a sale to a purchaser who will be making a finished product referred to in said sections, which sale would otherwise qualify for sales and use tax exemption pursuant to said sections except for the fact that such finished product is used by such purchaser to fulfill a paving contract, shall qualify for such exemption in the same manner as if such purchaser made a sale of such finished product.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_412l__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>Nothing in subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_412l__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>of this subsection shall apply the exemption under subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_412l__subsec_a__subsec_18">
+              <num>(18)</num>
+              <content>
+                <p>of section12-412to a sale to a purchaser of materials that become an ingredient or component part of a finished product that is used by such purchaser to fulfill a paving contract.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_412l__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>For purposes of subdivision</p>
+            </content>
+            <paragraph eId="12_412l__subsec_b__subsec_34">
+              <num>(34)</num>
+              <content>
+                <p>of section12-412, a sale of machinery to a purchaser that would otherwise qualify for sales and use tax exemption pursuant to said section, except for the fact that the products being manufactured with the purchased machinery are used by such purchaser to fulfill a paving contract, shall qualify for such exemption in the same manner as if such manufactured products were being sold by the purchaser.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

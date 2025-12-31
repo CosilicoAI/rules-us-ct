@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-852a"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-852a"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17a-852a"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-852a/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-852a/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-852a/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-852a/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319l">
+        <num>319l</num>
+        <heading>Nursing Home Financial Assistance</heading>
+        <section eId="sec_17a_852a">
+          <num>17a-852a</num>
+          <heading>Information sharing on supplemental nutrition assistance program beneficiaries eligible for elderly nutrition program. Plan to maximize supplemental nutrition assistance program benefits. Required reporting</heading>
+          <subsection eId="17a_852a__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The Commissioner of Social Services, upon a request from the Commissioner of Aging and Disability Services, or from an area agency on aging contracting with the Department of Aging and Disability Services to provide services under the elderly nutrition program, shall provide information on whether a person who is eligible to receive services under the elderly nutrition program is receiving benefits from the supplemental nutrition assistance program.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_852a__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The Commissioner of Social Services, in consultation with the Commissioner of Aging and Disability Services, shall develop a plan to maximize supplemental nutrition assistance program benefits to support the elderly nutrition program. The plan shall include, but need not be limited to,</p>
+            </content>
+            <paragraph eId="17a_852a__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>outreach to persons who may be eligible for both the elderly nutrition program and the supplemental nutrition assistance program, and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_852a__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>federally permissible uses of supplemental nutrition assistance benefits to fund meals provided to persons age sixty and over, persons with disabilities and such persons' households.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17a_852a__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Not later than October 1, 2024, the Commissioner of Social Services, in consultation with the Commissioner of Aging and Disability Services, shall file a report on the plan, in accordance with the provisions of section11-4a, with the joint standing committees of the General Assembly having cognizance of matters relating to aging and human services.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

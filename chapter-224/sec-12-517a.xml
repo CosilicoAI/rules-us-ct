@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-517a"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-517a"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-517a"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-517a/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-517a/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-517a/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-517a/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_224">
+        <num>224</num>
+        <heading>Community Revitalization and Investment</heading>
+        <section eId="sec_12_517a">
+          <num>12-517a</num>
+          <heading>Declarations of estimated tax and payment related to dividends, interest income and capital gains</heading>
+          <subsection eId="12_517a__subsec_a">
+            <num>(a)</num>
+            <paragraph eId="12_517a__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>Any taxpayer subject to the tax imposed on dividends and interest income under this chapter with respect to any taxable year shall submit a declaration of estimated tax on or before the fifteenth day of the sixth month of such taxable year, provided the tax required to be paid on such dividends and interest income for such taxable year can reasonably be expected to exceed two hundred dollars or the tax, if any, required to be paid on such income for the next preceding taxable year exceeded two hundred dollars. Any taxpayer filing such declaration shall make payment to the Commissioner of Revenue Services, to be included with such declaration, in an amount equal to fifty per cent of such estimated tax.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_517a__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>Any taxpayer subject to the tax imposed on gains from the sale or exchange of capital assets under this chapter with respect to any taxable year shall submit, on or before the fifteenth day of the sixth month of such taxable year, a declaration of the amount of estimated tax applicable to all such gains which have been earned, received in fact or constructively, accrued or credited to such taxpayer in the first five full months of such income year, provided the amount of such estimated tax is equal to two thousand dollars or more. Any taxpayer filing such declaration shall make payment to the Commissioner of Revenue Services, to be included with such declaration, in an amount equal to one hundred per cent of the estimated tax applicable to all such gains in the period of five full months.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_517a__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>Any taxpayer subject to tax under this chapter with respect to any taxable year shall submit, on or before the fifteenth day of the second month following the end of such taxable year, a declaration of estimated tax applicable to dividends, interest income and gains from the sale or exchange of capital assets for such taxable year, provided the total of such tax may reasonably be expected to exceed two thousand dollars. Any taxpayer filing such declaration shall make payment to the Commissioner of Revenue Services, to be included with such declaration, in an amount which, together with any prior payments on account of such estimated tax, is equal to one hundred per cent of such estimated tax.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_517a__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The commissioner shall prescribe or furnish the form for such declaration and shall require that such declaration include any and all information necessary or desirable in order to determine the amount of estimated tax or any installment thereof payable hereunder.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_517a__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Any declaration filed prior to the fifteenth day of the second month following the end of such taxable year may be amended on or before said day in accordance with regulations adopted by the commissioner.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

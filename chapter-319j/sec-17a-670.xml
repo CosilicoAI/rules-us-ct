@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-670"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-670"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17a-670"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-670/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-670/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-670/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-670/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319j">
+        <num>319j</num>
+        <heading>Health Care For Uninsured Children</heading>
+        <section eId="sec_17a_670">
+          <num>17a-670</num>
+          <heading>(Formerly Sec. 19a-2d). Regional planning for substance abuse prevention and treatment</heading>
+          <subsection eId="17a_670__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The Department of Mental Health and Addiction Services shall designate substance abuse planning regions within the state. Such regions and the boundaries of such regions may be redesignated by said department as it deems necessary.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_670__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The department shall designate subregions within each region established pursuant to subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_670__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section. The boundaries of such subregions may be redesignated by said department as it deems necessary. Each subregion shall be located entirely within the boundaries of a substance abuse planning region.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

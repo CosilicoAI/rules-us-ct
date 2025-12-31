@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-471a"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-471a"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17a-471a"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-471a/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-471a/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-471a/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-471a/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319i">
+        <num>319i</num>
+        <heading>Connecticut HUSKY Plan</heading>
+        <section eId="sec_17a_471a">
+          <num>17a-471a</num>
+          <heading>Connecticut Valley Hospital: Development of policies and standards for resident clients; advisory council</heading>
+          <subsection eId="17a_471a__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The Commissioner of Mental Health and Addiction Services, in consultation and coordination with the advisory council established under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_471a__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section, shall develop policies and set standards related to clients residing on the Connecticut Valley Hospital campus and to the discharge of such clients from the hospital into the adjacent community. Any such policies and standards shall ensure that no discharge of any client admitted to Whiting Forensic Hospital under commitment by the Superior Court or transfer from the Department of Correction shall take place without full compliance with sections17a-511to17a-524, inclusive,17a-566to17a-575, inclusive,17a-580to17a-603, inclusive, and54-56d.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_471a__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>There is established a Connecticut Valley Hospital Advisory Council that shall advise the Commissioner of Mental Health and Addiction Services on policies concerning, but not limited to, building use, security, clients residing on the campus and the discharge of clients from the campus into the adjacent community. In addition, the advisory council shall periodically review the implementation of the policies and standards established by the commissioner in consultation with the advisory council. The council shall be composed of six members appointed by the mayor of Middletown, eight members appointed by the Commissioner of Mental Health and Addiction Services and one member who shall serve as chairperson appointed by the Governor. On and after January 1, 2024, at least two members appointed by the Commissioner of Mental Health and Addiction Services shall have lived experience with a behavioral health disorder.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

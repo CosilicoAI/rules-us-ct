@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-15a"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-15a"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-15a"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-15a/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-15a/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-15a/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-15a/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_201">
+        <num>201</num>
+        <heading>State and Local Revenue Services. Department of Revenue Services</heading>
+        <section eId="sec_12_15a">
+          <num>12-15a</num>
+          <heading>Disclosure of tax returns or return information to authorized member of organized local police department</heading>
+          <subsection eId="12_15a__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Notwithstanding the provisions of section12-15, the Commissioner of Revenue Services may, subject to terms and conditions the commissioner may prescribe, disclose returns or return information, as those terms are defined in said section, to an authorized member of an organized local police department, upon written request by the chief of police of such department. Such written request shall:</p>
+            </content>
+            <paragraph eId="12_15a__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>Establish the relevance of such return or return information to an authorized investigation being conducted by such department into a violation of a criminal law of this state;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_15a__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>establish that no other source of such information is available to such department; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_15a__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>include the name of each member of such department who will be authorized to receive such return or return information. If the commissioner deems such return or return information to be relevant to such investigation, the commissioner may disclose such return or return information to such department.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_15a__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>No member of an organized local police department who receives any return or return information pursuant to this section may disclose such return or return information except in connection with a criminal prosecution, including any judicial proceeding related thereto, when such return or return information is directly involved in and necessary to such prosecution. Any person who violates this subsection shall be fined not more than one thousand dollars or imprisoned not more than one year, or both.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

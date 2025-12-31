@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-285c"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-285c"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-285c"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-285c/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-285c/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-285c/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-285c/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_214">
+        <num>214</num>
+        <heading>Business Tax Credits</heading>
+        <section eId="sec_12_285c">
+          <num>12-285c</num>
+          <heading>Restrictions on shipping or transporting cigarettes. Penalties</heading>
+          <subsection eId="12_285c__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>No person engaged in the business of selling cigarettes shall ship or transport or cause to be shipped or transported any cigarettes to any person in this state except to:</p>
+            </content>
+            <paragraph eId="12_285c__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>A cigarette distributor or dealer;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_285c__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>an export warehouse proprietor pursuant to Chapter 52 of the Internal Revenue Code of 1986, or any subsequent corresponding internal revenue code of the United States, as amended from time to time, or an operator of a customs bonded warehouse pursuant to 19 USC 1311 or 1555; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_285c__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>a person who is an officer, employee or agent of the United States Government, this state or a department, agency, instrumentality or political subdivision of the United States or of this state, when such person is acting in accordance with such person's official duties. Notwithstanding the provisions of section12-15, the Commissioner of Revenue Services shall publish on the Internet web site of the Department of Revenue Services a list of every cigarette distributor or dealer. As used in this subsection, “cigarette distributor or dealer” means a person licensed as a cigarette distributor under section12-288or licensed as a dealer under section12-287or a person whose name appears on a list of licensed distributors and dealers published by the Commissioner of Revenue Services.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_285c__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>No common or contract carrier shall knowingly transport cigarettes to a residential dwelling or to any person in this state who the common or contract carrier reasonably believes is not a person described in subdivisions</p>
+            </content>
+            <paragraph eId="12_285c__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>to</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_285c__subsec_b__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>, inclusive, of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_285c__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section. No person other than a common or contract carrier shall knowingly transport cigarettes to any person in this state who is not a person described in subdivisions</p>
+            </content>
+            <paragraph eId="12_285c__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>to</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_285c__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>, inclusive, of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_285c__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_285c__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>When a person engaged in the business of selling cigarettes ships or transports or causes to be shipped or transported any cigarettes to any described person in this state, other than in the cigarette manufacturer's original container or wrapping, the container or wrapping shall be plainly and visibly marked with the word “cigarettes”. Any person engaged in the business of selling cigarettes who ships or causes to be shipped any cigarettes to any described person in this state</p>
+            </content>
+            <paragraph eId="12_285c__subsec_c__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>shall require, as a condition of delivery, the customer who is receiving the cigarettes to sign an acknowledgment of receipt and provide proper proof of age, and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_285c__subsec_c__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>may not sell such cigarettes to such customer unless such proof of age is provided. For purposes of this subsection, “described person” means a person described in subdivisions</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_285c__subsec_c__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>to</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_285c__subsec_c__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>, inclusive, of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_285c__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_285c__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Whenever any cigarettes have been or are being shipped or transported in violation of this section, such cigarettes are declared to be contraband goods and the confiscation, search and forfeiture provisions of section12-305shall apply.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_285c__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>Any person who violates the provisions of this section shall be guilty of a class A misdemeanor and, for a second or subsequent violation, shall be guilty of a class C felony.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_285c__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>The Commissioner of Revenue Services may impose a civil penalty of not more than ten thousand dollars for each violation of this section. For purposes of this subsection, each shipment or transport of cigarettes shall constitute a separate violation. The Attorney General, upon request of the commissioner, may bring an action in the superior court for the judicial district of Hartford to collect such civil penalty and for any injunctive or equitable relief. In any action brought by the Attorney General to enforce the provisions of section12-285bor this section, the state shall be entitled to recover, when it is the prevailing party, the costs of investigation, expert witness fees, costs of the action, and reasonable attorneys' fees.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

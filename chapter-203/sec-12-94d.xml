@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-94d"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-94d"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-94d"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-94d/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-94d/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-94d/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-94d/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_203">
+        <num>203</num>
+        <heading>Property Tax Assessment</heading>
+        <section eId="sec_12_94d">
+          <num>12-94d</num>
+          <heading>Payment in lieu of tax revenue from electric generation facilities</heading>
+          <subsection eId="12_94d__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>As used in this section:</p>
+            </content>
+            <paragraph eId="12_94d__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>“Municipality” means each town, city, borough, consolidated town and city and consolidated town and borough and each district, as defined in section7-324; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_94d__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>“Next succeeding” means the second such date.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_94d__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>For a period of ten years beginning with the assessment year during which the value of an electric generation facility decreases as a direct result of restructuring of the electric industry, but in no event later than October 1, 2005, the municipality in which the facility is located shall be entitled, in addition to the amount of tax for which the owner of an electric generation facility is liable under this chapter with respect to such facility, to an amount as computed in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_94d__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_94d__subsec_c">
+            <num>(c)</num>
+            <paragraph eId="12_94d__subsec_c__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>The additional amount shall be a percentage of (A) the difference between the value of an electric generation facility as it would have been assessed were it not for said restructuring taking into account depreciation and the assessed value of such facility, (B) multiplied by the mill rate of the municipality in which the facility is located for the applicable assessment year, (C) minus the amount of any increase in property tax revenues to such municipality as a result of any increase in value of the facility or an additional electric generation facility in the municipality.</p>
+              </content>
+              <subparagraph eId="12_94d__subsec_c__subsec_1__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>the difference between the value of an electric generation facility as it would have been assessed were it not for said restructuring taking into account depreciation and the assessed value of such facility,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_94d__subsec_c__subsec_1__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>multiplied by the mill rate of the municipality in which the facility is located for the applicable assessment year,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_94d__subsec_c__subsec_1__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>minus the amount of any increase in property tax revenues to such municipality as a result of any increase in value of the facility or an additional electric generation facility in the municipality.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_94d__subsec_c__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>The assessor or board of assessors shall calculate the additional amount as follows: (A) For the assessment year during which the value of such facility decreased as a direct result of said restructuring, one hundred per cent of the amount computed under subdivision</p>
+              </content>
+              <subparagraph eId="12_94d__subsec_c__subsec_2__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>For the assessment year during which the value of such facility decreased as a direct result of said restructuring, one hundred per cent of the amount computed under subdivision</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_94d__subsec_c__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>of this subsection; and (B) for each assessment year thereafter, ten per cent less for each succeeding year until the percentage is zero.</p>
+              </content>
+              <subparagraph eId="12_94d__subsec_c__subsec_1__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>for each assessment year thereafter, ten per cent less for each succeeding year until the percentage is zero.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_94d__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>On or before June fifteenth, annually, following the assessment date for which the value of an electric generation facility decreases as a direct result of restructuring of the electric industry, the assessor or board of assessors of a municipality in which such a facility is located shall certify to the Secretary of the Office of Policy and Management, on a form furnished by the secretary, the amount as computed in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_94d__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of this section together with supporting information as the secretary may require. The secretary may reevaluate any such facility when, in the secretary's judgment, the valuation is inaccurate. The secretary shall review each claim and modify the value of any facility included therein when, in the secretary's judgment, the value is inaccurate or the facility did not decrease in value as a direct result of restructuring of the electric industry. Not later than July first next succeeding the assessment date for which the amount was approved by the assessor or assessors, the secretary shall notify the municipality in which the facility is located of the modification, in accordance with the procedure set forth in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_94d__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>of this section. The secretary shall, on or before July fifteenth, annually, certify to the Public Utilities Regulatory Authority the amount due the municipality under the provisions of this section, including any modification of such amount made prior to July first, and the authority shall order the payment of such amount by the appropriate electric distribution company to the municipality in which the facility is located according to the following formula: Not later than five business days following the date on which the taxes are paid by the owner of an electric generation facility in July, but in no case prior to July fifteenth, the balance required to equal an amount equal to half of the amount of tax for which the owner of an electric generation facility is liable under this chapter with respect to such facility plus half of the amount calculated in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_94d__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of this section; on or before the thirty-first day of January immediately following, the balance required to equal an amount equal to half of the amount of tax for which the owner of an electric generation facility is liable under this chapter with respect to such facility plus half of the amount calculated in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_94d__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of this section. Following the payment of taxes by the owner of an electric generation facility in July, the town shall certify to the Public Utilities Regulatory Authority the amount paid by such owner of an electric generation facility. The amount paid shall be recovered by the electric distribution company through the systems benefits charge established pursuant to section16-245l. If any modification is made as the result of the provisions of this section on or after the July fifteenth following the date on which the assessor has provided the amount in question, any adjustments to the amount due to a municipality for the period for which such modification was made shall be made in the next payment the electric distribution company shall make to such municipality pursuant to this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_94d__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>If the Secretary of the Office of Policy and Management modifies the amount calculated by the assessor or board of assessors pursuant to subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_94d__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of this section, the secretary shall send written notice of such modification to the appropriate municipality. Not later than thirty days after the date the municipality receives such notice, the municipality may make application for a hearing before said secretary, or his designee. Such application shall be in writing and shall set forth the reasons why the amount in question should not be modified. The secretary shall grant or deny such hearing request by written notice to the municipality. If a request for hearing is denied by the secretary such notice shall contain a statement of the reason for said denial. Not later than sixty days after the date on which a hearing is held, said secretary shall send notice of his decision concerning such appeal to the municipality. If the municipality is aggrieved by the secretary's decision concerning the disposition of the municipality's appeal or the secretary's decision not to hold a hearing, such municipality may, not later than thirty days after receiving a notice related thereto from the secretary, make application in the nature of an appeal to the superior court of the judicial district in which the electric generation facility is located. Such application shall be accompanied by a citation to the secretary to appear before said court, and shall be served and returned in the same manner as is required in the case of a summons in a civil action. Said court may grant such relief as may be equitable.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

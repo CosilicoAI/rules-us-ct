@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-81g"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-81g"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-81g"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-81g/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-81g/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-81g/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-81g/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_203">
+        <num>203</num>
+        <heading>Property Tax Assessment</heading>
+        <section eId="sec_12_81g">
+          <num>12-81g</num>
+          <heading>Additional exemption from property tax for veterans. State reimbursement for related tax loss. Regulations</heading>
+          <subsection eId="12_81g__subsec_a">
+            <num>(a)</num>
+            <heading>Additional exemption commencing 1985 assessment year with maximum income requirements</heading>
+            <content>
+              <p>Effective for the assessment year commencing October 1, 1985, and each assessment year thereafter, any person entitled to an exemption from property tax in accordance with subdivision</p>
+            </content>
+            <paragraph eId="12_81g__subsec_a__subsec_19">
+              <num>(19)</num>
+              <content>
+                <p>,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_81g__subsec_a__subsec_20">
+              <num>(20)</num>
+              <content>
+                <p>,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_81g__subsec_a__subsec_21">
+              <num>(21)</num>
+              <content>
+                <p>,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_81g__subsec_a__subsec_22">
+              <num>(22)</num>
+              <content>
+                <p>,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_81g__subsec_a__subsec_23">
+              <num>(23)</num>
+              <content>
+                <p>,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_81g__subsec_a__subsec_24">
+              <num>(24)</num>
+              <content>
+                <p>,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_81g__subsec_a__subsec_25">
+              <num>(25)</num>
+              <content>
+                <p>or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_81g__subsec_a__subsec_26">
+              <num>(26)</num>
+              <content>
+                <p>of section12-81, reflecting any increase made pursuant to the provisions of section12-62g, shall be entitled to an additional exemption from such tax in an amount equal to twice the amount of the exemption provided for such person pursuant to any such subdivision, provided such person's qualifying income does not exceed the applicable maximum amount as provided under section 1281l, except that if such person has a disability rating of one hundred per cent as determined by the United States Department of Veterans Affairs, the total of such adjusted gross income, individually, if unmarried, or jointly, if married, in the calendar year ending immediately preceding the assessment date with respect to which such additional exemption is allowed, is not more than twenty-one thousand dollars if such person is married or not more than eighteen thousand dollars if such person is not married.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_81g__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Municipal option for exemption in lieu of exemption in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_81g__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>.</p>
+            </content>
+            <paragraph eId="12_81g__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>Effective for the assessment year commencing October 1, 2022, and each assessment year thereafter, any municipality may, upon approval by its legislative body or, in any town in which the legislative body is a town meeting, by the board of selectmen, provide that, in lieu of the additional exemption prescribed under subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_81g__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section, any person entitled to an exemption from property tax in accordance with subdivision</p>
+            </content>
+            <paragraph eId="12_81g__subsec_a__subsec_20">
+              <num>(20)</num>
+              <content>
+                <p>of section12-81, reflecting any increase made pursuant to the provisions of section12-62g, who has a disability rating of one hundred per cent, as determined by the United States Department of Veterans Affairs, shall be entitled to an additional exemption from such tax in an amount equal to three times the amount of the exemption provided for such person pursuant to subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_81g__subsec_a__subsec_20">
+              <num>(20)</num>
+              <content>
+                <p>of section12-81, provided such person's total adjusted gross income as determined for purposes of the federal income tax, excluding veterans' disability payments, individually if unmarried, or jointly with spouse if married, during the calendar year ending immediately preceding the filing of a claim for any such exemption, is not more than twenty-four thousand dollars if such person is married or not more than twenty-one thousand dollars if such person is not married.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_81g__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>The provisions of this subsection shall not limit the applicability of the provisions of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_81g__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section for persons not eligible for the property tax exemption provided by this subsection.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_81g__subsec_c">
+            <num>(c)</num>
+            <heading>Forfeit of right to claim exemption</heading>
+            <content>
+              <p>Any claimant who, for purposes of obtaining an exemption under this section, wilfully fails to disclose all matters related thereto or with intent to defraud makes any false statement shall forfeit the right to claim such additional veteran's exemption.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_81g__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Additional exemption for veterans not eligible under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_81g__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>.Effective for the assessment year commencing October 1, 1986, and each assessment year thereafter, any person entitled to an exemption from property tax in accordance with subdivision</p>
+            </content>
+            <paragraph eId="12_81g__subsec_a__subsec_19">
+              <num>(19)</num>
+              <content>
+                <p>,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_81g__subsec_a__subsec_20">
+              <num>(20)</num>
+              <content>
+                <p>,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_81g__subsec_a__subsec_21">
+              <num>(21)</num>
+              <content>
+                <p>,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_81g__subsec_a__subsec_22">
+              <num>(22)</num>
+              <content>
+                <p>,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_81g__subsec_a__subsec_23">
+              <num>(23)</num>
+              <content>
+                <p>,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_81g__subsec_a__subsec_24">
+              <num>(24)</num>
+              <content>
+                <p>,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_81g__subsec_a__subsec_25">
+              <num>(25)</num>
+              <content>
+                <p>or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_81g__subsec_a__subsec_26">
+              <num>(26)</num>
+              <content>
+                <p>of section12-81, reflecting any increase made pursuant to the provisions of section12-62g, and who is not receiving or is not eligible to receive the additional exemption under subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_81g__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>or</p>
+            </content>
+          </subsection>
+          <subsection eId="12_81g__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section, shall be entitled to an additional exemption from such tax in an amount equal to one-half of the amount of the exemption provided for such person pursuant to any such subdivision.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_81g__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>State reimbursement for tax loss related to subsections</p>
+            </content>
+          </subsection>
+          <subsection eId="12_81g__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>and</p>
+            </content>
+          </subsection>
+          <subsection eId="12_81g__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>.The state shall reimburse each town, city, borough, consolidated town and city and consolidated town and borough by the last day of each calendar year in which exemptions were granted to the extent of the revenue loss represented by the additional exemptions provided for in subsections</p>
+            </content>
+          </subsection>
+          <subsection eId="12_81g__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>and</p>
+            </content>
+          </subsection>
+          <subsection eId="12_81g__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section. The Secretary of the Office of Policy and Management shall review each claim for such revenue loss as provided in section12-120b. Any claimant aggrieved by the results of the secretary's review shall have the rights of appeal as set forth in section12-120b. In the fiscal year commencing July 1, 2003, and in each fiscal year thereafter, the amount payable to each municipality in accordance with this section shall be reduced proportionately in the event that the total amount payable to all municipalities exceeds the amount appropriated.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_81g__subsec_f">
+            <num>(f)</num>
+            <heading>Qualification requirements in a year in which application is not submitted</heading>
+            <content>
+              <p>Any person who has submitted application and been approved in any year for the additional exemption under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_81g__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>or</p>
+            </content>
+          </subsection>
+          <subsection eId="12_81g__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section shall, in the year immediately following approval, be presumed to be qualified for such exemption. If, in the year immediately following approval, such person has qualifying income in excess of the maximum allowed under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_81g__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>or</p>
+            </content>
+          </subsection>
+          <subsection eId="12_81g__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section, such person shall notify the tax assessor in the town allowing the additional exemption on or before the next filing date for such exemption and shall be denied such exemption for the assessment year immediately following and for any subsequent year until such person has reapplied and again qualified for such exemption. Any person who fails to notify the tax assessor of such disqualification shall make payment to the town in the amount of property tax loss related to the exemption improperly taken. Not more than thirty days after discovering such person's ineligibility for the exemption, the assessor shall send written notification of such person's identity to the Secretary of the Office of Policy and Management. If any payment was remitted under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_81g__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>of this section with respect to a period for which such person was not eligible for the exemption, the amount of the next payment made to the town shall be reduced by the amount of payment made erroneously.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_81g__subsec_g">
+            <num>(g)</num>
+            <heading>Regulations</heading>
+            <content>
+              <p>The Secretary of the Office of Policy and Management shall adopt regulations, in accordance with the provisions of chapter 54, establishing:</p>
+            </content>
+            <paragraph eId="12_81g__subsec_g__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>A procedure under which a municipality shall determine eligibility for any additional exemptions under subsections</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_81g__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>,</p>
+            </content>
+          </subsection>
+          <subsection eId="12_81g__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>and</p>
+            </content>
+          </subsection>
+          <subsection eId="12_81g__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>of this section, provided such procedure shall include a provision that when an applicant has filed for either of such exemptions and received approval for the first time, such applicant shall be required to file for such exemption biennially thereafter, subject to the provisions of subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_81g__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>of this section;</p>
+            </content>
+            <paragraph eId="12_81g__subsec_f__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>the manner in which a municipality shall apply for reimbursement from the state for the revenue loss represented by the additional exemptions provided for in subsections</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_81g__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>and</p>
+            </content>
+          </subsection>
+          <subsection eId="12_81g__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section, which shall provide a penalty for late filing of such application for reimbursement of two hundred fifty dollars, but shall also provide that the secretary may waive such forfeiture in accordance with procedures and standards contained in such regulations; and</p>
+            </content>
+            <paragraph eId="12_81g__subsec_b__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>the manner in which the Office of Policy and Management may audit and make adjustments to applications for reimbursement from municipalities for a period of not more than one year next succeeding the deadline for such application.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

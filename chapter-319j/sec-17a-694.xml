@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-694"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-694"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17a-694"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-694/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-694/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-694/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-694/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319j">
+        <num>319j</num>
+        <heading>Health Care For Uninsured Children</heading>
+        <section eId="sec_17a_694">
+          <num>17a-694</num>
+          <heading>(Formerly Sec. 19a-127c). Examination for alcohol or drug dependency. Report</heading>
+          <subsection eId="17a_694__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The Commissioner of Mental Health and Addiction Services or the commissioner's designee shall appoint one or more clinical examiners to conduct examinations for alcohol or drug dependency ordered pursuant to the provisions of section17a-693. Each examiner shall be authorized by the department to conduct independent evaluations.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_694__subsec_b">
+            <num>(b)</num>
+            <paragraph eId="17a_694__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>The examiner shall determine whether the person being examined was an alcohol-dependent or drug-dependent person at the time of the crime. The commissioner shall disclose to the examiner information contained in the Department of Mental Health and Addiction Service's database concerning the date that the person received treatment for alcohol or drug dependence, if at all, and the location where such treatment was provided, for the purpose of allowing the examiner to request a release of treatment information from the department for the person.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_694__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>If such person is determined to have been dependent on alcohol or drugs, the examiner shall further determine (A) the history and pattern of the dependency, and (B) whether the person presently needs and is likely to benefit from treatment for the dependency. If the examiner determines that the person presently needs and is likely to benefit from treatment, the examiner shall recommend treatment and state the date when space will be available in an appropriate treatment program, provided such date shall not be more than forty-five days from the date of the examination report. A recommendation for treatment shall include provisions for appropriate placement and the type and length of treatment and may include provisions for outpatient treatment.</p>
+              </content>
+              <subparagraph eId="17a_694__subsec_b__subsec_2__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>the history and pattern of the dependency, and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17a_694__subsec_b__subsec_2__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>whether the person presently needs and is likely to benefit from treatment for the dependency. If the examiner determines that the person presently needs and is likely to benefit from treatment, the examiner shall recommend treatment and state the date when space will be available in an appropriate treatment program, provided such date shall not be more than forty-five days from the date of the examination report. A recommendation for treatment shall include provisions for appropriate placement and the type and length of treatment and may include provisions for outpatient treatment.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="17a_694__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The examiner shall prepare and sign, without notarization, a written examination report and deliver it to the court, the Court Support Services Division, the state's attorney and defense counsel no later than thirty days after the examination was ordered. An examination report ordered pursuant to this section and section17a-693shall otherwise be confidential and not open to public inspection or subject to disclosure.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_694__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>No statement made by the person in the course of an examination under the provisions of this section may be admitted in evidence on the issue of guilt in a criminal proceeding concerning the person.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_694__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>No person shall be denied an examination or participation in a program under this section for inability to pay any cost or fee associated with such examination or program, provided</p>
+            </content>
+            <paragraph eId="17a_694__subsec_e__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>the person files with the court an affidavit of indigency or inability to pay and the court enters a finding thereof, or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_694__subsec_e__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>such person has been determined indigent and eligible for representation by a public defender who has been appointed on behalf of such person pursuant to section51-296. The court shall not require a person to perform community service in lieu of payment of such cost or fee, if such cost or fee is waived.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

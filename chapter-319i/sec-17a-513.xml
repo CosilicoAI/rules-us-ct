@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-513"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-513"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17a-513"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-513/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-513/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-513/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-513/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319i">
+        <num>319i</num>
+        <heading>Connecticut HUSKY Plan</heading>
+        <section eId="sec_17a_513">
+          <num>17a-513</num>
+          <heading>(Formerly Sec. 17-194c). Voluntary admission of inmates of correctional institutions in hospital for psychiatric disabilities</heading>
+          <subsection eId="17a_513__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of section17a-506shall apply to any person who is in the custody of the Commissioner of Correction provided that no such person shall be received in a hospital for observation and treatment unless a physician designated by the Commissioner of Correction notifies in writing both the Commissioner of Correction and the Commissioner of Mental Health and Addiction Services that such person is in need of observation and treatment in a hospital for psychiatric disabilities. No such person shall be confined in any such hospital for more than ten days after he has given written notice of his desire to leave, without commitment, pursuant to the provisions of section17a-498, by the court of probate for the district wherein such person is hospitalized. In the absence of such commitment, such person, if in the custody of the Commissioner of Correction, shall be returned to any institution administered by the Department of Correction as the Commissioner of Correction shall designate, unless his custody in the Commissioner of Correction has terminated, in which case he shall be discharged.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

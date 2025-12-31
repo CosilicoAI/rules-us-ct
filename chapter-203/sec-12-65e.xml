@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-65e"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-65e"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-65e"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-65e/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-65e/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-65e/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-65e/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_203">
+        <num>203</num>
+        <heading>Property Tax Assessment</heading>
+        <section eId="sec_12_65e">
+          <num>12-65e</num>
+          <heading>Agreements to fix assessments during, and defer increases following, rehabilitation or construction. Required provisions</heading>
+          <content>
+            <p>Sec. 12-65e. Agreements to fix assessments during, and defer increases following, rehabilitation or construction. Required provisions.Any municipality which has adopted a resolution, in accordance with the provisions of section12-65d, designating such municipality or any part thereof as a rehabilitation area, may, upon application of the owner of any real property located in such area who agrees to rehabilitate such property or construct (1) new multifamily rental housing or cooperative housing on such property, or (2) if such property is a brownfield, as defined in section32-760, new multifamily rental housing, cooperative housing, common interest communities or mixed-use or commercial structures on such property, enter into an agreement to fix the assessment of the property, during the period of rehabilitation or construction, as of the date of the agreement, but for not longer than seven years, and upon completion of such rehabilitation or construction, to defer any increase in assessment attributable to such rehabilitation or construction for a period not to exceed eleven years, contingent upon the continued use of the property for the purposes specified in the agreement, provided such property meets the criteria established by such municipality in accordance with section12-65dand provided further such deferral shall be determined as follows: For the first year following completion of such rehabilitation or construction, the entire increase shall be deferred; thereafter a minimum of ten per cent of the increase shall be assessed against the property each year until one hundred per cent of such increase has been so assessed. The agreement shall provide that, in the event of a general revaluation by the municipality in the year in which such rehabilitation or construction is completed resulting in any increase in the assessment on such property, only that portion of the increase resulting from such rehabilitation or construction shall be deferred; and in the event of a general revaluation in any year after the year in which such rehabilitation or construction is completed, such deferred assessment shall be increased or decreased in proportion to the increase or decrease in the total assessment on such property as a result of such general revaluation. Such agreement shall further provide that such rehabilitation or construction shall be completed by a date fixed by the municipality and that the completed rehabilitation or construction shall be subject to inspection and certification by the local building official as being in conformance with the criteria established under section12-65dand such provisions of the state building and health codes and the local housing code as may apply. Any such tax deferral shall be contingent upon the continued use of the property for those purposes specified in the agreement creating such deferral and such deferral shall cease upon the sale or transfer of the property for any other purpose unless the municipality shall have consented thereto.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

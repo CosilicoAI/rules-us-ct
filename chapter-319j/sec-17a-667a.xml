@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-667a"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-667a"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17a-667a"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-667a/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-667a/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-667a/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-667a/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319j">
+        <num>319j</num>
+        <heading>Health Care For Uninsured Children</heading>
+        <section eId="sec_17a_667a">
+          <num>17a-667a</num>
+          <heading>Fact sheet re opioids and opioid use disorder. Marketing campaign and public service announcements. Information portal re detoxification and rehabilitation beds and slots for outpatient treatment. Report. Working groups re disposal of opioid drugs and substance abuse treatment referral programs</heading>
+          <subsection eId="17a_667a__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>As used in this section:</p>
+            </content>
+            <paragraph eId="17a_667a__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>“Health care provider” means any person or organization that furnishes health care services and is licensed or certified to furnish such services pursuant to chapters 370, 372, 373, 375, 376, 376a, 376b, 377, 378, 379, 380, 383, 383a, 383b and 383c, or is licensed or certified pursuant to chapter 368d;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_667a__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>“Pharmacist” means a pharmacist licensed pursuant to chapter 400j;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_667a__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>“Opioid drug” has the same meaning as provided in section20-14o; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_667a__subsec_a__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>“Opioid antagonist” has the same meaning as provided in section17a-714a.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17a_667a__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>On or before October 1, 2017, the Connecticut Alcohol and Drug Policy Council, established under section17a-667, shall develop</p>
+            </content>
+            <paragraph eId="17a_667a__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>a one-page fact sheet that includes, in clear and readily understandable language in at least twelve-point font size, the risks of taking an opioid drug, the symptoms of opioid use disorder and services available in the state for persons who experience symptoms of or are otherwise affected by opioid use disorder, and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_667a__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>strategies to encourage health care providers and pharmacists to disseminate the one-page fact sheet. Such one-page fact sheet shall be made available on the Internet web site of the Department of Mental Health and Addiction Services for use by health care providers and pharmacists to disseminate to any person (A) whom such provider treats for symptoms of opioid use disorder, (B) to whom such provider issues a prescription for or administers an opioid drug or opioid antagonist, or (C) to whom such pharmacist dispenses an opioid drug or opioid antagonist or issues a prescription for an opioid antagonist.</p>
+              </content>
+              <subparagraph eId="17a_667a__subsec_b__subsec_2__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>whom such provider treats for symptoms of opioid use disorder,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17a_667a__subsec_b__subsec_2__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>to whom such provider issues a prescription for or administers an opioid drug or opioid antagonist, or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17a_667a__subsec_b__subsec_2__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>to whom such pharmacist dispenses an opioid drug or opioid antagonist or issues a prescription for an opioid antagonist.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="17a_667a__subsec_c">
+            <num>(c)</num>
+            <paragraph eId="17a_667a__subsec_c__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>The Connecticut Alcohol and Drug Policy Council shall examine the feasibility of the following:
+(A) Developing a marketing campaign and making monthly public service announcements on the Internet web sites and social media accounts of the appropriate state agencies, as designated by the council, and any radio station and television station broadcasting to persons in the state, regarding</p>
+              </content>
+              <subparagraph eId="17a_667a__subsec_c__subsec_1__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>Developing a marketing campaign and making monthly public service announcements on the Internet web sites and social media accounts of the appropriate state agencies, as designated by the council, and any radio station and television station broadcasting to persons in the state, regarding</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="17a_667a__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>the risks of taking opioid drugs, (ii) symptoms of opioid use disorder, (iii) the availability of opioid antagonists in the state, and (iv) services in the state for persons with or affected by opioid use disorder; and
+(B) Establishing a publicly accessible electronic information portal, in the form of an Internet web site or application, as a single point of entry for information regarding the availability of</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_667a__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>beds at a facility in the state for persons in need of medical treatment for (I) detoxification for potentially life-threatening symptoms of withdrawal from alcohol or drugs, and (II) rehabilitation or treatment for alcohol dependency, drug dependency or intoxication, and (ii) slots for outpatient treatment using opioid medication that is used to treat opioid use disorder, including methadone and buprenorphine. Such examination shall include the ability of the portal to (I) provide real-time data on the availability of beds and slots, including, but not limited to, the types of beds and slots available, the location of such beds and slots and the wait times, if available, for such beds and slots, and (II) be accessible to the public.</p>
+            </content>
+            <paragraph eId="17a_667a__subsec_i__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>Not later than January 1, 2019, the council shall report, in accordance with the provisions of section11-4a, to the joint standing committee of the General Assembly having cognizance of matters relating to public health on the outcome of such examination.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17a_667a__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>The Connecticut Alcohol and Drug Policy Council shall convene a working group to advise the council of any recommendations for statutory or policy changes that would enable first responders or health care providers to safely dispose of a person's opioid drugs upon their death. Not later than February 1, 2018, the council shall report, in accordance with the provisions of section11-4a, to the joint standing committee of the General Assembly having cognizance of matters relating to public health regarding the recommendations of the working group.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_667a__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>The Connecticut Alcohol and Drug Policy Council shall convene a working group to study substance abuse treatment referral programs that have been established by municipal police departments to refer persons with an opioid use disorder or seeking recovery from drug addiction to substance abuse treatment facilities. The working group shall</p>
+            </content>
+            <paragraph eId="17a_667a__subsec_e__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>examine such referral programs,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_667a__subsec_e__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>identify any barriers faced by such referral programs, and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_667a__subsec_e__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>determine the feasibility of implementing such programs on a state-wide basis. Not later than February 1, 2018, the council shall report, in accordance with the provisions of section11-4a, to the joint standing committees of the General Assembly having cognizance of matters relating to public health and public safety and security regarding the findings of the working group.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

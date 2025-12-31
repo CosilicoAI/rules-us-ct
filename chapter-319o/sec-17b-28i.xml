@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-28i"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-28i"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17b-28i"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-28i/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-28i/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-28i/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-28i/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319o">
+        <num>319o</num>
+        <heading>Personal Care Assistance</heading>
+        <section eId="sec_17b_28i">
+          <num>17b-28i</num>
+          <heading>Income disregard for veterans' Aid and Attendance pension benefits. Amendment to Medicaid state plan</heading>
+          <subsection eId="17b_28i__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>To the extent permissible by federal law, the Commissioner of Social Services shall disregard federal Aid and Attendance pension benefits granted to a veteran or the surviving spouse of such veteran when determining income eligibility for the state's Medicare savings, medical assistance and energy assistance programs administered under section17b-2. As used in this subsection, “veteran” has the same meaning as provided in section27-103.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_28i__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The Commissioner of Social Services may seek approval of an amendment to the state Medicaid plan or a waiver from federal law, if necessary, to exempt such benefits from income eligibility criteria.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

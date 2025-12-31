@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-278j"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-278j"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17b-278j"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-278j/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-278j/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-278j/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-278j/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319v">
+        <num>319v</num>
+        <heading>Temporary Assistance for Needy Families</heading>
+        <section eId="sec_17b_278j">
+          <num>17b-278j</num>
+          <heading>Complex rehabilitation technology. Definitions. Report</heading>
+          <subsection eId="17b_278j__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>As used in this section:</p>
+            </content>
+            <paragraph eId="17b_278j__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>“Complex rehabilitation technology” means products classified as durable medical equipment within the Medicare program as of January 1, 2013, that are individually configured and medically necessary for individuals to meet their specific and unique medical, physical and functional needs and capacities for basic and instrumental activities of daily living. Complex rehabilitation technology includes, but is not limited to, (A) complex rehabilitation manual and power wheelchairs and accessories, (B) adaptive seating and positioning items and accessories, and (C) other specialized equipment and accessories, such as standing frames and gait trainers.</p>
+              </content>
+              <subparagraph eId="17b_278j__subsec_a__subsec_1__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>complex rehabilitation manual and power wheelchairs and accessories,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17b_278j__subsec_a__subsec_1__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>adaptive seating and positioning items and accessories, and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17b_278j__subsec_a__subsec_1__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>other specialized equipment and accessories, such as standing frames and gait trainers.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="17b_278j__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>“Employee” means a person whose taxes are withheld by a qualified complex rehabilitation technology supplier and reported to the Internal Revenue Service.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_278j__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>“Healthcare Common Procedure Coding System” or “HCPCS” means the billing codes used by Medicare and overseen by the federal Centers for Medicare and Medicaid Services that are based on the current procedural technology codes developed by the American Medical Association.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_278j__subsec_a__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>“Individually configured” means a device with a combination of sizes, features, adjustments or modifications that is customized by a qualified complex rehabilitation technology supplier for a specific individual by measuring, fitting, programming, adjusting or adapting the device so that the device is consistent with the individual's medical condition, physical and functional needs and capacities, body size, period of need and intended use as determined by an assessment or evaluation by a qualified health care professional.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_278j__subsec_a__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>“Medically necessary” has the same meaning as provided in section17b-259b.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_278j__subsec_a__subsec_6">
+              <num>(6)</num>
+              <content>
+                <p>“Mixed HCPCS codes” means codes that refer to a mix of complex rehabilitation technology products and standard mobility and accessory products.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_278j__subsec_a__subsec_7">
+              <num>(7)</num>
+              <content>
+                <p>“Pure HCPCS codes” means codes that refer exclusively to complex rehabilitation technology products and services.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_278j__subsec_a__subsec_8">
+              <num>(8)</num>
+              <content>
+                <p>“Qualified complex rehabilitation technology professional” means an individual who is certified as an Assistive Technology Professional by the Rehabilitation Engineering and Assistive Technology Society of North America.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_278j__subsec_a__subsec_9">
+              <num>(9)</num>
+              <content>
+                <p>“Qualified complex rehabilitation technology supplier” means a company or entity that:
+(A) Is accredited by a recognized accrediting organization as a supplier of complex rehabilitation technology;
+(B) Is an enrolled Medicare supplier and meets the supplier and quality standards established for durable medical equipment, including those for a complex rehabilitation technology supplier under the Medicare program;
+(C) Has at least one employee who is a qualified complex rehabilitation technology professional for each service location to</p>
+              </content>
+              <subparagraph eId="17b_278j__subsec_a__subsec_9__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>Is accredited by a recognized accrediting organization as a supplier of complex rehabilitation technology;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17b_278j__subsec_a__subsec_9__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>Is an enrolled Medicare supplier and meets the supplier and quality standards established for durable medical equipment, including those for a complex rehabilitation technology supplier under the Medicare program;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17b_278j__subsec_a__subsec_9__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>Has at least one employee who is a qualified complex rehabilitation technology professional for each service location to</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_278j__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>analyze the needs and capacities of an eligible individual in consultation with a qualified health care professional, (ii) participate in the selection of appropriate covered complex rehabilitation technology for such needs and capacities, and (iii) provide technology-related training in the proper use of the complex rehabilitation technology;
+(D) Requires a qualified complex rehabilitation technology professional be physically present for the evaluation and determination of appropriate complex rehabilitation technology for an eligible individual;
+(E) Has the capability to provide service and repair by qualified technicians for all complex rehabilitation technology it sells; and
+(F) Provides written information regarding how to receive service and repair of complex rehabilitation technology to the eligible individual at the time such technology is delivered.</p>
+            </content>
+            <paragraph eId="17b_278j__subsec_i__subsec_10">
+              <num>(10)</num>
+              <content>
+                <p>“Qualified health care professional” means a health care professional licensed by the state Department of Public Health who has no financial relationship with a qualified complex rehabilitation technology supplier. Qualified health care professional includes, but is not limited to, (A) a licensed physician, (B) a licensed physical therapist, (C) a licensed occupational therapist, or (D) other licensed health care professional who performs specialty evaluations within the professional's scope of practice.</p>
+              </content>
+              <subparagraph eId="17b_278j__subsec_i__subsec_10__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>a licensed physician,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17b_278j__subsec_i__subsec_10__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>a licensed physical therapist,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17b_278j__subsec_i__subsec_10__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>a licensed occupational therapist, or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17b_278j__subsec_i__subsec_10__subsec_D">
+                <num>(D)</num>
+                <content>
+                  <p>other licensed health care professional who performs specialty evaluations within the professional's scope of practice.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_278j__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The Commissioner of Social Services shall, not later than January 1, 2015, report to the joint standing committee of the General Assembly having cognizance of matters relating to human services on the impact of:</p>
+            </content>
+            <paragraph eId="17b_278j__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>Designating products and services included in mixed and pure HCPCS billing codes as complex rehabilitation technology;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_278j__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>setting minimum standards consistent with subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_278j__subsec_b__subsec_9">
+              <num>(9)</num>
+              <content>
+                <p>of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_278j__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section in order for suppliers to be considered qualified complex rehabilitation technology suppliers eligible for Medicaid reimbursement;</p>
+            </content>
+            <paragraph eId="17b_278j__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>preserving the option for complex rehabilitation technology to be billed and paid for as a purchase allowing for single payments for devices with a length of need of one year or greater, excluding approved crossover claims for clients enrolled in Medicare and Medicaid; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_278j__subsec_a__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>requiring eligible individuals receiving a complex rehabilitation manual wheelchair, power wheelchair or seating component to be evaluated by a qualified health care professional and a qualified complex rehabilitation technology professional to qualify for reimbursement.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

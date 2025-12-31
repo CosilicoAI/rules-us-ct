@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-3b"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-3b"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-3b"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-3b/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-3b/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-3b/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-3b/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_201">
+        <num>201</num>
+        <heading>State and Local Revenue Services. Department of Revenue Services</heading>
+        <section eId="sec_12_3b">
+          <num>12-3b</num>
+          <heading>Abatement Review Committee</heading>
+          <subsection eId="12_3b__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>There is created an Abatement Review Committee which shall consist of</p>
+            </content>
+            <paragraph eId="12_3b__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>the State Comptroller or an employee of the office of the State Comptroller designated by said Comptroller,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_3b__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>the Secretary of the Office of Policy and Management or an employee of the Office of Policy and Management designated by said secretary,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_3b__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>the Commissioner of Consumer Protection or an employee of the Department of Consumer Protection designated by said commissioner, and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_3b__subsec_a__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>the Commissioner of Revenue Services or an employee of the Department of Revenue Services designated by said commissioner. Said committee shall meet monthly or as often as necessary to approve any abatement, in whole or in part, of tax, including any penalty or interest payable in connection therewith, which the Commissioner of Revenue Services or the Commissioner of Consumer Protection is authorized to abate pursuant to any provision of the general statutes. A majority vote of the committee shall be required for approval of such abatement.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_3b__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>An itemized statement of all abatements approved under this section shall be available to the public for inspection by any person.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_3b__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The Abatement Review Committee, established pursuant to subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_3b__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section, may adopt regulations, in accordance with chapter 54, establishing guidelines for the abatement of any tax.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-296a"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-296a"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-296a"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-296a/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-296a/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-296a/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-296a/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_214">
+        <num>214</num>
+        <heading>Business Tax Credits</heading>
+        <section eId="sec_12_296a">
+          <num>12-296a</num>
+          <heading>Additional tax imposed in direct relationship to amount of any reduction in federal tax below a certain level</heading>
+          <content>
+            <p>Sec. 12-296a. Additional tax imposed in direct relationship to amount of any reduction in federal tax below a certain level.In addition to the tax imposed pursuant to section12-296, if the tax imposed by the federal government on cigarettes manufactured in or imported into the United States ever falls below eight dollars per thousand, generally, on cigarettes weighing not more than three pounds per thousand or sixteen dollars and eighty cents per thousand, generally, on cigarettes weighing more than three pounds per thousand, a tax is imposed on all cigarettes held in the state by any person for sale equal to the difference between: (1) The tax imposed on such cigarettes by the federal government at or prior to the time such cigarettes become subject to taxation in this state; and (2) the tax which would have been imposed on such cigarettes by the federal government if the rate of tax on cigarettes by the federal government at the time a tax was imposed on such cigarettes by the federal government was equal to the rate of tax on such cigarettes by the federal government on July 1, 1985.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

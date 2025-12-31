@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-710"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-710"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17a-710"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-710/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-710/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-710/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-710/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319j">
+        <num>319j</num>
+        <heading>Health Care For Uninsured Children</heading>
+        <section eId="sec_17a_710">
+          <num>17a-710</num>
+          <heading>(Formerly Sec. 19a-4f). Treatment programs for pregnant women with substance use disorders and their children</heading>
+          <subsection eId="17a_710__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>It shall be the policy of the Department of Mental Health and Addiction Services to develop and implement treatment programs for pregnant women of any age with substance use disorders and their children. The department shall seek private and public funds for such programs. Each program shall, to the extent possible and within available appropriations, offer comprehensive services, including</p>
+            </content>
+            <paragraph eId="17a_710__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>education and prevention programs in high schools and family planning clinics;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_710__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>outreach services to identify pregnant women with substance use disorders early and enroll them in prenatal care and substance abuse treatment programs;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_710__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>case management services;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_710__subsec_a__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>hospital care with substance abuse treatment available in coordination with obstetric services;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_710__subsec_a__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>pediatric care, including therapeutic care for neurologically, behaviorally or developmentally impaired infants;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_710__subsec_a__subsec_6">
+              <num>(6)</num>
+              <content>
+                <p>child care for other siblings;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_710__subsec_a__subsec_7">
+              <num>(7)</num>
+              <content>
+                <p>classes on parenting skills;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_710__subsec_a__subsec_8">
+              <num>(8)</num>
+              <content>
+                <p>home visitation for those who need additional support or who are reluctant to enter a treatment program;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_710__subsec_a__subsec_9">
+              <num>(9)</num>
+              <content>
+                <p>access to WIC and other entitlement programs;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_710__subsec_a__subsec_10">
+              <num>(10)</num>
+              <content>
+                <p>vocational training for mothers seeking entry to the job market; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_710__subsec_a__subsec_11">
+              <num>(11)</num>
+              <content>
+                <p>a housing component. To the extent possible all services shall be coordinated to be delivered from a centralized location, utilizing medical vans where available and providing transportation assistance when needed.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17a_710__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>In addition to establishing new programs pursuant to subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_710__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section, the department shall incorporate the comprehensive services set forth in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_710__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section in existing treatment programs when feasible.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_710__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The department shall include in the state substance use disorder plan, developed in accordance with subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_710__subsec_j">
+            <num>(j)</num>
+            <content>
+              <p>of section17a-451, goals to overcome barriers to treatment which are specific to pregnant women and women with children and to provide increased treatment services and programs to pregnant women. Such programs shall be developed in collaboration with other state agencies providing child care, family support, health services and early intervention services for parents and young children. Such collaboration shall not be limited to agencies providing substance use disorder services.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-385"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-385"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-385"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-385/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-385/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-385/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-385/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_216">
+        <num>216</num>
+        <heading>Sales and Use Taxes</heading>
+        <section eId="sec_12_385">
+          <num>12-385</num>
+          <heading>Enforcement by sale of property</heading>
+          <content>
+            <p>Sec. 12-385. Enforcement by sale of property.In the absence of a provision in the will charging the tax imposed by the provisions of this chapter to the residuary estate or to some particular fund, an executor, administrator or trustee receiving property, the transfer of which is subject to the tax imposed by this chapter, shall not deliver such property to the transferees without retaining a sufficient portion thereof to pay the tax or, in the case of a specific legacy, without collecting the tax from the transferees. The executor of a will or the administrator of an estate shall collect the tax due upon the transfer of all property which belonged to the transferor and the taxes due upon transfers of property made by the transferor during his lifetime. If any transferee personally liable therefor neglects, upon demand, to pay the tax upon a specific legacy, or upon the transfer of property of a transferor, or upon the transfer of property during the transferor's lifetime, or if any such tax is payable out of the property transferred, the executor or administrator is authorized, upon such notice as the Probate Court may direct, to sell such portion of such property as may be necessary and to deduct the tax from the proceeds of such sale, accounting to the transferee for the balance, if any, in lieu of the property.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

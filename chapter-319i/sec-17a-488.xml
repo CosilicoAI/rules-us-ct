@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-488"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-488"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17a-488"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-488/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-488/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-488/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-488/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319i">
+        <num>319i</num>
+        <heading>Connecticut HUSKY Plan</heading>
+        <section eId="sec_17a_488">
+          <num>17a-488</num>
+          <heading>Report of suspected abuse. Training program. Penalty for failure to report. Immunity</heading>
+          <subsection eId="17a_488__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>As used in this section and section17a-488a:</p>
+            </content>
+            <paragraph eId="17a_488__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>“Abuse” means the wilful infliction of physical pain, injury or mental anguish, or the wilful deprivation by a caregiver of services which are necessary to maintain the physical and mental health of a patient;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_488__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>“Behavioral health facility” means any facility operated by the Department of Mental Health and Addiction Services that provides mental health or substance use disorder services to persons eighteen years of age or older;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_488__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>“Patient” means any person receiving services from a behavioral health facility;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_488__subsec_a__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>“Legal representative” means a court-appointed fiduciary, including a guardian or conservator, or a person with power of attorney authorized to act on a patient's behalf; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_488__subsec_a__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>“Mandatory reporter” means (A) any person in a behavioral health facility paid to provide direct care for a patient of such facility, and (B) any employee, contractor or consultant of such facility who is a licensed healthcare provider.</p>
+              </content>
+              <subparagraph eId="17a_488__subsec_a__subsec_5__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>any person in a behavioral health facility paid to provide direct care for a patient of such facility, and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17a_488__subsec_a__subsec_5__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>any employee, contractor or consultant of such facility who is a licensed healthcare provider.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="17a_488__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Any mandatory reporter, who, in the ordinary course of such person's employment, has reasonable cause to suspect or believe that any patient</p>
+            </content>
+            <paragraph eId="17a_488__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>has been abused,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_488__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>is in a condition that is the result of abuse, or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_488__subsec_b__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>has had an injury that is at variance with the history given of such injury, shall, not later than seventy-two hours after such suspicion or belief arose, report such information or cause a report to be made in any reasonable manner to the Commissioner of Mental Health and Addiction Services or to the person or persons designated by the commissioner to receive such reports. Any behavioral health facility providing direct care for patients shall provide mandatory training on detecting potential abuse of patients to mandatory reporters and inform such individuals of their obligations under this section.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17a_488__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Any mandatory reporter who fails to make a report under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_488__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section or fails to make such report within the prescribed time period set forth in said subsection shall be fined not more than five hundred dollars, except if such person intentionally fails to make such report within the prescribed time period, such person shall be guilty of</p>
+            </content>
+            <paragraph eId="17a_488__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>a class C misdemeanor for the first violation, and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_488__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>a class A misdemeanor for any subsequent violation.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17a_488__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>A report made under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_488__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section shall contain the name and address of the behavioral health facility, the name of the patient, information regarding the nature and extent of the abuse and any other information the mandatory reporter believes may be helpful in an investigation of the case and for the protection of the patient.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_488__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>Any other person having reasonable cause to believe that a patient is being or has been abused shall report such information in accordance with subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_488__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section in any reasonable manner to the Commissioner of Mental Health and Addiction Services, or to the person or persons designated by the commissioner to receive such reports, who shall inform the patient or such patient's legal representative of the services of the nonprofit entity designated by the Governor in accordance with section46a-10bto serve as the Connecticut protection and advocacy system.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_488__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>A report filed under this section shall not be deemed a public record, and shall not be subject to the provisions of section1-210. Information derived from such report for which reasonable grounds are determined to exist after investigation, including the identity of the behavioral health facility, the number of complaints received, the number of complaints substantiated and the types of complaints, shall be disclosed by the Commissioner of Mental Health and Addiction Services, except in no case shall the name of the patient be revealed, unless such patient or such patient's legal representative specifically requests such disclosure or unless a judicial proceeding results from such report. Notwithstanding the provisions of this section, not later than twenty-four hours or as soon as possible after receiving a report under this section, the commissioner or the commissioner's designee shall notify such patient's legal representative, if any. Such notification shall not be required when the legal representative is suspected of perpetrating the abuse that is the subject of the report. The commissioner shall obtain the contact information for such legal representative from the behavioral health facility.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_488__subsec_g">
+            <num>(g)</num>
+            <paragraph eId="17a_488__subsec_g__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>Subject to subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_488__subsec_g__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>of this subsection, any person who makes a report under this section or who testifies in any administrative or judicial proceeding arising from the report shall be immune from any civil or criminal liability with regard to such report or testimony, except liability for perjury in the context of making such report.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_488__subsec_g__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>Any person who makes a report under this section is guilty of making a fraudulent or malicious report or providing false testimony when such person (A) wilfully makes a fraudulent or malicious report, (B) conspires with another person to make or cause to be made such fraudulent or malicious report, or (C) wilfully testifies falsely in any administrative or judicial proceeding arising from such report regarding the abuse of a patient. Making a fraudulent or malicious report or providing false testimony under this section is a class A misdemeanor.</p>
+              </content>
+              <subparagraph eId="17a_488__subsec_g__subsec_2__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>wilfully makes a fraudulent or malicious report,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17a_488__subsec_g__subsec_2__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>conspires with another person to make or cause to be made such fraudulent or malicious report, or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17a_488__subsec_g__subsec_2__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>wilfully testifies falsely in any administrative or judicial proceeding arising from such report regarding the abuse of a patient. Making a fraudulent or malicious report or providing false testimony under this section is a class A misdemeanor.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="17a_488__subsec_h">
+            <num>(h)</num>
+            <content>
+              <p>Any person who is discharged or in any manner discriminated or retaliated against for making, in good faith, a report under this section shall be entitled to all remedies available under law.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

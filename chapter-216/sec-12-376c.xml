@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-376c"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-376c"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-376c"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-376c/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-376c/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-376c/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-376c/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_216">
+        <num>216</num>
+        <heading>Sales and Use Taxes</heading>
+        <section eId="sec_12_376c">
+          <num>12-376c</num>
+          <heading>Extension of time for payment when estate consists primarily of works of art of the decedent</heading>
+          <subsection eId="12_376c__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Whenever the net taxable estate of any decedent, hereinafter referred to as the transferor, as determined for purposes of the succession tax under this chapter, consists primarily of works of art, as defined in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_376c__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section, produced by the transferor, the actual market value of which in the determination of the Commissioner of Revenue Services may not be ascertainable within the period of extension for payment of said tax as granted by said commissioner in accordance with section12-376, said commissioner, upon request from the fiduciary of such estate or the transferee of such works of art, may grant an extension of time to allow the sale of such works of art determined to be necessary for payment of taxes due under this chapter. Such extension may be in addition to any allowed in accordance with said section12-376, but the total of such extensions for purposes of this section may not exceed five years in the aggregate. Any such extension of time for payment in accordance with this section shall subject the amount of succession tax applicable with respect to such estate to interest as provided in said section12-376, from the expiration of six months after the death of the transferor until the expiration of such extension or extensions. The net taxable estate of any decedent shall be deemed to consist primarily of such works of art when the estimated value of such works of art in the estate, according to a determination approved by said commissioner, constitutes more than fifty per cent of the total estimated value of the net taxable estate.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_376c__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>“Works of art” for purposes of this section means tangible personal property produced through the conscious use of certain skills, taste and creative imagination and generally considered to represent a form of artistic expression, including but not limited to sculpture, painting, drawings, photography, prints, tapestries, weavings, film videotape, folk arts and crafts, graphic design, pottery, architectural sketches and any other such personal property considered to be art.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_376c__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The provisions of this section shall be applicable to the estate of any person whose death occurs on or after July 1, 1984. The estate of any person whose death occurs prior to July 1, 1984, shall be subject to the provisions of this chapter in effect at the time of such person's death.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

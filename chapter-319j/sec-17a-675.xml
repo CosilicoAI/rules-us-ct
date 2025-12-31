@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-675"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-675"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17a-675"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-675/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-675/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-675/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-675/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319j">
+        <num>319j</num>
+        <heading>Health Care For Uninsured Children</heading>
+        <section eId="sec_17a_675">
+          <num>17a-675</num>
+          <heading>(Formerly Sec. 19a-4b). Allocation of federal funds by department. Grants and contracts. Report</heading>
+          <subsection eId="17a_675__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The Department of Mental Health and Addiction Services shall allocate by program and geographic location, in a manner consistent with the annual alcohol and drug plan, funds received by the department from the federal government and the state which are designated in the department's budget to be used for grants and contracts for alcohol and drug programs and services. The department shall also administer and supervise all federal and state grant and contract funds for alcohol and drug abuse community services including treatment services, except those services designated to be carried out by state agencies other than the Department of Mental Health and Addiction Services.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_675__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The department may:</p>
+            </content>
+            <paragraph eId="17a_675__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>Make grants to and contracts and other joint or cooperative agreements with individuals, organizations and state agencies for problems related to alcohol and drug abuse;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_675__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>make grants and contracts from state or federal funds to public or private agencies as may be necessary in the performance of its duties and execution of its powers;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_675__subsec_b__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>require quarterly reports from recipients of grants made or allocated by it and from all departments of the state whose activities are related to alcohol or drug abuse problems for the purpose of evaluating the implementation of the state plans. The department shall report its findings on or before January first of each year to the Governor and the General Assembly, with its recommendations for such executive and legislative action as it finds beneficial to the public interest.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-218g"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-218g"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-218g"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-218g/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-218g/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-218g/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-218g/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_208">
+        <num>208</num>
+        <heading>Estate Taxes</heading>
+        <section eId="sec_12_218g">
+          <num>12-218g</num>
+          <heading>Net deferred tax liability and assets. Deductions</heading>
+          <subsection eId="12_218g__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>For purposes of this section, “net deferred tax liability” means deferred tax liabilities that exceed the deferred tax assets of the combined group, as computed in accordance with generally accepted accounting principles, and “net deferred tax asset” means that deferred tax assets exceed the deferred tax liabilities of the combined group, as computed in accordance with generally accepted accounting principles.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_218g__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Only publicly traded companies, including affiliated corporations participating in the filing of a publicly traded company's financial statements prepared in accordance with generally accepted accounting principles, as of January 1, 2016, shall be eligible for this deduction.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_218g__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>If the provisions of sections12-218eand12-218fresult in an aggregate increase to the members' net deferred tax liability or an aggregate decrease to the members' net deferred tax asset, or an aggregate change from a net deferred tax asset to a net deferred tax liability, the combined group shall be entitled to a deduction, as determined in this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_218g__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>For the thirty-year period beginning with the combined group's first income year that begins in 2021, a combined group shall be entitled to a deduction from combined group net income equal to one-thirtieth of the amount necessary to offset the increase in the net deferred tax liability or decrease in the net deferred tax asset, or the aggregate change thereof, from a net deferred tax asset to a net deferred tax liability, as computed in accordance with generally accepted accounting principles, that would have resulted from the imposition of the unitary reporting requirements under sections12-218eand12-218f, but for the deduction provided under this section. Such increase in the net deferred tax liability or decrease in the net deferred tax asset or the aggregate change thereof shall be computed based on the change that would have resulted from the imposition of the unitary reporting requirements under sections12-218eand12-218fas of January 1, 2016, but for the deduction provided under this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_218g__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>The deduction calculated under this section shall not be reduced as a result of any events happening subsequent to such calculation, including, but not limited to, any disposition or abandonment of assets. Such deduction shall not alter the tax basis of any asset. If the deduction under this section is greater than combined group net income, any excess deduction shall be carried forward and applied as a deduction to combined group net income in future income years until fully utilized.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_218g__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>Any combined group intending to claim a deduction under this section shall file a statement with the commissioner on or before July 1, 2017, specifying the total amount of the deduction which the combined group claims. The statement shall be made on such form and in such manner as prescribed by the commissioner and shall contain such information or calculations as the commissioner may specify. No deduction shall be allowed under this section for any income year except to the extent claimed on or before July 1, 2017, in the manner prescribed. Nothing in this subsection shall limit the authority of the commissioner to review or redetermine the proper amount of any deduction claimed, whether on the statement required under this subsection or on a tax return for any income year.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

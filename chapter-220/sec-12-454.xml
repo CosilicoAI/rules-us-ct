@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-454"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-454"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-454"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-454/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-454/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-454/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-454/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_220">
+        <num>220</num>
+        <heading>Controlled Substances Tax</heading>
+        <section eId="sec_12_454">
+          <num>12-454</num>
+          <heading>Seizure and sale for nonpayment of taxes</heading>
+          <subsection eId="12_454__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Any alcoholic beverages not exempted from the payment of taxes under the provisions of this chapter and upon which taxes have not been paid as required by the provisions of this chapter are declared to be contraband and may be seized by the Commissioner of Revenue Services, his agents or employees, or by any peace officer of this state when directed by the Commissioner of Revenue Services to do so. Subject to the provisions of this section, all goods so seized shall, in the discretion of said commissioner, be sold at public auction to the highest qualified bidder for cash, who shall pay the state taxes due thereon. The Commissioner of Revenue Services shall pay to the State Treasurer the proceeds of any such sale.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_454__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Any person claiming an interest in such alcoholic beverages so seized may make a written application to the Commissioner of Revenue Services for a hearing within one week after the date of such seizure, stating his interest in such beverages and his reasons why they should not be forfeited under the provisions of this section. Upon receipt of such application the Commissioner of Revenue Services shall thereupon, with reasonable promptitude, assign a date for such hearing and give notice as to the time thereof to any person or persons making such application. At such hearing the Commissioner of Revenue Services shall determine whether such alcoholic beverages should be forfeited, and notice of such ruling shall be forwarded to each applicant claiming to have an interest in such beverages.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_454__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Any person aggrieved by any such ruling may appeal therefrom to the superior court for the judicial district of New Britain within fourteen days thereafter, and no sale of any alcoholic beverages seized in accordance with the provisions of subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_454__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section shall be made until the time provided for such appeal has expired, or unless no application has been made for a hearing within the seven-day period following the date of seizure.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_454__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>No public auction shall be held as provided in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_454__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section until such auction has been advertised in a newspaper published or having a circulation in the town in which such seizure occurred at least five days before the date of such auction.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_454__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>Any alcoholic liquor sold under the provisions of this section shall be sold only to a member of the public who purchases such liquor for his own consumption or to a permittee authorized by law to retail the kind of liquor so sold.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_454__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>The seizure and sale of any alcoholic beverages under the provisions of this section shall not relieve any person from a fine or penalty for a violation of any of the provisions of this chapter or of chapter 545.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

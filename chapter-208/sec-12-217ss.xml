@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-217ss"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-217ss"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-217ss"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-217ss/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-217ss/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-217ss/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-217ss/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_208">
+        <num>208</num>
+        <heading>Estate Taxes</heading>
+        <section eId="sec_12_217ss">
+          <num>12-217ss</num>
+          <heading>Tax credits for share plan program</heading>
+          <subsection eId="12_217ss__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>As used in this section:</p>
+            </content>
+            <paragraph eId="12_217ss__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>“Company” means an entity that is subject to the tax under this chapter and has one hundred or more full-time employees in the state;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_217ss__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>“Eligible employee” means any full-time employee of the company, who is based in the state and whose annual cash contribution from the company is less than two hundred thousand dollars;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_217ss__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>“Participating employee” means any eligible employee who participates in a share plan; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_217ss__subsec_a__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>“Share plan” means an employee stock-sharing arrangement offered by a company, that provides for making distributions of common stock of such company to participating employees and meets the requirements under subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_217ss__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_217ss__subsec_b">
+            <num>(b)</num>
+            <paragraph eId="12_217ss__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>Any company that offers a share plan to its eligible employees in accordance with the provisions of this section shall be eligible to receive, for income years commencing on or after January 1, 2027, an exemption from the additional tax imposed under subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_217ss__subsec_b__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_217ss__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of section12-214or subdivision</p>
+            </content>
+            <paragraph eId="12_217ss__subsec_b__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_217ss__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of section12-219, as applicable, if the Commissioner of Revenue Services is satisfied that such share plan meets the requirements of subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_217ss__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of this section. If such additional tax expires or is eliminated after a company has begun claiming the exemption under this subsection, such company shall be eligible to claim a credit against the tax imposed under this chapter in an amount equal to what such additional tax would have been if it were still in effect.</p>
+            </content>
+            <paragraph eId="12_217ss__subsec_c__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>Any such company may claim the exemption or credit, as applicable, for a period of ten successive income years, as follows:
+(A) For any company that commences offering a share plan on or after January 1, 2025, but prior to January 1, 2026, the exemption or credit, as applicable, that such company earns for said income year shall be allowed beginning with the second income year after said income year. For each subsequent income year, the exemption or credit, as applicable, such company earns for such income year shall be allowed in the same manner until the exemption or credit, as applicable, has been claimed for ten successive income years, provided the company offers a share plan that meets the requirements under subsection</p>
+              </content>
+              <subparagraph eId="12_217ss__subsec_c__subsec_2__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>For any company that commences offering a share plan on or after January 1, 2025, but prior to January 1, 2026, the exemption or credit, as applicable, that such company earns for said income year shall be allowed beginning with the second income year after said income year. For each subsequent income year, the exemption or credit, as applicable, such company earns for such income year shall be allowed in the same manner until the exemption or credit, as applicable, has been claimed for ten successive income years, provided the company offers a share plan that meets the requirements under subsection</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_217ss__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of this section for each such income year.
+(B) For any company that commences offering a share plan on or after January 1, 2026, but prior to January 1, 2027, the exemption or credit, as applicable, that such company earns for said income year shall be allowed beginning with the first income year after said income year. For each subsequent income year, the exemption or credit, as applicable, such company earns for such income year shall be allowed in the same manner until the exemption or credit, as applicable, has been claimed for ten successive income years, provided the company offers a share plan that meets the requirements under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_217ss__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of this section for each such income year.
+(C) For any company that commences offering a share plan on or after January 1, 2027, the exemption or credit, as applicable, for which such company is eligible shall be allowed beginning with the income year in which such exemption or credit, as applicable, was earned and shall be allowed in the same manner until the exemption or credit, as applicable, has been claimed for ten successive income years, provided the company offers a share plan that meets the requirements under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_217ss__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of this section for each such income year.
+(D) If, during the ten-year period, the share plan offered by the company fails to meet the requirements under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_217ss__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of this section or the company ceases to offer such share plan, the company may not claim the exemption or credit, as applicable, for the remainder of such period.</p>
+            </content>
+            <paragraph eId="12_217ss__subsec_c__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>If both of the additional taxes imposed under subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_217ss__subsec_c__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_217ss__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of section12-214and subdivision</p>
+            </content>
+            <paragraph eId="12_217ss__subsec_b__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_217ss__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of section12-219expire or are eliminated, a company that did not offer a share plan prior to such expiration or elimination shall be ineligible to receive a credit under this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_217ss__subsec_c">
+            <num>(c)</num>
+            <paragraph eId="12_217ss__subsec_c__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>An employee stock-sharing plan shall not be treated as a share plan unless:
+(A) At least eighty per cent of the company's eligible employees are participating employees; and
+(B) The distributions under such plan:</p>
+              </content>
+              <subparagraph eId="12_217ss__subsec_c__subsec_1__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>At least eighty per cent of the company's eligible employees are participating employees; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_217ss__subsec_c__subsec_1__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>The distributions under such plan:</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_217ss__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Are of not less than three hundred shares per participating employee, as adjusted for any stock split or reverse stock split performed by the company on or after January 1, 2025;
+(ii) Are made without compensation other than service as an employee;
+(iii) May be sold or transferred without restriction after a holding period not to exceed one year, except that a distribution may be sold or transferred during such period for any hardship of an employee in accordance with Section 401</p>
+            </content>
+          </subsection>
+          <subsection eId="12_217ss__subsec_k">
+            <num>(k)</num>
+            <paragraph eId="12_217ss__subsec_k__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>(B)</p>
+              </content>
+              <subparagraph eId="12_217ss__subsec_k__subsec_2__subsec_B">
+                <num>(B)</num>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_217ss__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>(IV) of the Internal Revenue Code of 1986, or any subsequent corresponding internal revenue code of the United States, as amended from time to time;
+(iv) Are made in equal amounts to each participating employee, determined in the aggregate for any calendar year and adjusted with respect to any employee not employed at all times during such calendar year; and</p>
+            </content>
+          </subsection>
+          <subsection eId="12_217ss__subsec_v">
+            <num>(v)</num>
+            <content>
+              <p>Vest not later than five years after the date of distribution to a participating employee, provided such employee is still employed by the company on such date.</p>
+            </content>
+            <paragraph eId="12_217ss__subsec_v__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>Notwithstanding the provisions of subparagraph (B)</p>
+              </content>
+              <subparagraph eId="12_217ss__subsec_v__subsec_2__subsec_B">
+                <num>(B)</num>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_217ss__subsec_v">
+            <num>(v)</num>
+            <content>
+              <p>of subdivision</p>
+            </content>
+            <paragraph eId="12_217ss__subsec_v__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>of this subsection, distributions under a share plan shall vest as follows for any of the following events that occur prior to the date a distribution will vest pursuant to said subparagraph:
+(A) If a participating employee</p>
+              </content>
+              <subparagraph eId="12_217ss__subsec_v__subsec_1__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>If a participating employee</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_217ss__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>retires from the company and receives or will receive retirement benefits under the company's retirement plan, or (ii) is laid off or terminated without cause by the company, such employee's interest in any distribution under a share plan shall vest not later than the date such employee's retirement, layoff or termination without cause, as applicable, is effective; and
+(B) If there is a change in the control of the distributing company after the date of distribution under a share plan, the participating employees' interests in any such distribution shall vest not later than the date such change is effective.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_217ss__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Any company claiming the exemption or credit, as applicable, under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_217ss__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section shall provide to the Department of Revenue Services any information requested by the department for any applicable income year to verify that such company's share plan meets the requirements of subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_217ss__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of this section and substantiate such company's eligibility for such exemption or credit.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

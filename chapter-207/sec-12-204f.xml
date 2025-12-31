@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-204f"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-204f"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-204f"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-204f/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-204f/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-204f/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-204f/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_207">
+        <num>207</num>
+        <heading>Gift Tax</heading>
+        <section eId="sec_12_204f">
+          <num>12-204f</num>
+          <heading>Overpayment of estimated and final taxes</heading>
+          <subsection eId="12_204f__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>If any domestic insurance company has paid as an installment of estimated tax an amount in excess of the amount determined to be the correct amount of such installment, such amount shall be credited against any unpaid installment or against the tax. If the amount already paid, whether or not on the basis of installments, exceeds the amount determined to be the correct amount of the tax, such company shall be paid by the State Treasurer, upon order of the Comptroller, the amount of such overpayment.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_204f__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>If any domestic insurance company has filed its tax return under this chapter for the calendar year on or before the due date of such return or, if an extension of time to file has been requested and granted, on or before the extended due date of such return, any overpayment reported on such return, if the company has elected to credit such overpayment against the company's estimated tax for the succeeding calendar year, shall be treated as if paid on the due date of the first required installment of estimated tax for such succeeding calendar year. Such overpayment shall be credited against the otherwise unpaid required installments in the order in which such installments are required to be paid under section12-204c.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

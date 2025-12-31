@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-62m"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-62m"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-62m"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-62m/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-62m/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-62m/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-62m/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_203">
+        <num>203</num>
+        <heading>Property Tax Assessment</heading>
+        <section eId="sec_12_62m">
+          <num>12-62m</num>
+          <heading>Reports of assessed valuation of property in towns phasing in revaluation</heading>
+          <subsection eId="12_62m__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>If real property eligible for a grant or for reimbursement of a property tax or a portion thereof under the provisions of section12-18b,12-20bor12-129p, or any other provision of the general statutes, is located in a town that</p>
+            </content>
+            <paragraph eId="12_62m__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>elected to phase in assessment increases pursuant to section12-62aof the general statutes, revision of 1958, revised to January 1, 2005, with respect to a revaluation effective on or before October 1, 2005, or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_62m__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>elects to phase in assessment increases pursuant to section12-62cwith respect to a revaluation effective on or after October 1, 2006, the assessed valuation of said property as reported to the Secretary of the Office of Policy and Management shall reflect the gradual increase in assessment applicable to comparable taxable real property for the same assessment year.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_62m__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>If the legislative body of a town elects to phase in real property assessment increases with respect to a revaluation effective on or after October 1, 2006, pursuant to section12-62c, or pursuant to section12-62aof the general statutes, revision of 1958, revised to January 1, 2005, with respect to a revaluation effective on or before October 1, 2005, the grand list furnished, pursuant to section7-328, to the clerk of any district, as defined in section7-324, shall reflect assessments based upon such phase-in for each assessment year during which such phase-in is effective.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

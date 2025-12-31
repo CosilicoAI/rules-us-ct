@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-716"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-716"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17a-716"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-716/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-716/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-716/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-716/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319j">
+        <num>319j</num>
+        <heading>Health Care For Uninsured Children</heading>
+        <section eId="sec_17a_716">
+          <num>17a-716</num>
+          <heading>Sober living homes. Report of certified status. List of homes. Distribution of disclosure form. Regulations</heading>
+          <subsection eId="17a_716__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>As used in this section:</p>
+            </content>
+            <paragraph eId="17a_716__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>“Sober living home” means an alcohol-free and drug-free residence where (A) unrelated adults who are recovering from a substance use disorder choose to live together in a supportive environment during their recovery, and (B) no formal substance use disorder treatment services are provided; and</p>
+              </content>
+              <subparagraph eId="17a_716__subsec_a__subsec_1__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>unrelated adults who are recovering from a substance use disorder choose to live together in a supportive environment during their recovery, and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17a_716__subsec_a__subsec_1__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>no formal substance use disorder treatment services are provided; and</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="17a_716__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>“Operator” means the lawful owner of a sober living home or a person designated by such lawful owner to have primary responsibility for the daily operation of such sober living home.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17a_716__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>An operator of a sober living home that is certified as a recovery residence by an affiliate of the National Alliance for Recovery Residences, or a successor organization, or another organization recognized by the Department of Mental Health and Addiction Services as an organization responsible for certifying sober living homes in the state, may report the sober living home's certified status to the Department of Mental Health and Addiction Services, provided such operator maintains at least two doses of opioid antagonists, as defined in section17a-714a, on the premises and provides training to all of its residents in the administration of an opioid antagonist when such home is occupied by at least one resident who has been diagnosed with opioid use disorder. An operator of a sober living home that reports its certified status to the department shall provide the department with the number of beds available in the sober living home at the time of its report and weekly thereafter. The department shall post on its Internet web site a list of the sober living homes that have reported their certified status pursuant to this section and the number of beds available at each such sober living home. The department shall update the list of sober living homes and the bed availability at each sober living home on a weekly basis.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_716__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>No operator of a sober living home shall</p>
+            </content>
+            <paragraph eId="17a_716__subsec_c__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>advertise or represent that a sober living home is a facility that is certified or licensed to provide substance use disorder treatment services, or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_716__subsec_c__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>publish any claims of particular outcomes for individuals residing in such homes. Any Internet web site or publication maintained by a sober living home shall include a clear and conspicuous statement in bold typeface that the sober living home (A) is not licensed or certified to provide substance use disorder treatment services, and (B) is a type of housing in which individuals recovering from a substance use disorder voluntarily choose to live together in a supportive environment during their recovery. Any violation of the provisions of this subsection shall constitute an unfair trade practice pursuant to section42-110b.</p>
+              </content>
+              <subparagraph eId="17a_716__subsec_c__subsec_2__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>is not licensed or certified to provide substance use disorder treatment services, and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17a_716__subsec_c__subsec_2__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>is a type of housing in which individuals recovering from a substance use disorder voluntarily choose to live together in a supportive environment during their recovery. Any violation of the provisions of this subsection shall constitute an unfair trade practice pursuant to section42-110b.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="17a_716__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>On or before August 1, 2018, the commissioner shall create a printable one-page disclosure form for distribution to prospective sober living home residents. Such disclosure form shall</p>
+            </content>
+            <paragraph eId="17a_716__subsec_d__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>be written in plain language and in an easily readable format,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_716__subsec_d__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>state that sober living homes are not licensed or certified to provide substance use disorder treatment services,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_716__subsec_d__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>provide information on sober living homes and resources for individuals recovering from a substance use disorder, and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_716__subsec_d__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>contain a signature line on which a prospective resident may sign the form. Such disclosure form shall be made available to the public on the department's Internet web site. The commissioner shall review and update such disclosure form as necessary.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17a_716__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>The Department of Mental Health and Addiction Services may adopt regulations, in accordance with the provisions of chapter 54, to implement the provisions of this section.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-499"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-499"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17a-499"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-499/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-499/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-499/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-499/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319i">
+        <num>319i</num>
+        <heading>Connecticut HUSKY Plan</heading>
+        <section eId="sec_17a_499">
+          <num>17a-499</num>
+          <heading>(Formerly Sec. 17-179). Court records. Commitment; uniform forms; service of process</heading>
+          <content>
+            <p>Sec. 17a-499. (Formerly Sec. 17-179). Court records. Commitment; uniform forms; service of process.All proceedings of the Probate Court, upon application made under the provisions of sections17a-75to17a-83, inclusive,17a-450to17a-483, inclusive,17a-495to17a-528, inclusive,17a-540to17a-550, inclusive,17a-560to17a-575, inclusive, and17a-615to17a-618, inclusive, shall be in writing and filed in such court, and, whenever a court passes an order for the admission of any person to any state hospital for psychiatric disabilities, the court shall record the order and give a certified copy of such order and of the reports of the physicians to the person by whom such person is to be taken to the hospital, as the warrant for such taking and commitment, and shall also forthwith transmit a like copy to the Commissioner of Mental Health and Addiction Services, and, in the case of a person in the custody of the Commissioner of Correction, to the Commissioner of Correction. Whenever a court passes an order for the commitment of any person to any hospital for psychiatric disabilities, it shall, within three business days, provide the Commissioner of Mental Health and Addiction Services with access to identifying information including, but not limited to, name, address, sex, date of birth and date of commitment on all commitments ordered on and after June 1, 1998. All commitment applications, orders of commitment and commitment papers issued by any court in committing persons with psychiatric disabilities to public or private hospitals for psychiatric disabilities shall be in accordance with a form prescribed by the Probate Court Administrator, which form shall be uniform throughout the state. State hospitals and other hospitals for persons with psychiatric disabilities shall, so far as they are able, upon reasonable request of any officer of a court having the power of commitment, send one or more trained attendants or nurses to attend any hearing concerning the commitment of any person with psychiatric disabilities and any such attendant or nurse, when present, shall be designated by the court as the authority to serve commitment process issued under the provisions of sections17a-75to17a-83, inclusive,17a-450to17a-483, inclusive,17a-495to17a-528, inclusive,17a-540to17a-550, inclusive,17a-560to17a-575, inclusive, and17a-615to17a-618, inclusive.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

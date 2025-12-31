@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-546"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-546"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17a-546"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-546/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-546/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-546/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-546/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319i">
+        <num>319i</num>
+        <heading>Connecticut HUSKY Plan</heading>
+        <section eId="sec_17a_546">
+          <num>17a-546</num>
+          <heading>(Formerly Sec. 17-206g). Communication by mail and telephone</heading>
+          <subsection eId="17a_546__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Every patient shall be permitted to communicate by sealed mail with any individual, group or agency, except as provided in this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_546__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Every hospital for treatment of persons with psychiatric disabilities shall furnish writing materials and postage to any patient desiring them.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_546__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>If the head of the hospital or his authorized representative receives a complaint from a person demonstrating that such person is receiving obscene, threatening or harassing mail from a patient, the head of the hospital or his authorized representative may, after providing a reasonable opportunity for the patient to respond to the complaint, restrict such patient's mail to the complainant. The head of the hospital or his authorized representative shall notify the patient of the availability of advocacy services if such patient's mailing rights are restricted. Any such restriction shall be noted in writing, signed by the head of the hospital, and made a part of the patient's permanent clinical record.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_546__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>If the head of the hospital or his authorized representative determines that it is medically harmful to a patient to receive mail, all such correspondence shall be returned unopened to the sender, with an explanation, signed by the head of the hospital, for its return. A copy of this explanation shall be made a part of the patient's permanent clinical record.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_546__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>Every patient shall be permitted to make and receive telephone calls, except as provided in this section. Public telephones shall be made available in appropriate locations.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_546__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>If the head of the hospital or his authorized representative determines that a patient has made obscene, threatening or harassing telephone calls, he may restrict such patient's right to make telephone calls. Any such restriction shall be noted in writing, signed by the head of the hospital, and made a part of the patient's permanent clinical record.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_546__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>If the head of the hospital or his authorized representative determines that it is medically harmful to a patient to make or receive telephone calls, this fact shall be explained, in writing, signed by the head of the hospital, to the patient's family and any persons who regularly make calls to, or receive calls from, the patient. A copy of the explanation shall be signed by the head of the hospital and placed in the patient's permanent clinical record.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-418"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-418"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-418"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-418/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-418/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-418/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-418/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_219">
+        <num>219</num>
+        <heading>Motor Vehicle Fuels Tax</heading>
+        <section eId="sec_12_418">
+          <num>12-418</num>
+          <heading>Written protest</heading>
+          <subsection eId="12_418__subsec_a">
+            <num>(a)</num>
+            <heading>Filing of; time periods for</heading>
+            <paragraph eId="12_418__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>Any person against whom an assessment or a reassessment is made under section12-414a, 12415,12-416or12-424or any person directly interested may file a written protest not later than sixty days after service upon such person of notice thereof. If a written protest is not filed within the sixty-day period, the assessment or reassessment becomes final at the expiration of the period.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_418__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>Any person against whom an assessment or reassessment is made under section12-417or any person directly interested may file a written protest not later than ten days after service of notice upon such person. If a written protest is not filed within such ten-day period, the assessment or reassessment becomes final at the expiration of the period.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_418__subsec_b">
+            <num>(b)</num>
+            <heading>Reconsideration and oral hearing</heading>
+            <content>
+              <p>If a written protest is filed within the sixty-day period, in the case of an assessment or reassessment made under section12-414a,12-415,12-416or12-424, or within the ten-day period, in the case of an assessment or reassessment made under section12-417, the commissioner shall reconsider the assessment or reassessment and, if the person has so requested in the petition, shall, in the commissioner's discretion, grant the person an oral hearing and shall give such person ten days' notice of the time and place of the hearing. The commissioner may continue the hearing from time to time, as may be necessary, and may assign the conduct of such hearing to a representative of the commissioner.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_418__subsec_c">
+            <num>(c)</num>
+            <heading>Decrease or increase of assessment or reassessment</heading>
+            <content>
+              <p>The commissioner may decrease or increase the amount of the assessment or reassessment before it becomes final, but the amount may be increased only if a claim for the increase is asserted by the commissioner at or before the hearing.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_418__subsec_d">
+            <num>(d)</num>
+            <heading>Finality date of order or decision</heading>
+            <content>
+              <p>The order or decision of the commissioner upon a protest becomes final one month after service upon the person filing the protest of notice thereof unless within such period such person seeks judicial review of the commissioner's order or decision pursuant to section12-422.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_418__subsec_e">
+            <num>(e)</num>
+            <heading>Due date of assessments or reassessments</heading>
+            <content>
+              <p>All assessments or reassessments made by the commissioner under section12-414a,12-415,12-416or12-424are due and payable at the time they become final.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_418__subsec_f">
+            <num>(f)</num>
+            <heading>Service of notice</heading>
+            <content>
+              <p>Any notice required by this section shall be served personally or by mail in the manner prescribed for service of notice of a deficiency assessment.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

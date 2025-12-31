@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-285a"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-285a"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-285a"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-285a/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-285a/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-285a/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-285a/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_214">
+        <num>214</num>
+        <heading>Business Tax Credits</heading>
+        <section eId="sec_12_285a">
+          <num>12-285a</num>
+          <heading>Definitions for purposes of sections12-286a,12-295aand 12-314a</heading>
+          <content>
+            <p>Sec. 12-285a. Definitions for purposes of sections12-286a,12-295aand 12-314a.For purposes of sections12-286a,12-295a, and12-314a: (1) “Distributor” includes a manufacturer of tobacco products; (2) “sale” or “sell” means an act done intentionally by any person, whether done as principal, proprietor, agent, servant or employee, of transferring, or offering or attempting to transfer, for consideration, cigarettes or tobacco products, including bartering or exchanging, or offering to barter or exchange, cigarettes or tobacco products; (3) “give” or “giving” means an act done intentionally by any person, whether done as principal, proprietor, agent, servant or employee, of transferring, or offering or attempting to transfer, without consideration, cigarettes or tobacco products; (4) “deliver” or “delivering” means an act done intentionally by any person, whether as principal, proprietor, agent, servant or employee, of transferring, or offering or attempting to transfer, physical possession or control of cigarettes or tobacco products.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

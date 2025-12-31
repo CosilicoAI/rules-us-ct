@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-305"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-305"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-305"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-305/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-305/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-305/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-305/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_214">
+        <num>214</num>
+        <heading>Business Tax Credits</heading>
+        <section eId="sec_12_305">
+          <num>12-305</num>
+          <heading>Unstamped cigarettes, vehicles in which transported, subject to confiscation</heading>
+          <subsection eId="12_305__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of section12-302or subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_305__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of section12-303, which are in the possession, custody or control of any person for the purpose of being consumed, sold or transported in this state, for the purpose of evading or violating the provisions of this chapter, or with intent to avoid payment of the tax imposed hereunder, and any automobile, truck, conveyance or other vehicle used in the transportation of such cigarettes, and all paraphernalia, equipment or other tangible personal property, incident to the use of such purposes, found in the place, building, vehicle or vehicles where such cigarettes are found, are declared to be contraband goods; and any house, building or other premises and any vehicle or other conveyance suspected of containing such contraband goods may be searched under due process of law; and any such contraband goods may be seized by the commissioner, agents or employees of the commissioner, or by any peace officer of this state when directed by the commissioner to do so, without a warrant, provided nothing in this section shall be construed to require the commissioner to confiscate unstamped cigarettes or property when the commissioner has reason to believe that the owner thereof is not wilfully or intentionally evading the tax imposed by this chapter. Any property seized under the provisions of this chapter may, at the commissioner's discretion and except as otherwise provided by this section, be offered by the commissioner for sale at public auction to the highest bidder after advertisement, as provided in section12-307, or the commissioner may dispose of such property in a manner which the commissioner deems to be in the best interest of the state. The commissioner shall deliver to the State Treasurer the proceeds of any sale made under the provisions of this section. Before delivering any cigarettes so sold to the purchaser, the commissioner shall require such purchaser to affix to the packages the amount of stamps required by this chapter. The seizure and sale of any cigarettes </p>
+            </content>
+          </subsection>
+          <subsection eId="12_305__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of section12-302or subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_305__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of section12-303, may only be made to the manufacturer and solely for purpose of export.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

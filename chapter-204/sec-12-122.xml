@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-122"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-122"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-122"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-122/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-122/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-122/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-122/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_204">
+        <num>204</num>
+        <heading>Local Levy and Collection of Taxes</heading>
+        <section eId="sec_12_122">
+          <num>12-122</num>
+          <heading>Selectmen to estimate town's expenses; tax levy to pay current expenses</heading>
+          <content>
+            <p>Sec. 12-122. Selectmen to estimate town's expenses; tax levy to pay current expenses.The selectmen of each town, in their annual report to be submitted at the annual town meeting, shall include an itemized estimate of the current expenses of the departments of the town for the ensuing year, which estimate shall be altered or approved as the voters determine at such town meeting. Upon completion of the work of the board of assessment appeals and of the final assessment list, the town shall levy a tax on such list, payable not later than forty days prior to the end of the fiscal year for which the tax was levied. No town shall levy a tax which, in addition to the other estimated yearly income of the town, shall be insufficient to pay the estimated expenses of the town for the current year. If the estimated income, including taxes, proves insufficient to pay the current expenses of the town, the selectmen, in their next annual estimate of current expenses, shall include a sum sufficient to pay the deficit in such expenses of the previous year. The provisions of this section shall not apply to towns which have boards or departments of finance.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

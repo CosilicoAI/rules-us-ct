@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-76"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-76"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-76"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-76/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-76/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-76/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-76/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_203">
+        <num>203</num>
+        <heading>Property Tax Assessment</heading>
+        <section eId="sec_12_76">
+          <num>12-76</num>
+          <heading>Assessment of water supply land. Payments in lieu of taxes by certain municipal corporations re water supply land in another municipality</heading>
+          <subsection eId="12_76__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Land owned or taken by any municipal corporation, including any metropolitan district established under provisions of the general statutes or any special act, for the purpose of creating or furnishing a supply of water for its use shall be exempt from taxation when the inhabitants of the town in which such land is situated have the right to use, and use, such water supply upon the same terms as the inhabitants of such municipal corporation; otherwise such land shall be liable to taxation, shall be assessed in the town in which such land is situated to the corporation owning or controlling such water supply, shall be valued at what would be its fair market value were it improved farm land and shall be assessed at the uniform rate required by subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_76__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of section12-62a, notwithstanding the provisions of section12-63or any special act. Any such municipal corporation shall, with respect to any such land acquired on or after January 1, 1978, which is situated in a town other than that in which such municipal corporation is located, make annual payments to such town equal to the taxes which would otherwise be due if such land were assessed in accordance with section12-63, exclusive of any taxes on improvements made on such land subsequent to acquisition by such corporation.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_76__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Notwithstanding the provisions of subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_76__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section, any regional water district created by special act after January 1, 1977, which is required by such act to make payments in lieu of taxes to towns in which such district is located, shall not be required to make any such payments, in any manner or amount, other than as specifically provided in accordance with such special act.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

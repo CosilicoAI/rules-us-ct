@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-218h"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-218h"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-218h"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-218h/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-218h/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-218h/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-218h/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_208">
+        <num>208</num>
+        <heading>Estate Taxes</heading>
+        <section eId="sec_12_218h">
+          <num>12-218h</num>
+          <heading>Valuation allowance. Deductions</heading>
+          <subsection eId="12_218h__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>For purposes of this section, “valuation allowance” means the portion of a deferred tax asset for which it is more likely than not that a tax benefit will not be realized, as determined in accordance with generally accepted accounting principles.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_218h__subsec_b">
+            <num>(b)</num>
+            <paragraph eId="12_218h__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>Any combined group that is described under subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_218h__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of section12-218g, is claiming the deduction under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_218h__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>of said section and did not include in the computation of such deduction the impact of any valuation allowance arising from the enactment of sections12-218eand12-218fshall be eligible for the deduction under this subsection.</p>
+            </content>
+            <paragraph eId="12_218h__subsec_d__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>If the provisions of sections12-218eand12-218fresulted in an aggregate decrease in the amount of net operating losses or tax credits a combined group's members may realize in the state and a valuation allowance was reported in accordance with generally accepted accounting principles, the combined group shall be entitled to a deduction as determined under this subsection.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_218h__subsec_d__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>For the thirty-year period beginning with a combined group's first income year that begins in 2026, a combined group entitled to a deduction under this subsection shall deduct from combined group net income an amount equal to one-thirtieth of the amount necessary to offset the increase in the valuation allowance against net operating losses and tax credits in the state, as computed in accordance with generally accepted accounting principles, that resulted from the enactment of sections12-218eand12-218f. Such increase in valuation allowance shall be computed based on the change in valuation allowance that was reported in the combined group's financial statements for the income year commencing on or after January 1, 2016, but prior to January 1, 2017.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_218h__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The deduction computed under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_218h__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section shall not be reduced as a result of any events happening subsequent to such computation, including, but not limited to, any disposition or abandonment of assets. Such deduction shall not alter the tax basis of any asset. If the deduction under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_218h__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section is greater than the combined group net income, any excess deduction shall be carried forward and applied as a deduction to combined group net income in future income years until fully utilized.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_218h__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Any combined group intending to claim a deduction under this section shall file a statement with the Commissioner of Revenue Services on or before July 1, 2025, specifying the total amount of the deduction the combined group claims. The statement shall be made on such form and in such manner as prescribed by the commissioner and shall contain such information or computations as the commissioner may specify. No deduction shall be allowed under this section for any income year except to the extent claimed on or before July 1, 2025, in the manner prescribed. Nothing in this subsection shall limit the authority of the commissioner to review or redetermine the proper amount of any deduction claimed, whether on the statement required under this subsection or on a tax return for any income year.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

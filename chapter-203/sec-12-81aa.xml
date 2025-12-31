@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-81aa"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-81aa"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-81aa"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-81aa/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-81aa/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-81aa/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-81aa/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_203">
+        <num>203</num>
+        <heading>Property Tax Assessment</heading>
+        <section eId="sec_12_81aa">
+          <num>12-81aa</num>
+          <heading>Municipal option to abate taxes for urban and industrial reinvestment sites</heading>
+          <subsection eId="12_81aa__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>If the real property of an “eligible industrial site investment project” or an “eligible urban reinvestment project”, each as defined in section32-9t, which has received written approval from the Commissioner of Economic and Community Development for a credit under section32-9t, does not otherwise qualify for abatement or exemption of property taxes under any other provision of the general statutes, the municipality in which such project is located may, for a period of five assessment years following the certification of the project under section32-9t, abate fifty per cent of the portion of the property tax due that is attributable to the increased value of such property as a result of the approved remediation, construction or other development under section32-9t. The abatement shall cease upon the sale or transfer of the property for any other purpose unless the municipality consents to its continuation. The municipality may also establish a recapture provision in the event of sale, provided such recapture shall not exceed the original amount of taxes abated.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_81aa__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>A municipality shall notify the Commissioner of Economic and Community Development and the Secretary of the Office of Policy and Management not later than thirty days after granting any abatement of taxes under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_81aa__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section. Such notice shall provide the owner or purchaser's name, as the case may be, and the address of the property.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-35c"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-35c"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-35c"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-35c/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-35c/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-35c/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-35c/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_202">
+        <num>202</num>
+        <heading>Collection of State Taxes</heading>
+        <section eId="sec_12_35c">
+          <num>12-35c</num>
+          <heading>Collection in courts of other states or District of Columbia. Enforcement in this state of tax liabilities of other states or District of Columbia</heading>
+          <subsection eId="12_35c__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>At the request of the Commissioner of Revenue Services, the Attorney General may bring suit in the name of this state in the appropriate court of any other state or the District of Columbia to collect any tax legally due this state; and any political subdivision of this state or the appropriate officer thereof, acting in its behalf, may bring suit in the appropriate court of any other state or the District of Columbia to collect any tax legally due such political subdivision.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_35c__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The courts shall recognize and enforce liabilities for taxes similar to the taxes imposed by this state and lawfully imposed by any other state, the District of Columbia or any political subdivision of such state or district, which extends a like comity to this state, and the duly authorized officer of any other state, the District of Columbia or any political subdivision of such state or district, may sue for the collection of such taxes in the courts of this state. A certificate by the Secretary of the State of such other state or the Secretary of the District of Columbia, as applicable, that the officer suing for the collection of such a tax is duly authorized to collect the same shall be conclusive proof of such authority. A certificate by the Commissioner of Revenue Services that the tax of such other state, the District of Columbia or a political subdivision of such state or district is similar to a tax imposed by this state shall be prima facie evidence of such similarity. For the purposes of this section, the words “tax” and “taxes” shall include interest and penalties due under any taxing statute, and liability for such interest or penalties, or both, due under a taxing statute of another state, the District of Columbia or a political subdivision of such state or district shall be recognized and enforced by the courts of this state to the same extent that the laws of such other state or district, as applicable, permit the enforcement in its courts of liability for such interest or penalties, or both, due under the tax laws of this state or any political subdivision thereof.
+See Sec. 12-34e re procedure for collection by Commissioner of Revenue Services of taxes owed to other states.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

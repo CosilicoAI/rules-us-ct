@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-274d"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-274d"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17b-274d"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-274d/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-274d/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-274d/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-274d/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319v">
+        <num>319v</num>
+        <heading>Temporary Assistance for Needy Families</heading>
+        <section eId="sec_17b_274d">
+          <num>17b-274d</num>
+          <heading>Pharmaceutical and Therapeutics Committee. Membership. Duties. Preferred drug lists. Automatic refill recommendations. Supplemental rebates. Administrative hearings</heading>
+          <subsection eId="17b_274d__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Pursuant to 42 USC 1396r-8, there is established a Pharmaceutical and Therapeutics Committee within the Department of Social Services.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_274d__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The Pharmaceutical and Therapeutics Committee shall be comprised as specified in 42 USC 1396r-8 and shall consist of sixteen members appointed by the Governor. Seven members shall be physicians licensed pursuant to chapter 370, including one general practitioner, one pediatrician, one geriatrician, one psychiatrist, one child psychiatrist, one specialist in family planning, and one oncologist, four members shall be pharmacists licensed pursuant to chapter 400j, two members shall be visiting nurses, one specializing in adult care and one specializing in psychiatric care, one member shall be a clinician designated by the Commissioner of Mental Health and Addiction Services, one member shall be a representative of pharmaceutical manufacturers and one member shall be a consumer representative. The committee may, on an ad hoc basis, seek the participation of other state agencies or other interested parties in its deliberations. The members shall serve for terms of two years from the date of their appointment. Members may be appointed to more than one term. The Commissioner of Social Services, or the commissioner's designee, shall convene the committee following the Governor's designation of appointments. The administrative staff of the Department of Social Services shall serve as staff for said committee and assist with all ministerial duties. The Governor shall ensure that the committee membership includes Medicaid participating physicians and pharmacists, with experience serving recipients of medical assistance.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_274d__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Committee members shall select a chairperson and vice-chairperson from the committee membership on an annual basis.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_274d__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>The committee shall meet at least biannually, and may meet at other times at the discretion of the chairperson and committee membership. The committee shall ensure that each meeting includes an opportunity for public comment. The committee shall comply with all regulations adopted by the department, including notice of any meeting of the committee, pursuant to the requirements of chapter 54.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_274d__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>The Department of Social Services, in consultation with the Pharmaceutical and Therapeutics Committee, may adopt a preferred drug list for use in the Medicaid program. To the extent feasible, the department shall review all drugs included on the preferred drug list at least every twelve months, and may recommend additions to, and deletions from, the preferred drug list, to ensure that the preferred drug list provides for medically appropriate drug therapies for Medicaid patients. The Department of Social Services, in consultation with the Pharmaceutical and Therapeutics Committee, shall expand such drug list to include other classes of drugs, except as provided in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_274d__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>of this section, in order to achieve savings reflected in the amounts appropriated to the department, for the various components of the program, in the state budget act.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_274d__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>Nonpreferred drugs in the classes of drugs included on the preferred drug lists shall be subject to prior authorization. Prior authorization is not required for any mental-health-related drug that has been filled or refilled, in any dosage, at least one time in the one-year period prior to the date the individual presents a prescription for the drug at a pharmacy. If prior authorization is granted for a drug not included on a preferred drug list, the authorization shall be valid for one year from the date the prescription is first filled. Antiretroviral classes of drugs shall not be included on the preferred drug lists.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_274d__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>The Department of Social Services shall publish and disseminate the preferred drug lists to all Medicaid providers in the state.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_274d__subsec_h">
+            <num>(h)</num>
+            <content>
+              <p>The department may negotiate supplemental rebate agreements with manufacturers that are in addition to those required under Title XIX of the Social Security Act. The committee shall ensure that the pharmaceutical manufacturers agreeing to provide a supplemental rebate pursuant to 42 USC 1396r-8</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_274d__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>have an opportunity to present evidence supporting inclusion of a product on the preferred drug lists unless a court of competent jurisdiction, in a final decision, determines that the Secretary of Health and Human Services does not have authority to allow such supplemental rebates, provided the inability to utilize supplemental rebates pursuant to this subsection shall not impair the committee's authority to maintain preferred drug lists. Upon timely notice, the department shall ensure that any drug that has been approved, or had any of its particular uses approved, by the United States Food and Drug Administration under a priority review classification, will be reviewed by the Pharmaceutical and Therapeutics Committee at the next regularly scheduled meeting. To the extent feasible, upon notice by a pharmaceutical manufacturer, the department shall also schedule a product review for any new product at the next regularly scheduled meeting of the Pharmaceutical and Therapeutics Committee.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_274d__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Factors considered by the department and the Pharmaceutical and Therapeutics Committee in developing the preferred drug lists shall include, but not be limited to, clinical efficacy, safety and cost effectiveness of a product.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_274d__subsec_j">
+            <num>(j)</num>
+            <content>
+              <p>The Pharmaceutical and Therapeutics Committee may also make recommendations to the department regarding</p>
+            </content>
+            <paragraph eId="17b_274d__subsec_j__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>the prior authorization of any prescribed drug, and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_274d__subsec_j__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>what prescribed drug, if any, should be eligible for automatic refill.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_274d__subsec_k">
+            <num>(k)</num>
+            <content>
+              <p>A recipient who is denied a nonpreferred drug may request an administrative hearing in accordance with section17b-60.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_274d__subsec_l">
+            <num>(l)</num>
+            <content>
+              <p>The Commissioner of Social Services may contract with a pharmacy benefits organization or a single entity qualified to negotiate with pharmaceutical manufacturers for supplemental rebates, available pursuant to 42 USC 1396r-8</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_274d__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>, for the purchase of drugs listed on the preferred drug lists established pursuant to subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_274d__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>of this section.
+See Secs. 17b-274, 17b-491a re required prior authorization for brand name prescriptions.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

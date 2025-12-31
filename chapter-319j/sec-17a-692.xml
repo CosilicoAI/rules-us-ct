@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-692"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-692"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17a-692"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-692/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-692/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-692/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-692/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319j">
+        <num>319j</num>
+        <heading>Health Care For Uninsured Children</heading>
+        <section eId="sec_17a_692">
+          <num>17a-692</num>
+          <heading>(Formerly Sec. 19a-127a). Responsibilities and authority of Court Support Services Division re persons ordered treated for alcohol or drug dependency</heading>
+          <subsection eId="17a_692__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The Court Support Services Division shall supervise</p>
+            </content>
+            <paragraph eId="17a_692__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>any person charged with a crime for whom the court, pursuant to the provisions of section17a-696, has suspended prosecution and ordered treated for alcohol or drug dependency, and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_692__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>any person convicted of a crime whom the court, pursuant to the provisions of section17a-699, has sentenced to a period of probation and ordered treated for alcohol or drug dependency.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17a_692__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The Court Support Services Division may</p>
+            </content>
+            <paragraph eId="17a_692__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>coordinate, pursuant to the provisions of section17a-694, the examination of any person under its supervision,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_692__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>coordinate the placement of such person for treatment for alcohol or drug dependency, and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_692__subsec_b__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>monitor the progress and behavior of such person in the treatment program.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17a_692__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The Court Support Services Division may transfer any person in a treatment program to another treatment program with the agreement of the director of the program to which the person is proposed to be transferred.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_692__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Any person under the supervision of the Court Support Services Division under the provisions of section17a-696or17a-699may, without any notice, be tested for use of alcohol or drugs.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

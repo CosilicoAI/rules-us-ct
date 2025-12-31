@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-11"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-11"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17b-11"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-11/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-11/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-11/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-11/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319o">
+        <num>319o</num>
+        <heading>Personal Care Assistance</heading>
+        <section eId="sec_17b_11">
+          <num>17b-11</num>
+          <heading>(Formerly Sec. 17-11). Acceptance of federal funds. Disregard of certain federal increases for recipients of state supplement program. Increase in income disregarded for unrelated recipients who share living arrangements</heading>
+          <subsection eId="17b_11__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The Commissioner of Social Services is authorized and empowered to accept any and all allotments of federal funds, federal funds to match private contributions and commodities, and to manage and dispose of the same in whatever manner is required by federal law, and to take advantage of any amendments and supplements to the federal Social Security Act and of any other federal act relating to public welfare, and to conform to such federal requirements as are conditions precedent to the receipt of federal matching grants and are not prohibited by the general statutes.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_11__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The Commissioner of Social Services shall determine that portion of social security increases approved by the federal government or other unearned income which shall be disregarded by the Department of Social Services in the payment of benefits to recipients of, and in the determination of eligibility of applicants for the state supplement program to the Supplemental Security Income Program. The Commissioner of Social Services, upon application, shall increase the amount disregarded for unrelated recipients in the state supplement program to the Supplemental Security Income Program who share living arrangements. The Commissioner of Social Services shall adopt regulations in accordance with the provisions of sections4-166to4-176, inclusive, to establish specific dollar amounts to be disregarded. Such dollar amounts shall be no less than the amount of income from the Supplemental Security Income Program disregarded by the Department of Social Services pursuant to the provisions of this section in effect on June 30, 1976.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

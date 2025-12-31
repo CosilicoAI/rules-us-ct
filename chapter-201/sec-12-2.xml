@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-2"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-2"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-2"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-2/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-2/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-2/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-2/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_201">
+        <num>201</num>
+        <heading>State and Local Revenue Services. Department of Revenue Services</heading>
+        <section eId="sec_12_2">
+          <num>12-2</num>
+          <heading>Appointment, powers and duties of Commissioner of Revenue Services. Administrative pronouncements. Contracts for the collection of municipal taxes</heading>
+          <subsection eId="12_2__subsec_a">
+            <num>(a)</num>
+            <paragraph eId="12_2__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>The Governor shall, in the manner and for the term provided by sections4-5to4-8, inclusive, appoint a Commissioner of Revenue Services and the Governor shall fill any vacancy occurring during such term as provided by said sections. The commissioner shall, before entering upon the duties of his office, take the oath by law provided for executive and judicial officers and, in the performance of his duties, he shall have power to administer oaths.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_2__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>The commissioner may prescribe regulations, to be adopted in accordance with chapter 54, and make rulings, not inconsistent with law, to carry into effect the provisions of this title, which regulations or rulings, when reasonably designed to carry out the intents and purposes of this title, shall be prima facie evidence of its proper interpretation. Each regulation shall be assigned a section number corresponding to the section of the general statutes (A) pursuant to which such regulation is authorized or required or (B) with respect to which such regulation pertains for purposes of implementation, procedural details or supplementary interpretation, provided whenever such section number corresponds to a section which does not include the authorization or requirement for such regulation, a reference to the section providing such authorization or requirement shall be included in the text of the regulation.</p>
+              </content>
+              <subparagraph eId="12_2__subsec_a__subsec_2__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>pursuant to which such regulation is authorized or required or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_2__subsec_a__subsec_2__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>with respect to which such regulation pertains for purposes of implementation, procedural details or supplementary interpretation, provided whenever such section number corresponds to a section which does not include the authorization or requirement for such regulation, a reference to the section providing such authorization or requirement shall be included in the text of the regulation.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_2__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>The commissioner shall publish for distribution all regulations prescribed hereunder and such rulings as appear in the discretion of the commissioner to be of general interest.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_2__subsec_a__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>The commissioner may require any person who is or appears to be affected by the provisions of any tax law of this state to furnish to the Department of Revenue Services the Social Security account number or numbers issued to such person by the Secretary of Health and Human Services, or the employer identification number or numbers issued to such person by the Secretary of the Treasury, or both numbers.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_2__subsec_a__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>No interest, penalty or addition to tax shall be imposed on any tax or installment of estimated tax required to be paid to the Department of Revenue Services with respect to any tax or installment of estimated tax not paid when required to the extent that the Commissioner of Revenue Services determines that, by reason of casualty or disaster, the imposition of such interest, penalty or addition to tax would be against equity and good conscience. The provisions of this subdivision shall not be construed as authorizing suit against the state where the Commissioner of Revenue Services does not determine that the imposition of interest, penalty or addition to tax would be against equity and good conscience and shall not be construed as a waiver of sovereign immunity.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Notwithstanding any provision of the general statutes to the contrary, the commissioner may issue administrative pronouncements providing his interpretation of the tax laws. Such pronouncements shall not have the force and effect of regulations and shall carry a notice stating that the administrative pronouncements do not have the force and effect of law, provided taxpayers shall be entitled to rely on such pronouncements. For the purpose of this subsection “administrative pronouncement” means a statement by the Commissioner of Revenue Services which provides his interpretation of the tax laws and which is published and made available to the public. The commissioner shall, with respect to any provision of the general statutes which authorizes the issuance of rules, file with the legislative regulation review committee, within six months after the issuance of such rules, regulations which implement the provisions of such rules.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The commissioner is authorized to negotiate and contract with the governing authority of any Connecticut municipality for the purpose of arranging for the collection by the commissioner of any taxes for general or special purposes levied by such municipality, of any fines, penalties, costs or fees payable to such municipality for the violation of any lawful regulation or ordinance in furtherance of any general powers as enumerated in section7-148, or of any charge payable to such municipality for connection with or for the use of a waterworks or sewerage system, provided such taxes, fines, penalties, costs or fees, or charges are</p>
+            </content>
+            <paragraph eId="12_2__subsec_c__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>unpaid and a period in excess of thirty days has elapsed following the date on which they were due and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_2__subsec_c__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>not the subject of a timely filed administrative appeal or of a timely filed appeal pending before any court of competent jurisdiction. The agreement shall include a fee to be paid by such municipality to said commissioner in an amount that covers fully the cost of collection of such taxes, fines, penalties, costs or fees, or charges by said commissioner. The commissioner shall transmit to the municipality all such taxes, fines, penalties, costs or fees, or charges so collected on behalf of such municipality on or before the date specified in such agreement, less the agreed upon collection fee. Where such an agreement exists, the commissioner may collect, on behalf of such municipality, such taxes, fines, penalties, costs or fees, or charges, and all interest, penalties, fees and other charges added thereto by law, under the provisions of section12-35as if such taxes, fines, penalties, costs or fees, or charges due such municipality were “tax due the state”, as such term is defined in said section12-35, and as if such term expressly included taxes, fines, penalties, costs or fees, or charges due to such municipality.
+See Secs. 12-1c and 12-1d re transfer of certain functions, powers and duties under this chapter and chapters 203, 204 and 204a to the Secretary of the Office of Policy and Management.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

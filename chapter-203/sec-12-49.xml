@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-49"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-49"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-49"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-49/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-49/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-49/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-49/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_203">
+        <num>203</num>
+        <heading>Property Tax Assessment</heading>
+        <section eId="sec_12_49">
+          <num>12-49</num>
+          <heading>Lists to be verified</heading>
+          <content>
+            <p>Sec. 12-49. Lists to be verified.The assessors in each town shall require each person giving in a tax list to sign, date and deliver to them a statement upon such list in the following form; and each person giving in a tax list shall sign, date and deliver to the assessors a statement upon such list in said form:
+I do hereby declare under penalty of false statement that the foregoing list, according to the best of my knowledge, remembrance and belief, is a true statement of all my property liable to taxation. I also declare under penalty of false statement that I have not conveyed or temporarily disposed of any estate for the purpose of evading the laws relating to the assessment and collection of taxes.
+Dated at .... this .... day of ...., 20…
+Each person signing and delivering to the assessors a false statement of the foregoing form shall be subject to the penalty provided for false statement. Any assessor failing to comply with the provisions of this section shall be fined not more than fifty dollars for each offense.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

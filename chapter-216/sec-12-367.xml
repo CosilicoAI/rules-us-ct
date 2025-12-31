@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-367"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-367"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-367"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-367/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-367/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-367/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-367/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_216">
+        <num>216</num>
+        <heading>Sales and Use Taxes</heading>
+        <section eId="sec_12_367">
+          <num>12-367</num>
+          <heading>Computation and assessment of tax; objections thereto. Refund of overpayment. When amendment to return not required</heading>
+          <subsection eId="12_367__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The tax imposed by the provisions of this chapter shall be computed and assessed by the Commissioner of Revenue Services. If the Commissioner of Revenue Services has not filed an objection to the valuations or concessions of taxability appearing on the return as provided in section12-359, he shall, within one hundred twenty days of his receipt of the return required by the provisions of said section12-359, if such return is correctly made out, or if he has filed such objection, within sixty days of his withdrawal of such objection or within sixty days of a final determination by the Probate Court of such objection, prepare a computation of the tax and, if the tax due is found to be ten dollars or more, file a copy thereof with the Court of Probate and mail a copy to the fiduciary or transferee, as the case may be.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_367__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Within sixty days after the mailing of the computation by the Commissioner of Revenue Services, the fiduciary or transferee or any other party in interest may make written application to the Probate Court for a hearing upon the determination of the tax or the computation thereof. Such application shall set forth in detail the objection to the determination or computation of the tax and a copy of same shall be mailed to the commissioner at the time of filing. The Probate Court shall assign a time and place for a hearing upon such application not less than two nor more than four weeks after receipt thereof and shall cause a copy of the order of hearing to be sent to the Commissioner of Revenue Services and to the fiduciary or transferee and to all other parties in interest at least ten days before the time of such hearing. The commissioner or any person interested may appear before such court at such hearing and be heard on any matter involved in the determination of the tax or the computation thereof, including, if no hearing has been held previously under the provisions of subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_367__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of section12-359, any matter which could have been heard at such a hearing. If there is no appearance on behalf of the commissioner and it appears to the court that such computation ought to be modified, such hearing shall be adjourned for not less than ten days and notice of the time and place of such adjourned hearing and of any proposed change in such computation shall be given to the commissioner, who may appear and be heard thereon. At such hearing, or adjournment thereof, the court shall determine all matters properly before it, including the amount of such tax and shall enter upon its records a decree for such amount. A copy of the decree of the Probate Court shall be forwarded forthwith to the commissioner and the fiduciary or transferee by the judge or clerk of such court. Subject only to the provisions of subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_367__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>of this section, the computation of the tax by the Commissioner of Revenue Services shall be conclusive upon the state and all persons interested unless a hearing is held thereon as herein provided, in which case the decree of the Probate Court shall be conclusive upon the state and all persons interested unless an appeal is taken as provided for appeals from other decrees and orders of such court.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_367__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>If the fiduciary or transferee fails to file the return required by the provisions of section12-359within the time prescribed therefor, the Commissioner of Revenue Services may assess and compute the tax upon the best information obtainable, and file a copy of such computation with the Probate Court and mail a copy thereof to the fiduciary or transferee, as the case may be. Further proceedings upon such computation shall be taken in accordance with the provisions of subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_367__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section and section12-359.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_367__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>The Commissioner of Revenue Services may authorize a refund of an overpayment of such tax made because</p>
+            </content>
+            <paragraph eId="12_367__subsec_d__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>property was incorrectly included in the gross taxable estate because of a mistake or error or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_367__subsec_d__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>an item in an amount exceeding five hundred dollars which would have been allowed as a deduction, in the determination of net estate for purposes of the tax imposed under this chapter, is discovered after the tax computation in accordance with this section has been made and the appeal period provided for in chapter 796 has run, if a claim for refund is filed with the Commissioner of Revenue Services and the Probate Court by the fiduciary or a transferee who has paid the tax within two years after the computation or the decree provided for in subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_367__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section determining the amount of the tax in which the overpayment is included or within two years of the date of the computation rendered by the Commissioner of Revenue Services pursuant to a compromise agreement as provided for in section12-355, determining the tax in which the overpayment is included. Within ninety days of his receipt of such claim for refund the Commissioner of Revenue Services shall file with the Court of Probate and mail to the fiduciary or transferee a revised computation of the tax or a notice of the rejection of the claim for refund. Further proceedings upon such revised computation or rejection shall be taken in accordance with the provisions of subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_367__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section. If upon a recomputation of the tax a refund is found due by the Commissioner of Revenue Services or by the Probate Court upon a hearing as hereinbefore provided, the Commissioner of Revenue Services shall certify to the Comptroller that a refund is due in an amount equal to the difference between the tax paid and the tax actually due as shown by the recomputation, including any interest that may be payable as provided by section12-376. Such refund shall be paid by the Treasurer, on the order of the Comptroller, to the fiduciary or transferee who shall distribute it ratably among the several beneficiaries equitably entitled to it.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_367__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>In any case in which property of the decedent is discovered after the tax computation has been made and the appeal period provided for in sections 45a186 to 45a193, inclusive, has run, the fiduciary shall not be required to file an amendment to its tax return or to pay any additional tax that would be attributable to such afterdiscovered assets unless such additional tax equals or exceeds one hundred dollars.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

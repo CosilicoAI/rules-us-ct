@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-576"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-576"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-576"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-576/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-576/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-576/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-576/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_226">
+        <num>226</num>
+        <heading>Prepared Food and Beverage Tax</heading>
+        <section eId="sec_12_576">
+          <num>12-576</num>
+          <heading>Presence of minors at gaming establishments; penalties. Licensing of minors. Payment of claims for winnings</heading>
+          <subsection eId="12_576__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Any person who knowingly permits any minor to wager in any gambling activity authorized under this chapter and any minor who places a wager in any gambling activity authorized under this chapter shall be guilty of a class A misdemeanor.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_576__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Any person who knowingly permits a minor to be present in any room, office, building or establishment when off-track betting authorized under this chapter takes place, or at any racetrack or fronton when any meeting authorized under this chapter takes place, shall be fined not more than twenty-five dollars. No minor shall be present in any room, office, building or establishment when off-track betting authorized under this chapter takes place, or at any racetrack or fronton when any meeting authorized under this chapter takes place. Any minor sixteen years of age or over present in any room, office, building or establishment when off-track betting authorized under this chapter takes place, or at any racetrack or fronton when any meeting authorized under this chapter takes place, shall be fined not more than twenty-five dollars. Any licensee authorized to conduct a meeting for the purpose of jai alai or racing shall be fined not more than fifty dollars if any minor is found at such facility in violation of this subsection.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_576__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Notwithstanding any provision of subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_576__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>or</p>
+            </content>
+          </subsection>
+          <subsection eId="12_576__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section, the commissioner may issue a license to a minor sixteen years of age or older, under the provisions of section12-578and the regulations adopted thereunder, provided written permission from a parent or legal guardian of such minor is filed with the department.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_576__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>The commissioner shall not pay any claim for winnings when such claim is made by, or on behalf of, a minor who has wagered in any gambling activity authorized under this chapter. Nothing in this subsection shall prohibit an adult from making a wager on behalf of a minor, provided the money for such wager is not provided by the minor from funds under such minor's control.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_576__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>Nothing in this section shall be construed to prohibit any minor from entering onto a parking area at any building or establishment described in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_576__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section for the purpose of attending an event at which gambling activities do not occur.
+See Sec. 53-343a re presence of persons under twenty-one years of age in class III gaming facilities.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

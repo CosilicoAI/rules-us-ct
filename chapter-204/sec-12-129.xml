@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-129"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-129"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-129"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-129/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-129/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-129/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-129/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_204">
+        <num>204</num>
+        <heading>Local Levy and Collection of Taxes</heading>
+        <section eId="sec_12_129">
+          <num>12-129</num>
+          <heading>Refund of excess payments</heading>
+          <subsection eId="12_129__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of section12-53, subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_129__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of section12-57or section12-113. Such application shall contain a recital of the facts and shall state the amount of the refund requested. The collector shall, after examination of such application, refer the same, with his recommendations thereon, to the board of selectmen in a town or to the corresponding authority in any other municipality, and shall certify to the amount of refund, if any, to which the applicant is entitled. The existence of another tax delinquency or other debt owed by the same person, firm or corporation shall be sufficient grounds for denying the application. Upon such denial, any overpayment shall be applied to such delinquency or other debt. Upon receipt of such application and certification, the selectmen or such other authority shall draw an order upon the treasurer in favor of such applicant for the amount of refund so certified. Any action taken by such selectmen or such other authority shall be a matter of record, and the tax collector shall be notified in writing of such action. Upon receipt of notice of such action, the collector shall make in his rate book a notation which will date, describe and identify each such transaction. Each tax collector shall, at the end of each fiscal year, prepare a statement showing the amount of each such refund, to whom made and the reason therefor. Such statement shall be published in the annual report of the municipality or filed in the town clerk's office within sixty days of the end of the fiscal year. Any payment for which no timely application is made or granted under this section shall permanently remain the property of the municipality. Nothing in this section shall be construed to allow a refund based upon an error of judgment by the assessors. Notwithstanding the provisions of this section, the legislative body of a municipality may, by ordinance, authorize the tax collector to retain payments in excess of the amount due provided the amount of the excess payment is less than five dollars.
+(R</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-226"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-226"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17b-226"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-226/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-226/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-226/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-226/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319v">
+        <num>319v</num>
+        <heading>Temporary Assistance for Needy Families</heading>
+        <section eId="sec_17b_226">
+          <num>17b-226</num>
+          <heading>(Formerly Sec. 17-295d). Consideration of the costs mandated by collective bargaining agreements</heading>
+          <subsection eId="17b_226__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>and</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_226__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of section17a-17;</p>
+            </content>
+            <paragraph eId="17b_226__subsec_b__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>psychiatric clinics and community mental health facilities pursuant to section17a-20;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_226__subsec_b__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>day treatment centers pursuant to section17a-22;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_226__subsec_b__subsec_6">
+              <num>(6)</num>
+              <content>
+                <p>youth service bureaus pursuant to subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_226__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of section10-19n;</p>
+            </content>
+            <paragraph eId="17b_226__subsec_a__subsec_7">
+              <num>(7)</num>
+              <content>
+                <p>programs for the treatment and prevention of child abuse and neglect and for juvenile diversion pursuant to section17a-49;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_226__subsec_a__subsec_8">
+              <num>(8)</num>
+              <content>
+                <p>community-based service programs pursuant to sections18-101iand18-101k;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_226__subsec_a__subsec_9">
+              <num>(9)</num>
+              <content>
+                <p>programs for children and adults with intellectual disability pursuant to section17a-217;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_226__subsec_a__subsec_10">
+              <num>(10)</num>
+              <content>
+                <p>community-based residential facilities for persons with intellectual disability pursuant to section17a-218; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_226__subsec_a__subsec_11">
+              <num>(11)</num>
+              <content>
+                <p>vocational training programs for adults with intellectual disability pursuant to section17a-226.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

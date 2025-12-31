@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-274"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-274"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17b-274"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-274/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-274/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-274/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-274/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319v">
+        <num>319v</num>
+        <heading>Temporary Assistance for Needy Families</heading>
+        <section eId="sec_17b_274">
+          <num>17b-274</num>
+          <heading>(Formerly Sec. 17-134q). Periodic investigations of pharmacies by Division of Criminal Justice. Brand medically necessary. Procedure for prior approval to dispense brand name drug. Disclosure</heading>
+          <subsection eId="17b_274__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The Division of Criminal Justice shall periodically investigate pharmacies to ensure that the state is not billed for a brand name drug product when a less expensive generic substitute drug product is dispensed to a medical assistance recipient. The Commissioner of Social Services shall cooperate and provide information as requested by such division.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_274__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>A licensed medical practitioner may specify in writing or by a telephonic or electronic communication that there shall be no substitution for the specified brand name drug product in any prescription for a medical assistance recipient, provided</p>
+            </content>
+            <paragraph eId="17b_274__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>the practitioner specifies the basis on which the brand name drug product and dosage form is medically necessary in comparison to a chemically equivalent generic drug product substitution,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_274__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>for written and telephonic communications, the phrase “brand medically necessary” shall be in the practitioner's handwriting on the prescription form or, if the prohibition was communicated by telephonic communication, in the pharmacist's handwriting on such form, and shall not be preprinted or stamped or initialed on such form. If the practitioner specifies by telephonic communication that there shall be no substitution for the specified brand name drug product in any prescription for a medical assistance recipient, written certification in the practitioner's handwriting bearing the phrase “brand medically necessary” shall be sent to the dispensing pharmacy within ten days, and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_274__subsec_b__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>for electronic communications, the prescriber shall select the code indicating that a substitution is not allowed by the pharmacy on the certified electronic prescription. A pharmacist shall dispense a generically equivalent drug product for any drug listed in accordance with 42 CFR 447.512 for a drug prescribed for a medical assistance recipient unless the prescribing practitioner has specified that there shall be no substitution for the specified brand name drug product in accordance with this subsection and such pharmacist has received approval to dispense the brand name drug product in accordance with subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_274__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_274__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The Commissioner of Social Services shall implement a procedure by which a pharmacist shall obtain approval from an independent pharmacy consultant acting on behalf of the Department of Social Services, under an administrative services only contract, whenever the pharmacist dispenses a brand name drug product to a medical assistance recipient and a chemically equivalent generic drug product substitution is available. The length of authorization for brand name drugs shall be in accordance with section17b-491a. In cases where the brand name drug is less costly than the chemically equivalent generic drug when factoring in manufacturers' rebates, the pharmacist shall dispense the brand name drug. If such approval is not granted or denied within twenty-four hours of receipt by the commissioner of the request for approval, it shall be deemed granted. Notwithstanding any provision of this section, a pharmacist shall not dispense any initial maintenance drug prescription for which there is a chemically equivalent generic substitution that is for less than fifteen days without the department's granting of prior authorization, provided prior authorization shall not otherwise be required for atypical antipsychotic drugs if the individual is currently taking such drug at the time the pharmacist receives the prescription. The pharmacist may appeal a denial of reimbursement to the department based on the failure of such pharmacist to substitute a generic drug product in accordance with this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_274__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>A licensed medical practitioner shall disclose to the Department of Social Services or such consultant, upon request, the basis on which the brand name drug product and dosage form is medically necessary in comparison to a chemically equivalent generic drug product substitution. The Commissioner of Social Services shall establish a procedure by which such a practitioner may appeal a determination that a chemically equivalent generic drug product substitution is required for a medical assistance recipient.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

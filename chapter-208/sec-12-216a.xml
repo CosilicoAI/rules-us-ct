@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-216a"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-216a"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-216a"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-216a/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-216a/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-216a/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-216a/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_208">
+        <num>208</num>
+        <heading>Estate Taxes</heading>
+        <section eId="sec_12_216a">
+          <num>12-216a</num>
+          <heading>Payment of tax by companies having economic nexus with state. Applicability to companies treated as foreign corporations by the Internal Revenue Code</heading>
+          <subsection eId="12_216a__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Any company that derives income from sources within this state and that has a substantial economic presence within this state, evidenced by a purposeful direction of business toward this state, examined in light of the frequency, quantity and systematic nature of a company's economic contacts with this state, without regard to physical presence, and to the extent permitted by the Constitution of the United States, shall be liable for the tax imposed under this chapter. Such company shall apportion its net income under the provisions of this chapter.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_216a__subsec_b">
+            <num>(b)</num>
+            <paragraph eId="12_216a__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>The provisions of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_216a__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section shall not apply to any company that is treated as a foreign corporation under the Internal Revenue Code and has no income effectively connected with a United States trade or business.</p>
+            </content>
+            <paragraph eId="12_216a__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>To the extent that a company that is treated as a foreign corporation under the Internal Revenue Code has income effectively connected with a United States trade or business, such company's gross income, notwithstanding any provision of this chapter, shall be its income effectively connected with its United States trade or business. For net income tax apportionment purposes, only property used in, payroll attributable to and receipts effectively connected with such company's United States trade or business shall be considered for purposes of calculating such company's apportionment fraction. “Income effectively connected with a United States trade or business” shall be determined in accordance with the provisions of the Internal Revenue Code. The provisions of this subdivision shall not apply to a foreign corporation that is included in a combined group that files a combined unitary tax return.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

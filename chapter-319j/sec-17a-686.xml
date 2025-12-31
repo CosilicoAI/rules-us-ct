@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-686"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-686"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17a-686"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-686/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-686/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-686/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-686/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319j">
+        <num>319j</num>
+        <heading>Health Care For Uninsured Children</heading>
+        <section eId="sec_17a_686">
+          <num>17a-686</num>
+          <heading>(Formerly Sec. 19a-126f). Procedural rules and rights during determinations of commitment, recommitment and termination of commitment and recommitment and discharge</heading>
+          <subsection eId="17a_686__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>At any hearing on an application for commitment, recommitment or termination and discharge, the court shall inquire into the facts of the application. The following provisions shall apply to the hearing:</p>
+            </content>
+            <paragraph eId="17a_686__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>The respondent shall be present unless the court finds by clear and convincing evidence that his presence would be injurious to himself. If the person is not present, the court shall appoint a guardian ad litem to represent him;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_686__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>The court shall examine the person in open court, or, if the person is not present, examine him in such a private setting as the court may determine;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_686__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>The respondent or his representative may present evidence and cross-examine witnesses;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_686__subsec_a__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>The court shall order any examining physician to appear if the person notifies the court not less than two days before the hearing that he wishes to cross-examine such physician. It is the responsibility of the applicant to provide medical testimony;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_686__subsec_a__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>The Connecticut rules of evidence shall be observed.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17a_686__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>If, at the time of the hearing, the person is being treated at a treatment facility and is medicated, the treatment facility shall notify the court of the medication and of the common effects thereof.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_686__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The court may not order a commitment or recommitment unless the evidence presented includes the report of at least one licensed physician who has examined the person which supports the allegations of the application for commitment or recommitment.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_686__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>If a private treatment facility agrees with the request of a patient or his parent, sibling, adult child or legal representative to accept the patient for treatment, the administrator of the treatment facility operated by the Department of Mental Health and Addiction Services shall transfer him to the private treatment facility.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_686__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>In any contested proceeding for commitment, recommitment, or termination and discharge, the Attorney General shall, upon request, represent the administrator of a treatment facility operated by the department.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

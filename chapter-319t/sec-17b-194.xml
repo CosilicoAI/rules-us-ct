@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-194"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-194"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17b-194"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-194/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-194/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-194/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-194/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319t">
+        <num>319t</num>
+        <heading>State Supplement to Supplemental Security Income</heading>
+        <section eId="sec_17b_194">
+          <num>17b-194</num>
+          <heading>(Formerly Sec. 17b-689). Definitions. Recommendations of medical review team</heading>
+          <subsection eId="17b_194__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>For the purposes of this section and sections17b-131,17b-191to17b-193, inclusive,17b-195,17b-197and17b-198,</p>
+            </content>
+            <paragraph eId="17b_194__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>an “employable person” means one (A) who is sixteen years of age or older but less than sixty-five years of age; and (B) who has no documented physical or mental impairment prohibiting such person from working or participating in an education, training or other work-readiness program, or who has such an impairment which is expected to last less than two months, as determined by the commissioner;</p>
+              </content>
+              <subparagraph eId="17b_194__subsec_a__subsec_1__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>who is sixteen years of age or older but less than sixty-five years of age; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17b_194__subsec_a__subsec_1__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>who has no documented physical or mental impairment prohibiting such person from working or participating in an education, training or other work-readiness program, or who has such an impairment which is expected to last less than two months, as determined by the commissioner;</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="17b_194__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>an “unemployable person” means a person who (A) is under sixteen years of age or sixty-five years of age or older or fifty-five years of age or older with a history of chronic unemployment; (B) has a physical or mental impairment prohibiting such person from working or participating in an education, training or other work-readiness program, which is expected to last at least six months, as determined by the commissioner; (C) is pending receipt of supplemental security income, Social Security income or financial assistance through another program administered by the Department of Social Services; (D) is needed to care for a child under two years of age or to care for an incapacitated child or spouse; (E) is a full-time high school student in good standing; or (F) is a VISTA volunteer; and</p>
+              </content>
+              <subparagraph eId="17b_194__subsec_a__subsec_2__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>is under sixteen years of age or sixty-five years of age or older or fifty-five years of age or older with a history of chronic unemployment;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17b_194__subsec_a__subsec_2__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>has a physical or mental impairment prohibiting such person from working or participating in an education, training or other work-readiness program, which is expected to last at least six months, as determined by the commissioner;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17b_194__subsec_a__subsec_2__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>is pending receipt of supplemental security income, Social Security income or financial assistance through another program administered by the Department of Social Services;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17b_194__subsec_a__subsec_2__subsec_D">
+                <num>(D)</num>
+                <content>
+                  <p>is needed to care for a child under two years of age or to care for an incapacitated child or spouse;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17b_194__subsec_a__subsec_2__subsec_E">
+                <num>(E)</num>
+                <content>
+                  <p>is a full-time high school student in good standing; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17b_194__subsec_a__subsec_2__subsec_F">
+                <num>(F)</num>
+                <content>
+                  <p>is a VISTA volunteer; and</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="17b_194__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>a “transitional person” means one (A) who has a documented physical or mental impairment which prevents employment and is expected to last at least two months, but less than six months, as determined by the commissioner, and who has a recent connection to the labor market, unless circumstances precluded participation in the labor force, as determined by the commissioner; or (B) whose determination of unemployability or disability, as defined by the commissioner, is pending and who provides medical documentation of a severe physical or mental impairment which is expected to last at least six months. A person who is a substance abuser shall be required to participate in treatment, including counseling, and shall be eligible for assistance while waiting for treatment.</p>
+              </content>
+              <subparagraph eId="17b_194__subsec_a__subsec_3__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>who has a documented physical or mental impairment which prevents employment and is expected to last at least two months, but less than six months, as determined by the commissioner, and who has a recent connection to the labor market, unless circumstances precluded participation in the labor force, as determined by the commissioner; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17b_194__subsec_a__subsec_3__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>whose determination of unemployability or disability, as defined by the commissioner, is pending and who provides medical documentation of a severe physical or mental impairment which is expected to last at least six months. A person who is a substance abuser shall be required to participate in treatment, including counseling, and shall be eligible for assistance while waiting for treatment.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_194__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The Commissioner of Social Services, when making determinations concerning disabilities or impairments which are expected to last a period of six months or longer in accordance with subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_194__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section, shall make such determinations based on the recommendations made by a medical review team.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

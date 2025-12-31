@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-460b"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-460b"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17a-460b"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-460b/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-460b/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-460b/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-460b/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319i">
+        <num>319i</num>
+        <heading>Connecticut HUSKY Plan</heading>
+        <section eId="sec_17a_460b">
+          <num>17a-460b</num>
+          <heading>Connecticut Mental Health Center: Participation authorized</heading>
+          <subsection eId="17a_460b__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The center, when authorized by the commissioner, may participate in local, regional or state-wide provider networks, preferred provider organizations, physician-hospital organizations or other similar organizations.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_460b__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Participation by the center in provider networks, preferred provider organizations, physician-hospital organizations or other similar organizations, when authorized by the commissioner, may include</p>
+            </content>
+            <paragraph eId="17a_460b__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>membership in a network organization;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_460b__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>participation in network or organization contracts, cooperative agreements, and joint ventures;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_460b__subsec_b__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>participation in the governance of networks and organizations; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_460b__subsec_b__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>payment of reasonable network or organization dues, fees and assessments.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-350"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-350"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-350"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-350/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-350/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-350/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-350/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_216">
+        <num>216</num>
+        <heading>Sales and Use Taxes</heading>
+        <section eId="sec_12_350">
+          <num>12-350</num>
+          <heading>Net estate of resident transferors; deductions</heading>
+          <subsection eId="12_350__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Debts of the transferor which constitute lawful claims against his estate;</p>
+            </content>
+          </subsection>
+          <subsection eId="12_350__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>unpaid taxes,</p>
+            </content>
+            <paragraph eId="12_350__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>on real property within this state which were a lien at the date of the transferor's death,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_350__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>on personal property of the transferor which constituted a personal obligation or were a lien at the date of death,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_350__subsec_b__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>on the income of the transferor accrued to the date of death;</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_350__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>any tax on untaxed property assessed by this state against the estate of the transferor;</p>
+            </content>
+          </subsection>
+          <subsection eId="12_350__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>special assessments which, at the date of death, were a lien on the real property of the transferor situated within this state;</p>
+            </content>
+          </subsection>
+          <subsection eId="12_350__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>funeral expenses and all amounts actually expended or to be expended for a headstone or monument or the care of any cemetery lot;</p>
+            </content>
+          </subsection>
+          <subsection eId="12_350__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>reasonable compensation of executors and administrators and reasonable attorney's fees;</p>
+            </content>
+          </subsection>
+          <subsection eId="12_350__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>a reasonable allowance made during the settlement of the estate for the support of the widow, widower, dependent minor children, including legally adopted children, of the transferor, or dependent children incapable of self-support because mentally or physically defective receiving support mainly from the transferor at the time of his death; but no such deduction shall be made for any such allowance beyond the expiration of twelve months after the date of the transferor's death;</p>
+            </content>
+          </subsection>
+          <subsection eId="12_350__subsec_h">
+            <num>(h)</num>
+            <content>
+              <p>the amount at the date of the transferor's death of all unpaid mortgages upon real or personal property situated within this state, which mortgages were not deducted in the appraisal of the property mortgaged;</p>
+            </content>
+          </subsection>
+          <subsection eId="12_350__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>reasonable expenses of administration, including those relating to property transferred other than by will or laws relating to intestate estates, except as provided in section12-351;</p>
+            </content>
+          </subsection>
+          <subsection eId="12_350__subsec_j">
+            <num>(j)</num>
+            <content>
+              <p>in the case of a transfer other than by will, liens subject to which the transfer is made, unpaid expenses of administering a trust prior to death, which trust is taxable under the provisions of this chapter, and expenses of terminating such trust if it terminates on the death of the transferor;</p>
+            </content>
+          </subsection>
+          <subsection eId="12_350__subsec_k">
+            <num>(k)</num>
+            <content>
+              <p>any amount exempted pursuant to subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_350__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of section12-344. The foregoing deductions shall be allowed in the case of property transferred by will and by laws relating to intestate estates, provided they reduce the gross taxable estate. In the case of property transferred other than by will or by laws relating to intestate estates, such deductions shall be allowed</p>
+            </content>
+            <paragraph eId="12_350__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>only to the extent that such property is includable in the decedent's gross taxable estate under the provisions of this chapter, and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_350__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>only to the extent that the transferee has actually paid the deductible items and either the transferee was legally obligated to pay such items or the assets subject to probate are insufficient to pay such items.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

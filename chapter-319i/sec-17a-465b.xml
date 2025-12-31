@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-465b"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-465b"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17a-465b"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-465b/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-465b/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-465b/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-465b/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319i">
+        <num>319i</num>
+        <heading>Connecticut HUSKY Plan</heading>
+        <section eId="sec_17a_465b">
+          <num>17a-465b</num>
+          <heading>Filing of missing person report concerning person missing from inpatient facility</heading>
+          <subsection eId="17a_465b__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of section29-1f. Notwithstanding the provisions of sections52-146cand52-146e, the Commissioner of Mental Health and Addiction Services may authorize an employee of the department who is certified under the provisions of sections7-294ato7-294e, inclusive, to file a missing person report with the Department of Emergency Services and Public Protection under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_465b__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of section29-1fwith respect to such person. Such report shall disclose only the minimal amount of information concerning such person as is necessary for purposes of the assistance provided under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_465b__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of section29-1f.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

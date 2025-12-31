@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-408g"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-408g"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-408g"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-408g/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-408g/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-408g/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-408g/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_219">
+        <num>219</num>
+        <heading>Motor Vehicle Fuels Tax</heading>
+        <section eId="sec_12_408g">
+          <num>12-408g</num>
+          <heading>Limitation on marketplace facilitator and marketplace seller liability for taxable sales occurring on or after December 1, 2018, but on or before December 31, 2019</heading>
+          <subsection eId="12_408g__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>As used in this section, “marketplace facilitator” and “marketplace seller” have the same meanings as provided in section12-408e.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_408g__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>For a taxable sale occurring on or after December 1, 2018, but on or before December 31, 2019, if a marketplace facilitator incurs liability for failure to collect the tax due under this chapter on a taxable sale, the commissioner shall limit such liability in accordance with the provisions of subdivision</p>
+            </content>
+            <paragraph eId="12_408g__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_408g__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of this section if such facilitator can show to the satisfaction of the Commissioner of Revenue Services that</p>
+            </content>
+            <paragraph eId="12_408g__subsec_c__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>such facilitator and the marketplace seller are not affiliated persons, as described in subparagraph (C) of subdivision</p>
+              </content>
+              <subparagraph eId="12_408g__subsec_c__subsec_1__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>of subdivision</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_408g__subsec_c__subsec_15">
+              <num>(15)</num>
+              <content>
+                <p>of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_408g__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of section12-407,</p>
+            </content>
+            <paragraph eId="12_408g__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>the failure to collect sales tax due was not due to an error in sourcing the sale, and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_408g__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>such sale occurred on or before December 31, 2019. The commissioner shall prescribe the form and manner in which a marketplace facilitator may request the relief in this subsection.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_408g__subsec_c">
+            <num>(c)</num>
+            <paragraph eId="12_408g__subsec_c__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>The commissioner shall limit the liability of a marketplace facilitator who the commissioner deems to have satisfied the provisions of subdivisions</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_408g__subsec_c__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>to</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_408g__subsec_c__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>, inclusive, of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_408g__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section by reducing the total amount of tax due under this chapter on taxable sales facilitated by such facilitator and sourced to this state by five per cent, reducing the interest due by a corresponding amount and waiving any associated penalties.</p>
+            </content>
+            <paragraph eId="12_408g__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>The commissioner may limit the liability of a marketplace seller who incurs liability for tax due under this chapter on a taxable sale that was made through a marketplace facilitator to the same extent as provided under subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_408g__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>of this subsection, provided the commissioner deems the provisions of subdivisions</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_408g__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>to</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_408g__subsec_b__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>, inclusive, of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_408g__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section to be satisfied.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

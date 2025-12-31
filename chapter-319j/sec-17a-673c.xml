@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-673c"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-673c"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17a-673c"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-673c/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-673c/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-673c/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-673c/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319j">
+        <num>319j</num>
+        <heading>Health Care For Uninsured Children</heading>
+        <section eId="sec_17a_673c">
+          <num>17a-673c</num>
+          <heading>Pilot program to prevent drug overdoses. Establishment of harm reduction centers in three municipalities. Funding</heading>
+          <subsection eId="17a_673c__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>As used in this section:</p>
+            </content>
+            <paragraph eId="17a_673c__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>“Harm reduction center” means a medical facility where a person with a substance use disorder may (A) receive substance use disorder and other mental health counseling, (B) use a test strip to test a substance for traces of fentanyl or xylazine, or traces of any other substance recognized by the Commissioner of Mental Health and Addiction Services as having a high risk of causing an overdose, (C) receive educational information regarding opioid antagonists, as defined in section17a-714a, and the risks of contracting diseases from sharing hypodermic needles, (D) receive referrals to substance use disorder treatment services, and (E) receive access to basic support services, including, but not limited to, laundry machines, a bathroom, a shower and a place to rest; and</p>
+              </content>
+              <subparagraph eId="17a_673c__subsec_a__subsec_1__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>receive substance use disorder and other mental health counseling,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17a_673c__subsec_a__subsec_1__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>use a test strip to test a substance for traces of fentanyl or xylazine, or traces of any other substance recognized by the Commissioner of Mental Health and Addiction Services as having a high risk of causing an overdose,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17a_673c__subsec_a__subsec_1__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>receive educational information regarding opioid antagonists, as defined in section17a-714a, and the risks of contracting diseases from sharing hypodermic needles,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17a_673c__subsec_a__subsec_1__subsec_D">
+                <num>(D)</num>
+                <content>
+                  <p>receive referrals to substance use disorder treatment services, and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17a_673c__subsec_a__subsec_1__subsec_E">
+                <num>(E)</num>
+                <content>
+                  <p>receive access to basic support services, including, but not limited to, laundry machines, a bathroom, a shower and a place to rest; and</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="17a_673c__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>“Test strip” means a product that a person may use to test any substance prior to injection, inhalation or ingestion of the substance to prevent accidental overdose by injection, inhalation or ingestion of the substance.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17a_673c__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Not later than July 1, 2027, the Department of Mental Health and Addiction Services, in consultation with the Department of Public Health, shall establish a pilot program to prevent drug overdoses through the establishment of harm reduction centers in three municipalities in the state selected by the Commissioner of Mental Health and Addiction Services, subject to the approval of the chief elected officials of each municipality selected by said commissioner. No harm reduction center established pursuant to this subsection shall be subject to regulation by the Department of Public Health until the termination of the pilot program.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_673c__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Each harm reduction center established pursuant to subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_673c__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section shall</p>
+            </content>
+            <paragraph eId="17a_673c__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>employ persons, including, but not limited to, licensed health care providers with experience treating persons with substance use disorders to provide substance use disorder or other mental health counseling and monitor persons utilizing the harm reduction center for the purpose of providing medical treatment to any person who experiences symptoms of an overdose, in a number determined sufficient by the Commissioner of Mental Health and Addiction Services,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_673c__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>provide persons with test strips at the request of such persons, and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_673c__subsec_b__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>provide referrals for substance use disorder or other mental health counseling or other mental health or medical treatment services that may be appropriate for persons utilizing the harm reduction center. A licensed health care provider's participation in the pilot program shall not be grounds for disciplinary action by the Department of Public Health pursuant to section19a-17or by any board or commission listed in subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17a_673c__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of section19a-14.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_673c__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>The Commissioner of Mental Health and Addiction Services may request a disbursement of funds from the Opioid Settlement Fund established pursuant to section17a-674c, in whole or in part, for the establishment and administration of the pilot program.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

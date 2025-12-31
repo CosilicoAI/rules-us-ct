@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-35i"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-35i"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-35i"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-35i/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-35i/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-35i/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-35i/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_202">
+        <num>202</num>
+        <heading>Collection of State Taxes</heading>
+        <section eId="sec_12_35i">
+          <num>12-35i</num>
+          <heading>Tax amnesty program for unpaid taxes for periods ending November 30, 2012</heading>
+          <subsection eId="12_35i__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>As used in this section:</p>
+            </content>
+            <paragraph eId="12_35i__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>“Person” means person, as defined in section12-1;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_35i__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>“Affected taxable period” means any taxable period ending on or before November 30, 2012;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_35i__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>“Affected person” means a person owing any tax for an affected taxable period;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_35i__subsec_a__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>“Tax” means any tax imposed by any law of this state and required to be collected by the department, other than the tax imposed under chapter 222 on any licensee, as defined in subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_35i__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_35i__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of section12-486;</p>
+            </content>
+            <paragraph eId="12_35i__subsec_c__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>“Commissioner” means the Commissioner of Revenue Services; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_35i__subsec_c__subsec_6">
+              <num>(6)</num>
+              <content>
+                <p>“Department” means the Department of Revenue Services.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_35i__subsec_b">
+            <num>(b)</num>
+            <paragraph eId="12_35i__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>The commissioner shall establish a tax amnesty program for persons owing any tax for any affected taxable period. The tax amnesty program shall be conducted during the period from September 16, 2013, to November 15, 2013, inclusive.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_35i__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>An amnesty application shall be prepared by the commissioner that shall provide for specification by the affected person of the tax and the affected taxable period for which amnesty is being sought under the tax amnesty program. The commissioner, at his or her discretion, may require that such amnesty applications be filed electronically.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_35i__subsec_b__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>The tax amnesty program shall provide that, upon the filing of an amnesty application by an affected person and payment by such person of the tax and interest due from such person for an affected taxable period, the commissioner shall not seek to collect any civil penalties that may be applicable and shall not seek criminal prosecution for any affected person for an affected taxable period for which amnesty has been granted. Amnesty shall be granted only to those affected persons who have applied for amnesty during the tax amnesty period and who have paid the tax and interest determined by the commissioner to be due upon filing the amnesty application.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_35i__subsec_b__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>An amnesty application, if filed by an affected person and if granted by the commissioner, shall constitute an express and absolute relinquishment by the affected person of all of the affected person's administrative and judicial rights of appeal that have not run or otherwise expired as of the date payment is made for an affected taxable period, and no payment made by an affected person pursuant to this section for an affected taxable period shall be refunded or credited to such person. The commissioner shall not consider any request to exercise the authority granted to the commissioner under section12-39sin connection with any amnesty application granted by the commissioner.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_35i__subsec_b__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>If an affected person who has filed an amnesty application during the tax amnesty program fails to pay all amounts due to this state for an affected taxable period, any amnesty granted pursuant to this section shall be invalid.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_35i__subsec_b__subsec_6">
+              <num>(6)</num>
+              <content>
+                <p>No waiver of penalty or reduction of interest granted pursuant to this section shall entitle any affected person to a refund or credit of any amount previously paid.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_35i__subsec_b__subsec_7">
+              <num>(7)</num>
+              <content>
+                <p>In the case of tax due for an affected taxable period, interest shall be computed at the rate of one per cent per month or fraction thereof from the date such tax was originally due to the date of payment, except if the tax and interest are paid in full on or before November 15, 2013, the interest shall be equal to one-fourth of the interest that the department's records show to be due and payable as of the date of filing of the amnesty application for an affected taxable period.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_35i__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Amnesty shall not be granted pursuant to subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_35i__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section to any affected person who</p>
+            </content>
+            <paragraph eId="12_35i__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>is a party to any criminal investigation or to any criminal litigation that is pending on July 1, 2013, in any court of the United States or this state,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_35i__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>is a party to a closing agreement with the commissioner,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_35i__subsec_b__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>has made an offer of compromise that has been accepted by the commissioner, or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_35i__subsec_b__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>is a party to a managed audit agreement.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_35i__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Any person owing any tax for an affected taxable period for which a tax return was required by law to be filed with the commissioner and for which no return has been previously filed by such person, and such person fails to file a timely amnesty application under this section with respect to such affected taxable period shall be subject to a penalty equal to twenty-five per cent of the tax owed for such affected taxable period. The amount of such penalty shall not be subject to waiver.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_35i__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>Notwithstanding any provision of the general statutes, the commissioner may do all things necessary to provide for the timely implementation of this section.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

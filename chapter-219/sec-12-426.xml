@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-426"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-426"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-426"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-426/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-426/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-426/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-426/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_219">
+        <num>219</num>
+        <heading>Motor Vehicle Fuels Tax</heading>
+        <section eId="sec_12_426">
+          <num>12-426</num>
+          <heading>Administration</heading>
+          <subsection eId="12_426__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of section12-407and every person storing, accepting, consuming or otherwise using in this state services or tangible personal property purchased from a retailer shall keep such records, receipts, invoices and other pertinent papers in such form as the commissioner requires.
+(B) In addition any records required pursuant to subparagraph (A) of this subdivision, each materialman collecting tax as allowed under the provisions of subparagraph (C) of subdivision</p>
+            </content>
+            <paragraph eId="12_426__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>of section12-408shall keep the following records with respect to each sale of building materials or services described in said subparagraph (C):</p>
+              </content>
+              <subparagraph eId="12_426__subsec_a__subsec_2__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>:</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_426__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>The date of such sale; (ii) proof that the sale meets the qualifications described in said subparagraph (C); (iii) the amount of credit, if any, extended by such materialman to such contractor, subcontractor or repairman for each such sale; (iv) the terms for payment of the purchase price or repayment of any such credit; and</p>
+            </content>
+          </subsection>
+          <subsection eId="12_426__subsec_v">
+            <num>(v)</num>
+            <content>
+              <p>the date or dates on which such purchase price is paid or such credit is repaid, in whole or in part, and the amount of each such payment or repayment. Such records shall be kept for a period of three years from the date the tax on each such sale is paid to the commissioner in full, provided the commissioner may consent to their destruction within that period or may require that they be kept longer.</p>
+            </content>
+            <paragraph eId="12_426__subsec_v__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>Examination of records.The commissioner or any person authorized by the commissioner may examine the books, papers, records and equipment of any person selling services or tangible personal property and any person liable for the use tax, and may investigate the character of the business of the person to verify the accuracy of any return made or, if no return is made by the person, to ascertain and determine the amount required to be paid.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_426__subsec_v__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>Reports relative to use tax liability.In administration of the use tax the commissioner may require the filing of information reports by any person or class of persons having in the person's or persons' possession or custody information relating to sales of services or tangible personal property the storage, acceptance, consumption or other use of which is subject to the tax. Such reports shall be filed when the commissioner requires and shall set forth the names and addresses of purchasers of the services or tangible personal property, the sales price of the services or property, the date of sale and such other information as the commissioner may require.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_426__subsec_v__subsec_6">
+              <num>(6)</num>
+              <content>
+                <p>Divulging of information forbidden.Repealed by P.A. 82-67, S. 4.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

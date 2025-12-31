@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-439"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-439"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-439"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-439/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-439/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-439/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-439/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_220">
+        <num>220</num>
+        <heading>Controlled Substances Tax</heading>
+        <section eId="sec_12_439">
+          <num>12-439</num>
+          <heading>Payment of tax. Penalties for nonpayment</heading>
+          <subsection eId="12_439__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The tax imposed by this chapter shall be due and payable on the last day on which a return may be filed without penalty under sections12-437and12-438. Upon the filing of such return, the taxpayer shall forward to the commissioner the amount shown by such return to be due the state. If any person fails to pay such amount within the time required, there shall be imposed a penalty equal to ten per cent of such amount of tax due and unpaid or fifty dollars, whichever is greater. The tax shall bear interest at the rate of one per cent per month or fraction thereof, from the due date of such tax to the date of payment. If no return has been filed within three months after the time specified under the provisions of this chapter, the commissioner may make such return at any time thereafter, according to the best information obtainable and form prescribed. There shall be added to the tax imposed upon the basis of such return, an amount equal to ten per cent of such tax, or fifty dollars, whichever is greater. The tax shall bear interest at the rate of one per cent per month or fraction thereof from the due date of such tax to the date of payment. Subject to the provisions of section12-3a, the commissioner may waive all or part of the penalties provided under this chapter when it is proven to his satisfaction that the failure to pay any tax was due to reasonable cause and was not intentional or due to neglect.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_439__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Payment of any tax hereunder may be made by bank draft, check or money order, or in such other form or manner as suits the convenience of the taxpayer, provided no payment shall operate to discharge any taxpayer from liability for any tax imposed by this chapter except to the extent to which such payment is made in lawful money of the United States or in a form that in regular course of business can be converted thereinto. In the case of any invalid payment, every recourse of the state for the collection of the amount of such tax, as herein authorized, shall continue to be available, and further penalties shall accrue as though such invalid payment had not been made, and the commissioner may thereafter determine the manner of making subsequent payments by the taxpayer concerned. The commissioner shall issue his receipt to any taxpayer for any payment upon request. He shall deposit daily all receipts with the State Treasurer. Such deposit shall operate as a full discharge of the commissioner of all liability therefor.
+See Sec. 4-32 re state revenue accounting procedure.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

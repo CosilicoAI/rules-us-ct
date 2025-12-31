@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-280a"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-280a"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17b-280a"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-280a/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-280a/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-280a/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-280a/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319v">
+        <num>319v</num>
+        <heading>Temporary Assistance for Needy Families</heading>
+        <section eId="sec_17b_280a">
+          <num>17b-280a</num>
+          <heading>Payment for over-the-counter medications under medical assistance program. Exceptions</heading>
+          <content>
+            <p>Sec. 17b-280a. Payment for over-the-counter medications under medical assistance program. Exceptions.No payment shall be made under a medical assistance program administered by the Department of Social Services for over-the-counter medications, except for (1) insulin and insulin syringes, (2) nutritional supplements for individuals who are required to be tube fed or who cannot safely ingest nutrition in any other form, and as may be required by federal law, (3) smoking cessation medications as provided in section17b-278a, (4) over-the-counter medications and products determined by the Commissioner of Social Services to be appropriate for coverage based on their clinical efficacy, safety and cost effectiveness, and (5) over-the-counter medications that are required to be covered pursuant to 42 CFR 440.347, including medications for individuals with specified diagnoses that have a rating of “A” or “B” in the current recommendations of the United States Preventive Services Task Force, provided the Department of Social Services may also pay for such over-the-counter medications under a medical assistance program or portion thereof that is not subject to 42 CFR 440.347.
+See Sec. 17b-10a re implementation of policies and procedures while in the process of adopting as regulation.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

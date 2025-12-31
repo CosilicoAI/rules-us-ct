@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-581"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-581"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17a-581"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-581/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-581/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-581/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-581/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319i">
+        <num>319i</num>
+        <heading>Connecticut HUSKY Plan</heading>
+        <section eId="sec_17a_581">
+          <num>17a-581</num>
+          <heading>(Formerly Sec. 17-257b). Psychiatric Security Review Board. Membership. Meetings. Regulations</heading>
+          <subsection eId="17a_581__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>There is hereby established a Psychiatric Security Review Board which shall be an autonomous body within the Department of Mental Health and Addiction Services for administrative purposes only. The board shall consist of six members who shall serve for a term of four years and shall be appointed by the Governor with the advice and consent of either house of the General Assembly, except that of the members first appointed to the board:</p>
+            </content>
+            <paragraph eId="17a_581__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>One shall serve for a term ending June 30, 1987;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_581__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>two shall serve for terms ending June 30, 1988;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_581__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>two shall serve for terms ending June 30, 1989; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_581__subsec_a__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>one appointed pursuant to subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_581__subsec_a__subsec_6">
+              <num>(6)</num>
+              <content>
+                <p>of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17a_581__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section shall serve for a term ending June 30, 1999.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_581__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The membership shall be composed of:</p>
+            </content>
+            <paragraph eId="17a_581__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>A psychiatrist experienced with the criminal justice system and not otherwise employed on a permanent basis by the state, except that a psychiatrist employed by The University of Connecticut Health Center who is not responsible for the administration of or treatment decisions for persons under the jurisdiction of the Psychiatric Security Review Board shall be eligible for membership under this subdivision;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_581__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>a psychologist experienced with the criminal justice system and not otherwise employed on a permanent basis by the state, except that a psychologist employed by The University of Connecticut Health Center who is not responsible for the administration of or treatment decisions for persons under the jurisdiction of the Psychiatric Security Review Board shall be eligible for membership under this subdivision;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_581__subsec_b__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>a person with substantial experience in the process of probation;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_581__subsec_b__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>a member of the general public;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_581__subsec_b__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>an attorney who is a member of the bar of this state; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_581__subsec_b__subsec_6">
+              <num>(6)</num>
+              <content>
+                <p>a member of the general public with substantial experience in victim advocacy.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17a_581__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>No employee of the Division of Criminal Justice or the Public Defender Services Commission shall be a member of the board.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_581__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>The Governor at any time may remove any member for inefficiency, neglect of duty or malfeasance in office.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_581__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>A member of the board not otherwise employed full-time by the state shall be paid seventy-five dollars for each day during which the member is engaged in the performance of official duties. In addition, subject to sections4-15and5-141cregulating travel and other expenses of state officers and employees, the member shall be reimbursed for actual and necessary travel and other expenses incurred in the performance of official duties.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_581__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>Subject to any applicable provision of sections5-193to5-268, inclusive, the board may hire employees to assist in the performance of its duties under sections17a-580to17a-602, inclusive.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_581__subsec_g">
+            <num>(g)</num>
+            <heading>A majority of the members of the board constitutes a quorum for the transaction of business</heading>
+            <content>
+              <p>Hearings shall be held before members of the board.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_581__subsec_h">
+            <num>(h)</num>
+            <content>
+              <p>The board shall meet at least twice every month, unless the chairman determines that there is not sufficient business before the board to warrant a meeting at the scheduled time. The board shall also meet at other times and places specified by the call of the chairman or of a majority of the members of the board.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_581__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>No member of the board shall be personally liable for damage or injury caused in the discharge of his duties. Any person having a complaint for such damage or injury shall present it as a claim against the state under the provisions of chapter 53.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_581__subsec_j">
+            <num>(j)</num>
+            <content>
+              <p>The board may adopt in accordance with chapter 54 such regulations as may be necessary to carry out the purposes of sections17a-580to17a-602, inclusive.
+See Sec. 4-38f for definition of “administrative purposes only”.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

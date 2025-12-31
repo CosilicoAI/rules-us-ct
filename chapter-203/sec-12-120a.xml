@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-120a"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-120a"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-120a"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-120a/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-120a/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-120a/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-120a/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_203">
+        <num>203</num>
+        <heading>Property Tax Assessment</heading>
+        <section eId="sec_12_120a">
+          <num>12-120a</num>
+          <heading>Annual report from Office of Policy and Management to General Assembly committee on finance, revenue and bonding concerning real and personal property tax data for towns in the state</heading>
+          <subsection eId="12_120a__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Passenger, (ii) commercial, (iii) combination, (iv) farm, and</p>
+            </content>
+          </subsection>
+          <subsection eId="12_120a__subsec_v">
+            <num>(v)</num>
+            <content>
+              <p>any other classification; (B) for purposes of taxable vehicles which are not registered and mobile manufactured homes, such report shall include the total number of such vehicles and mobile manufactured homes and the total assessed value for each such category; (C) for purposes of all other taxable personal property, such report shall include the total value of each category of such property as contained in the tax list required pursuant to sections12-41and12-43.</p>
+            </content>
+            <paragraph eId="12_120a__subsec_v__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>Tax-exempt property with no state reimbursement for tax loss to towns.For purposes of exemptions from property tax with respect to which there is no state reimbursement, such report shall include the total number of such exempt properties by the exemption categories and property types deemed appropriate by the secretary, and the total assessed value of such exempt property.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_120a__subsec_v__subsec_6">
+              <num>(6)</num>
+              <content>
+                <p>Tax-exempt property with state reimbursement for tax loss.For purposes of exemptions from property tax with respect to which annual reimbursement is provided by the state, such report shall include the total assessed value of such exempt property, by the exemption categories and property types deemed appropriate by the secretary.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_120a__subsec_v__subsec_7">
+              <num>(7)</num>
+              <content>
+                <p>Exemption from property tax subject to state reimbursement.For purposes of exemptions from or reductions in property tax for certain individuals, with respect to which state reimbursement is applicable, such report shall include (A) the total number of individuals and the total amounts of each such exemption or reduction in the case of such benefits not subject to income requirements, and (B) in the case of such benefits subject to income requirements, such total number of individuals and total amounts of exemption or reduction the total assessed value of such exempt property, by the exemption categories and property types deemed appropriate by the secretary.</p>
+              </content>
+              <subparagraph eId="12_120a__subsec_v__subsec_7__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>the total number of individuals and the total amounts of each such exemption or reduction in the case of such benefits not subject to income requirements, and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_120a__subsec_v__subsec_7__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>in the case of such benefits subject to income requirements, such total number of individuals and total amounts of exemption or reduction the total assessed value of such exempt property, by the exemption categories and property types deemed appropriate by the secretary.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_120a__subsec_v__subsec_8">
+              <num>(8)</num>
+              <content>
+                <p>Exemption from property tax for certain individuals with no state reimbursement.For purposes of exemption from property tax for certain individuals, with respect to which there is no state reimbursement, such report shall include the total number of individuals and the total value of each of the following exemptions: (A) Exemptions related to veterans under subdivisions</p>
+              </content>
+              <subparagraph eId="12_120a__subsec_v__subsec_8__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>Exemptions related to veterans under subdivisions</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_120a__subsec_v__subsec_19">
+              <num>(19)</num>
+              <content>
+                <p>to</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_120a__subsec_v__subsec_26">
+              <num>(26)</num>
+              <content>
+                <p>, inclusive, of section12-81, and (B) exemption for blind persons under subdivision</p>
+              </content>
+              <subparagraph eId="12_120a__subsec_v__subsec_26__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>exemption for blind persons under subdivision</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_120a__subsec_v__subsec_17">
+              <num>(17)</num>
+              <content>
+                <p>of said section.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

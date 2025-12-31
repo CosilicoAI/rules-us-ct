@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-374"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-374"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-374"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-374/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-374/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-374/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-374/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_216">
+        <num>216</num>
+        <heading>Sales and Use Taxes</heading>
+        <section eId="sec_12_374">
+          <num>12-374</num>
+          <heading>Determination of domicile by arbitration</heading>
+          <content>
+            <p>Sec. 12-374. Determination of domicile by arbitration.A board of arbitration selected pursuant to an agreement of arbitration made under section12-372shall hold hearings at such times and places as it may determine, upon reasonable notice to the parties to the agreement, all of whom shall be entitled to be heard, to present evidence and to examine and cross-examine witnesses. The board may administer oaths, take testimony, subpoena and require the attendance of witnesses and the production of books, papers and documents, and issue commissions to take testimony. Subpoenas may be issued by any member of the board. In case of failure to obey a subpoena, any judge of the Superior Court, upon application by the board, may make an order requiring compliance with the subpoena, and the court may punish for failure to obey the order as for contempt. The board shall determine the domicile of the decedent at the time of his death. This determination shall be final for purposes of imposing and collecting death taxes, but for no other purpose. Except in respect of the issuance of subpoenas, all questions arising in the course of the proceeding shall be determined by majority vote of the board. The Commissioner of Revenue Services, the board or the executor or administrator shall file the determination of the board as to domicile, the record of the board's proceedings, and the agreement, or a duplicate, made pursuant to section12-372, with the authority having jurisdiction to determine the death taxes in the state determined to be the domicile and shall file copies of all such documents with the authorities that would have been empowered to determine the death taxes in each of the other states involved. In any case where it is determined by the board that the decedent died domiciled in this state, interest and penalties, if otherwise imposed by law, for nonpayment of death taxes shall not be charged for the period between the date of the agreement and the date of the filing of the determination of the board as to domicile. Nothing contained herein shall prevent at any time a written compromise, if otherwise lawful, by all parties to the agreement made pursuant to section12-372, fixing the amounts to be accepted by this and any other state involved in full satisfaction of death taxes. The compensation and expenses of the members of the board may be agreed upon among such members and the executor or administrator and, if they cannot agree, shall be fixed by the probate court of the state determined by the board to be the domicile of the decedent. The amounts so agreed upon or fixed shall be deemed an administration expense and shall be payable by the executor or administrator.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)
+PART IV
+PAYMENT OF TAXES</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

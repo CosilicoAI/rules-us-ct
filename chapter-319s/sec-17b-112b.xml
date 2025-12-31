@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-112b"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-112b"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17b-112b"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-112b/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-112b/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-112b/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-112b/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319s">
+        <num>319s</num>
+        <heading>Connecticut Partnership for Long-Term Care</heading>
+        <section eId="sec_17b_112b">
+          <num>17b-112b</num>
+          <heading>Exemptions and extensions for applicants and recipients of temporary family assistance who are victims of domestic violence. Standards and procedures. Regulations</heading>
+          <subsection eId="17b_112b__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>An applicant or recipient who is a past or present victim of domestic violence or at risk of further domestic violence, pursuant to subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_112b__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of section17b-112a, shall, for good cause:</p>
+            </content>
+            <paragraph eId="17b_112b__subsec_c__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>Be excused from failing to participate in a work activity; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_112b__subsec_c__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>be exempted from child support enforcement requirements pursuant to subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_112b__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>of section17b-112. Such an applicant or recipient may, for good cause, be granted an extension of cash assistance beyond thirty-six months, provided the domestic violence experienced is of sufficient magnitude to reasonably render the individual unable to obtain or maintain employment.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_112b__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Such standards and procedures for the determination of good cause shall include, but not be limited to, the following provisions:</p>
+            </content>
+            <paragraph eId="17b_112b__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>A finding of good cause for failure to participate in a work activity shall be made if (A) the applicant or recipient has physical injuries caused by abuse or psychological effects of abuse prohibiting such applicant or recipient to work, (B) a work activity is disrupted due to domestic violence, including civil or criminal legal proceedings related to such domestic violence, (C) the abuser actively interferes with the applicant's or recipient's work activity, attendance at work activity or child care arrangements, or (D) a work activity location puts the applicant or recipient at risk of further domestic violence;</p>
+              </content>
+              <subparagraph eId="17b_112b__subsec_b__subsec_1__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>the applicant or recipient has physical injuries caused by abuse or psychological effects of abuse prohibiting such applicant or recipient to work,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17b_112b__subsec_b__subsec_1__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>a work activity is disrupted due to domestic violence, including civil or criminal legal proceedings related to such domestic violence,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17b_112b__subsec_b__subsec_1__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>the abuser actively interferes with the applicant's or recipient's work activity, attendance at work activity or child care arrangements, or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17b_112b__subsec_b__subsec_1__subsec_D">
+                <num>(D)</num>
+                <content>
+                  <p>a work activity location puts the applicant or recipient at risk of further domestic violence;</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="17b_112b__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>The commissioner shall find good cause whenever mandatory work activity or child support enforcement requirements would result in the inability or increased difficulty of an applicant or recipient to escape or prevent domestic violence;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_112b__subsec_b__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>The finding of good cause shall not prohibit such applicant or recipient from voluntary participation in any work activity;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_112b__subsec_b__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>A written, confidential procedure for the transmittal of the denial of a request for a finding of good cause to an applicant or recipient; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_112b__subsec_b__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>Access to a fair hearing procedure if an applicant or recipient is denied a request for a finding of good cause.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_112b__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>An applicant or recipient may be required to seek an order of protection, attend counseling or take other actions to escape or prevent domestic violence, unless such an action would further the risk of continued or renewed violence.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_112b__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>The Commissioner of Social Services shall implement policies and procedures necessary for the determination of good cause for the purpose of this section while in the process of adopting such policies and procedures in regulation form, provided the commissioner prints notice of intention to adopt the regulations in the Connecticut Law Journal within twenty days of implementing such policies and procedures. Final regulations shall be submitted to the legislative regulation review committee no later than November 15, 1997. Policies and procedures implemented pursuant to this subsection shall be valid until the time final regulations are effective.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

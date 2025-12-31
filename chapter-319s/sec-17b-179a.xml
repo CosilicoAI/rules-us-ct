@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-179a"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-179a"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17b-179a"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-179a/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-179a/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-179a/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-179a/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319s">
+        <num>319s</num>
+        <heading>Connecticut Partnership for Long-Term Care</heading>
+        <section eId="sec_17b_179a">
+          <num>17b-179a</num>
+          <heading>Information sharing between Departments of Social Services and Revenue Services re assets and income of child support obligors</heading>
+          <subsection eId="17b_179a__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>On a quarterly basis, in IV-D support cases, as defined in subdivision</p>
+            </content>
+            <paragraph eId="17b_179a__subsec_a__subsec_13">
+              <num>(13)</num>
+              <content>
+                <p>of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_179a__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of section46b-231, the Department of Social Services shall compile a list of child support obligors who have no visible earnings and shall transmit such list to the Department of Revenue Services. The Commissioner of Revenue Services shall promptly identify any such individuals who have any reported assets or income and transmit to the Department of Social Services the name, address and Social Security number of such individuals together with information on reported assets or income available for such individuals.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_179a__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The Commissioner of Social Services and the Commissioner of Revenue Services shall enter into a purchase of service agreement which establishes procedures necessary for the administration of subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_179a__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

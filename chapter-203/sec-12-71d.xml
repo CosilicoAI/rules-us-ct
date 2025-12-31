@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-71d"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-71d"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-71d"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-71d/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-71d/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-71d/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-71d/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_203">
+        <num>203</num>
+        <heading>Property Tax Assessment</heading>
+        <section eId="sec_12_71d">
+          <num>12-71d</num>
+          <heading>Schedule of motor vehicle values. Guidelines for valuation of motor vehicles</heading>
+          <subsection eId="12_71d__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Prior to and including October 1, 2023, on or before the first day of October each year, the Secretary of the Office of Policy and Management shall recommend a schedule of motor vehicle values which shall be used by assessors in each municipality in determining the assessed value of motor vehicles for purposes of property taxation. For every vehicle not listed in the schedule the determination of the assessed value of any motor vehicle for purposes of the property tax assessment list in any municipality shall continue to be the responsibility of the assessor in such municipality, provided the legislative body of the municipality may, by resolution, approve any change in the assessor's method of valuing motor vehicles. Any appeal from the findings of assessors concerning motor vehicle values shall be made in accordance with provisions related to such appeals under this chapter. Such schedule of values shall include, to the extent that information for such purpose is available, the value for assessment purposes of any motor vehicle currently in use. The value for each motor vehicle as listed shall represent one hundred per cent of the average retail price applicable to such motor vehicle in this state as of the first day of October in such year as determined by said secretary in cooperation with the Connecticut Association of Assessing Officers.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_71d__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Not later than October 1, 2024, and annually thereafter, the Secretary of the Office of Policy and Management shall, in consultation with the Department of Motor Vehicles, establish guidelines for the valuation of motor vehicles, which shall be used by assessors in each municipality in determining the use of motor vehicles for purposes of property taxation. The value for each motor vehicle shall be determined by the schedule of depreciation described in subdivision</p>
+            </content>
+            <paragraph eId="12_71d__subsec_b__subsec_7">
+              <num>(7)</num>
+              <content>
+                <p>of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_71d__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of section12-63. The determination of the assessed value of any vehicle for which a manufacturer's suggested retail price cannot be obtained for purposes of the property tax assessment list in any municipality shall be the responsibility of the assessor in such municipality, in consultation with the Connecticut Association of Assessing Officers. Any appeal from the findings of assessors concerning motor vehicle values shall be made in accordance with provisions related to such appeals under this chapter.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

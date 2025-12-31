@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-430"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-430"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-430"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-430/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-430/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-430/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-430/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_219">
+        <num>219</num>
+        <heading>Motor Vehicle Fuels Tax</heading>
+        <section eId="sec_12_430">
+          <num>12-430</num>
+          <heading>Miscellaneous provisions</heading>
+          <subsection eId="12_430__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>“Nonresident contractor” means a contractor or subcontractor who does not maintain a regular place of business in this state;
+(ii) “Resident contractor” means a contractor or subcontractor who maintains a regular place of business in this state;
+(iii) “Verified contractor” means a nonresident contractor or subcontractor who (I) is registered for all applicable taxes with the department, (II) has filed all required tax returns with the department, (III) has no outstanding tax liabilities to the department, and (IV) is treated as a verified contractor by the commissioner pursuant to subparagraph (H) of this subdivision and whose status as such is verified by the commissioner pursuant to subparagraph (I) of this subdivision;
+(iv) “Unverified contractor” means a nonresident contractor or subcontractor who is not a verified contractor;</p>
+            </content>
+          </subsection>
+          <subsection eId="12_430__subsec_v">
+            <num>(v)</num>
+            <content>
+              <p>“Subcontractor” means a person who is engaged in contracting real property work and who contracts with a prime or general contractor to perform all or any part of the contract of the prime or general contractor, or who contracts with a subcontractor who has contracted to perform any part of the contract entered into by the prime or general contractor;
+(vi) “Prime or general contractor” includes (I) any person who contracts with the owner, lessee or other person having authority to enter into a contract involving the premises or property that is the subject matter of the contract, to perform services or furnish materials, or both, for the construction, alteration or improvement of any real property or project, or (II) any person who owns or leases real estate for the purpose of developing the real estate other than for his or her own occupancy, and who, in the development of the real estate, contracts, alters or makes improvements on it;
+(vii) “Regular place of business” means any bona fide office, factory, warehouse or other space in this state at which a contractor is doing business in its own name in a regular and systematic manner, and which place is continuously maintained, occupied and used by the contractor in carrying on its business through its employees regularly in attendance to carry on the contractor's business in the contractor's own name, except that “regular place of business” does not include a place of business for a statutory agent for service of process, or a temporary office or location used by the contractor only for the duration of the contract, whether or not at the site of construction, or an office maintained, occupied and used by a person affiliated with the contractor;
+(viii) “Contract price” means the total contract price, including deposits, amounts held as retainage, costs for any change orders or charges for add-ons;
+(ix) “Person doing business with an unverified contractor” does not include an owner or tenant of real property used exc</p>
+            </content>
+          </subsection>
+          <subsection eId="12_430__subsec_x">
+            <num>(x)</num>
+            <content>
+              <p>“Commissioner” means the Commissioner of Revenue Services;
+(xi) “Department” means the Department of Revenue Services; and
+(xii) “Certificate of compliance” means a certificate issued to an unverified subcontractor by the commissioner, exonerating such subcontractor from sales or use taxes owed by such subcontractor under this chapter and any income tax withholding owed by such subcontractor pursuant to chapter 229, but only to the extent that such taxes arise from the activities of such subcontractor on the project for which such certificate was required.
+(B) Any person doing business with a prime or general contractor who is an unverified contractor shall obtain proof that such contractor has posted with the commissioner a good and valid bond with a surety company authorized to do business in this state in an amount equal to five per cent of the contract price, to secure the payment of any sums due under this chapter either from such contractor or from any subcontractor who enters into a contract with such contractor or any subcontractor thereto to perform any part of the contract entered into by such contractor or subcontractor thereto.
+(C)</p>
+            </content>
+          </subsection>
+          <subsection eId="12_430__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Every prime or general contractor who is an unverified contractor shall post with the commissioner a good and valid bond with a surety company authorized to do business in this state in an amount equal to five per cent of the contract price, to secure the payment of any sums due under this chapter either from such contractor or from any subcontractor who enters into a contract with such contractor to perform any part of the contract entered into by such contractor. The commissioner shall release such contractor from its obligations under such bond if it has been established, to the commissioner's satisfaction, that such contractor has met the requirements of either clause (ii) or (iii) of this subparagraph.
+(ii) If a prime or general contractor who is an unverified contractor establishes, to the satisfaction of the commissioner by submitting such documentation, including any forms prescribed by the commissioner, as the commissioner deems necessary, that such contractor has paid all of the taxes that it owes in connection with the contract and that its subcontractors who are unverified contractors have paid all of the taxes that they owe in connection with the contract, the commissioner shall release such contractor from its obligations under the bond.
+(iii) (I) If a prime or general contractor who is an unverified contractor establishes, to the satisfaction of the commissioner by submitting such documentation, including any forms prescribed by the commissioner, as the commissioner deems necessary, that such contractor has paid all of the taxes that it owes in connection with the contract, has held back an amount equal to five per cent of the payments being made by such contractor in connection with the contract to its subcontractors who are unverified contractors, and has complied with the provisions of either subclause (V) or (VI) of this clause, as the case may be, the commissioner shall release such contractor from its obligations under the bond.
+(II) Every prime</p>
+            </content>
+          </subsection>
+          <subsection eId="12_430__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Every prime or general contractor who is either a resident contractor or a verified contractor and doing business with a subcontractor who is an unverified contractor shall hold back an amount equal to five per cent of such payments otherwise required to be made to such subcontractor until such subcontractor furnishes such contractor with a certificate of compliance, as described in this subparagraph, authorizing the full or partial release of the amount held back from such payments to such subcontractor. Such contractor shall provide written notice of the requirement to hold back to each subcontractor who is an unverified contractor not later than the time of commencement of work under the contract by such subcontractor.
+(ii) The amount required to be held back from a subcontractor who is an unverified contractor, when so held back, shall be held to be a special fund in trust for the state. No such subcontractor shall have any right of action against a prime or general contractor holding back under this subparagraph with respect to any amount held back in compliance with or intended compliance with this subparagraph.
+(iii) A subcontractor who is an unverified contractor shall, upon the completion of its work under the contract, request the commissioner, in writing, for the issuance of a certificate of compliance to such subcontractor. Such subcontractor shall submit, with such request, such documentation, including any forms prescribed by the commissioner, as the commissioner deems necessary. The commissioner shall, after receipt of such request and such required documentation, review the documentation in the context of generally accepted construction industry cost guidelines for the scope and type of construction project. Not later than one hundred twenty days after the receipt by the commissioner of the required documentation, the commissioner shall either issue a certificate of compliance authorizing the full or partial release of an amount held back from paymen</p>
+            </content>
+          </subsection>
+          <subsection eId="12_430__subsec_v">
+            <num>(v)</num>
+            <content>
+              <p>If the commissioner issues a certificate of compliance authorizing a partial release of the amount held back from a subcontractor who is an unverified contractor, the prime or general contractor holding back such amount shall pay over the released amount to such subcontractor and shall pay over the unreleased amount to the commissioner. When such contractor pays over to the commissioner an amount held back in accordance with this clause, such contractor shall not be liable for any claim of such subcontractor for such amount or for any claim of the commissioner for any taxes of such subcontractor arising from the activities of such subcontractor on the project for which the amount was paid over. If the amount that such contractor is required to pay over to the commissioner is not paid over on or before the thirtieth day after the date of mailing of such certificate of compliance, such contractor shall be liable for a penalty equal to ten per cent of such amount. The amount that such contractor is required to pay over to the commissioner, and the penalty thereon, may be collected under the provisions of section12-35.
+(vi) The commissioner shall treat the issuance to a subcontractor who is an unverified contractor of a certificate of compliance authorizing a partial release of an amount held back in the same manner as the issuance to such subcontractor of a notice of assessment or reassessment under section12-415.
+(vii) The issuance to a subcontractor who is an unverified contractor of a certificate of compliance shall not preclude the commissioner, in the exercise of the commissioner's authority under this chapter, from examining the tax returns and books and records of such subcontractor and, if appropriate and other than in connection with the project for which the certificate of compliance was issued, from making an assessment or reassessment against such subcontractor.
+(E) When a nonresident contractor enters into a contract with the state, such contractor shall p</p>
+            </content>
+          </subsection>
+          <subsection eId="12_430__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>If any person doing business with an unverified prime or general contractor fails to comply with the provisions of this subdivision, such person shall, except as otherwise provided by clause (ii) of this subparagraph, be personally liable for payment of any taxes of the unverified contractor arising from the activities of such contractor on the project. For purposes of this clause, “taxes of the unverified contractor” means any sales or use taxes owed by the unverified contractor under this chapter and any income tax withholding owed by the unverified contractor pursuant to chapter 229.
+(ii) Except as otherwise provided in clause (iii) of this subparagraph, the personal liability of any person doing business with an unverified prime or general contractor for payment of any taxes of such unverified contractor arising from the activities of such contractor on the project shall not exceed an amount equal to five per cent of the contract price required to be paid to such unverified contractor.
+(iii) Notwithstanding the provisions of clause (ii) of this subparagraph, any person doing business with an unverified prime or general contractor shall, in addition to such person's personal liability under clause (ii) of this subparagraph, remain liable for use taxes due on purchases of services from such unverified contractor in connection with the project.
+(G) The provisions of this subdivision shall not apply to any contract in which the contract price for the entire project is less than two hundred fifty thousand dollars.
+(H)</p>
+            </content>
+          </subsection>
+          <subsection eId="12_430__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>The commissioner shall treat as a verified contractor or subcontractor every nonresident contractor or subcontractor who (I) has been registered for all applicable taxes with the department for at least three years preceding the contract; and (II) has filed all required tax returns with the department and has no outstanding tax liabilities to the department.
+(ii) The commissioner shall treat as a verified contractor or subcontractor every nonresident contractor or subcontractor not otherwise eligible to be treated as a verified contractor or subcontractor pursuant to clause</p>
+            </content>
+          </subsection>
+          <subsection eId="12_430__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>of this subparagraph who (I) is registered for all applicable taxes with the department; (II) has filed all required tax returns with the department and has no outstanding tax liabilities to the department; and (III) posts with the commissioner a good and valid bond with a surety company authorized to do business in this state in an amount determined by the commissioner, as provided in subdivision</p>
+            </content>
+            <paragraph eId="12_430__subsec_i__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>of this section.
+(I) Notwithstanding the provisions of section12-15, the commissioner shall, upon request, verify whether or not a nonresident contractor or subcontractor is a verified contractor.
+(J) Notwithstanding the provisions of section12-15, the commissioner shall, upon request, disclose to a person doing business with a subcontractor who is an unverified contractor and otherwise required by this subdivision to hold back an amount from payments being made to such subcontractor, whether a certificate of compliance has been requested by, or issued to, such subcontractor by the commissioner, and the commissioner may disclose a copy of such certificate to such person doing business with such subcontractor.
+(K) Notwithstanding the provisions of section12-15, the commissioner shall, upon request, disclose to a person doing business with a prime or general contractor who is an unverified contractor whether a good and valid bond with a surety company authorized to do business in this state has been posted with the commissioner by such prime or general contractor.
+(L) Notwithstanding the provisions of section12-15, the commissioner shall, upon request, verify whether or not any contractor or subcontractor is a resident contractor.</p>
+              </content>
+              <subparagraph eId="12_430__subsec_i__subsec_1__subsec_I">
+                <num>(I)</num>
+                <content>
+                  <p>Notwithstanding the provisions of section12-15, the commissioner shall, upon request, verify whether or not a nonresident contractor or subcontractor is a verified contractor.</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_430__subsec_i__subsec_1__subsec_J">
+                <num>(J)</num>
+                <content>
+                  <p>Notwithstanding the provisions of section12-15, the commissioner shall, upon request, disclose to a person doing business with a subcontractor who is an unverified contractor and otherwise required by this subdivision to hold back an amount from payments being made to such subcontractor, whether a certificate of compliance has been requested by, or issued to, such subcontractor by the commissioner, and the commissioner may disclose a copy of such certificate to such person doing business with such subcontractor.</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_430__subsec_i__subsec_1__subsec_K">
+                <num>(K)</num>
+                <content>
+                  <p>Notwithstanding the provisions of section12-15, the commissioner shall, upon request, disclose to a person doing business with a prime or general contractor who is an unverified contractor whether a good and valid bond with a surety company authorized to do business in this state has been posted with the commissioner by such prime or general contractor.</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_430__subsec_i__subsec_1__subsec_L">
+                <num>(L)</num>
+                <content>
+                  <p>Notwithstanding the provisions of section12-15, the commissioner shall, upon request, verify whether or not any contractor or subcontractor is a resident contractor.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_430__subsec_i__subsec_8">
+              <num>(8)</num>
+              <content>
+                <p>Procedure upon sale of stamped packages of cigarettes.(A) For purposes of this subdivision,</p>
+              </content>
+              <subparagraph eId="12_430__subsec_i__subsec_8__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>For purposes of this subdivision,</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_430__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>“stamped package of cigarettes” means a package of cigarettes to which Connecticut cigarette tax stamps, as prescribed by section12-298, have been affixed; (ii) “stamper” means a person who, under chapter 214, may lawfully purchase unstamped packages of cigarettes and who, before such packages are transferred out of such person's possession, is required to affix Connecticut cigarette tax stamps to such packages; (iii) “nonstamping distributor” means a distributor that is licensed under chapter 214, other than a stamper; and (iv) “licensed dealer” has the same meaning as provided in section12-285.
+(B)</p>
+            </content>
+          </subsection>
+          <subsection eId="12_430__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Notwithstanding any other provisions of this chapter, whenever a stamper sells stamped packages of cigarettes to a licensed dealer, every such sale by the stamper to the licensed dealer shall be treated as a retail sale, and not as a sale for resale. The stamper shall be subject to the tax imposed by this chapter on its gross receipts from such sales, and shall be required to collect reimbursement for said tax from the licensed dealer. The amount of the tax reimbursement required to be collected shall be separately stated on the stamper's invoice to the licensed dealer. The presentation of a valid resale certificate by a licensed dealer shall not relieve the stamper of its obligations under this subdivision. Except as otherwise provided in this subdivision, every stamper shall file the returns required by this chapter and shall pay the taxes imposed by this chapter in the same manner as other sellers.
+(ii) Whenever a licensed dealer purchases stamped packages of cigarettes from a stamper, the subsequent sale of such stamped packages of cigarettes by the licensed dealer shall be treated as a retail sale, and not as a sale for resale. The licensed dealer shall be subject to the tax imposed by this chapter on its gross receipts from such sales, and shall be required to collect reimbursement for said tax from each customer. The licensed dealer, in computing, for purposes of this chapter, its gross receipts and the sales price of stamped packages of cigarettes, shall not include the amount of the tax reimbursement required to be paid by the licensed dealer to the stamper pursuant to subparagraph (B)</p>
+            </content>
+          </subsection>
+          <subsection eId="12_430__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>of this subdivision. The licensed dealer shall be allowed a credit against the tax imposed by this chapter on its retail sales of stamped packages of cigarettes during a reporting period in an amount equal to the amount of tax reimbursement required to be paid by the licensed dealer to the stamper during the same reporting period pursuant to subparagraph (B)</p>
+            </content>
+          </subsection>
+          <subsection eId="12_430__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>of this subdivision.
+(C)</p>
+            </content>
+          </subsection>
+          <subsection eId="12_430__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Notwithstanding any other provisions of this chapter, whenever a stamper sells stamped packages of cigarettes to a nonstamping distributor, the subsequent sale of such stamped packages of cigarettes by the nonstamping distributor to a licensed dealer shall be treated as a retail sale, and not as a sale for resale. The nonstamping distributor shall be subject to the tax imposed by this chapter on its gross receipts from such sales, and shall be required to collect reimbursement for said tax from the licensed dealer. The amount of the tax reimbursement required to be collected shall be separately stated on the nonstamping distributor's invoice to the licensed dealer. The presentation of a valid resale certificate by a licensed dealer shall not relieve the nonstamping distributor of its obligations under this subdivision. Except as otherwise provided in this subdivision, every nonstamping distributor shall file the returns required by this chapter and shall pay the taxes imposed by this chapter in the same manner as other sellers.
+(ii) Whenever a licensed dealer purchases stamped packages of cigarettes from a nonstamping distributor, the subsequent sale of such stamped packages of cigarettes by the licensed dealer shall be treated as a retail sale, and not as a sale for resale. The licensed dealer shall be subject to the tax imposed by this chapter on its gross receipts from such sales, and shall be required to collect reimbursement for said tax from each customer. The licensed dealer, in computing, for purposes of this chapter, its gross receipts and the sales price of stamped packages of cigarettes, shall not include the amount of the tax reimbursement required to be paid by the licensed dealer to the nonstamping distributor pursuant to subparagraph (C)</p>
+            </content>
+          </subsection>
+          <subsection eId="12_430__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>of this subdivision. The licensed dealer shall be allowed a credit against the tax imposed by this chapter on its retail sales of stamped packages of cigarettes during a reporting period, in an amount equal to the amount of tax reimbursement required to be paid by the licensed dealer to the nonstamping distributor during the same reporting period pursuant to subparagraph (C)</p>
+            </content>
+          </subsection>
+          <subsection eId="12_430__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>of this subdivision.
+See Sec. 14-379 for definition of “snowmobile”.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

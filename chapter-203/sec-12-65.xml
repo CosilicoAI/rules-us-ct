@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-65"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-65"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-65"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-65/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-65/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-65/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-65/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_203">
+        <num>203</num>
+        <heading>Property Tax Assessment</heading>
+        <section eId="sec_12_65">
+          <num>12-65</num>
+          <heading>Agreements fixing assessments on multifamily housing</heading>
+          <subsection eId="12_65__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The real estate to be used for said housing project is in a redevelopment area, community development area or neighborhood strategy area, included</p>
+            </content>
+            <paragraph eId="12_65__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>in a redevelopment plan approved by a redevelopment agency pursuant to section8-127,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_65__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>in an urban renewal project authorized by a redevelopment agency pursuant to section8-141or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_65__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>in a community development plan approved by the municipality under sections8-169ato8-169j, inclusive;</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_65__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>the term of such agreement shall not exceed fifteen years from the date of the completion of the housing project or completion of rehabilitation of the housing project or sixteen years from the date of the agreement, whichever is the shorter period;</p>
+            </content>
+          </subsection>
+          <subsection eId="12_65__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>the assessment agreed on for the real estate plus future improvements shall not be less than the assessment as of the last regular assessment date of the real estate without such future improvements. If the municipality claims that the taxpayer is not complying with the terms of such agreement, the municipality may bring an action in the superior court of the judicial district in which the municipality is located to force compliance with such agreement; but a mortgagee may loan its money in reliance on such agreement and nothing herein contained shall be construed to permit the municipality to increase the assessment during the aforesaid period beyond the amount agreed on.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

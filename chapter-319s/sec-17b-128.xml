@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-128"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-128"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17b-128"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-128/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-128/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-128/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-128/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319s">
+        <num>319s</num>
+        <heading>Connecticut Partnership for Long-Term Care</heading>
+        <section eId="sec_17b_128">
+          <num>17b-128</num>
+          <heading>(Formerly Sec. 17-283). Reimbursement of towns or municipalities for relief. Recovery of overpayments</heading>
+          <subsection eId="17b_128__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Any person who receives relief from any town or municipality of this state shall be liable to reimburse such town or municipality for any moneys or relief received. Section52-576shall not be a bar to a recovery under this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_128__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Any town that overpays a person receiving financial assistance under sections17b-122,17b-124to17b-132, inclusive,17b-136to17b-138, inclusive,17b-194to17b-197, inclusive,17b-222to17b-250, inclusive,17b-263,17b-340to17b-350, inclusive,17b-689band17b-743to17b-747, inclusive, shall recover such overpayment from such person's ongoing assistance. The amount of such recovery shall not exceed ten per cent of such person's ongoing benefit in any month.
+See Sec. 17b-122 re reimbursement of town by pauper.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

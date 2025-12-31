@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-277c"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-277c"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17b-277c"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-277c/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-277c/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-277c/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-277c/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319v">
+        <num>319v</num>
+        <heading>Temporary Assistance for Needy Families</heading>
+        <section eId="sec_17b_277c">
+          <num>17b-277c</num>
+          <heading>Medicaid coverage for donor breast milk. Requirements. Regulations</heading>
+          <subsection eId="17b_277c__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The Commissioner of Social Services, to the extent permissible under federal law, shall provide Medicaid coverage for medically necessary pasteurized donor breast milk provided:</p>
+            </content>
+            <paragraph eId="17b_277c__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>A physician, physician's assistant or advanced practice registered nurse licensed pursuant to chapter 370 or 378 signs an order stating that such milk is medically necessary for an infant Medicaid beneficiary in accordance with section17b-259b; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_277c__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>(A) the infant is medically or physically unable to receive maternal breast milk or participate in breastfeeding, or (B) the infant's mother is medically or physically unable to produce maternal breast milk in sufficient quantities.</p>
+              </content>
+              <subparagraph eId="17b_277c__subsec_a__subsec_2__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>the infant is medically or physically unable to receive maternal breast milk or participate in breastfeeding, or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17b_277c__subsec_a__subsec_2__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>the infant's mother is medically or physically unable to produce maternal breast milk in sufficient quantities.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_277c__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The commissioner shall adopt or amend regulations to implement the provisions of this section, including, but not limited to, establishing infant birth weight and health conditions that may make the provision of pasteurized donor breast milk medically necessary and time limits for Medicaid coverage of pasteurized donor breast milk. The commissioner may adopt a policy or procedure to implement the provisions of this section while in the process of adopting regulations, provided such policy or procedure is posted on the Internet web site of the Department of Social Services and on the eRegulations System prior to adoption of the policy.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_277c__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The commissioner, if necessary, shall seek federal approval for a Medicaid waiver or state plan amendment to implement the provisions of this section in accordance with the provisions of section17b-8.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

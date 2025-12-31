@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-591"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-591"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17a-591"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-591/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-591/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-591/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-591/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319i">
+        <num>319i</num>
+        <heading>Connecticut HUSKY Plan</heading>
+        <section eId="sec_17a_591">
+          <num>17a-591</num>
+          <heading>(Formerly Sec. 17-257l). Modification of conditional release</heading>
+          <subsection eId="17a_591__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Any conditionally released acquittee or any person or agency responsible for the supervision or treatment of a conditionally released acquittee may apply to the board for the modification of the order of the conditional release of the acquittee. Any application for modification filed by a person or agency responsible for the supervision or treatment of a conditionally released acquittee shall be accompanied by a report setting forth the facts supporting the application. The board shall commence a hearing within sixty days of its receipt of the application. Not less than thirty days prior to such hearing, the board shall send copies of such application and report, if any, to the state's attorney and counsel for the acquittee. At the hearing, the board shall make a finding and act pursuant to section17a-584.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_591__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Unless the conditional release order has been summarily modified by the board or its chairman pursuant to subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_591__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of section17a-594, an application by an acquittee for modification of a conditional release order shall not be filed more often than once every six months from the date of the filing of the next preceding application for modification.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-217ee"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-217ee"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-217ee"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-217ee/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-217ee/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-217ee/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-217ee/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_208">
+        <num>208</num>
+        <heading>Estate Taxes</heading>
+        <section eId="sec_12_217ee">
+          <num>12-217ee</num>
+          <heading>Refund of unused credits under sections12-217jand 12-217n</heading>
+          <subsection eId="12_217ee__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Any taxpayer that</p>
+            </content>
+            <paragraph eId="12_217ee__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>is a qualified small business,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_217ee__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>qualifies for a credit under section12-217jor section12-217n, and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_217ee__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>cannot take such credit in the taxable year in which the credit could otherwise be taken as a result of having no tax liability under this chapter may elect to carry such credit forward under this chapter or may apply to the commissioner as provided in subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_217ee__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section to exchange such credit with the state for a credit refund equal to sixty-five per cent of the value of the credit. Any amount of credit refunded under this section shall be refunded to the taxpayer under the provisions of this chapter, except that such credit refund shall not be subject to the provisions of section12-227. Payment of the capital base tax under section12-219for an income year commencing on or after January 1, 2002, in which year the taxpayer reports no net income, as defined in section12-213, or payment of the minimum tax of two hundred fifty dollars under section12-219or12-223cfor any income year, shall not be considered a tax liability for purposes of this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_217ee__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>An application for refund of such credit amount shall be made to the Commissioner of Revenue Services, at the same time such taxpayer files its return for the income year on or before the original due date or, if applicable, the extended due date of such year's return, on such forms and containing such information as prescribed by said commissioner. No application for refund of such credit amount may be made after the due date or extended due date, as the case may be, of such return.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_217ee__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>If the commissioner determines that the taxpayer qualifies for a credit refund under this section, the commissioner shall notify, no later than one hundred twenty days from receipt of the application for such credit refund, the State Comptroller of the name of the eligible taxpayer, and the State Comptroller shall draw an order on the State Treasurer. The amount of the credit refund shall be limited as follows:</p>
+            </content>
+            <paragraph eId="12_217ee__subsec_c__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>In the case of an application for such credit refund filed by the taxpayer for income years beginning during 2000 or 2001 where such credit refund has not been paid as of July 1, 2002, the taxpayer shall be entitled to receive no more than one million dollars during the state's fiscal year in which the initial refund is paid, with any remaining unpaid balance to be paid in two equal installments during the state's next two succeeding fiscal years; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_217ee__subsec_c__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>in the case of an application for such credit refund filed by the taxpayer for the income years beginning during 2002 or thereafter, the taxpayer shall be entitled to receive no more than one million five hundred thousand dollars for any one such income year.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_217ee__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>The Commissioner of Revenue Services may disallow the credit refund of any credit otherwise allowable for a taxable year under this section if the company claiming the exchange has any amount of taxes due and unpaid to the state including interest, penalties, fees and other charges related thereto for which a period in excess of thirty days has elapsed following the date on which such taxes were due and which are not the subject of a timely filed administrative appeal to the commissioner or of a timely filed appeal pending before any court of competent jurisdiction. Before any such disallowance, the commissioner shall send written notice to the company, stating that it may pay the amount of such delinquent tax or enter into an agreement with the commissioner for the payment thereof, by the date set forth in said notice, provided, such date shall not be less than thirty days after the date of such notice. Failure on the part of the company to pay the amount of the delinquent tax or enter into an agreement to pay the amount thereof by said date shall result in a disallowance of the credit refund being claimed.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_217ee__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>For purposes of this section “qualified small business” means a company that</p>
+            </content>
+            <paragraph eId="12_217ee__subsec_e__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>has gross income for the previous income year that does not exceed seventy million dollars, and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_217ee__subsec_e__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>has not, in the determination of the commissioner, met the gross income test through transactions with a related person, as defined in section12-217w.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

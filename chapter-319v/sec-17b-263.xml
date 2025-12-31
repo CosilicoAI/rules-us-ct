@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-263"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-263"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17b-263"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-263/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-263/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-263/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-263/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319v">
+        <num>319v</num>
+        <heading>Temporary Assistance for Needy Families</heading>
+        <section eId="sec_17b_263">
+          <num>17b-263</num>
+          <heading>(Formerly Sec. 17-274b). Utilization of outpatient mental health services. Contracts for services. Fee schedule and payment for services</heading>
+          <subsection eId="17b_263__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The Commissioner of Social Services shall extend the provisions of section 17-134d-11 of the regulations of Connecticut state agencies to monitor and control Medicaid recipient utilization of outpatient mental health services. The commissioner shall contract, through a competitive bidding process, for recipient surveillance and review services. Such contract shall authorize the imposition of utilization controls, including but not limited to, prior authorization requirements based on medical appropriateness and cost effectiveness.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_263__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Notwithstanding the provisions of subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_263__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of section17b-239, the commissioner shall establish a service-specific fee schedule for hospital outpatient mental health therapy services, except for partial hospitalization and other comprehensive services as defined by the commissioner. Payment for partial hospitalization services shall be considered payment in full for all outpatient mental health services.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

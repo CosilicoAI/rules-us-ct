@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-65g"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-65g"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-65g"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-65g/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-65g/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-65g/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-65g/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_203">
+        <num>203</num>
+        <heading>Property Tax Assessment</heading>
+        <section eId="sec_12_65g">
+          <num>12-65g</num>
+          <heading>Agreements to fix assessments during, and defer increases following, rehabilitation to accommodate persons with physical disabilities. Required provisions</heading>
+          <content>
+            <p>Sec. 12-65g. Agreements to fix assessments during, and defer increases following, rehabilitation to accommodate persons with physical disabilities. Required provisions.The legislative body of any municipality may, by ordinance, authorize such municipality to enter into a written agreement with an owner of any real property who agrees to improve, rehabilitate or renovate any building thereon to meet the standards of design and construction of the State Building Code to accommodate persons with physical disabilities, as set forth in article 512 of the State Building Code, or any subsequent corresponding section of the State Building Code, as from time to time amended, to fix the assessment on such property as of the date of the agreement for a period of not longer than five years and to defer any increase in assessment attributable to such improvement, rehabilitation or renovation during such period, provided (1) the agreement shall be approved by the local building official and (2) such improvement, rehabilitation or renovation shall be completed not later than three years from the date of the agreement and, upon completion, shall be subject to inspection and certification by such local building official as being in conformance with the applicable provisions of said code.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-302"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-302"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-302"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-302/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-302/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-302/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-302/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_214">
+        <num>214</num>
+        <heading>Business Tax Credits</heading>
+        <section eId="sec_12_302">
+          <num>12-302</num>
+          <heading>Distributors to affix stamps</heading>
+          <subsection eId="12_302__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Except as otherwise provided in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_302__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section, each distributor shall affix, or cause to be affixed, at the location for which such distributor's license is issued, in such manner as the commissioner may specify in regulations issued pursuant to this chapter, to each individual package of cigarettes sold or distributed by the distributor, stamps of the proper denomination, as required by section12-296. Such stamps may be affixed by a distributor at any time before the cigarettes are transferred out of the distributor's possession.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_302__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>No distributor shall affix, or cause to be affixed, to a package of cigarettes sold or distributed by such distributor, stamps, if the package</p>
+            </content>
+            <paragraph eId="12_302__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>is not labeled in conformity with the requirements of the federal Cigarette Labeling and Advertising Act, 79 Stat. 282, 15 USC 1331 et seq., or any other federal requirement for the placement of labels, warnings and other information, applicable to packages of cigarettes that are intended to be sold within the United States;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_302__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>bears any label or notice prescribed by the United States Department of Treasury to identify cigarettes intended for export and exempt from tax by the United States pursuant to 26 USC 5704</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_302__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>, including “For export only”, “U.S. Tax-exempt”, “For use outside U.S.” or similar wording indicating that the manufacturer did not intend that the product be sold within the United States, including any notice or label described in 27 CFR 290.185;</p>
+            </content>
+            <paragraph eId="12_302__subsec_b__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>has been imported into the United States after January 1, 2000, in violation of 26 USC 5754 or regulations adopted thereunder;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_302__subsec_b__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>in any way violates federal trademark or copyright law or if all federal taxes due have not been paid on the cigarettes;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_302__subsec_b__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>has been modified or altered by a person other than the manufacturer or person specifically authorized by the manufacturer, including modification or alteration by the placement of a sticker or label to cover information, including the wording, labels or warnings described in subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_302__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_302__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>of this subsection, on the package;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_302__subsec_b__subsec_6">
+              <num>(6)</num>
+              <content>
+                <p>is of a brand family or of a tobacco product manufacturer not included in the Connecticut Tobacco Directory maintained by the Commissioner of Revenue Services pursuant to section4-28m; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_302__subsec_b__subsec_7">
+              <num>(7)</num>
+              <content>
+                <p>is of cigarettes not included in the Connecticut Fire Safe Cigarette Directory maintained by the State Fire Marshal pursuant to section29-420.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

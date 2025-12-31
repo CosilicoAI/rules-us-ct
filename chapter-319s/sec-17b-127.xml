@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-127"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-127"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17b-127"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-127/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-127/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-127/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-127/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319s">
+        <num>319s</num>
+        <heading>Connecticut Partnership for Long-Term Care</heading>
+        <section eId="sec_17b_127">
+          <num>17b-127</num>
+          <heading>(Formerly Sec. 17-282). General assistance fraud. Penalty. Forfeiture of privileges of participation in program. Termination upon conviction. Readmission</heading>
+          <subsection eId="17b_127__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>No vendor of goods or services sold to or performed for any beneficiary of assistance under sections17b-122,17b-124to17b-132, inclusive,17b-194to17b-197, inclusive,17b-263, and17b-689bshall, with intent to defraud, present for payment any false claim for goods or services performed, or accept payment for goods or services performed, which exceeds the amounts due for goods or services performed.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_127__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Any person or vendor who defrauds or assists in defrauding any town as to the support of its paupers, or deceives the selectmen thereof in obtaining support for any person not entitled to the same, or is found in violation of subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_127__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section, shall be subject to</p>
+            </content>
+            <paragraph eId="17b_127__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>the penalties for larceny under sections53a-122to53a-125b, inclusive, depending on the amount involved and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_127__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>repayment to a town for the defrauded amount. In addition, any such person or vendor shall be subject to forfeiture of privileges of participation in the program provided under sections17b-122,17b-124to17b-132, inclusive,17b-194to17b-197, inclusive,17b-263, and17b-689b. Any person or vendor who is convicted of violating this section shall be terminated from participation in such program, effective upon conviction. No vendor so terminated shall be readmitted to such program.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_127__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Any person who defrauds the town to obtain any monetary award to which such person is not entitled, assists another person in so defrauding the town or with intent to defraud, or violates any other provision of sections17b-122,17b-124to17b-132, inclusive,17b-136to17b-138, inclusive,17b-194to17b-197, inclusive,17b-222to17b-250, inclusive,17b-263,17b-340to17b-350, inclusive,17b-689band17b-743to17b-747, inclusive, shall be subject to the penalties for larceny under sections53a-122and53a-123, depending on the amount involved. Any person convicted of violating this section shall be terminated from participation in the program for a period of at least one year.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

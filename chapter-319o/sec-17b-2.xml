@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-2"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-2"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17b-2"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-2/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-2/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-2/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-2/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319o">
+        <num>319o</num>
+        <heading>Personal Care Assistance</heading>
+        <section eId="sec_17b_2">
+          <num>17b-2</num>
+          <heading>Programs administered by the Department of Social Services</heading>
+          <content>
+            <p>Sec. 17b-2. Programs administered by the Department of Social Services.The Department of Social Services is designated as the state agency for the administration of (1) the Connecticut energy assistance program pursuant to the Low Income Home Energy Assistance Act of 1981; (2) the state plan for vocational rehabilitation services for the fiscal year ending June 30, 1994; (3) the refugee assistance program pursuant to the Refugee Act of 1980; (4) the legalization impact assistance grant program pursuant to the Immigration Reform and Control Act of 1986; (5) the temporary assistance for needy families program pursuant to the Personal Responsibility and Work Opportunity Reconciliation Act of 1996; (6) the Medicaid program pursuant to Title XIX of the Social Security Act; (7) the supplemental nutrition assistance program pursuant to the Food and Nutrition Act of 2008; (8) the state supplement to the Supplemental Security Income Program pursuant to the Social Security Act; (9) the state child support enforcement plan pursuant to Title IV-D of the Social Security Act; (10) the state social services plan for the implementation of the social services block grants and community services block grants pursuant to the Social Security Act; and (11) services for persons with autism spectrum disorder in accordance with section17a-215c.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

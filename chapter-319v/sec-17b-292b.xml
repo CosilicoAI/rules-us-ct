@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-292b"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-292b"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17b-292b"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-292b/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-292b/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-292b/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-292b/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319v">
+        <num>319v</num>
+        <heading>Temporary Assistance for Needy Families</heading>
+        <section eId="sec_17b_292b">
+          <num>17b-292b</num>
+          <heading>Prenatal care under HUSKY B. Unborn child option. Income eligibility</heading>
+          <content>
+            <p>Sec. 17b-292b. Prenatal care under HUSKY B. Unborn child option. Income eligibility.As used in this section, “unborn child option” means a state option available under the Children's Health Insurance Program pursuant to Title XXI of the Social Security Act, as amended from time to time, that allows states to consider an unborn child a low-income child eligible for coverage of prenatal care if other conditions of eligibility under the Children's Health Insurance Program are met. Not later than April 1, 2022, the Commissioner of Social Services shall provide medical assistance for prenatal care through the unborn child option under the medical assistance program established pursuant to section17b-292. The commissioner shall amend the state plan for the Children's Health Insurance Program to provide such medical assistance to needy pregnant women whose family have an income not exceeding two hundred fifty-eight per cent of the federal poverty level.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

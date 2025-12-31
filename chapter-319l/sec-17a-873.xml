@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-873"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-873"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17a-873"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-873/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-873/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-873/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-873/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319l">
+        <num>319l</num>
+        <heading>Nursing Home Financial Assistance</heading>
+        <section eId="sec_17a_873">
+          <num>17a-873</num>
+          <heading>(Formerly Sec. 17a-408). Duties of State Ombudsman</heading>
+          <subsection eId="17a_873__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The State Ombudsman shall establish and operate ombudsman programs in this state pursuant to Sections 711 to 713, inclusive, of the federal Older Americans Act of 1965, as amended from time to time, and all regulations promulgated thereunder.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_873__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The State Ombudsman shall serve on a full-time basis, and shall personally or through representatives of the office:</p>
+            </content>
+            <paragraph eId="17a_873__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>Identify, investigate and resolve complaints that:
+(A) Are made by, or on behalf of, residents or, as to complaints involving the application for admission to a long-term care facility, by or on behalf of applicants; and
+(B) Relate to action, inaction or decisions that may adversely affect the health, safety, welfare or rights of the residents, including the welfare and rights of the residents with respect to the appointment and activities of guardians and representative payees, of</p>
+              </content>
+              <subparagraph eId="17a_873__subsec_b__subsec_1__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>Are made by, or on behalf of, residents or, as to complaints involving the application for admission to a long-term care facility, by or on behalf of applicants; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17a_873__subsec_b__subsec_1__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>Relate to action, inaction or decisions that may adversely affect the health, safety, welfare or rights of the residents, including the welfare and rights of the residents with respect to the appointment and activities of guardians and representative payees, of</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="17a_873__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>providers or representatives of providers of long-term care services, (ii) public agencies, or (iii) health and social service agencies;</p>
+            </content>
+            <paragraph eId="17a_873__subsec_i__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>Provide services to protect the health, safety, welfare and rights of the residents, including, but not limited to, services designed to address the impact of socialization, visitation and the role of primary or secondary essential support persons on the health, safety and well-being of residents;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_873__subsec_i__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>Inform the residents about means of obtaining services provided by providers or agencies described in subparagraph (B) of subdivision</p>
+              </content>
+              <subparagraph eId="17a_873__subsec_i__subsec_3__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>of subdivision</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="17a_873__subsec_i__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>of this subsection or services described in subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_873__subsec_i__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>of this subsection;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_873__subsec_i__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>Ensure that the residents and, as to issues involving applications for admission to long-term care facilities, applicants have regular and timely access to the services provided through the office and that the residents and complainants receive timely responses from representatives of the office to complaints;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_873__subsec_i__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>Represent the interests of the residents, and of applicants in relation to issues concerning applications to long-term care facilities, before governmental agencies and seek administrative, legal and other remedies to protect the health, safety, welfare and rights of the residents;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_873__subsec_i__subsec_6">
+              <num>(6)</num>
+              <content>
+                <p>Provide administrative and technical assistance to representatives of the office and training in areas including, but not limited to, Alzheimer's disease and dementia symptoms and care;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_873__subsec_i__subsec_7">
+              <num>(7)</num>
+              <content>
+                <p>(A) Analyze, comment on and monitor the development and implementation of federal, state and local laws, regulations, and other governmental policies and actions that pertain to the health, safety, welfare and rights of the residents with respect to the adequacy of long-term care facilities and services in this state and to the rights of applicants in relation to applications to long-term care facilities;
+(B) Recommend any changes in such laws, regulations, policies and actions as the office determines to be appropriate; and
+(C) Facilitate public comment on such laws, regulations, policies and actions;</p>
+              </content>
+              <subparagraph eId="17a_873__subsec_i__subsec_7__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>Analyze, comment on and monitor the development and implementation of federal, state and local laws, regulations, and other governmental policies and actions that pertain to the health, safety, welfare and rights of the residents with respect to the adequacy of long-term care facilities and services in this state and to the rights of applicants in relation to applications to long-term care facilities;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17a_873__subsec_i__subsec_7__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>Recommend any changes in such laws, regulations, policies and actions as the office determines to be appropriate; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17a_873__subsec_i__subsec_7__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>Facilitate public comment on such laws, regulations, policies and actions;</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="17a_873__subsec_i__subsec_8">
+              <num>(8)</num>
+              <content>
+                <p>Advocate for:
+(A) Any changes in federal, state and local laws, regulations and other governmental policies and actions that pertain to the health, safety, welfare and rights of residents with respect to the adequacy of long-term care facilities and services in this state and to the health, safety, welfare and rights of applicants which the State Ombudsman determines to be appropriate;
+(B) Appropriate action by groups or agencies with jurisdictional authority to deal with problems affecting individual residents and the general resident population and applicants in relation to issues concerning applications to long-term care facilities; and
+(C) The enactment of legislative recommendations by the General Assembly and of regulatory recommendations by commissioners of Connecticut state agencies;</p>
+              </content>
+              <subparagraph eId="17a_873__subsec_i__subsec_8__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>Any changes in federal, state and local laws, regulations and other governmental policies and actions that pertain to the health, safety, welfare and rights of residents with respect to the adequacy of long-term care facilities and services in this state and to the health, safety, welfare and rights of applicants which the State Ombudsman determines to be appropriate;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17a_873__subsec_i__subsec_8__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>Appropriate action by groups or agencies with jurisdictional authority to deal with problems affecting individual residents and the general resident population and applicants in relation to issues concerning applications to long-term care facilities; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17a_873__subsec_i__subsec_8__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>The enactment of legislative recommendations by the General Assembly and of regulatory recommendations by commissioners of Connecticut state agencies;</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="17a_873__subsec_i__subsec_9">
+              <num>(9)</num>
+              <content>
+                <p>(A) Provide for training representatives of the office;
+(B) Promote the development of citizen organizations to participate in the program; and
+(C) Provide technical support for the development of resident and family councils to protect the well-being and rights of residents;</p>
+              </content>
+              <subparagraph eId="17a_873__subsec_i__subsec_9__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>Provide for training representatives of the office;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17a_873__subsec_i__subsec_9__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>Promote the development of citizen organizations to participate in the program; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17a_873__subsec_i__subsec_9__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>Provide technical support for the development of resident and family councils to protect the well-being and rights of residents;</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="17a_873__subsec_i__subsec_10">
+              <num>(10)</num>
+              <content>
+                <p>Coordinate ombudsman services with the protection and advocacy systems for individuals with developmental disabilities and mental illnesses established under (A) Part A of the Development Disabilities Assistance and Bill of Rights Act (42 USC 6001, et seq.), and (B) The Protection and Advocacy for Mentally Ill Individuals Act of 1986 (42 USC 10801 et seq.);</p>
+              </content>
+              <subparagraph eId="17a_873__subsec_i__subsec_10__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>Part A of the Development Disabilities Assistance and Bill of Rights Act (42 USC 6001, et seq.), and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17a_873__subsec_i__subsec_10__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>The Protection and Advocacy for Mentally Ill Individuals Act of 1986 (42 USC 10801 et seq.);</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="17a_873__subsec_i__subsec_11">
+              <num>(11)</num>
+              <content>
+                <p>Coordinate, to the greatest extent possible, ombudsman services with legal assistance provided under Section 306</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17a_873__subsec_a">
+            <num>(a)</num>
+            <paragraph eId="17a_873__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>(C) of the federal Older Americans Act of 1965, (42 USC 3026</p>
+              </content>
+              <subparagraph eId="17a_873__subsec_a__subsec_2__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>of the federal Older Americans Act of 1965, (42 USC 3026</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="17a_873__subsec_a">
+            <num>(a)</num>
+            <paragraph eId="17a_873__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>(C)) as amended from time to time, through the adoption of memoranda of understanding and other means;</p>
+              </content>
+              <subparagraph eId="17a_873__subsec_a__subsec_2__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>) as amended from time to time, through the adoption of memoranda of understanding and other means;</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="17a_873__subsec_a__subsec_12">
+              <num>(12)</num>
+              <content>
+                <p>Create, and periodically update as needed, a training manual for nursing home facilities identified in section19a-522cthat provides guidance on structuring and implementing the training required by said section;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_873__subsec_a__subsec_13">
+              <num>(13)</num>
+              <content>
+                <p>Develop policies and procedures regarding the communication and documentation of informed consent in the case of resident complaints, including, but not limited to, the use of auxiliary aids and services or the use of a resident representative; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_873__subsec_a__subsec_14">
+              <num>(14)</num>
+              <content>
+                <p>Carry out such other activities and duties as may be required under federal law.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

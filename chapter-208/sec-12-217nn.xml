@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-217nn"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-217nn"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-217nn"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-217nn/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-217nn/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-217nn/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-217nn/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_208">
+        <num>208</num>
+        <heading>Estate Taxes</heading>
+        <section eId="sec_12_217nn">
+          <num>12-217nn</num>
+          <heading>Qualified small business job creation tax credit program. No credit allowed in income years commencing on or after January 1, 2013</heading>
+          <subsection eId="12_217nn__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>As used in this section:</p>
+            </content>
+            <paragraph eId="12_217nn__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>“Commissioner” means the Commissioner of Economic and Community Development;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_217nn__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>“Income year” means the income year or taxable year, as determined under this chapter or chapter 207 or 229, as the case may be;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_217nn__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>“Qualified small business” means an employer, subject to tax under this chapter or chapter 207 or 229, who employs less than fifty employees in Connecticut on the date of its application under subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_217nn__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of this section;</p>
+            </content>
+            <paragraph eId="12_217nn__subsec_c__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>“New employee” means a person hired after May 6, 2010, by the qualified small business during its income years commencing on or after January 1, 2010, and prior to January 1, 2013, to fill a new full-time job. A new employee does not include a person who was employed in Connecticut by a related person with respect to the qualified small business during the prior twelve months;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_217nn__subsec_c__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>“Full-time job” means a job in which an employee is required to work at least thirty-five or more hours per week for not less than forty-eight weeks in a calendar year. “Full-time job” does not include a temporary or seasonal job;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_217nn__subsec_c__subsec_6">
+              <num>(6)</num>
+              <content>
+                <p>“Related person” means (A) a corporation, limited liability company, partnership, association or trust controlled by the qualified small business, (B) an individual, corporation, limited liability company, partnership, association or trust that is in control of the qualified small business, (C) a corporation, limited liability company, partnership, association or trust controlled by an individual, corporation, limited liability company, partnership, association or trust that is in control of the qualified small business, or (D) a member of the same controlled group as the qualified small business; and</p>
+              </content>
+              <subparagraph eId="12_217nn__subsec_c__subsec_6__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>a corporation, limited liability company, partnership, association or trust controlled by the qualified small business,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_217nn__subsec_c__subsec_6__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>an individual, corporation, limited liability company, partnership, association or trust that is in control of the qualified small business,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_217nn__subsec_c__subsec_6__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>a corporation, limited liability company, partnership, association or trust controlled by an individual, corporation, limited liability company, partnership, association or trust that is in control of the qualified small business, or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_217nn__subsec_c__subsec_6__subsec_D">
+                <num>(D)</num>
+                <content>
+                  <p>a member of the same controlled group as the qualified small business; and</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_217nn__subsec_c__subsec_7">
+              <num>(7)</num>
+              <content>
+                <p>“Control”, with respect to a corporation, means ownership, directly or indirectly, of stock possessing fifty per cent or more of the total combined voting power of all classes of the stock of such corporation entitled to vote. “Control”, with respect to a trust, means ownership, directly or indirectly, of fifty per cent or more of the beneficial interest in the principal or income of such trust. The ownership of stock in a corporation, of a capital or profits interest in a partnership, limited liability company or association or of a beneficial interest in a trust shall be determined in accordance with the rules for constructive ownership of stock provided in Section 267</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_217nn__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of the Internal Revenue Code of 1986, or any subsequent corresponding internal revenue code of the United States, as from time to time amended, other than paragraph</p>
+            </content>
+            <paragraph eId="12_217nn__subsec_c__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>of Section 267</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_217nn__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of said Internal Revenue Code.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_217nn__subsec_b">
+            <num>(b)</num>
+            <paragraph eId="12_217nn__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>There is established a qualified small business job creation tax credit program for qualified small businesses whereby a qualified small business that hires a new employee who resides in the state may be allowed a tax credit against the tax imposed under this chapter or chapter 207 or 229, other than the liability imposed by section12-707.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_217nn__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>The tax credit shall be an amount equal to two hundred dollars per month for each new employee hired.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_217nn__subsec_b__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>No tax credit shall be allowed for any new employee hired by a qualified small business in any income year commencing on or after January 1, 2013.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_217nn__subsec_b__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>No qualified small business may claim a tax credit for any new employee who is an owner, member or partner in the business or who is not employed at the close of the income year of the qualified small business.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_217nn__subsec_b__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>The qualified small business shall claim the tax credit for the income year in which the qualified small business hires a new employee and, if eligible, the two immediately succeeding income years. Any tax credit not used in an income year shall expire and shall not be refundable.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_217nn__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>To be eligible to claim the tax credit, a qualified small business shall apply to the commissioner in accordance with the provisions of this section. The application shall be on a form provided by the commissioner and shall contain sufficient information as required by the commissioner, including the activities that the qualified small business primarily engages in, the North American Industrial Classification System code of the qualified small business, the current number of employees employed by the qualified small business as of the application date, and the name and position or job title of the new employee hired.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_217nn__subsec_d">
+            <num>(d)</num>
+            <paragraph eId="12_217nn__subsec_d__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>Upon receipt of an application, the commissioner shall render a decision on the application, in writing, not later than thirty days after the date of its receipt by the commissioner. If the commissioner approves the application of the qualified small business, the commissioner shall issue a certification letter indicating that the tax credit will be available to be claimed by the qualified small business if the qualified small business otherwise meets the requirements of this section.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_217nn__subsec_d__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>The total amount of tax credits granted under this section and sections12-217ii,12-217ooand12-217ppshall not exceed twenty million dollars in any one fiscal year.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_217nn__subsec_d__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>No qualified small business claiming the tax credit under this section with respect to a new employee may claim any credit against any tax under any other provision of the general statutes with respect to the same new employee.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_217nn__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>If the qualified small business is an S corporation or an entity treated as a partnership for federal income tax purposes, the tax credit may be claimed by the shareholders or partners of the qualified small business. If the qualified small business is a single member limited liability company that is disregarded as an entity separate from its owner, the tax credit may be claimed by the limited liability company's owner.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_217nn__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>For a qualified small business subject to the tax imposed under chapter 229, no credit allowed under this section shall exceed the amount of tax imposed by said chapter. The commissioner shall annually provide to the Commissioner of Revenue Services a list detailing all tax credits that have been approved and all qualified small businesses that have been issued a certification letter under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_217nn__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>of this section.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-219"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-219"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-219"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-219/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-219/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-219/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-219/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_208">
+        <num>208</num>
+        <heading>Estate Taxes</heading>
+        <section eId="sec_12_219">
+          <num>12-219</num>
+          <heading>Capital base tax. Phase-out. Surcharge</heading>
+          <subsection eId="12_219__subsec_a">
+            <num>(a)</num>
+            <paragraph eId="12_219__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>Each company subject to the provisions of this part shall pay for the privilege of carrying on or doing business within the state, the larger of the tax, if any, imposed by section12-214and the tax calculated under this subsection. The tax calculated under this section shall be a tax of (A) three and one-tenth mills per dollar for income years commencing prior to January 1, 2024, (B) two and six-tenths mills per dollar for the income year commencing on or after January 1, 2024, and prior to January 1, 2025, (C) two and one-tenth mills per dollar for the income year commencing on or after January 1, 2025, and prior to January 1, 2026, (D) one and six-tenths mills per dollar for the income year commencing on or after January 1, 2026, and prior to January 1, 2027, (E) one and one-tenth mills per dollar for the income year commencing on or after January 1, 2027, and prior to January 1, 2028, and (F) zero mills per dollar for income years commencing on or after January 1, 2028, of the amount derived</p>
+              </content>
+              <subparagraph eId="12_219__subsec_a__subsec_1__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>three and one-tenth mills per dollar for income years commencing prior to January 1, 2024,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_219__subsec_a__subsec_1__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>two and six-tenths mills per dollar for the income year commencing on or after January 1, 2024, and prior to January 1, 2025,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_219__subsec_a__subsec_1__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>two and one-tenth mills per dollar for the income year commencing on or after January 1, 2025, and prior to January 1, 2026,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_219__subsec_a__subsec_1__subsec_D">
+                <num>(D)</num>
+                <content>
+                  <p>one and six-tenths mills per dollar for the income year commencing on or after January 1, 2026, and prior to January 1, 2027,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_219__subsec_a__subsec_1__subsec_E">
+                <num>(E)</num>
+                <content>
+                  <p>one and one-tenth mills per dollar for the income year commencing on or after January 1, 2027, and prior to January 1, 2028, and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_219__subsec_a__subsec_1__subsec_F">
+                <num>(F)</num>
+                <content>
+                  <p>zero mills per dollar for income years commencing on or after January 1, 2028, of the amount derived</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_219__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>by adding (I) the average value of the issued and outstanding capital stock, including treasury stock at par or face value, fractional shares, scrip certificates convertible into shares of stock and amounts received on subscriptions to capital stock, computed on the balances at the beginning and end of the taxable year or period, the average value of surplus and undivided profit computed on the balances at the beginning and end of the taxable year or period, and (II) the average value of all surplus reserves computed on the balances at the beginning and end of the taxable year or period, (ii) by subtracting from the sum so calculated (I) the average value of any deficit carried on the balance sheet computed on the balances at the beginning and end of the taxable year or period, and (II) the average value of any holdings of stock of private corporations including treasury stock shown on the balance sheet computed on the balances at the beginning and end of the taxable year or period, and (iii) by apportioning the remainder so derived between this and other states under the provisions of section12-219a, provided in no event shall the tax so calculated exceed one million dollars or be less than two hundred fifty dollars.</p>
+            </content>
+            <paragraph eId="12_219__subsec_i__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>For purposes of this subsection, in the case of a new domestic company, the balances at the beginning of its first fiscal year or period shall be the balances immediately after its organization or immediately after it commences business operations, whichever is earlier; and in the case of a foreign company, the balances at the beginning of its first fiscal year or period in which it becomes liable for the filing of a return in this state shall be the balances as established at the beginning of the fiscal year or period for tax purposes. In the case of a domestic company dissolving or limiting its existence, the balances at the end of the fiscal year or period shall be the balances immediately prior to the final distribution of all its assets; and in the case of a foreign company filing a certificate of withdrawal, the balances at the end of the fiscal year or period shall be the balances immediately prior to the withdrawal of all of its assets. When a taxpayer has carried on or had the right to carry on business within the state for eleven months or less of the income year, the tax calculated under this subsection shall be reduced in proportion to the fractional part of the year during which business was carried on by such taxpayer. The tax calculated under this subsection shall, in no case, be less than two hundred fifty dollars for each income year. The taxpayer shall report the items set forth in this subsection at the amounts at which such items appear upon its books; provided, when, in the opinion of the Commissioner of Revenue Services, the books of the taxpayer do not disclose a reasonable valuation of such items, the commissioner may require any additional information which may be necessary for a reasonable determination of the tax calculated under this subsection and shall, on the basis of the best information available, calculate such tax and notify the taxpayer thereof.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_219__subsec_i__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>No tax credit allowed against the tax imposed by this chapter shall reduce a company's tax calculated under this subsection to an amount less than two hundred fifty dollars.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_219__subsec_b">
+            <num>(b)</num>
+            <paragraph eId="12_219__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>With respect to income years commencing on or after January 1, 2006, and prior to January 1, 2007, the additional tax imposed on any company and calculated in accordance with subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_219__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section shall, for each such income year, except when the tax so calculated is equal to two hundred fifty dollars, be increased by adding thereto an amount equal to twenty per cent of the additional tax so calculated for such income year, without reduction of the tax so calculated by the amount of any credit against such tax. The increased amount of tax payable by any company under this section, as determined in accordance with this subsection, shall become due and be paid, collected and enforced as provided in this chapter.</p>
+            </content>
+            <paragraph eId="12_219__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>(A) With respect to income years commencing on or after January 1, 2009, and prior to January 1, 2012, the additional tax imposed on any company and calculated in accordance with subsection</p>
+              </content>
+              <subparagraph eId="12_219__subsec_a__subsec_2__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>With respect to income years commencing on or after January 1, 2009, and prior to January 1, 2012, the additional tax imposed on any company and calculated in accordance with subsection</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_219__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section shall, for each such income year, except when the tax so calculated is equal to two hundred fifty dollars, be increased by adding thereto an amount equal to ten per cent of the additional tax so calculated for such income year, without reduction of the tax so calculated by the amount of any credit against such tax. The increased amount of tax payable by any company under this section, as determined in accordance with this subsection, shall become due and be paid, collected and enforced as provided in this chapter.
+(B) Any company whose gross income for the income year was less than one hundred million dollars shall not be subject to the additional tax imposed under subparagraph (A) of this subdivision. This exception shall not apply to companies filing a combined return for the income year under section12-223aor a unitary return under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_219__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>of section12-218d.</p>
+            </content>
+            <paragraph eId="12_219__subsec_d__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>(A) With respect to income years commencing on or after January 1, 2012, and prior to January 1, 2018, the additional tax imposed on any company and calculated in accordance with subsection</p>
+              </content>
+              <subparagraph eId="12_219__subsec_d__subsec_3__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>With respect to income years commencing on or after January 1, 2012, and prior to January 1, 2018, the additional tax imposed on any company and calculated in accordance with subsection</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_219__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section shall, for each such income year, except when the tax so calculated is equal to two hundred fifty dollars, be increased by adding thereto an amount equal to twenty per cent of the additional tax so calculated for such income year, without reduction of the tax so calculated by the amount of any credit against such tax. The increased amount of tax payable by any company under this section, as determined in accordance with this subsection, shall become due and be paid, collected and enforced as provided in this chapter.
+(B) Any company whose gross income for the income year was less than one hundred million dollars shall not be subject to the additional tax imposed under subparagraph (A) of this subdivision. With respect to income years commencing on or after January 1, 2012, and prior to January 1, 2016, this exception shall not apply to companies filing a combined return for the income year under section12-223aor a unitary return under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_219__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>of section12-218d. With respect to income years commencing on or after January 1, 2016, and prior to January 1, 2018, this exception shall not apply to taxable members of a combined group that files a combined unitary tax return.</p>
+            </content>
+            <paragraph eId="12_219__subsec_d__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>(A) With respect to income years commencing on or after January 1, 2018, and prior to January 1, 2026, the additional tax imposed on any company and calculated in accordance with subsection</p>
+              </content>
+              <subparagraph eId="12_219__subsec_d__subsec_4__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>With respect to income years commencing on or after January 1, 2018, and prior to January 1, 2026, the additional tax imposed on any company and calculated in accordance with subsection</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_219__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section shall, for such income year, except when the tax so calculated is equal to two hundred fifty dollars, be increased by adding thereto an amount equal to ten per cent of the additional tax so calculated for such income year, without reduction of the tax so calculated by the amount of any credit against such tax. The increased amount of tax payable by any company under this section, as determined in accordance with this subsection, shall become due and be paid, collected and enforced as provided in this chapter.
+(B) Any company whose gross income for the income year was less than one hundred million dollars shall not be subject to the additional tax imposed under subparagraph (A) of this subdivision. This exception shall not apply to taxable members of a combined group that files a combined unitary tax return.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_219__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The tax imposed by this section shall be assessed and collected and be first applicable at the time or times herein provided for the tax measured by net income. This section shall not apply to insurance companies, real estate investment trusts, regulated investment companies, interlocal risk management agencies formed pursuant to chapter 113a or, except as otherwise provided by subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_219__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>of this section, financial service companies, as defined in section12-218b.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_219__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Each financial service company, as defined in section12-218b, shall pay for the privilege of carrying on or doing business within the state, the larger of the tax, if any, imposed by section12-214and the tax calculated under this subsection. For each such financial service company, the tax calculated under this subsection shall be two hundred fifty dollars for each income year. No tax credit allowed against the tax imposed by this chapter shall reduce a financial service company's tax calculated under this subsection to an amount less than two hundred fifty dollars.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_219__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>The additional tax base of taxable and nontaxable members of a combined group required to file a combined unitary tax return pursuant to section12-222shall be calculated as provided in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_219__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>of section12-218e.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-35b"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-35b"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-35b"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-35b/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-35b/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-35b/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-35b/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_202">
+        <num>202</num>
+        <heading>Collection of State Taxes</heading>
+        <section eId="sec_12_35b">
+          <num>12-35b</num>
+          <heading>Definitions for sections concerning state liens on real property related to tax delinquency. Use of electronic signature by commissioner</heading>
+          <subsection eId="12_35b__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>For the purposes of sections12-204,12-212,12-235,12-268h,12-309,12-330i,12-366,12-398,12-420,12-441,12-475,12-488,12-555a,12-594,12-638jand12-734:</p>
+            </content>
+            <paragraph eId="12_35b__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>“Bona fide purchaser” means a person who takes a conveyance of real estate in good faith from the holder of legal title, and pays valuable consideration, without actual, implied, or constructive notice of any tax delinquency.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_35b__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>“Qualified encumbrancer” means a person who places a burden, charge or lien on real estate, in good faith, without actual, implied, or constructive notice of any tax delinquency.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_35b__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>“Commissioner” means the Commissioner of Revenue Services or his or her authorized agent.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_35b__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>For purposes of the sections enumerated in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_35b__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section, the commissioner may use an electronic signature, as defined in section1-267, on any certificate of lien or certificate discharging such lien. No town clerk shall refuse to record any such certificate because the commissioner has used an electronic signature thereon.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_35b__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>All certificates of lien or certificates discharging a lien using an electronic signature of the commissioner and filed with a town clerk by the commissioner before June 9, 2006, when otherwise valid, are validated and effective as of the date originally filed with such town clerk.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-184"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-184"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-184"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-184/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-184/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-184/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-184/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_205">
+        <num>205</num>
+        <heading>Tax Liens</heading>
+        <section eId="sec_12_184">
+          <num>12-184</num>
+          <heading>Appointment of appraisers</heading>
+          <content>
+            <p>Sec. 12-184. Appointment of appraisers.Upon the filing of any such petition in court, the clerk shall record the date of its receipt thereon and promptly bring the same to the attention of the court, or any judge thereof, who shall, within two weeks from the filing date, appoint two qualified and disinterested appraisers to appraise such real estate being foreclosed and report to said court the fair market value of each liened parcel appearing in such petition. Such appraisers shall file their report in duplicate with the court, or any judge thereof, within thirty days from the date of their appointment, identifying each parcel listed in such petition by its serial number. The court, or any judge thereof, in its or his discretion, may grant a reasonable extension of said thirty-day period only upon due cause being shown. When their report has been returned to and accepted by the court, it, or any judge thereof, shall determine the compensation to be paid to each of them and, if more than one municipality has joined in the proceeding, the part of such compensation each shall pay. The clerk of the court shall certify the amounts of compensation to be paid by each municipality to its treasurer, who shall pay the same. The filing of such petition in the office of the clerk of the court shall constitute the beginning of an action for the foreclosure of the tax lien or liens upon each of the parcels of real estate described.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

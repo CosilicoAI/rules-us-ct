@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-170bb"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-170bb"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-170bb"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-170bb/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-170bb/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-170bb/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-170bb/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_204a">
+        <num>204a</num>
+        <heading>Property Tax Relief for Elderly Homeowners and Renters and Persons with Permanent Total Disability</heading>
+        <section eId="sec_12_170bb">
+          <num>12-170bb</num>
+          <heading>Annual report concerning tax relief for elderly homeowners and grants to elderly renters. Preparation by the Office of Policy and Management</heading>
+          <subsection eId="12_170bb__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>On or before March first, annually, the Secretary of the Office of Policy and Management shall submit a report concerning the state programs of tax relief for elderly homeowners and grants to elderly renters to the joint standing committee of the General Assembly having cognizance of matters relating to finance, revenue and bonding. Such report shall be prepared in relation to qualified participants, benefits allowed and state payments to municipalities as reimbursement for property tax loss in the preceding calendar year, including data concerning</p>
+            </content>
+            <paragraph eId="12_170bb__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>the total number of qualified participants in each of the state programs for elderly homeowners and the state program for elderly renters, and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_170bb__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>total benefits allowed in each of such programs. The information as to qualified participants and benefits allowed shall be subdivided to reflect such totals with respect to each of the following categories: (A) Each of the income brackets as included in the schedule of benefits for elderly homeowners and renters, and (B) married and unmarried participants.</p>
+              </content>
+              <subparagraph eId="12_170bb__subsec_a__subsec_2__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>Each of the income brackets as included in the schedule of benefits for elderly homeowners and renters, and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_170bb__subsec_a__subsec_2__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>married and unmarried participants.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_170bb__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>In addition to the information described in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_170bb__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section, such report pertaining to the state programs of tax reduction for elderly homeowners and grants for elderly renters shall include statistics related to distribution of benefits, applicable to the preceding calendar year, as follows:</p>
+            </content>
+            <paragraph eId="12_170bb__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>With respect to each of the brackets of tax reduction benefits in the following schedules, the total number of persons in the state program of tax reduction for homeowners under section12-170aawho received benefits within the limits of each such bracket, including the number of persons receiving the maximum and the minimum amounts of tax reduction:
+Amount of Tax Reduction AllowedMarried HomeownersUnmarried HomeownersOverNot ExceedingOverNot Exceeding$$  100 (Minimum)$$  100 (Minimum)1002001002002003002003003004003004004005004005005006005006006007006007007008007008008009008009009001,0009009991,0001,1001,000 (Maximum)1,1001,2491,250 (Maximum)</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_170bb__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>With respect to each of the brackets concerning grants to renters in the following schedules, the total number of persons in the state program of grants for elderly renters under sections12-170dand12-170ewho received benefits within the limits of each such bracket, including the number of persons receiving the maximum and minimum amount of grant:
+Amount of State Grant AllowedMarried RentersUnmarried RentersOverNot exceedingOverNot Exceeding$$ 100 (Minimum)$$ 100 (Minimum)100200100200200300200300300400300400400500400500500600500600600700600699700800700 (Maximum)800899900 (Maximum)</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_170bb__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>With respect to each of the brackets of benefits in the following schedule, the total number of persons in the state tax-freeze program for elderly homeowners under section12-129bwho received benefits in tax reduction within the limits of each such bracket:
+Amount of Tax Reduction Benefit AllowedOverNot Exceeding$$  3003006006009009001,2001,2001,5001,500
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

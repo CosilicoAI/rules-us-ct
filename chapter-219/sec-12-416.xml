@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-416"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-416"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-416"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-416/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-416/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-416/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-416/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_219">
+        <num>219</num>
+        <heading>Motor Vehicle Fuels Tax</heading>
+        <section eId="sec_12_416">
+          <num>12-416</num>
+          <heading>Estimate and assessment if no return made</heading>
+          <subsection eId="12_416__subsec_a">
+            <num>(a)</num>
+            <heading>Estimate; failure to file return</heading>
+            <content>
+              <p>If any person fails to make a return, the commissioner shall make an estimate of the amount of the gross receipts of the person or, as the case may be, of the amount of the total sales price of services or tangible personal property sold or purchased by the person, the storage, acceptance, consumption or other use of which in this state is subject to the use tax. The estimate shall be made for the period or periods in respect to which the person failed to make a return and shall be based upon any information which is in or may come into the commissioner's possession. To the tax imposed upon the basis of such estimate, there shall be added an amount equal to fifteen per cent of such tax, or fifty dollars, whichever is greater. No person shall be subject to a penalty under both this section and section 12419. The commissioner may make more than one assessment for a tax period for which a tax return has not been filed.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_416__subsec_b">
+            <num>(b)</num>
+            <heading>Interest</heading>
+            <content>
+              <p>The amount of the assessment shall bear interest at the rate of one per cent per month or fraction thereof from the last day of the month succeeding the period for which the amount or any portion thereof should have been returned until the date of payment.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_416__subsec_c">
+            <num>(c)</num>
+            <heading>Notice of estimate, assessment and penalty</heading>
+            <content>
+              <p>Promptly after making the assessment, the commissioner shall give to the person written notice of the estimate, assessment and penalty, the notice to be served personally or by mail in the manner prescribed for service of notice of a deficiency assessment.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_416__subsec_d">
+            <num>(d)</num>
+            <heading>Issuance of deficiency assessment or reassessment</heading>
+            <content>
+              <p>Nothing in this section shall preclude the commissioner from issuing a deficiency assessment or reassessment pursuant to the provisions of section12-415for any period for which the commissioner issues a written notice of estimate, assessment and penalty under this section.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

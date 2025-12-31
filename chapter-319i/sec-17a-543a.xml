@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-543a"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-543a"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17a-543a"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-543a/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-543a/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-543a/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-543a/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319i">
+        <num>319i</num>
+        <heading>Connecticut HUSKY Plan</heading>
+        <section eId="sec_17a_543a">
+          <num>17a-543a</num>
+          <heading>Administration of medication to criminal defendant placed in custody of Commissioner of Mental Health and Addiction Services. Special limited conservator</heading>
+          <subsection eId="17a_543a__subsec_a">
+            <num>(a)</num>
+            <paragraph eId="17a_543a__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>(A) If it is determined by the head of the hospital and two qualified physicians that a patient who is a defendant placed in the custody of the Commissioner of Mental Health and Addiction Services pursuant to section54-56dis incapable of giving informed consent to medication for the treatment of the patient's psychiatric disabilities and such medication is deemed to be necessary for the patient's treatment, the facility in which the patient is placed may petition the probate court for the district in which such facility is located for appointment of a special limited conservator with specific authority to consent to the administration of medication, provided an employee of such facility shall not be appointed or serve as the special limited conservator. The provisions of section45a-649concerning issuance of a citation and notice, personal service and representation by, appointment of, and compensation of an attorney shall apply to any petition filed under this subsection as if such patient were a respondent under section45a-649, except that</p>
+              </content>
+              <subparagraph eId="17a_543a__subsec_a__subsec_1__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>If it is determined by the head of the hospital and two qualified physicians that a patient who is a defendant placed in the custody of the Commissioner of Mental Health and Addiction Services pursuant to section54-56dis incapable of giving informed consent to medication for the treatment of the patient's psychiatric disabilities and such medication is deemed to be necessary for the patient's treatment, the facility in which the patient is placed may petition the probate court for the district in which such facility is located for appointment of a special limited conservator with specific authority to consent to the administration of medication, provided an employee of such facility shall not be appointed or serve as the special limited conservator. The provisions of section45a-649concerning issuance of a citation and notice, personal service and representation by, appointment of, and compensation of an attorney shall apply to any petition filed under this subsection as if such patient</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="17a_543a__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>the court shall only be required to issue such citation and notice to the patient, the patient's attorney and any conservator appointed for the patient, and (ii) the court, in its discretion, may order notice as it directs to other persons having an interest in the patient and to such persons the patient requests to be notified. The Probate Court may appoint a special limited conservator with such specific authority pursuant to this subparagraph if the court finds by clear and convincing evidence that the patient is incapable of giving informed consent to medication for the treatment of the patient's psychiatric disabilities and such medication is necessary for the patient's treatment. The Probate Court may grant the special limited conservator specific authority to consent to the release of the patient's medical records to such facility if the court finds by clear and convincing evidence that the patient is unwilling or unable to release such records and such records are necessary to make decisions concerning the patient's treatment.
+(B) The special limited conservator shall meet with the patient and the physician, review the patient's written record and consider the risks and benefits from the medication, the likelihood and seriousness of adverse side effects, the preferences of the patient, the patient's religious views, and the prognosis with and without medication. After consideration of such information, the special limited conservator shall either consent to the patient receiving medication for the treatment of the patient's psychiatric disabilities or refuse to consent to the patient receiving such medication.</p>
+            </content>
+            <paragraph eId="17a_543a__subsec_i__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>The authority of a special limited conservator to consent to the administration of medication under subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_543a__subsec_i__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>of this subsection shall be effective for not more than one hundred twenty days. In the case of continuous hospitalization of the patient beyond such one hundred twenty days, if the head of the hospital and two qualified physicians determine that the patient continues to be incapable of giving informed consent to medication for the treatment of the patient's psychiatric disabilities and such medication is deemed to be necessary for the patient's treatment, the authority of the special limited conservator to consent to the administration of medication may be extended for a period not to exceed one hundred twenty days by order of the Probate Court without a hearing upon application by the head of the hospital. Prompt notice of the order shall be given to the patient, special limited conservator and facility.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_543a__subsec_i__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>The reasonable compensation of a special limited conservator appointed under this subsection shall be established by the Probate Court Administrator and paid from the Probate Court Administration Fund.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17a_543a__subsec_b">
+            <num>(b)</num>
+            <paragraph eId="17a_543a__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>If it is determined by the head of the hospital and two qualified physicians that (A) a patient who is a defendant placed in the custody of the Commissioner of Mental Health and Addiction Services pursuant to section54-56dis capable of giving informed consent but refuses to consent to medication for treatment of the patient's psychiatric disabilities, (B) there is no less intrusive beneficial treatment, and (C) without medication, the psychiatric disabilities with which the patient has been diagnosed will continue unabated and place the patient or others in direct threat of harm, the facility in which the patient is placed may petition the probate court for the district in which such facility is located to authorize the administration to the patient of medication for the treatment of the patient's psychiatric disabilities, despite the refusal of the patient to consent to such medication. The provisions of section45a-649concerning issuance of a citation and notice, personal service and representation by, appointment of, and compensation of an attorney shall apply to any petition filed under this subsection as if such patient were a respondent under section45a-649, except that</p>
+              </content>
+              <subparagraph eId="17a_543a__subsec_b__subsec_1__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>a patient who is a defendant placed in the custody of the Commissioner of Mental Health and Addiction Services pursuant to section54-56dis capable of giving informed consent but refuses to consent to medication for treatment of the patient's psychiatric disabilities,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17a_543a__subsec_b__subsec_1__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>there is no less intrusive beneficial treatment, and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17a_543a__subsec_b__subsec_1__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>without medication, the psychiatric disabilities with which the patient has been diagnosed will continue unabated and place the patient or others in direct threat of harm, the facility in which the patient is placed may petition the probate court for the district in which such facility is located to authorize the administration to the patient of medication for the treatment of the patient's psychiatric disabilities, despite the refusal of the patient to consent to such medication. The provisions of section45a-649concerning issuance of a citation and notice, personal service and representation by, appointment of, and compensation of an attorney shall apply to any petition filed under this subsection as if such patient were a respondent under section45a-649, except that</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="17a_543a__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>the court shall only be required to issue such citation and notice to the patient, the patient's attorney and any conservator appointed for the patient, and (ii) the court, in its discretion, may order notice as it directs to other persons having an interest in the patient and to such persons the patient requests to be notified. The Probate Court may authorize the administration of medication to the patient if the court finds by clear and convincing evidence that (I) the patient is capable of giving informed consent but refuses to consent to medication for treatment of the patient's psychiatric disabilities, (II) there is no less intrusive beneficial treatment, and (III) without medication, the psychiatric disabilities with which the patient has been diagnosed will continue unabated and place the patient or others in direct threat of harm.</p>
+            </content>
+            <paragraph eId="17a_543a__subsec_i__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>An order authorizing the administration of medication under subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_543a__subsec_i__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>of this subsection shall be effective for not more than one hundred twenty days. In the case of continuous hospitalization of the patient beyond such one hundred twenty days, if the head of the hospital and two qualified physicians determine that (A) the patient continues to be capable of giving informed consent but refuses to consent to medication for treatment of the patient's psychiatric disabilities, (B) there is no less intrusive beneficial treatment, and (C) without medication, the psychiatric disabilities with which the patient has been diagnosed will continue unabated and place the patient or others in direct threat of harm, the order may be extended for a period not to exceed one hundred twenty days by order of the Probate Court without a hearing. Prompt notice of the order shall be given to the patient and facility.</p>
+              </content>
+              <subparagraph eId="17a_543a__subsec_i__subsec_1__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>the patient continues to be capable of giving informed consent but refuses to consent to medication for treatment of the patient's psychiatric disabilities,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17a_543a__subsec_i__subsec_1__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>there is no less intrusive beneficial treatment, and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17a_543a__subsec_i__subsec_1__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>without medication, the psychiatric disabilities with which the patient has been diagnosed will continue unabated and place the patient or others in direct threat of harm, the order may be extended for a period not to exceed one hundred twenty days by order of the Probate Court without a hearing. Prompt notice of the order shall be given to the patient and facility.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="17a_543a__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Notwithstanding the provisions of subsections</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_543a__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>and</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_543a__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section, if obtaining consent under this section would cause a medically harmful delay to a patient whose condition is of an extremely critical nature, as determined by the personal observation of a physician or the senior clinician on duty in the facility in which the patient is placed, the physician or senior clinician may order medication for treatment of the patient's psychiatric disabilities without consent.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_543a__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Unless there is a serious risk of harm to the patient or others, based upon the patient's past history or current condition, nothing in this section authorizes any form of involuntary medical, psychological or psychiatric treatment of any patient who in the sincere practice of his or her religious beliefs is being treated by prayer alone in accordance with the principles and practices of a church or religious denomination by a duly accredited practitioner or ordained minister, priest or rabbi thereof.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_543a__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>Nothing in this section shall be construed to limit the application of sections45a-644to45a-663, inclusive, except as specifically provided in this section.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

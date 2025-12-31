@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-274f"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-274f"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17b-274f"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-274f/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-274f/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-274f/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-274f/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319v">
+        <num>319v</num>
+        <heading>Temporary Assistance for Needy Families</heading>
+        <section eId="sec_17b_274f">
+          <num>17b-274f</num>
+          <heading>Step therapy program for Medicaid prescription drugs</heading>
+          <subsection eId="17b_274f__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The Commissioner of Social Services may establish a step therapy program for prescription drugs in the Medicaid program. The commissioner may condition payment for such drugs on a requirement that the drug prescribed be from the preferred drug list established pursuant to section17b-274dprior to any other drug being prescribed, provided any step therapy program shall:</p>
+            </content>
+            <paragraph eId="17b_274f__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>Require that the patient try and fail on only one prescribed drug on the preferred drug list before another drug can be prescribed and eligible for payment;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_274f__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>not apply to any mental health–related drugs; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_274f__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>require that the prescribing practitioner, when medications for the treatment of any medical condition are restricted due to the step therapy program, has access to a clear and convenient process to expeditiously request an override of such restriction from the Department of Social Services. The department shall expeditiously grant an override of such restriction whenever the prescribing practitioner demonstrates that: (A) The preferred treatment required under step therapy has been ineffective in the treatment of the patient's medical condition in the past; (B) the drug regimen required under the step therapy program is expected to be ineffective based on the known relevant physical or mental characteristics of the patient and the known characteristics of the drug regimen; (C) the preferred treatment required under the step therapy program will cause or will likely cause an adverse reaction or other physical harm to the patient; or (D) it is in the best interest of the patient to provide the recommended drug regimen based on medical necessity.</p>
+              </content>
+              <subparagraph eId="17b_274f__subsec_a__subsec_3__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>The preferred treatment required under step therapy has been ineffective in the treatment of the patient's medical condition in the past;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17b_274f__subsec_a__subsec_3__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>the drug regimen required under the step therapy program is expected to be ineffective based on the known relevant physical or mental characteristics of the patient and the known characteristics of the drug regimen;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17b_274f__subsec_a__subsec_3__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>the preferred treatment required under the step therapy program will cause or will likely cause an adverse reaction or other physical harm to the patient; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17b_274f__subsec_a__subsec_3__subsec_D">
+                <num>(D)</num>
+                <content>
+                  <p>it is in the best interest of the patient to provide the recommended drug regimen based on medical necessity.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_274f__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The duration of any step therapy program requirement shall not be longer than a period of thirty days, after which time the prescribing practitioner may deem such treatment as clinically ineffective for the patient. When the prescribing practitioner deems the treatment to be clinically ineffective, the drug prescribed and recommended by the practitioner shall be dispensed and covered under the Medicaid program.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

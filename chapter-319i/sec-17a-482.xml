@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-482"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-482"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17a-482"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-482/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-482/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-482/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-482/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319i">
+        <num>319i</num>
+        <heading>Connecticut HUSKY Plan</heading>
+        <section eId="sec_17a_482">
+          <num>17a-482</num>
+          <heading>(Formerly Sec. 17-226j). Definitions</heading>
+          <subsection eId="17a_482__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of section17a-476, sections17a-478to17a-480, inclusive, and section17a-483, unless the context otherwise requires: “Catchment area” means any geographical area within the state established as such by the Commissioner of Mental Health and Addiction Services, the boundaries of which may be redesignated by said commissioner when deemed necessary to equalize the population of each area and in such manner as is consistent with the boundaries of the municipalities therein, provided such boundaries of any catchment area shall be entirely within the boundaries of a mental health region established under section17a-478; “council” means the catchment area council established under section17a-483; “regional behavioral health action organization” means the organization established pursuant to section17a-484f; and “provider” means any person who receives income from private practice or any public or private agency which delivers mental health services.
+See Sec. 17a-478 re establishment of mental health regions.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

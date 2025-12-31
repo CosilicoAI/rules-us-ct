@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-441"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-441"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-441"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-441/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-441/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-441/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-441/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_220">
+        <num>220</num>
+        <heading>Controlled Substances Tax</heading>
+        <section eId="sec_12_441">
+          <num>12-441</num>
+          <heading>Delinquent taxes; lien</heading>
+          <content>
+            <p>Sec. 12-441. Delinquent taxes; lien.The amount of any tax due and unpaid under the provisions of this chapter may be collected under the provisions of section12-35. The warrant therein provided for shall be signed by the commissioner or his authorized agent. The amount of any such tax shall be a lien, from the last day of the tax period until discharged by payment, against all real estate of the taxpayer within the state and a certificate of lien signed by the commissioner may be filed for record in the office of the clerk of any town in which such real estate is situated, provided no such lien shall be effective as against any bona fide purchaser or qualified encumbrancer of any interest in any such property. When any tax with respect to which a lien has been recorded under the provisions of this section has been satisfied, the commissioner, upon request of any interested party, shall issue a certificate discharging such lien, which certificate may be recorded in the same office in which the lien was recorded. Any action for the foreclosure of such lien shall be brought by the Attorney General in the name of the state in the superior court for the judicial district in which the property subject to such lien is situated, or, if such property is located in two or more judicial districts, in the superior court for any one such judicial district, and the court may limit the time for redemption or order the sale of such property or make such other or further decree as it judges equitable. If any taxpayer sells or transfers his business in whole or in part, the purchaser shall be liable, and, in the case of two or more purchasers, each of them shall be jointly and severally liable, with the former owner, for the payment of the tax.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

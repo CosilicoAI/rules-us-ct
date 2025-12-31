@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-107f"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-107f"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-107f"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-107f/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-107f/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-107f/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-107f/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_203">
+        <num>203</num>
+        <heading>Property Tax Assessment</heading>
+        <section eId="sec_12_107f">
+          <num>12-107f</num>
+          <heading>Open space land</heading>
+          <subsection eId="12_107f__subsec_a">
+            <num>(a)</num>
+            <heading>Declaration of policy encouraging preservation by tax-exempt organizations</heading>
+            <content>
+              <p>It is hereby found and declared that it is in the public interest to encourage organizations which are tax-exempt for federal income tax purposes to hold open space land in perpetuity for educational, scientific, aesthetic or other equivalent passive uses, for the benefit of the public in general.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_107f__subsec_b">
+            <num>(b)</num>
+            <heading>Improvements exempt from state and municipal assessments or taxes</heading>
+            <content>
+              <p>Payment of assessment or taxes by municipality.Any such open space land held in perpetuity for educational, scientific, aesthetic or other equivalent passive uses, for the benefit of the public in general, and not held or used for development for any residential, industrial or commercial purpose, by any organization to which a determination letter has been issued by the Internal Revenue Service that contributions to it are deductible under the applicable sections of the Internal Revenue Code as amended, shall not be subject to state or municipal assessments or taxes for either capital or maintenance costs for improvements or betterments capable of serving the land so held, such as water lines, sidewalks, streets and sewers. The amount of such assessments or taxes which would have been charged to such organization shall be paid out of the General Fund of such municipality and shall be financed out of regular municipal taxes.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_107f__subsec_c">
+            <num>(c)</num>
+            <heading>Exemption application and time limit</heading>
+            <content>
+              <p>Determination by authority.Any owner of land who has received such a determination letter from the Internal Revenue Service may apply for exemption from any state or municipal assessment for improvements or betterments to the authority making such assessment not later than ninety days after such assessment. Said authority shall determine whether the open space land is held in perpetuity for educational, scientific, aesthetic or other equivalent passive uses, for the benefit of the public in general, and not held or used for development for any residential, industrial or commercial purpose.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_107f__subsec_d">
+            <num>(d)</num>
+            <heading>Form of application</heading>
+            <content>
+              <p>An application for exemption from state or municipal assessments for improvements or betterments shall be made upon a form prescribed by the Commissioner of Agriculture and shall set forth the current status of the determination of deductibility under the applicable sections of the Internal Revenue Code, a description of the land, a general description of the current use of such land, and such other information as said authority may require to aid in determining whether such land qualifies for such exemption.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_107f__subsec_e">
+            <num>(e)</num>
+            <heading>Waiver by failure to file</heading>
+            <content>
+              <p>Failure to file an application for exemption within the time limit prescribed in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_107f__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of this section and in the manner and form prescribed in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_107f__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>of this section shall be considered a waiver of the right to such exemption with respect to the current such assessment.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_107f__subsec_f">
+            <num>(f)</num>
+            <heading>Appeal from denial of application for exemption</heading>
+            <content>
+              <p>Any owner of land aggrieved by the denial of any application for exemption shall have the same rights and remedies for appeal and relief as are provided in the general statutes for taxpayers claiming to be aggrieved by actions of assessors or boards of assessment appeals.
+See Sec. 12-63 re rule of valuation.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

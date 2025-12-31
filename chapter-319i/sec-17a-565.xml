@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-565"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-565"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17a-565"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-565/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-565/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-565/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-565/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319i">
+        <num>319i</num>
+        <heading>Connecticut HUSKY Plan</heading>
+        <section eId="sec_17a_565">
+          <num>17a-565</num>
+          <heading>(Formerly Sec. 17-243). Replacement of advisory board with oversight board. Functions. Investigative reports. Reporting</heading>
+          <subsection eId="17a_565__subsec_a">
+            <num>(a)</num>
+            <paragraph eId="17a_565__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>On and before September 30, 2022, there shall be an advisory board for Whiting Forensic Hospital, constituted as follows: The Commissioner of Mental Health and Addiction Services, three physicians licensed to practice in this state, two of whom shall be psychiatrists, two attorneys of this state, at least one of whom shall be in active practice and have at least five years' experience in the trial of criminal cases, one licensed psychologist with experience in clinical psychology, one licensed clinical social worker, one person actively engaged in business who shall have at least ten years' experience in business management, and two persons with psychiatric disabilities, at least one of whom shall have received inpatient services in a psychiatric hospital. Annually, on October first, the Governor shall appoint a member or members to replace those whose terms expire for terms of five years each. The board shall elect a chairman and a secretary, who shall keep full and accurate minutes of its meetings and preserve the same. The board shall meet at the call of the chairman at least quarterly. Members of the board shall receive no compensation for their duties as such but shall be reimbursed for their actual expenses incurred in the course of their duties.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_565__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>On and after October 1, 2022, there shall be an oversight board for Whiting Forensic Hospital, constituted as follows: Three physicians licensed under chapter 370, two of whom shall be psychiatrists, two attorneys licensed in this state, at least one of whom shall be in active practice and have at least five years' experience in the trial of criminal cases, one psychologist licensed under chapter 383 with experience in clinical psychology, one clinical social worker licensed under chapter 383b, one person actively engaged in business who shall have at least ten years' experience in business management, and two persons with psychiatric disabilities, at least one of whom shall have received inpatient services in a psychiatric hospital, all of whom shall be appointed by the Governor. Members shall serve for a term of five years and any vacancies on the board shall be filled for the remainder of the term by the Governor. The board shall elect from among its members a chairperson and a secretary, who shall keep full and accurate minutes of its meetings and preserve the same. The board shall meet at the call of the chairperson at least quarterly. Members of the board shall receive no compensation for their duties but shall be reimbursed for necessary expenses incurred in the performance of their duties. The board shall be within the Department of Mental Health and Addiction Services for administrative purposes only.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17a_565__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Such oversight board shall perform the following functions:</p>
+            </content>
+            <paragraph eId="17a_565__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>Oversee the work of Whiting Forensic Hospital and provide consultative and advisory services regarding any problems or concerns identified in such oversight board's review conducted pursuant to subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_565__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>of this subsection;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_565__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>Review the official report of every investigation conducted pursuant to the general statutes, including, but not limited to, chapter 813, chapter 814c and section19a-490, and every investigation conducted by a hospital accrediting organization, of a complaint regarding the conditions of said hospital or the mistreatment or neglect of a patient or staff member of said hospital made by any patient, family member, guardian or legal representative of a patient or staff member of said hospital or any member of the public. As used in this subdivision, “neglect” means the failure, through action or inaction, to provide an individual with the services necessary to maintain such individual's physical and mental health and safety, including, but not limited to, protection against incidents of inappropriate or unwanted sexual contact, harassment, taunting, bullying and discrimination;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_565__subsec_b__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>Make recommendations to said hospital and the Department of Mental Health and Addiction Services for any actions necessary to improve the work of the staff, conditions of said hospital or treatment of any patient or staff member of said hospital necessary to address any concerns raised or complaints made pursuant to subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_565__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_565__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>of this subsection; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_565__subsec_b__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>Request and review any information from said hospital and the Department of Mental Health and Addiction Services that is necessary for the board to perform its functions under this subsection.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17a_565__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Notwithstanding the provisions of section52-146e, the superintendent and the relevant state agencies shall provide the official reports described in subdivision</p>
+            </content>
+            <paragraph eId="17a_565__subsec_c__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17a_565__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section to the oversight board.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_565__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>On or before January 1, 2023, and annually thereafter, the oversight board for Whiting Forensic Hospital shall report, in accordance with the provisions of section11-4a, to the joint standing committee of the General Assembly having cognizance of matters relating to public health regarding the results of any investigation or recommendation made by the board pursuant to subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_565__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section.
+See Sec. 4-38f for definition of “administrative purposes only”.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

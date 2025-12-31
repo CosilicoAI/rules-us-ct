@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-798"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-798"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17a-798"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-798/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-798/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-798/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-798/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319l">
+        <num>319l</num>
+        <heading>Nursing Home Financial Assistance</heading>
+        <section eId="sec_17a_798">
+          <num>17a-798</num>
+          <heading>(Formerly Sec. 17b-666). Employment opportunities program for underserved persons with significant disabilities. Regulations</heading>
+          <subsection eId="17a_798__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The Department of Aging and Disability Services may receive state and federal funds to administer, within available appropriations, an employment opportunities program to serve individuals with the most significant disabilities who do not meet the eligibility requirements of supported employment programs administered by the Departments of Developmental Services, Social Services and Mental Health and Addiction Services. For the purposes of this section, “individuals with the most significant disabilities” means those individuals who</p>
+            </content>
+            <paragraph eId="17a_798__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>have serious employment limitations in a total of three or more functional areas including, but not limited to, mobility, communication, self-care, interpersonal skills, work tolerance or work skills, or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_798__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>will require significant ongoing disability-related services on the job in order to maintain employment.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17a_798__subsec_b">
+            <num>(b)</num>
+            <heading>The employment opportunities program shall provide extended services, as defined in 34 CFR 361</heading>
+            <content>
+              <p>5</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_798__subsec_b">
+            <num>(b)</num>
+            <paragraph eId="17a_798__subsec_b__subsec_19">
+              <num>(19)</num>
+              <content>
+                <p>, that are necessary for individuals with the most significant disabilities to maintain supported employment. Such services shall include coaching and other related services that allow participants to obtain and maintain employment and maximize economic self-sufficiency.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17a_798__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The Department of Aging and Disability Services shall adopt regulations, in accordance with chapter 54, to implement the provisions of this section.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

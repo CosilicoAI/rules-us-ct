@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-281c"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-281c"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17b-281c"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-281c/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-281c/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-281c/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-281c/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319v">
+        <num>319v</num>
+        <heading>Temporary Assistance for Needy Families</heading>
+        <section eId="sec_17b_281c">
+          <num>17b-281c</num>
+          <heading>Authority of commissioner to modify medical equipment fee schedules</heading>
+          <content>
+            <p>Sec. 17b-281c. Authority of commissioner to modify medical equipment fee schedules.The Commissioner of Social Services may modify the state medical assistance durable medical equipment, medical surgical supply, oxygen, orthotic and prosthetic devices and hearing aid fee schedules, applicable regulations, policies and procedures or purchase of service contracts to achieve any expenditure reductions adopted under public act 03-1 of the June 30 special session*. In the event that such modifications require revisions to any existing state regulations, the commissioner may make such modifications while in the process of adopting the modifications in regulation form provided the commissioner publishes notice of any modifications of regulations in the Connecticut Law Journal within twenty days of implementation of such modifications. Such modifications may include, but shall not be limited to: (1) A change in the reimbursement to customized manually priced devices to a formula based on a percentage of list or acquisition of costs; (2) a percentage reduction in payments to all other durable medical equipment, medical surgical supply, oxygen, orthotic and prosthetic devices and hearing aid providers; (3) the application of any rental costs for durable medical equipment when the department subsequently purchases the same equipment for a recipient; and (4) the selection of a vendor or vendors to be the providers of durable medical equipment, medical surgical supply, oxygen, orthotic and prosthetic devices and hearing aid services pursuant to a competitive bidding process. In no event shall any modifications to the state medical assistance fee schedules, regulations, policies and procedures or purchase of service contracts implemented by the commissioner pursuant to this section be estimated to achieve expenditure reductions in an amount less than adopted in public act 03-1 of the June 30 special session*.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

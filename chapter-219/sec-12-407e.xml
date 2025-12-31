@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-407e"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-407e"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-407e"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-407e/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-407e/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-407e/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-407e/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_219">
+        <num>219</num>
+        <heading>Motor Vehicle Fuels Tax</heading>
+        <section eId="sec_12_407e">
+          <num>12-407e</num>
+          <heading>Tax suspended for one week in August for sales of clothing or footwear of less than one hundred dollars</heading>
+          <subsection eId="12_407e__subsec_a">
+            <num>(a)</num>
+            <paragraph eId="12_407e__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>From the third Sunday in August until the Saturday next succeeding, inclusive, during the period beginning July 1, 2004, and ending June 30, 2015, the provisions of this chapter shall not apply to sales of any article of clothing or footwear intended to be worn on or about the human body the cost of which article to the purchaser is less than three hundred dollars.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_407e__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>On and after July 1, 2015, from the third Sunday in August until the Saturday next succeeding, inclusive, the provisions of this chapter shall not apply to sales of any article of clothing or footwear intended to be worn on or about the human body, the cost of which article to the purchaser is less than one hundred dollars.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_407e__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>For the purposes of this section, clothing or footwear shall not include</p>
+            </content>
+            <paragraph eId="12_407e__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>any special clothing or footwear primarily designed for athletic activity or protective use and which is not normally worn except when used for the athletic activity or protective use for which it was designed, and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_407e__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>jewelry, handbags, luggage, umbrellas, wallets, watches and similar items carried on or about the human body but not worn on the body in the manner characteristic of clothing intended for exemption under this section.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

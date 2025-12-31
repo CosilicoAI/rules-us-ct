@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-15b"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-15b"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-15b"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-15b/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-15b/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-15b/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-15b/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_201">
+        <num>201</num>
+        <heading>State and Local Revenue Services. Department of Revenue Services</heading>
+        <section eId="sec_12_15b">
+          <num>12-15b</num>
+          <heading>Disclosure of tax return information for outreach regarding health care coverage. Authorization by taxpayers. Limitations on disclosure</heading>
+          <subsection eId="12_15b__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The Commissioner of Revenue Services shall revise the tax return form prescribed under chapter 229 to include space on the tax return for residents to authorize the Connecticut Health Insurance Exchange to contact such residents regarding enrollment through the exchange. The commissioner, in consultation with the exchange, shall develop language to be included on the tax return form and include in the instructions accompanying the tax return a description of how the authorization provided will be relayed to the exchange.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_15b__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The Commissioner of Revenue Services, in consultation with the Commissioner of Social Services, shall enter into a memorandum of understanding with the exchange that sets forth the specific taxpayer information to be disclosed upon authorization pursuant to subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_15b__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section and contains the terms and conditions for such disclosure. Any return or return information disclosed by the commissioner shall not be redisclosed by the recipient to a third party without permission from the commissioner and shall only be used by the exchange in the manner prescribed in the memorandum of understanding.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

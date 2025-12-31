@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-567"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-567"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17a-567"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-567/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-567/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-567/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-567/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319i">
+        <num>319i</num>
+        <heading>Connecticut HUSKY Plan</heading>
+        <section eId="sec_17a_567">
+          <num>17a-567</num>
+          <heading>(Formerly Sec. 17-245). Disposition of defendant after report</heading>
+          <subsection eId="17a_567__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>If the report recommends that the defendant be sentenced in accordance with the conviction, placed on probation by the court or placed on probation by the court with the requirement, as a condition of such probation, that he receive outpatient psychiatric treatment, the defendant shall be returned directly to the court for disposition. If the report recommends sentencing in accordance with the conviction and confinement in the hospital for custody, care and treatment, then during the period between the submission of the report and the disposition of the defendant by the court such defendant shall remain at the hospital and may receive such custody, care and treatment as is consistent with his medical needs.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_567__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>If the report recommends confinement at the hospital for custody, care and treatment, the court shall set the matter for a hearing not later than fifteen days after receipt of the report. Any evidence, including the report ordered by the court, regarding the defendant's mental condition may be introduced at the hearing by either party. Any staff member of the diagnostic unit who participated in the examination of the defendant and who signed the report may testify as to the contents of the report. The defendant may waive the court hearing.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_567__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>If at such hearing the court finds the defendant is not in need of custody, care and treatment at the hospital, it shall sentence the defendant in accordance with the conviction or place the defendant on probation. If the court finds that the defendant is in need of outpatient psychiatric treatment, it may place the defendant on probation on condition that the defendant receive such treatment. If the court finds the defendant to have psychiatric disabilities and to be dangerous to himself, herself or others and to require custody, care and treatment at the hospital, it shall sentence the defendant in accordance with the conviction and order confinement in the hospital for custody, care and treatment provided no court may order such confinement if the report does not recommend confinement at the hospital. The defendant shall not be subject to custody, care and treatment under sections17a-560to17a-575, inclusive, beyond the maximum period specified in the sentence.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

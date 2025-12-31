@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-88a"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-88a"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-88a"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-88a/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-88a/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-88a/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-88a/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_203">
+        <num>203</num>
+        <heading>Property Tax Assessment</heading>
+        <section eId="sec_12_88a">
+          <num>12-88a</num>
+          <heading>Application of property tax to real property acquired by a quasi-public agency but not held or used for purposes of such quasi-public agency</heading>
+          <subsection eId="12_88a__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>As used in this section, “quasi-public agency” has the meaning as provided in subdivision</p>
+            </content>
+            <paragraph eId="12_88a__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>of section1-120.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_88a__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Notwithstanding any other provision of the general statutes exempting real property owned by a quasi-public agency from municipal property taxation, any real property acquired by a quasi-public agency for future use which is not during an assessment year held or used in furtherance of one or more purposes of such quasi-public agency under any provision of the general statutes or any other public purpose shall be subject to property taxation for such assessment year in the municipality in which such property is located provided each of the following conditions is satisfied:</p>
+            </content>
+            <paragraph eId="12_88a__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>Such property has been owned of record by the quasi-public agency for a period of at least one year prior to and including the assessment date for such assessment year,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_88a__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>such property is used during such assessment year for an income producing purpose,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_88a__subsec_b__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>such property would be subject to real property taxation under this chapter but for its ownership by the quasi-public agency, and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_88a__subsec_b__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>grants or payments in lieu of property taxes are not otherwise being made to the municipality with respect to such property by the quasi-public agency, the state or any other person pursuant to law or any agreement with such municipality.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

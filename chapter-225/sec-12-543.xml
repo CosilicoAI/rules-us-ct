@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-543"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-543"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-543"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-543/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-543/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-543/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-543/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_225">
+        <num>225</num>
+        <heading>Room Occupancy Tax</heading>
+        <section eId="sec_12_543">
+          <num>12-543</num>
+          <heading>Dues or initiation fees tax. Nature of tax. Exemptions</heading>
+          <subsection eId="12_543__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>There is hereby imposed a tax equivalent to ten per cent of any amount paid as dues or initiation fees to any social, athletic or sporting club. Such tax shall be imposed upon the club receiving such amounts. Reimbursement for such tax shall be collected by the club from the member. Such reimbursement, termed “tax”, shall be paid by the member to the club charging the dues or initiation fees. Such tax when added to the amounts charged shall be a debt from the member to the club charging such amounts and shall be recoverable at law. The amount of tax reimbursement, when so collected, shall be deemed to be a special fund in trust for the state of Connecticut.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_543__subsec_b">
+            <num>(b)</num>
+            <paragraph eId="12_543__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>A club shall be exempt from the dues tax if the annual dues of a member enjoying full privileges and any initiation fee required of such a member are each one hundred dollars or less.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_543__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>A club sponsored and controlled by a charitable or religious organization, a governmental agency or a nonprofit educational institution shall be exempt from the dues tax.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_543__subsec_b__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>Any society, order or association operating under the lodge system or any local fraternal organization among students of a college or university shall be exempt from the dues tax.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_543__subsec_b__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>Lawn bowling clubs shall be exempt from the dues tax.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

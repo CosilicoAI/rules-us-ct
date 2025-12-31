@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-34e"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-34e"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-34e"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-34e/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-34e/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-34e/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-34e/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_201">
+        <num>201</num>
+        <heading>State and Local Revenue Services. Department of Revenue Services</heading>
+        <section eId="sec_12_34e">
+          <num>12-34e</num>
+          <heading>Collection of tax owed to other state or the District of Columbia. Certification. Notice. Protest. Agreements with other states</heading>
+          <subsection eId="12_34e__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>For purposes of this section:</p>
+            </content>
+            <paragraph eId="12_34e__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>“Taxpayer” means any person identified by a claimant state under this section as owing taxes to such claimant state;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_34e__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>“Claimant state” means any other state or the District of Columbia that allows the commissioner, in cases where a taxpayer owes taxes to this state, to certify that such tax is owed and to request the tax officer of such other state or such district to collect such taxes owed to this state and provides for the payment of such collected amount to this state;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_34e__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>“Taxes” means any amount of tax imposed under the laws of the claimant state, including additions to tax for penalties and interest, which is finally due and payable to the claimant state by a taxpayer, and with respect to which any administrative or judicial remedies, or both, have been exhausted or have lapsed, and which is legally enforceable under the laws of the claimant state against the taxpayer, whether or not there is an outstanding judgment for such sum;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_34e__subsec_a__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>“Tax officer” means a unit or official of a claimant state, or the duly authorized agent of such unit or official, charged with the imposition, assessment or collection of taxes of that state; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_34e__subsec_a__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>“Commissioner” means the Commissioner of Revenue Services.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_34e__subsec_b">
+            <num>(b)</num>
+            <paragraph eId="12_34e__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>Upon the request and certification of the tax officer of a claimant state to the commissioner that a taxpayer owes taxes to such claimant state, the commissioner may, through the exercise of the commissioner's power and authority under section12-35, collect such taxes in the same manner that the commissioner would collect such taxes if they were due and payable to this state, and shall pay over such collected amount to the claimant state in accordance with the provisions of this section. The commissioner shall not collect such taxes unless the laws of the claimant state (A) allow the commissioner, in cases where a taxpayer owes taxes to this state, to certify that such tax is owed and to request the tax officer of the claimant state to collect such taxes owed to this state, and (B) provide for the payment of such collected amount to this state.</p>
+              </content>
+              <subparagraph eId="12_34e__subsec_b__subsec_1__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>allow the commissioner, in cases where a taxpayer owes taxes to this state, to certify that such tax is owed and to request the tax officer of the claimant state to collect such taxes owed to this state, and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_34e__subsec_b__subsec_1__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>provide for the payment of such collected amount to this state.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_34e__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>Such certification shall include (A) the full name and address of the taxpayer; (B) the taxpayer's Social Security number or federal employer identification number; (C) the amount of the tax for the taxable period sought to be collected, including a detailed statement for each taxable period showing tax, interest and penalty; (D) a statement whether the taxpayer filed a tax return with the claimant state for such tax, and, if so, whether such tax return was filed under protest; and (E) a statement that any administrative or judicial remedies, or both, have been exhausted or have lapsed and that the amount of taxes is legally enforceable under the laws of such state against the taxpayer.</p>
+              </content>
+              <subparagraph eId="12_34e__subsec_b__subsec_2__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>the full name and address of the taxpayer;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_34e__subsec_b__subsec_2__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>the taxpayer's Social Security number or federal employer identification number;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_34e__subsec_b__subsec_2__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>the amount of the tax for the taxable period sought to be collected, including a detailed statement for each taxable period showing tax, interest and penalty;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_34e__subsec_b__subsec_2__subsec_D">
+                <num>(D)</num>
+                <content>
+                  <p>a statement whether the taxpayer filed a tax return with the claimant state for such tax, and, if so, whether such tax return was filed under protest; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_34e__subsec_b__subsec_2__subsec_E">
+                <num>(E)</num>
+                <content>
+                  <p>a statement that any administrative or judicial remedies, or both, have been exhausted or have lapsed and that the amount of taxes is legally enforceable under the laws of such state against the taxpayer.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_34e__subsec_b__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>Upon receipt by the commissioner of the required certification, he or she shall notify the taxpayer by first-class mail to the taxpayer's last-known address that he or she has received a request from the claimant state to collect taxes from the taxpayer, that the taxpayer has the right to protest the collection of such taxes by the commissioner for the claimant state, that failure to file a protest in accordance with subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_34e__subsec_b__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>of this subsection shall constitute a waiver of any demand against this state on account of the collection of such taxes and that the amount, upon collection, will be paid over to the claimant state. The notice shall include a copy of the certification by the tax officer of such claimant state. Sixty days after the date on which it is mailed, a notice under this subdivision shall be final except only for such amounts as to which the taxpayer has filed, as provided in subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_34e__subsec_b__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>of this subsection, a written protest with the commissioner.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_34e__subsec_b__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>Any taxpayer notified in accordance with subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_34e__subsec_b__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>of this subsection may, on or before the sixtieth day after the mailing of such notice by the commissioner, protest the collection of all or a portion of such taxes by filing with the commissioner a written protest in which the taxpayer shall set forth the grounds on which the protest is based. If a timely protest is filed, the commissioner shall refrain from collecting such taxes and shall send a copy of the protest to the claimant state for determination of the protest on its merits in accordance with the laws of such state. In the case of a taxpayer that did not file a tax return for the tax for the taxable period sought to be collected and where the amount of taxes owed to the claimant state is based on an assessment made against the taxpayer by the tax officer of the claimant state, and where the taxpayer has filed a timely protest under this subdivision, the commissioner shall require the claimant state to certify that the assessment was contested before and adjudicated by an administrative or judicial tribunal of competent jurisdiction in the claimant state. If the commissioner is satisfied that the taxpayer's written protest is based on a bona fide contention that the claimant state did not have jurisdiction to tax the taxpayer, the commissioner shall require the claimant state to certify that the assessment was contested before and adjudicated by a judicial tribunal of competent jurisdiction in the claimant state. If the claimant state fails, on or before the forty-fifth day after the sending of the copy of the protest by the commissioner to such claimant state, to certify to the commissioner that the claimant state has reviewed the stated grounds on which the protest is based, and to renew the certification described in subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_34e__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>of this subsection, the commissioner shall not collect such taxes. If such certifications are made within such time period, and if the commissioner is satisfied that such certifications are true, accurate and complete, the commissioner shall collect such tax.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_34e__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The commissioner may enter into agreements with the tax officers of claimant states relating to:</p>
+            </content>
+            <paragraph eId="12_34e__subsec_c__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>Procedures and methods to be employed by a claimant state with respect to the operation of this section,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_34e__subsec_c__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>safeguards against the disclosure or inappropriate use of any information that identifies, directly or indirectly, a particular taxpayer obtained or maintained pursuant to this section, and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_34e__subsec_c__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>a minimum threshold for the amount of taxes owed by a taxpayer to a claimant state that would trigger the operation of this section.
+See Sec. 12-35c re Attorney General's authority to bring suit in other states to recover taxes due this state or its political subdivisions and reciprocity granted to other states.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

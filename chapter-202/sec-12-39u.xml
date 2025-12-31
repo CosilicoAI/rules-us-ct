@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-39u"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-39u"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-39u"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-39u/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-39u/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-39u/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-39u/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_202">
+        <num>202</num>
+        <heading>Collection of State Taxes</heading>
+        <section eId="sec_12_39u">
+          <num>12-39u</num>
+          <heading>Offsetting of overpayments and underpayments of taxes</heading>
+          <content>
+            <p>Sec. 12-39u. Offsetting of overpayments and underpayments of taxes.In making an assessment or in allowing a claim for refund, the commissioner may, in the commissioner's discretion, offset overpayments of a tax for a taxable period or periods against underpayments of the same tax for another taxable period or periods. If the commissioner exercises the commissioner's discretion under this section, the interest on such underpayments and overpayments shall be computed on the basis of one per cent per month or fraction thereof but only to the extent that, for the same period of time, interest is payable and otherwise allowable on equivalent underpayments and overpayments. If interest is not otherwise allowable on overpayments of the tax, interest shall be treated as allowable for purposes of this section on equivalent underpayments and overpayments. Nothing in this section shall be construed to require the payment of interest where overpayments of the tax exceed underpayments of the tax.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-6"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-6"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-6"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-6/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-6/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-6/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-6/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_201">
+        <num>201</num>
+        <heading>State and Local Revenue Services. Department of Revenue Services</heading>
+        <section eId="sec_12_6">
+          <num>12-6</num>
+          <heading>Audit of municipal accounts upon application of state's attorney</heading>
+          <content>
+            <p>Sec. 12-6. Audit of municipal accounts upon application of state's attorney.The state's attorney of any judicial district may make application to the Secretary of the Office of Policy and Management showing that he has reason to believe that one or more of the officials, agents or employees of a municipality or any subdivision thereof situated within such judicial district has falsified any books of account or record, or has appropriated any moneys to his own use or to the use of others who are not entitled to the same, or has drawn any order on the treasurer or custodian of the funds of such municipality, or any subdivision thereof, with intent to defraud such municipality, or such subdivision, and thereupon the secretary shall cause an audit to be made of the records of such municipality. Upon completion of any such audit, the secretary shall transmit to such state's attorney a certified copy of his report showing the results thereof. The cost of such audit shall be borne equally by such municipality and the state. The custodian of any books of account or record who hinders or refuses to deliver the same upon demand of the secretary, or of any agent or employee of said secretary thereunto duly authorized, shall be guilty of a class D misdemeanor.
+See Sec. 12-1c re transfer of certain functions, powers and duties under this chapter to the Secretary of the Office of Policy and Management.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

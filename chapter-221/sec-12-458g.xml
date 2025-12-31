@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-458g"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-458g"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-458g"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-458g/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-458g/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-458g/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-458g/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_221">
+        <num>221</num>
+        <heading>Real Estate Conveyance Tax</heading>
+        <section eId="sec_12_458g">
+          <num>12-458g</num>
+          <heading>Diesel inventory tax as of July 1, 2002</heading>
+          <subsection eId="12_458g__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>An excise tax is hereby imposed upon each person licensed to sell fuel under the provisions of section14-319in the amount of eight cents per gallon of diesel fuel in such licensee's inventory on July 31, 2002.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_458g__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Each such licensee shall, not later than September 1, 2002, file with the Commissioner of Revenue Services, on forms prescribed by said commissioner, a report which shall show the number of gallons of diesel fuel in inventory as of the close of business on July 31, 2002, or, if the business closes after 11:59 p.m. on such date, at 11:59 p.m. on such date, and shall, not later than September 1, 2002, pay such tax based upon the total gallonage shown on such report. Interest at the rate of one per cent per month or fraction thereof shall be assessed on the amount of such tax not paid when due, from the date such tax became due to the date of payment. The Commissioner of Motor Vehicles shall cooperate with the Commissioner of Revenue Services in the enforcement of this tax. Failure to file such report and pay the tax when due shall be sufficient reason to revoke any state license or permit held by such person. Failure to file such report shall be treated as a failure to file a report required to be filed under the provisions of this chapter. The filing of an incorrect report shall be treated as the filing of an incorrect report under the provisions of this chapter.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

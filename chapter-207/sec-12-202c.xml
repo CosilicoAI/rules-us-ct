@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-202c"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-202c"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-202c"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-202c/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-202c/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-202c/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-202c/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_207">
+        <num>207</num>
+        <heading>Gift Tax</heading>
+        <section eId="sec_12_202c">
+          <num>12-202c</num>
+          <heading>Supplemental payments to providers of HUSKY coverage</heading>
+          <subsection eId="12_202c__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Any company filing the annual return required under section12-205for the income year commencing January 1, 2001, that, except for the amendment to section12-202bmade by section 4 of public act 02-3 providing for the repeal of the tax credit with respect to income years commencing on or after January 1, 2001, would have been entitled to take a credit under section12-202b, shall be entitled for the fiscal year ending June 30, 2002, to a supplemental payment. The amount of the supplemental payment shall be equal to the amount of the credit the company would have received, provided such company, together with the final return, pays the full amount of the tax that is due and provides to the commissioner the computation of the amount of credit that could have been taken.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_202c__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>For the fiscal year ending June 30, 2003, any company that received a payment under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_202c__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section shall be entitled to an additional supplemental payment equal to thirty-six dollars and seventy-five cents multiplied by the sum of the number of persons provided health care coverage by the taxpayer under the HUSKY Health program, as defined in section17b-290, on the first day of each month, January to June, inclusive, of 2002, divided by six.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

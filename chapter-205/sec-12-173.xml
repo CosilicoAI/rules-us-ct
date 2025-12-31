@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-173"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-173"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-173"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-173/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-173/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-173/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-173/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_205">
+        <num>205</num>
+        <heading>Tax Liens</heading>
+        <section eId="sec_12_173">
+          <num>12-173</num>
+          <heading>Certificate continuing lien. Discharge. Valid notice</heading>
+          <subsection eId="12_173__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The collector of each municipality, by pursuing the method authorized by either section12-174or12-175, may continue any tax lien existing against any item of real estate to secure the payment of the tax assessed by such municipality thereon or of any obligation to make a payment in lieu of any such tax, as defined in section12-171, as such tax has been increased by legal interest, fees and charges, by making out and filing, within the time limited by section12-174or12-175, in the office of the town clerk of the town wherein such real estate is situated, a certificate containing the following information:</p>
+            </content>
+            <paragraph eId="12_173__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>The name of the person against whom such tax appears in the rate bill;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_173__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>a description of such real estate;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_173__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>the principal of such tax due thereon, the amount of which, with interest, if any, and fees and other charges, is secured by such lien;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_173__subsec_a__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>the date or dates when the principal of such tax became due; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_173__subsec_a__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>a statement giving notice of his intention to file a lien pursuant to sections12-172and49-73ato49-73i, inclusive, against the proceeds of any policy of insurance providing coverage for loss or damage caused by fire, if a loss or damage has occurred. The town clerk shall record such certificate in the land records. Any tax lien so continued, when the tax has been paid with interest, fees and charges as provided by law, shall be discharged by a certificate of the then collector of taxes. Such certificate of release shall be delivered by such collector to the town clerk, who shall record it in the land records.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_173__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>A certificate continuing a tax lien under this section, filed in a timely manner, provides valid notice of the continuance of the lien to a subsequent purchaser or encumbrancer if the recorded certificate is sufficient to place a subsequent purchaser or encumbrancer on notice of the existence and extent of that lien, notwithstanding any error, irregularity or omission in that certificate. A certificate that erroneously states the amount due provides valid notice to a subsequent purchaser or encumbrancer up to the amount stated or the amount actually due, whichever is less.
+See Sec. 7-34a re town clerks' fees.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

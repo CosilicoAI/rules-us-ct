@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-503"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-503"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17a-503"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-503/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-503/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-503/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-503/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319i">
+        <num>319i</num>
+        <heading>Connecticut HUSKY Plan</heading>
+        <section eId="sec_17a_503">
+          <num>17a-503</num>
+          <heading>(Formerly Sec. 17-183a). Detention by police officer prior to commitment. Issuance of emergency certificates by psychologist, certain clinical social workers, advanced practice registered nurses, professional counselors and marital and family therapists and in correctional facilities</heading>
+          <subsection eId="17a_503__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Any police officer who has reasonable cause to believe that a person has psychiatric disabilities and is dangerous to himself or herself or others or gravely disabled, and in need of immediate care and treatment, may take such person into custody and take or cause such person to be taken to a general hospital for emergency examination under this section. The officer shall execute a written request for emergency examination detailing the circumstances under which the person was taken into custody, and such request shall be left with the facility. The person shall be examined within twenty-four hours and shall not be held for more than seventy-two hours unless committed under section17a-502.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_503__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Upon application by any person to the court of probate having jurisdiction in accordance with section17a-497, alleging that any respondent has psychiatric disabilities and is dangerous to himself or herself or others or gravely disabled, and in need of immediate care and treatment in a hospital for psychiatric disabilities, such court may issue a warrant for the apprehension and bringing before it of such respondent and examine such respondent. If the court determines that there is probable cause to believe that such person has psychiatric disabilities and is dangerous to himself or herself or others or gravely disabled, the court shall order that such respondent be taken to a general hospital for examination. The person shall be examined within twenty-four hours and shall not be held for more than seventy-two hours unless committed under section17a-502.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_503__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Any psychologist licensed under chapter 383 who has reasonable cause to believe that a person has psychiatric disabilities and is dangerous to himself or herself or others or gravely disabled, and in need of immediate care and treatment, may issue an emergency certificate in writing that authorizes and directs that such person be taken to a general hospital for purposes of a medical examination. The person shall be examined within twenty-four hours and shall not be held for more than seventy-two hours unless committed under section17a-502.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_503__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Any clinical social worker licensed under chapter 383b, advanced practice registered nurse licensed under chapter 378, professional counselor licensed under chapter 383c or marital and family therapist licensed under chapter 383 who</p>
+            </content>
+            <paragraph eId="17a_503__subsec_d__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>has received a minimum of eight hours of specialized training in the conduct of direct evaluations as a member of (A) any mobile crisis team, jail diversion program, crisis intervention team, advanced supervision and intervention support team, or assertive case management program operated by or under contract with the Department of Mental Health and Addiction Services, or (B) a community support program certified by the Department of Mental Health and Addiction Services, and</p>
+              </content>
+              <subparagraph eId="17a_503__subsec_d__subsec_1__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>any mobile crisis team, jail diversion program, crisis intervention team, advanced supervision and intervention support team, or assertive case management program operated by or under contract with the Department of Mental Health and Addiction Services, or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17a_503__subsec_d__subsec_1__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>a community support program certified by the Department of Mental Health and Addiction Services, and</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="17a_503__subsec_d__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>based upon the direct evaluation of a person, has reasonable cause to believe that such person has psychiatric disabilities and is dangerous to himself or herself or others or gravely disabled, and in need of immediate care and treatment, may issue an emergency certificate in writing that authorizes and directs that such person be taken to a general hospital for purposes of a medical examination. The person shall be examined not later than twenty-four hours after arriving at the hospital and shall not be held at the hospital for more than seventy-two hours unless committed under section17a-502. The Commissioner of Mental Health and Addiction Services shall collect and maintain statistical and demographic information pertaining to emergency certificates issued under this subsection.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17a_503__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>Each advanced practice registered nurse licensed under chapter 378 and employed by the Department of Correction to provide mental health care in a correctional facility who, based on direct evaluation of an inmate, has reasonable cause to believe that such inmate has psychiatric disabilities and is dangerous to himself or herself or others or is gravely disabled, and in need of immediate care and treatment, may issue an emergency certificate in writing that authorizes and directs that such inmate be taken to a general hospital for purposes of medical examination. The inmate shall be examined within twenty-four hours and shall not be held for more than seventy-two hours unless committed under section17a-502. The Commissioner of Correction shall collect and maintain statistical and demographic information pertaining to emergency certificates issued under this subsection.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-217e"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-217e"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-217e"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-217e/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-217e/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-217e/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-217e/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_208">
+        <num>208</num>
+        <heading>Estate Taxes</heading>
+        <section eId="sec_12_217e">
+          <num>12-217e</num>
+          <heading>Tax credits for certain manufacturing, service and eligible facilities. No credit to be first claimed for income years commencing on or after January 1, 2018</heading>
+          <subsection eId="12_217e__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>There shall be allowed as a credit against the tax imposed by this chapter an amount equal to twenty-five per cent of that portion of such tax which is allocable to any manufacturing facility, provided, for any such facility which is located in an enterprise zone designated pursuant to section32-70or in a municipality with an entertainment district designated under section32-76or established under section 2 of public act 93-311* and which became eligible as a manufacturing facility after the designation of such zone and for which not less than one hundred fifty full-time employees or thirty per cent of the full-time employment positions directly attributable to the manufacturing facility were, during the last quarter of the income year of the taxpayer, held by employees of the taxpayer who at the time of employment were</p>
+            </content>
+            <paragraph eId="12_217e__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>residents of such zone, or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_217e__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>residents of such municipality and eligible for training under the Federal Comprehensive Employment Training Act or any other training program that may replace the Comprehensive Employment Training Act, a credit of fifty per cent shall be allowed. A position is directly attributable to the manufacturing facility if: (A) The work is performed or the base of operations is at the facility; (B) the position did not exist prior to the construction, renovation, expansion or acquisition of the facility; and (C) but for the construction, renovation, expansion or acquisition of the facility, the position would not have existed, provided nothing in this section shall preclude a position from being considered directly attributable to a manufacturing facility if such position formerly existed in an eligible manufacturing facility in the same municipality under section32-9p. For income years commencing on and after January 1, 2012, the credit under this section for that portion of the tax imposed by this chapter, which is allocable to any manufacturing facility shall be available under the same terms and conditions to that portion of such tax which is allocable to an eligible facility. For purposes of this section, “eligible facility” means any facility described in subparagraph (D) of subdivision</p>
+              </content>
+              <subparagraph eId="12_217e__subsec_a__subsec_2__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>The work is performed or the base of operations is at the facility;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_217e__subsec_a__subsec_2__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>the position did not exist prior to the construction, renovation, expansion or acquisition of the facility; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_217e__subsec_a__subsec_2__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>but for the construction, renovation, expansion or acquisition of the facility, the position would not have existed, provided nothing in this section shall preclude a position from being considered directly attributable to a manufacturing facility if such position formerly existed in an eligible manufacturing facility in the same municipality under section32-9p. For income years commencing on and after January 1, 2012, the credit under this section for that portion of the tax imposed by this chapter, which is allocable to any manufacturing facility shall be available under the same terms and conditions to that portion of such tax which is allocable to an eligible facility. For purposes of this section, “eligible facility” means any facility described in subparagraph</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_217e__subsec_a__subsec_2__subsec_D">
+                <num>(D)</num>
+                <content>
+                  <p>of subdivision</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_217e__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_217e__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>of section32-9p.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_217e__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>There shall be allowed as a credit against the tax imposed by this chapter an amount equal to the following percentage of that portion of such tax which is allocable to any service facility:</p>
+            </content>
+            <paragraph eId="12_217e__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>Fifteen per cent, if there are three hundred or more but not more than five hundred ninety-nine new employees working at such facility;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_217e__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>twenty per cent if there are six hundred or more but not more than eight hundred ninety-nine new employees working at such facility;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_217e__subsec_b__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>twenty-five per cent, if there are nine hundred or more but not more than one thousand one hundred ninety-nine new employees working at such facility;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_217e__subsec_b__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>thirty per cent if there are one thousand two hundred or more but not more than one thousand four hundred ninety-nine new employees working at such facility;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_217e__subsec_b__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>forty per cent, if there are one thousand five hundred or more but not more than one thousand nine hundred ninety-nine new employees working at such facility; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_217e__subsec_b__subsec_6">
+              <num>(6)</num>
+              <content>
+                <p>fifty per cent if there are two thousand or more new employees working at such facility. As used in this subsection: (A) “New employee” means a person hired by a taxpayer to fill a position for a new job or a person shifted from an existing location of the taxpayer outside this state to a service facility in this state, provided</p>
+              </content>
+              <subparagraph eId="12_217e__subsec_b__subsec_6__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>“New employee” means a person hired by a taxpayer to fill a position for a new job or a person shifted from an existing location of the taxpayer outside this state to a service facility in this state, provided</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_217e__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>in no case shall the total number of new employees allowed for purposes of this credit exceed the total increase in the taxpayer's employment in this state, which increase shall be the difference between (I) the number of employees employed by the taxpayer in this state at the time of application to the Commissioner of Revenue Services for such credit plus the number of new employees who would be eligible for inclusion under the credit allowed under this subsection without regard to this calculation, and (II) the highest number of employees employed by the taxpayer in this state in the year preceding the taxpayer's application to the Commissioner of Revenue Services for such credit, and (ii) a person shall be deemed to be a “new employee” only if such person's duties in connection with the operation of the facility are on a regular, full-time or equivalent or full-time and permanent basis; and (B) “new job” means a job that did not exist in the business of a taxpayer in this state prior to the taxpayer's application to the Commissioner of Revenue Services for such credit and that is filled by a new employee, but does not include a job created when an employee is shifted from an existing location of the taxpayer in this state to a service facility.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_217e__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The portion of such tax which is allocable to such a manufacturing facility, service facility or eligible facility shall be determined by multiplying such tax by a fraction computed as the simple arithmetical mean of the following fractions: First, a fraction the numerator of which is the average monthly net book value in the income year of the manufacturing facility, service facility or eligible facility, and machinery and equipment acquired for and installed in the manufacturing facility, service facility or eligible facility, without deduction on account of any encumbrance thereon, or if rented to the taxpayer, the value of the manufacturing facility, service facility or eligible facility, and machinery and equipment acquired for and installed in the manufacturing facility, service facility or eligible facility, computed by multiplying the gross rents payable by the taxpayer for the manufacturing facility, service facility or eligible facility, and such machinery and equipment during the income year or period by eight, and the denominator of which is the sum of the average monthly net book value of all real property and machinery and equipment held and owned by the taxpayer in the state, without deduction on account of any encumbrance thereon and the value of all real property and machinery and equipment rented to the taxpayer in the state, computed by multiplying the gross rents payable during the income year by eight; and second, a fraction the numerator of which is all wages, salaries and other compensation paid during the income year to employees of the taxpayer whose positions are directly attributable to the manufacturing facility, service facility or eligible facility and the denominator of which is the wages, salaries and other compensation paid during the income year to all employees of the taxpayer in the state. An employee's position is directly so attributable if</p>
+            </content>
+            <paragraph eId="12_217e__subsec_c__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>the employee's service is performed or his base of operations is at the manufacturing facility, service facility or eligible facility,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_217e__subsec_c__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>the position did not exist prior to the construction, renovation, expansion or acquisition of the manufacturing facility, service facility or eligible facility, and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_217e__subsec_c__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>but for the construction, renovation, expansion or acquisition of the manufacturing facility, service facility or eligible facility the position would not have existed. For the purposes of this subsection, “gross rents” means gross rents as defined in section12-218.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_217e__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>The credit allowed by this section may be claimed only by the initial occupant or occupants of the manufacturing facility, service facility or eligible facility. The owner of the manufacturing facility, service facility or eligible facility may not claim the credit unless the owner is also an occupant. The credit may first be claimed on the tax return for the taxpayer's income year which begins during the calendar year next succeeding the calendar year in which the taxpayer was issued an eligibility certificate, and may be claimed in each of the following nine income years. If within such period, however, any facility for which an eligibility certificate has been issued ceases to qualify as a manufacturing facility, service facility or eligible facility, or any occupant of a manufacturing facility, service facility or eligible facility ceases to be an occupant, the entitlement to the credit allowed by this section shall terminate in the income year in which the qualification or occupancy ceases, and there shall not be a pro rata application of the credit to such income year. No credit allowed by this section may be first claimed for any income year commencing on or after January 1, 2018.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_217e__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>Any subsequent occupant or occupants of a manufacturing facility, service facility or eligible facility for which an eligibility certificate has been issued may claim the credit allowed by this section in accordance with subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_217e__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of this section but only after obtaining a new eligibility certificate with respect to the manufacturing facility, service facility or eligible facility being occupied in the manner provided in section32-9r.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_217e__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>The Commissioner of Economic and Community Development shall, upon request, provide a copy of the applicable eligibility certificate to the Commissioner of Revenue Services.
+See Sec. 32-9p for definitions of “manufacturing facility” and “service facility”.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

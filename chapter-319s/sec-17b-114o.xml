@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-114o"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-114o"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17b-114o"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-114o/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-114o/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-114o/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-114o/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319s">
+        <num>319s</num>
+        <heading>Connecticut Partnership for Long-Term Care</heading>
+        <section eId="sec_17b_114o">
+          <num>17b-114o</num>
+          <heading>Submission of federal TANF expenditure report to legislative committees</heading>
+          <content>
+            <p>Sec. 17b-114o. Submission of federal TANF expenditure report to legislative committees.The expenditure report relative to the temporary assistance for needy families block grant required to be submitted by the Commissioner of Social Services to the federal Department of Health and Human Services shall be transmitted to the joint standing committees of the General Assembly having cognizance of matters relating to human services and appropriations and the budgets of state agencies within forty-five days of the date of such submission. Such report for the last quarter of the fiscal year shall include the identification of unliquidated obligations either identified in previous quarterly reports for the same fiscal year and claimed before the prior quarterly report or those not yet claimed by the commissioner for the purposes of receiving federal reimbursement. In the event that such report identifies any unliquidated obligations, the commissioner shall notify said committees of the commissioner's intention concerning the disposition of such unliquidated obligations, which may include establishing or contributing to a reserve account to meet future needs in the temporary family assistance program.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)
+GENERAL ASSISTANCE</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

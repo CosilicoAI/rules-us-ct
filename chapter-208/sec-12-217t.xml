@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-217t"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-217t"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-217t"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-217t/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-217t/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-217t/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-217t/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_208">
+        <num>208</num>
+        <heading>Estate Taxes</heading>
+        <section eId="sec_12_217t">
+          <num>12-217t</num>
+          <heading>Tax credit for personal property taxes paid on electronic data processing equipment</heading>
+          <subsection eId="12_217t__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>There shall be allowed as a credit against the tax imposed by chapter 207, this chapter, chapter 208a, 209, 210, 211, or 212 or against the tax imposed pursuant to section12-202ain an amount determined under the provisions of subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_217t__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section with respect to the personal property taxes paid during any income year, on electronic data processing equipment. For the purposes of this section “electronic data processing equipment” means computers, printers, peripheral computer equipment, bundled software and any computer-based equipment acting as a computer as defined under Section 168 of the Internal Revenue Code of 1986, or any subsequent corresponding internal revenue code of the United States, as from time to time amended, and any other such equipment reported as a Code 20 on the Personal Property Declaration as prescribed by the Secretary of the Office of Policy and Management pursuant to section12-27.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_217t__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The amount allowed as a credit in any income year shall be the full amount of the tax on such electronic data processing equipment paid pursuant to section12-71or12-80a, and as defined under Section 168 of the Internal Revenue Code of 1986, or any subsequent corresponding internal revenue code of the United States, as from time to time amended, provided no credit shall be allowed for the payment of any interest or penalty on the tax.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_217t__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The credit provided for by this section shall be allowed for any taxes owed on the grand list of October 1, 1994, and each grand list annually thereafter or included in the list prescribed under section12-80afor such grand list. Such credits shall first be used by the taxpayer against the corporation business tax under this chapter, if any, and then may be used against any tax paid by the taxpayer under the provisions of chapter 207, 208a, 209, 210, 211 or 212 or the tax imposed upon a health care center under section12-202a. The amount of credits allowable under this section in any tax year against the taxes imposed by chapter 207, 208, 208a, 209, 210, 211 or 212 or against the tax imposed on health care centers, under the provisions of section12-202a, shall be allowable only after all other credits allowable against such taxes for such tax year have been applied.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_217t__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>In the case of leased electronic data processing equipment, the lessee, not the lessor, shall be entitled to claim the credit allowed pursuant to this section if the lease by its terms or operation imposes on the lessee the cost of the personal property taxes on such equipment, provided the lessor and lessee may elect, in writing, that the lessor may claim the credit provided by this section. The lessor shall provide a copy of such election to the Commissioner of Revenue Services, upon the request of said commissioner.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_217t__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>In the case of taxpayers filing a combined unitary tax return pursuant to section12-222, the credit provided by this section shall be allowed on a combined basis, such that the amount of personal property taxes paid by such taxpayers with respect to such equipment may be claimed as a tax credit against the combined unitary tax liability of such taxpayers as determined under this chapter. Credits available to taxpayers which are subject to tax under this chapter but not subject to tax under chapter 207, 208a, 209, 210, 211 or 212 or the tax imposed on health care centers under the provisions of section12-202ashall be used prior to credits of companies included in such combined unitary tax return which are also subject to tax under said chapter 207, 208a, 209, 210, 211 or 212 or the tax imposed upon health centers pursuant to the provisions of section12-202a.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_217t__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>If the amount of credit allowable under this section exceeds the sum of</p>
+            </content>
+            <paragraph eId="12_217t__subsec_f__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>the corporation business tax, if any, and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_217t__subsec_f__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>any taxes imposed by chapter 207, 208a, 209, 210, 211 or 212 paid by the taxpayer, after all other credits allowable against such taxes have first been applied, then any balance of the credit allowable under this section remaining may be taken in any of the five succeeding income years.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

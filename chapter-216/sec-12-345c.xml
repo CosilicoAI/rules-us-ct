@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-345c"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-345c"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-345c"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-345c/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-345c/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-345c/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-345c/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_216">
+        <num>216</num>
+        <heading>Sales and Use Taxes</heading>
+        <section eId="sec_12_345c">
+          <num>12-345c</num>
+          <heading>Taxable transfer made, when</heading>
+          <subsection eId="12_345c__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>a general power of appointment created on or before October 21, 1942, is exercised by the decedent</p>
+            </content>
+            <paragraph eId="12_345c__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>by will, or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_345c__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>by a disposition which is of such nature that if it were a transfer of property owned by the decedent, such property would be taxable under the provisions of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_345c__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>or</p>
+            </content>
+          </subsection>
+          <subsection eId="12_345c__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>of section12-341b; but the failure to exercise such a power or the complete release of such a power shall not be deemed an exercise thereof. If a general power of appointment created on or before October 21, 1942, has been partially released so that it is no longer a general power of appointment, the exercise of such power shall not be deemed to be the exercise of a general power of appointment if such partial release occurred before November 1, 1951, or if the donee of such power was under a legal disability to release such power and such partial release occurred not later than six months after the termination of such legal disability; or</p>
+            </content>
+          </subsection>
+          <subsection eId="12_345c__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>the decedent has at the time of his death a general power of appointment, created after October 21, 1942, irrespective of whether he has exercised such power of appointment, or with respect to which the decedent has at any time exercised or released such a general power of appointment by a disposition which is of such nature that if it were a transfer of property owned by the decedent, such property would be taxable under the provisions of subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_345c__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>or</p>
+            </content>
+          </subsection>
+          <subsection eId="12_345c__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>of section12-341b. A disclaimer or renunciation of a general power of appointment shall not be deemed a release of such power. For purposes of this section the power of appointment shall be considered to exist on the date of the decedent's death even though the exercise of the power is subject to a precedent giving of notice or even though the exercise of the power takes effect only on the expiration of a stated period after its exercise, whether or not on or before the date of the decedent's death notice has been given or the power has been exercised; or</p>
+            </content>
+          </subsection>
+          <subsection eId="12_345c__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>the decedent</p>
+            </content>
+            <paragraph eId="12_345c__subsec_c__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>by will, or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_345c__subsec_c__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>by a disposition which is of such nature that if it were a transfer of property owned by the decedent such property would be taxable under the provisions of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_345c__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>or</p>
+            </content>
+          </subsection>
+          <subsection eId="12_345c__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>of section12-341b, exercises a power of appointment created after October 21, 1942, by creating another power of appointment which can be validly exercised so as to postpone the vesting of any estate or interest in such property, or suspend the absolute ownership or power of alienation of such property, for a period ascertainable without regard to the date of the creation of the first power.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

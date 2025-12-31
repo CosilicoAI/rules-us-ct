@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-461a"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-461a"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-461a"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-461a/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-461a/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-461a/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-461a/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_221">
+        <num>221</num>
+        <heading>Real Estate Conveyance Tax</heading>
+        <section eId="sec_12_461a">
+          <num>12-461a</num>
+          <heading>Fuel held or transported with intent to avoid tax. Declared contraband. Seizure and sale thereof</heading>
+          <content>
+            <p>Sec. 12-461a. Fuel held or transported with intent to avoid tax. Declared contraband. Seizure and sale thereof.Any fuel subject to tax imposed under this chapter, which in the course of transport within the state is not properly supported by invoice or delivery tickets as required by section12-461band which is in the possession, custody or control of any person for purposes of being consumed, sold or transported in this state, with intent to evade or violate the provisions of this chapter or avoid payment of the tax imposed hereunder and any truck, tractor, trailer, vessel, conveyance or other vehicle used in the transportation of such fuel and all other paraphernalia, equipment or other tangible personal property, incident to use for such purposes, found in the place, building, truck, tractor, trailer, vessel, conveyance or other vehicle where such fuel is found, are declared to be contraband goods; and any house, building or other premises and any vehicle or other conveyance suspected of containing such contraband goods may be searched under due process of law; and any such contraband goods may be seized by the commissioner, his agents or employees, or by any peace officer of this state when directed by the commissioner to do so, without a warrant, provided nothing herein shall be construed to require the commissioner to confiscate fuel or property when he has reason to believe that the owner, consignee or consignor thereof is not wilfully or intentionally evading the tax imposed under this chapter. Any property seized under the provisions of this chapter may, in the discretion of the commissioner, be offered by the commissioner for sale at public auction to the highest bidder after advertisement as provided in section12-461c, or the commissioner may dispose of such property in a manner which he deems to be in the best interest of the state. The commissioner shall deliver to the State Treasurer the proceeds of any sale made under the provisions of this section. The seizure and sale of any fuel or property under the provisions of this section shall not relieve any person from a fine or other penalty for violation of this chapter.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

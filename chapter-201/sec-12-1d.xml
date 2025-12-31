@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-1d"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-1d"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-1d"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-1d/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-1d/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-1d/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-1d/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_201">
+        <num>201</num>
+        <heading>State and Local Revenue Services. Department of Revenue Services</heading>
+        <section eId="sec_12_1d">
+          <num>12-1d</num>
+          <heading>Transfer of certain functions, powers and duties re property tax assessment under chapter 203, local levy and collection of taxes under chapter 204 and relief for elderly homeowners and renters under chapter 204a to the Secretary of the Office of Policy and Management</heading>
+          <subsection eId="12_1d__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>In accordance with the provisions of section4-38d, all functions, powers and duties of the Commissioner of Revenue Services under chapters 203, 204 and 204a are transferred to the Secretary of the Office of Policy and Management, and wherever the words “Commissioner of Revenue Services” or “commissioner” are used in said chapters, the words “Secretary of the Office of Policy and Management” or “secretary”, whichever is appropriate, are substituted in lieu thereof.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_1d__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The Office of Policy and Management shall constitute a successor department to the Department of Revenue Services, in accordance with the provisions of sections4-38dand4-39, with respect to all functions, powers and duties of the Department of Revenue Services under said chapters 203, 204 and 204a.
+See chapter 50 re Office of Policy and Management.
+See chapter 203 re property tax assessment.
+See chapter 204 re local levy and collection of taxes.
+See chapter 204a re property tax relief for elderly homeowners and renters and persons with permanent total disability.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

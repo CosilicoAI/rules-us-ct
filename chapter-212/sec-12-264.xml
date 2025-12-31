@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-264"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-264"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-264"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-264/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-264/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-264/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-264/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_212">
+        <num>212</num>
+        <heading>Business Entity Tax</heading>
+        <section eId="sec_12_264">
+          <num>12-264</num>
+          <heading>Tax on gross earnings. Registration of gas sellers. Return</heading>
+          <subsection eId="12_264__subsec_a">
+            <num>(a)</num>
+            <paragraph eId="12_264__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>Prior to July 1, 2022, each (A) municipality, or department or agency thereof, or district manufacturing, selling or distributing gas to be used for light, heat or power, (B) company the principal business of which is manufacturing, selling or distributing gas or steam to be used for light, heat or power, including each foreign electric company, as defined in section16-246f, that holds property in this state, and (C) company required to register pursuant to section16-258a, shall pay a quarterly tax upon gross earnings from such operations in this state.</p>
+              </content>
+              <subparagraph eId="12_264__subsec_a__subsec_1__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>municipality, or department or agency thereof, or district manufacturing, selling or distributing gas to be used for light, heat or power,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_264__subsec_a__subsec_1__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>company the principal business of which is manufacturing, selling or distributing gas or steam to be used for light, heat or power, including each foreign electric company, as defined in section16-246f, that holds property in this state, and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_264__subsec_a__subsec_1__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>company required to register pursuant to section16-258a, shall pay a quarterly tax upon gross earnings from such operations in this state.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_264__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>On and after July 1, 2022, each company described under subparagraphs (B) and (C) of subdivision</p>
+              </content>
+              <subparagraph eId="12_264__subsec_a__subsec_2__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_264__subsec_a__subsec_2__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>of subdivision</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_264__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>of this subsection shall pay a quarterly tax upon gross earnings from such operations in this state.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_264__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>Gross earnings, prior to July 1, 2022, from such operations under subparagraphs (A) and (B) of subdivision</p>
+              </content>
+              <subparagraph eId="12_264__subsec_a__subsec_3__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_264__subsec_a__subsec_3__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>of subdivision</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_264__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>of this subsection, and on and after July 1, 2022, from such operations under subparagraph (B) of said subdivision, shall include, as determined by the Commissioner of Revenue Services, (A) all income included in operating revenue accounts in the uniform systems of accounts prescribed by the Public Utilities Regulatory Authority for operations within the taxable quarter and, with respect to each such company, (B) all income identified in such uniform systems of accounts as income from merchandising, jobbing and contract work, (C) all revenues identified in such uniform systems of accounts as income from nonutility operations, (D) all revenues identified in such uniform systems of accounts as nonoperating retail income, and (E) receipts from the sale of residuals and other by-products obtained in connection with the production of gas, electricity or steam.</p>
+              </content>
+              <subparagraph eId="12_264__subsec_a__subsec_1__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>of said subdivision, shall include, as determined by the Commissioner of Revenue Services,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_264__subsec_a__subsec_1__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>all income included in operating revenue accounts in the uniform systems of accounts prescribed by the Public Utilities Regulatory Authority for operations within the taxable quarter and, with respect to each such company,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_264__subsec_a__subsec_1__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>all income identified in such uniform systems of accounts as income from merchandising, jobbing and contract work,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_264__subsec_a__subsec_1__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>all revenues identified in such uniform systems of accounts as income from nonutility operations,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_264__subsec_a__subsec_1__subsec_D">
+                <num>(D)</num>
+                <content>
+                  <p>all revenues identified in such uniform systems of accounts as nonoperating retail income, and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_264__subsec_a__subsec_1__subsec_E">
+                <num>(E)</num>
+                <content>
+                  <p>receipts from the sale of residuals and other by-products obtained in connection with the production of gas, electricity or steam.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_264__subsec_a__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>Gross earnings from such operations under subparagraph (C) of subdivision</p>
+              </content>
+              <subparagraph eId="12_264__subsec_a__subsec_4__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>of subdivision</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_264__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>of this subsection shall be gross income from the sales of natural gas, provided gross income shall not include income from the sale of natural gas to an existing combined cycle facility comprised of three gas turbines providing electric generation services, as defined in section16-1, with a total capacity of seven hundred seventy-five megawatts, for use in the production of electricity.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_264__subsec_a__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>Gross earnings of a gas company, as defined in section16-1, shall not include income earned in a taxable quarter commencing prior to June 30, 2008, from the sale of natural gas or propane as a fuel for a motor vehicle. No deductions shall be allowed from such gross earnings for any commission, rebate or other payment, except a refund resulting from an error or overcharge and those specifically mentioned in section12-265. Gross earnings of a company, as described in subparagraph (B) of subdivision</p>
+              </content>
+              <subparagraph eId="12_264__subsec_a__subsec_5__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>of subdivision</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_264__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>of this subsection, shall not include income earned in any taxable quarter commencing on or after July 1, 2000, from the sale of steam.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_264__subsec_b">
+            <num>(b)</num>
+            <paragraph eId="12_264__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>(A) Each company described under subparagraphs (B) and (C) of subdivision</p>
+              </content>
+              <subparagraph eId="12_264__subsec_b__subsec_1__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>Each company described under subparagraphs</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_264__subsec_b__subsec_1__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_264__subsec_b__subsec_1__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>of subdivision</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_264__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_264__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section shall, on or before the last day of January, April, July and October of each year, render to the Commissioner of Revenue Services a return on forms prescribed or furnished by the commissioner and signed by its treasurer or the person performing the duties of treasurer, or by an authorized agent or officer, specifying</p>
+            </content>
+          </subsection>
+          <subsection eId="12_264__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>the name and location of such company or municipal utility, (ii) the amount of gross earnings from operations for the quarter ending with the last day of the preceding month, (iii) the gross earnings from the sale or rental of appliances using water, steam, gas or electricity and the cost of such appliances sold, cost to be interpreted as net invoice price plus transportation costs of such appliances, (iv) the gross earnings from all sales for resale of water, steam, gas and electricity, whether or not the purchasers are public service corporations, municipal utilities, located in the state or subject to the tax imposed under this chapter,</p>
+            </content>
+          </subsection>
+          <subsection eId="12_264__subsec_v">
+            <num>(v)</num>
+            <content>
+              <p>the number of miles of water or steam pipes, gas mains or electric wires operated by such company or municipal utility within this state on the first day and on the last day of the calendar year immediately preceding, and (vi) the number of miles of water or steam pipes, gas mains or electric wires wherever operated by such company or municipal utility on said dates. Gas pipeline and gas transmission companies that do not manufacture or buy gas in this state for resale in this state shall be subject to the provisions of chapter 208 and shall not be subject to the provisions of this chapter and chapter 212a.
+(B) Each municipality, or department or agency thereof, or district manufacturing, selling or distributing gas to be used for light, heat or power shall, on or before the last day of January, April, July and October of each year until and including July 31, 2022, render to the Commissioner of Revenue Services a return on forms prescribed or furnished by the commissioner and signed by its treasurer or the person performing the duties of treasurer, or by an authorized agent or officer, specifying the information set forth in subparagraphs (A)</p>
+            </content>
+          </subsection>
+          <subsection eId="12_264__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>to (A)(vi), inclusive, of this subdivision.</p>
+            </content>
+            <paragraph eId="12_264__subsec_i__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>No person, firm, corporation or municipality that is chartered or authorized by this state to transmit or sell gas within a franchise area shall transmit gas for any person that sells gas to be used for light, heat or power to an end user or users located in this state, unless such seller has registered with the Department of Revenue Services for purposes of the tax imposed under this chapter. The provisions of this subdivision shall not apply to the transmission of gas for any seller that is a gas company, as defined in section16-1, municipal gas utility established under chapter 101 or any other gas utility owned, leased, maintained, operated, managed or controlled by any unit of local government under any general statute or any public or special act, or a gas pipeline or gas transmission company subject to the provisions of chapter 208.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_264__subsec_i__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>The Commissioner of Revenue Services may make public the names and addresses of each person that sells gas to be used for light, heat or power to an end user or users located in this state and has registered with the Department of Revenue Services for purposes of the tax imposed under this chapter, and that is not a gas company, as defined in section16-1, a municipal gas utility established under chapter 101 or any other gas utility owned, leased, maintained, operated, managed or controlled by any unit of local government under any general statute or any public or special act, or a gas pipeline or gas transmission company subject to the provisions of chapter 208.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_264__subsec_c">
+            <num>(c)</num>
+            <paragraph eId="12_264__subsec_c__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>Each electric distribution company, as defined in section16-1, or municipality, or department or agency thereof, or district manufacturing, selling or distributing electricity to be used for light, heat or power, providing electric transmission services, as defined in section16-1, or electric distribution services, as defined in section16-1, shall pay a quarterly tax upon its gross earnings in each calendar quarter at the rate of (A) eight and one-half per cent of its gross earnings from providing electric transmission services or electric distribution services allocable to other than residential service, and (B) six and eight-tenths per cent of such gross earnings from providing electric transmission services or electric distribution services allocable to residential service.</p>
+              </content>
+              <subparagraph eId="12_264__subsec_c__subsec_1__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>eight and one-half per cent of its gross earnings from providing electric transmission services or electric distribution services allocable to other than residential service, and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_264__subsec_c__subsec_1__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>six and eight-tenths per cent of such gross earnings from providing electric transmission services or electric distribution services allocable to residential service.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_264__subsec_c__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>For purposes of this subsection, gross earnings from providing electric transmission services or electric distribution services shall include (A) all income classified as income from providing electric transmission services or electric distribution services, as determined by the Commissioner of Revenue Services in consultation with the Public Utilities Regulatory Authority, and (B) the competitive transition assessment collected pursuant to section16-245g, other than any component of such assessment that constitutes transition property as to which an electric distribution company has no right, title or interest pursuant to subsection</p>
+              </content>
+              <subparagraph eId="12_264__subsec_c__subsec_2__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>all income classified as income from providing electric transmission services or electric distribution services, as determined by the Commissioner of Revenue Services in consultation with the Public Utilities Regulatory Authority, and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_264__subsec_c__subsec_2__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>the competitive transition assessment collected pursuant to section16-245g, other than any component of such assessment that constitutes transition property as to which an electric distribution company has no right, title or interest pursuant to subsection</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_264__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of section16-245h, the systems benefits charge collected pursuant to section16-245l, the conservation adjustment mechanisms charged under section16-245m, and the assessments charged under section16-245n. Such gross earnings shall not include income from providing electric transmission services or electric distribution services to a company described in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_264__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of section12-265.</p>
+            </content>
+            <paragraph eId="12_264__subsec_c__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>Each electric distribution company and municipality, or department or agency thereof, or district manufacturing, selling or distributing electricity to be used for light, heat or power shall, on or before the last day of January, April, July and October of each year, render to the Commissioner of Revenue Services a return on forms prescribed or furnished by the commissioner and signed by its treasurer, or the person performing the duties of treasurer, or of an authorized agent or officer, with such other information as the Commissioner of Revenue Services deems necessary.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_264__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>The tax imposed by this chapter is due and payable to the Commissioner of Revenue Services quarterly on or before the last day of the month next succeeding each calendar quarter.
+See chapter 138c re tax credits for donations to Rental Housing Assistance Trust Fund.
+See Secs. 12-268d and 12-268e re failure to pay tax when due, re fraudulent returns and re penalties.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

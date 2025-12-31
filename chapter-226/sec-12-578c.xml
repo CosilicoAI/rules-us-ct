@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-578c"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-578c"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-578c"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-578c/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-578c/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-578c/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-578c/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_226">
+        <num>226</num>
+        <heading>Prepared Food and Beverage Tax</heading>
+        <section eId="sec_12_578c">
+          <num>12-578c</num>
+          <heading>Licensing of gaming employee, nongaming vendor, gaming services and gaming affiliate</heading>
+          <subsection eId="12_578c__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>No person may commence or continue employment on the gaming floor or in a gaming-related position in a casino gaming facility unless such person holds a gaming employee license issued by the commissioner pursuant to this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_578c__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>No person or business organization may provide more than twenty-five thousand dollars of nongaming goods or services per year in a casino gaming facility unless such person or business organization holds a nongaming vendor license issued by the commissioner pursuant to this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_578c__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>No person or business organization may provide gaming services or gaming equipment to a casino gaming facility unless such person or business organization holds a gaming services license issued by the commissioner pursuant to this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_578c__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>No business organization, other than a shareholder in a publicly traded corporation, may exercise control in or over a licensee licensed pursuant to this section unless such business organization holds a gaming affiliate license issued by the commissioner pursuant to this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_578c__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>Each applicant for a license issued pursuant to this section shall submit a completed application on forms prescribed by the commissioner. Such application forms may require the applicant to submit information as to:</p>
+            </content>
+            <paragraph eId="12_578c__subsec_e__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>Financial standing and credit;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_578c__subsec_e__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>moral character;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_578c__subsec_e__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>criminal record, if any;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_578c__subsec_e__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>previous employment;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_578c__subsec_e__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>corporate, partnership or association affiliations;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_578c__subsec_e__subsec_6">
+              <num>(6)</num>
+              <content>
+                <p>ownership of personal assets; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_578c__subsec_e__subsec_7">
+              <num>(7)</num>
+              <content>
+                <p>any other information as the commissioner deems pertinent to the issuance of such license.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_578c__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>The commissioner shall, as soon as practicable after the receipt of a completed license application, grant or deny the license application. Any license issued by the commissioner pursuant to this section shall be effective for not more than one year from the date of issuance. Applications for renewal of any such license shall be on such form as prescribed by the commissioner. Any holder of a license issued pursuant to this section who submits an application to renew such license may continue to be employed by a casino gaming facility or provide services to a casino gaming facility until the commissioner denies such renewal application.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_578c__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>The commissioner may issue a temporary license at the request of any person who has submitted an application for a license under this section. The commissioner shall require such applicant to submit to state and national criminal history records checks before receiving a temporary license. The criminal history records checks shall be conducted in accordance with section29-17a. A temporary license shall expire when the commissioner grants or denies the pending application for a license under this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_578c__subsec_h">
+            <num>(h)</num>
+            <content>
+              <p>The commissioner may investigate any person or business organization that holds a license pursuant to this section at any time and may suspend or revoke such license for good cause after a hearing held in accordance with the provisions of chapter 54. Any person or business organization whose license is suspended or revoked, or any applicant aggrieved by the action of the commissioner concerning an application for a license or renewal application, may appeal pursuant to section4-183.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

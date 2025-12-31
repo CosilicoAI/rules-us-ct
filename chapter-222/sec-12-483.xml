@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-483"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-483"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-483"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-483/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-483/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-483/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-483/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_222">
+        <num>222</num>
+        <heading>Unrelated Business Income Tax</heading>
+        <section eId="sec_12_483">
+          <num>12-483</num>
+          <heading>Payment of tax</heading>
+          <content>
+            <p>Sec. 12-483. Payment of tax.The tax hereby imposed shall be paid by each motor carrier quarterly to the Commissioner of Revenue Services on or before the last day of January, April, July and October of each year and calculated upon the amount of gasoline or other motor fuel used in its operations within this state by such carrier during the quarter ending with the last day of the preceding month. The amount of motor fuel used in the operations of any motor carrier within this state shall be such proportion of the total amount of such motor fuel used in its entire operations within and without this state as the total number of miles traveled within this state bears to the total number of miles traveled within and without this state. The commissioner may, at his discretion, allow use of a miles per gallon factor in computing fuel used in operations in lieu of the above formula if evidence is presented to his satisfaction that no loss of revenue will result. The commissioner may hold the lessor and lessee of vehicles used by such motor carrier jointly and severally responsible for the payment of the tax set forth in this section.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-159"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-159"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-159"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-159/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-159/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-159/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-159/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_204">
+        <num>204</num>
+        <heading>Local Levy and Collection of Taxes</heading>
+        <section eId="sec_12_159">
+          <num>12-159</num>
+          <heading>Collector's deed as evidence. Irregularities</heading>
+          <content>
+            <p>Sec. 12-159. Collector's deed as evidence. Irregularities.Any deed, or the certified copy of the record of any deed, purporting to be executed by a tax collector and similar, or in substance similar, to the above, shall be prima facie evidence of a valid title in the grantee to the premises therein purported to be conveyed, encumbered only by the lien of taxes to the municipality which were not yet due and payable on the date notice of levy was first made, easements and similar interests appurtenant to other properties not thereby conveyed, and other interests described therein and of the existence and regularity of all votes and acts necessary to the validity of the tax therein referred to, as the same was assessed, and of the levy and sale therefor, and no tax collector shall be required to make return upon his warrant of his doings thereunder, except that the purchaser may, within ninety days of the recording of the collector's deed, request in writing from the tax collector, an affidavit which complies with the provisions of section12-167a. The tax collector shall provide such affidavit within thirty days of receipt of such request. The town clerk shall record such affidavit in the land records of such town and shall index the affidavit under the name of the purchaser as grantee. No act done or omitted relative to the assessment or collection of a tax, including everything connected therewith, after the vote of the community laying the same, up to and including the final collection thereof or sale of property therefor, shall in any way affect or impair the validity of such tax as assessed, collected or sought to be collected or the validity of such sale, unless the person seeking to enjoin or contesting the validity of such sale shows that the collector neglected to provide notice pursuant to section12-157, to such person or to the predecessors of such person in title, and who had a right to notice of such sale, and that the person or they in fact did not know of such sale within six months after it was made, and provided such property was by law liable to be sold to satisfy such tax. The fact that the collector may have charged or received illegal fees upon such sale shall not impair the sale's validity. If the person contesting such fees shows that illegal fees were charged by the collector, the municipality shall refund such illegal fees together with legal interest from the date of their payment in accordance with section12-129.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

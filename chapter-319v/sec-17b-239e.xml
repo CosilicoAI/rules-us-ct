@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-239e"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-239e"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17b-239e"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-239e/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-239e/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-239e/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-239e/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319v">
+        <num>319v</num>
+        <heading>Temporary Assistance for Needy Families</heading>
+        <section eId="sec_17b_239e">
+          <num>17b-239e</num>
+          <heading>Hospital rate plan. Supplemental pools and payments. Quality measures</heading>
+          <subsection eId="17b_239e__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>For the purposes of this section, “settlement agreement” has the same meaning as provided in section12-263z.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_239e__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Subject to federal approval, the Department of Social Services shall establish supplemental pools for certain hospitals in accordance with the terms of the settlement agreement, including any court order issued in accordance with the provisions of section12-263z. Such pools shall include, but not be limited to, as applicable, general, small hospital, mid-sized hospital and large hospital supplemental pools.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_239e__subsec_c">
+            <num>(c)</num>
+            <paragraph eId="17b_239e__subsec_c__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>The department shall distribute supplemental payments to applicable hospitals in accordance with the settlement agreement, including any court order issued in accordance with the provisions of section12-263z. The commissioner shall diligently pursue the federal approvals required for the supplemental pools and payments set forth in this section.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_239e__subsec_c__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>To the extent required by the settlement agreement, including any court order issued in accordance with the provisions of section12-263z, the Department of Social Services shall pay Medicaid supplemental payments to nongovernmental licensed short-term general hospitals located in the state as follows: (A) For the fiscal years ending June 30, 2020, and June 30, 2021, five hundred forty-eight million three hundred thousand dollars in each such fiscal year; and (B) for the fiscal years ending June 30, 2022, through June 30, 2026, five hundred sixty-eight million three hundred thousand dollars in each such fiscal year. For fiscal years commencing on and after July 1, 2026, the total amount of supplemental payments paid to such hospitals shall continue at the level in effect for the prior fiscal year unless modified through any provision of the general statutes or appropriations act.</p>
+              </content>
+              <subparagraph eId="17b_239e__subsec_c__subsec_2__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>For the fiscal years ending June 30, 2020, and June 30, 2021, five hundred forty-eight million three hundred thousand dollars in each such fiscal year; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17b_239e__subsec_c__subsec_2__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>for the fiscal years ending June 30, 2022, through June 30, 2026, five hundred sixty-eight million three hundred thousand dollars in each such fiscal year. For fiscal years commencing on and after July 1, 2026, the total amount of supplemental payments paid to such hospitals shall continue at the level in effect for the prior fiscal year unless modified through any provision of the general statutes or appropriations act.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="17b_239e__subsec_c__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>From July 1, 2019, through June 30, 2026, the Department of Social Services shall make supplemental payments to the applicable hospitals on or before the last day of the first month of each calendar quarter, except that payments scheduled to be made before December 19, 2019, shall be made not later than thirty days after December 19, 2019.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_239e__subsec_c__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>If a nongovernmental licensed short-term general hospital located in the state merges or consolidates with or is acquired by another hospital, such that the hospital does not continue to maintain a separate short-term general hospital license, the supplemental payments that would have been paid to the hospital that no longer maintains such license shall be paid instead to the surviving hospital, beginning with the first calendar quarter that commences on or after the effective date of the merger, consolidation or acquisition. If a nongovernmental licensed short-term general hospital located in the state dissolves, ceases to operate or otherwise terminates licensed short-term general hospital services, the supplemental payments that would have been paid to such hospital shall not be paid to any other hospital for the remainder of the fiscal year in which such hospital dissolves, ceases operations or otherwise terminates such services. Commencing with the fiscal year after the hospital dissolved, ceased to operate or otherwise terminated such services, the supplemental payments that would have been made to such hospital shall be redistributed to all other nongovernmental licensed short-term general hospitals located in the state in accordance with the distribution methodology set forth in the settlement agreement for each supplemental pool.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_239e__subsec_c__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>Both the state and federal share of supplemental payments set forth in this subsection shall be appropriated to the Department of Social Services. Such supplemental payments shall not be subject to rescissions or holdbacks. Nothing in this section shall affect the authority of the state to recover overpayments and collect unpaid liabilities, as authorized by law.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_239e__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>To the extent required by the settlement agreement, including any court order issued in accordance with the provisions of section12-263z, the commissioner shall make the supplemental payments set forth in this section effective for the dates of service set forth in this section, including payment adjustments to reconcile, in accordance with this section, supplemental payments made to hospitals for the calendar quarter ending September 30, 2019, as interim payments. Such reconciliation shall ensure that, after accounting for such payment adjustments, the actual supplemental payments made to each hospital shall be the amounts due to each hospital pursuant to the settlement agreement, even if federal approvals are received after each applicable date that supplemental payments are required to be made, provided the supplemental payments remain subject to federal approval. If federal approval of such payments is not obtained, such payments may later be recovered by the commissioner by recoupment against other Medicaid payments due to a hospital or in any manner authorized by law.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

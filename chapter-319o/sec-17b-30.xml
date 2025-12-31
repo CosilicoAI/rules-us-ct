@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-30"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-30"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17b-30"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-30/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-30/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-30/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-30/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319o">
+        <num>319o</num>
+        <heading>Personal Care Assistance</heading>
+        <section eId="sec_17b_30">
+          <num>17b-30</num>
+          <heading>Biometric identifier system</heading>
+          <subsection eId="17b_30__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>For purposes of this section, “biometric identifier system” means a system which allows for the recognition of an individual through retinal scanning, finger-imaging, hand geometry or facial recognition. The Commissioner of Social Services and the Commissioner of Motor Vehicles shall examine available biometric identifier systems and to the greatest extent possible, select a system which is compatible with the systems of surrounding states. The Commissioner of Social Services may enter into a memorandum of understanding with the Commissioner of Motor Vehicles for the Department of Motor Vehicles to provide the hardware, software, equipment maintenance, technical training and other resources deemed necessary by the commissioner to establish said system.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_30__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Said system shall be utilized for office use only in programs to be determined at the discretion of the Commissioner of Social Services.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_30__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>A recipient of a program utilizing said system pursuant to subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_30__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section shall participate in said system or be subject to disqualification from such program. The commissioner shall have the authority to exempt a recipient from participation in said system.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_30__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Biometric identifier information obtained pursuant to subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_30__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of this section shall be the proprietary information of the Department of Social Services and shall not be released or made available to any agency or organization and shall not be used for any purpose other than identification or fraud prevention in this or any other state, except that such information may be made available to the office of the Chief State's Attorney if necessary for the prosecution of fraud discovered pursuant to the biometric identifier system established in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_30__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section or in accordance with section17b-90. Any person who violates any provision of this subsection shall be guilty of a class D felony and shall be liable for the cost of prosecution.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

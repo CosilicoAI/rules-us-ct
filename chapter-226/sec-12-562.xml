@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-562"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-562"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-562"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-562/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-562/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-562/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-562/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_226">
+        <num>226</num>
+        <heading>Prepared Food and Beverage Tax</heading>
+        <section eId="sec_12_562">
+          <num>12-562</num>
+          <heading>Enforcement. Regulations. Racing and jai alai meeting dates</heading>
+          <subsection eId="12_562__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Except as provided in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_562__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section, the commissioner shall have power to enforce the provisions of this chapter and chapter 226b, and shall adopt all necessary regulations for that purpose and for carrying out, enforcing and preventing violation of any of the provisions of this chapter, for the inspection of licensed premises, enterprises or casino gaming facilities, for insuring proper, safe and orderly conduct of licensed premises, enterprises or casino gaming facilities and for protecting the public against fraud or overcharge. The commissioner shall have power generally to do whatever is reasonably necessary for the carrying out of the intent of this chapter; and may call upon other administrative departments of the state government and of municipal governments for such information and assistance as he or she deems necessary to the performance of his or her duties. The commissioner shall set racing and jai alai meeting dates, except that the commissioner may delegate to designated staff the authority for setting make-up performance dates. The commissioner shall, as far as practicable, avoid conflicts in the dates assigned for racing or the exhibition of the game of jai alai in the state.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_562__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The special policemen in the Department of Consumer Protection and the legalized gambling investigative unit in the Division of State Police within the Department of Emergency Services and Public Protection shall be responsible for the criminal enforcement of the provisions of sections7-169to7-186, inclusive, this chapter and chapters 226b and 229a. They shall have the powers and duties specified in section29-7c.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

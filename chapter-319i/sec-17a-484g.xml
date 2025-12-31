@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-484g"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-484g"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17a-484g"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-484g/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-484g/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-484g/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-484g/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319i">
+        <num>319i</num>
+        <heading>Connecticut HUSKY Plan</heading>
+        <section eId="sec_17a_484g">
+          <num>17a-484g</num>
+          <heading>Psychedelic-assisted therapy pilot program</heading>
+          <subsection eId="17a_484g__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>As used in this section:</p>
+            </content>
+            <paragraph eId="17a_484g__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>“MDMA” means the synthetic psychoactive drug, 3,4-methylenedioxymethamphetamine, commonly known as ecstasy or molly, that acts as a serotonin receptor agonist and reuptake inhibitor of serotonin and dopamine.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_484g__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>“Psilocybin” means a serotonin receptor agonist that occurs naturally in some mushroom species.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_484g__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>“Qualified patient” means a resident of the state who is (A) a veteran, (B) a retired first responder, or (C) a direct care health care worker.</p>
+              </content>
+              <subparagraph eId="17a_484g__subsec_a__subsec_3__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>a veteran,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17a_484g__subsec_a__subsec_3__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>a retired first responder, or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17a_484g__subsec_a__subsec_3__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>a direct care health care worker.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="17a_484g__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Not later than January 1, 2023, the Department of Mental Health and Addiction Services shall establish, within available appropriations, a psychedelic-assisted therapy pilot program, to be administered by a medical school in the state. Such pilot program shall provide qualified patients with MDMA-assisted or psilocybin-assisted therapy as part of a research program approved by the federal Food and Drug Administration pursuant to 21 CFR 312, as amended from time to time. The department shall cease to operate the pilot program when MDMA and psilocybin have been approved to have a medical use by the Drug Enforcement Administration, or any successor agency.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

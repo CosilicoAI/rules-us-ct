@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-81kk"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-81kk"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-81kk"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-81kk/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-81kk/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-81kk/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-81kk/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_203">
+        <num>203</num>
+        <heading>Property Tax Assessment</heading>
+        <section eId="sec_12_81kk">
+          <num>12-81kk</num>
+          <heading>Municipal option to provide exemption for certain veterans</heading>
+          <subsection eId="12_81kk__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Any municipality, by vote of its legislative body or, in a municipality where the legislative body is a town meeting, by vote of the board of selectmen, may provide that any veteran, as defined in section27-103, whose federal adjusted gross income is fifty thousand one hundred dollars or less shall be entitled to an exemption from the tax imposed under this chapter on any dwelling owned and occupied by such veteran as such veteran's primary residence, in an amount equal to ten per cent of the assessed value of such primary residence.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_81kk__subsec_b">
+            <num>(b)</num>
+            <paragraph eId="12_81kk__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>Any veteran who claims an exemption under subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_81kk__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section shall give notice to the town clerk of the municipality in which such primary residence is located that such veteran is entitled to such exemption.</p>
+            </content>
+            <paragraph eId="12_81kk__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>Any veteran submitting a claim for such exemption shall file an application, on a form prepared by the assessor of the municipality in which such primary residence is located, not later than the assessment date with respect to which such exemption is claimed, which application shall include (A)</p>
+              </content>
+              <subparagraph eId="12_81kk__subsec_a__subsec_2__subsec_A">
+                <num>(A)</num>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_81kk__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>a certified copy of such veteran's military discharge document, as defined in section1-219, or (ii) in the absence of such certified copy, at least two affidavits of disinterested individuals showing that the claimant is a veteran, provided the assessor may further require such claimant to be examined by such assessor under oath concerning the facts contained in such affidavits, and (B) a copy of such veteran's federal income tax return or, in the event such a return is not filed, such evidence as may be required by the assessor, for the tax year of such veteran ending immediately prior to the assessment date with respect to which such exemption is claimed. The town clerk of the municipality in which such primary residence is located shall record the certified copy or affidavits submitted pursuant to subparagraph (A) of this subdivision in full and shall list the name of such veteran, and such service shall be performed by such town clerk without remuneration. No assessor, board of assessment appeals or other official shall allow any such claim for exemption unless the certified copy or affidavits specified in this subsection have been filed with the office of the town clerk. Any veteran who has submitted a claim for such exemption and received approval for the first time shall file for such exemption biennially thereafter, subject to the provisions of subdivision</p>
+            </content>
+            <paragraph eId="12_81kk__subsec_i__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>of this subsection.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_81kk__subsec_i__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>The assessor of such municipality shall annually make a certified list of all such veterans who are found to be entitled to an exemption under the provisions of this section, which list shall be filed in the town clerk's office and shall be prima facie evidence that any veteran whose name appears on such list is entitled to such exemption, subject to the provisions of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_81kk__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of this section, as long as such veteran continues to own and occupy the dwelling as such veteran's primary residence. Such assessor may, at any time, require such veteran to appear before such assessor for the purpose of furnishing additional evidence, except that any veteran who, by reason of total disability, is unable to so appear may furnish such assessor (A) a statement from such veteran's attending physician or advanced practice registered nurse, certifying that such veteran is totally disabled and unable to make a personal appearance, and (B) such other evidence of total disability as such assessor may deem appropriate.</p>
+            </content>
+            <paragraph eId="12_81kk__subsec_c__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>No veteran may receive an exemption under this section until such veteran has proven such veteran's right to such exemption in accordance with the provisions of this section, together with such further proof as may be required under such provisions. Exemptions so proven shall take effect on the next succeeding assessment day.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_81kk__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Any veteran who has submitted an application and been approved in any year for the exemption provided in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_81kk__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section shall, in the assessment year immediately following approval, be presumed to qualify for such exemption. During the year immediately following such approval, the assessor shall notify, in writing, such veteran presumed to be qualified pursuant to this subsection. If any such veteran has qualifying income in excess of the maximum allowed under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_81kk__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section, such veteran shall notify the assessor on or before the next filing date of such exemption and shall be denied such exemption for the assessment year immediately following and for any subsequent year until such veteran has reapplied and again qualified for such exemption. Any such veteran who fails to notify the assessor of such disqualification shall make payment to the municipality in the amount of property tax loss related to such exemption improperly taken.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

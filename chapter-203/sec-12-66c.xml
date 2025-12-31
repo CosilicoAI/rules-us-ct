@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-66c"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-66c"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-66c"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-66c/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-66c/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-66c/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-66c/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_203">
+        <num>203</num>
+        <heading>Property Tax Assessment</heading>
+        <section eId="sec_12_66c">
+          <num>12-66c</num>
+          <heading>Taxation of residential real property intended for student learning</heading>
+          <content>
+            <p>Sec. 12-66c. Taxation of residential real property intended for student learning.Notwithstanding any provision of this chapter or chapter 201 or 204 or any special act, except subdivision (8) of section12-81, which provides an exemption from taxation of real or personal property held by or on behalf of a private nonprofit institution of higher learning, as defined in section12-20a, any residential real property intended for use or used as student housing, except a dormitory, that is held by or on behalf of such entity, shall be taxable by a municipality in accordance with the provisions of this chapter and chapters 201 and 204. For purposes of this subsection: (1) “Residential real property” means any house or building, or portion thereof, which is rented, leased or hired out to be occupied as a home or residence of one or more students, and (2) “dormitory” means a building containing living or sleeping facilities consisting of twenty or more beds intended for use or used as student housing and maintained by a private nonprofit institution of higher learning, as defined in section12-20a.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

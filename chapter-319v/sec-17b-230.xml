@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-230"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-230"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17b-230"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-230/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-230/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-230/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-230/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319v">
+        <num>319v</num>
+        <heading>Temporary Assistance for Needy Families</heading>
+        <section eId="sec_17b_230">
+          <num>17b-230</num>
+          <heading>(Formerly Sec. 17-300). Claim of state on death of institution patient. Limitation on recovery</heading>
+          <content>
+            <p>Sec. 17b-230. (Formerly Sec. 17-300). Claim of state on death of institution patient. Limitation on recovery.Upon the death of a patient or of a person who has, at any time, been a patient in a state humane institution, the state shall have a claim against his estate for reimbursement for institutional support according to the provisions of sections4a-12,17b-223,17b-224and17b-229to the extent that the amount which the surviving spouse, parent or dependent children of the decedent would otherwise take from such estate is not needed for their support. Such claims shall have priority over all unsecured claims against such estate, except (1) expenses of last sickness not to exceed three hundred seventy-five dollars, (2) funeral and burial expenses in accordance with section17b-84, (3) such unpaid fees and expenses of the conservator of such patient, if any, as are authorized by law, and (4) administrative expenses, including probate fees and taxes, and including fiduciary fees not exceeding the following commissions on the value of the whole estates accounted for by such fiduciaries: On the first two thousand dollars or portion thereof, five per cent; on the next eight thousand dollars or portion thereof, four per cent; on the excess over ten thousand dollars, three per cent. Upon petition by any fiduciary, the Probate Court, after hearing thereon, may authorize compensation in excess of the above schedule for extraordinary services. Notice of any such petition and hearing shall be given to the Commissioner of Administrative Services in Hartford at least ten days in advance of such hearing. The allowable funeral and burial payment herein shall be reduced by the amount of any prepaid funeral arrangement. Any amount paid from the estate under this section to any person which exceeds the limits provided herein shall be repaid to the estate by such person, and such amount may be recovered in a civil action with interest at six per cent from the date of demand.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

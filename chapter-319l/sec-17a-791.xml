@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-791"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-791"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17a-791"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-791/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-791/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-791/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-791/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319l">
+        <num>319l</num>
+        <heading>Nursing Home Financial Assistance</heading>
+        <section eId="sec_17a_791">
+          <num>17a-791</num>
+          <heading>(Formerly Sec. 17b-612). Transition program for students with disabilities</heading>
+          <content>
+            <p>Sec. 17a-791. (Formerly Sec. 17b-612). Transition program for students with disabilities.The Department of Aging and Disability Services shall establish a program to assist public school students with disabilities in preparing for and obtaining competitive employment and to strengthen the linkage between vocational rehabilitation services and public schools. Under the program, the Department of Aging and Disability Services shall provide, within the limits of available appropriations, vocational evaluations and other appropriate transitional services and shall provide vocational rehabilitation counselors to school districts throughout the state. The counselors shall, if requested, assist those persons planning in-school skill development programs. The counselors shall, with planning and placement team members, develop transition plans and individual education and work rehabilitation plans for students with disabilities who will no longer be eligible for continued public school services. Students whose termination date for receipt of public school services is most immediate shall be given priority.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

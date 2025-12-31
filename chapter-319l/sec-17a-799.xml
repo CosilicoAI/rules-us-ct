@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-799"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-799"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17a-799"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-799/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-799/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-799/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-799/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319l">
+        <num>319l</num>
+        <heading>Nursing Home Financial Assistance</heading>
+        <section eId="sec_17a_799">
+          <num>17a-799</num>
+          <heading>(Formerly Sec. 17b-651a). Disability determination services unit. Inquiries into criminal history of applicants for employment</heading>
+          <content>
+            <p>Sec. 17a-799. (Formerly Sec. 17b-651a). Disability determination services unit. Inquiries into criminal history of applicants for employment.The Commissioner of Aging and Disability Services shall inquire into the criminal history of any applicant, who is not at the time of application employed by the Department of Aging and Disability Services, for a position of employment with the department's disability determination services unit. Such inquiry shall be conducted in accordance with the provisions of section31-51i. The commissioner shall require each such applicant to state whether the applicant has ever been convicted of a crime, whether criminal charges are pending against the applicant at the time of application, and, if so, to identify the charges and court in which such charges are pending. Each such applicant offered a position of employment with the department's disability determination services unit shall be required to submit to fingerprinting and state and national criminal history records checks, as provided in section29-17a.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

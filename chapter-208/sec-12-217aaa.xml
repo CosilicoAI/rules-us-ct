@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-217aaa"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-217aaa"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-217aaa"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-217aaa/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-217aaa/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-217aaa/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-217aaa/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_208">
+        <num>208</num>
+        <heading>Estate Taxes</heading>
+        <section eId="sec_12_217aaa">
+          <num>12-217aaa</num>
+          <heading>Accumulated research and development tax credits</heading>
+          <subsection eId="12_217aaa__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>As used in this section,</p>
+            </content>
+            <paragraph eId="12_217aaa__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>“accumulated credits” means the amount of credits allowed, in accordance with the provisions of section12-217n, that have not been taken through an applicant's last income year completed prior to the date of an application submitted as provided in subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_217aaa__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section,</p>
+            </content>
+            <paragraph eId="12_217aaa__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>“commissioner” means the Commissioner of Economic and Community Development, and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_217aaa__subsec_b__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>“human capital investment” means the amount paid or incurred by a corporation on (A) job training which occurs in this state for persons who are employed in this state; (B) work education programs in this state, including, but not limited to, programs in public high schools and work education-diversified occupations programs in this state; (C) worker training and education for persons who are employed in this state provided by institutions of higher education in this state; (D) donations or capital contributions to institutions of higher education in this state for improvements or advancements of technology, including physical plant improvements; (E) planning, site preparation, construction, renovation or acquisition of facilities in this state for the purpose of establishing a child care center, as described in section19a-77, in this state to be used primarily by the children of employees who are employed in this state; and (F) subsidies to employees who are employed in this state for child care to be provided in this state.</p>
+              </content>
+              <subparagraph eId="12_217aaa__subsec_b__subsec_3__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>job training which occurs in this state for persons who are employed in this state;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_217aaa__subsec_b__subsec_3__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>work education programs in this state, including, but not limited to, programs in public high schools and work education-diversified occupations programs in this state;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_217aaa__subsec_b__subsec_3__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>worker training and education for persons who are employed in this state provided by institutions of higher education in this state;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_217aaa__subsec_b__subsec_3__subsec_D">
+                <num>(D)</num>
+                <content>
+                  <p>donations or capital contributions to institutions of higher education in this state for improvements or advancements of technology, including physical plant improvements;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_217aaa__subsec_b__subsec_3__subsec_E">
+                <num>(E)</num>
+                <content>
+                  <p>planning, site preparation, construction, renovation or acquisition of facilities in this state for the purpose of establishing a child care center, as described in section19a-77, in this state to be used primarily by the children of employees who are employed in this state; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_217aaa__subsec_b__subsec_3__subsec_F">
+                <num>(F)</num>
+                <content>
+                  <p>subsidies to employees who are employed in this state for child care to be provided in this state.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_217aaa__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The commissioner shall establish and administer a program to allow businesses in the state to utilize accumulated credits against the tax imposed under this chapter and chapter 219 in exchange for</p>
+            </content>
+            <paragraph eId="12_217aaa__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>capital projects, planned or underway, in the state that propose to (A) expand the scale or scope of such business, (B) increase employment at such business, or (C) generate a substantial return to the state economy, or</p>
+              </content>
+              <subparagraph eId="12_217aaa__subsec_b__subsec_1__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>expand the scale or scope of such business,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_217aaa__subsec_b__subsec_1__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>increase employment at such business, or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_217aaa__subsec_b__subsec_1__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>generate a substantial return to the state economy, or</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_217aaa__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>human capital investment. A business seeking to utilize accumulated credits under this section shall submit to the commissioner, on forms provided by the commissioner, an application that shall include, but not be limited to: (A) A detailed plan outlining the capital project or human capital investment, (B) the term of such project or investment, (C) the estimated costs of such project or investment, and (D) the amount of accumulated credits the business proposes it be allowed to utilize under this section. The commissioner shall perform an econometric analysis of each application and shall only approve an application if he or she determines that such project or investment will generate revenues for the state that exceed the amount of the accumulated credits proposed to be utilized. The amount of such accumulated credits shall be subject to confirmation, in accordance with the provisions of this title, by the Commissioner of Revenue Services in consultation with the commissioner.</p>
+              </content>
+              <subparagraph eId="12_217aaa__subsec_b__subsec_2__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>A detailed plan outlining the capital project or human capital investment,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_217aaa__subsec_b__subsec_2__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>the term of such project or investment,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_217aaa__subsec_b__subsec_2__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>the estimated costs of such project or investment, and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_217aaa__subsec_b__subsec_2__subsec_D">
+                <num>(D)</num>
+                <content>
+                  <p>the amount of accumulated credits the business proposes it be allowed to utilize under this section. The commissioner shall perform an econometric analysis of each application and shall only approve an application if he or she determines that such project or investment will generate revenues for the state that exceed the amount of the accumulated credits proposed to be utilized. The amount of such accumulated credits shall be subject to confirmation, in accordance with the provisions of this title, by the Commissioner of Revenue Services in consultation with the commissioner.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_217aaa__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The commissioner shall determine, in consultation with the Commissioner of Revenue Services and the Secretary of the Office of Policy and Management, when such accumulated credits may be utilized by the business, provided the commissioner shall not approve the utilization of the accumulated credits until the capital project or human capital investment under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_217aaa__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section generates revenues for the state that exceed the amount of the accumulated credits proposed to be utilized.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_217aaa__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>The total amount of accumulated credits used under this section, at full value, and the investments made under section12-217bbbshall not exceed fifty million dollars in the aggregate.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_217aaa__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>The commissioner may adopt regulations, in accordance with the provisions of chapter 54, to implement the provisions of this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_217aaa__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>Not later than February 1, 2019, and annually thereafter, the commissioner shall include in the annual report required under section32-1m:</p>
+            </content>
+            <paragraph eId="12_217aaa__subsec_f__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>Information on the number of applications received and the number of applications approved under this section;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_217aaa__subsec_f__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>the status of the capital projects or human capital investments associated with such approved applications;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_217aaa__subsec_f__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>the amount of accumulated credits that are proposed to be utilized under this section; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_217aaa__subsec_f__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>(A) the amount and type of state revenue generated in connection with each such capital project or human capital investment to date, and (B) the projected amount and type of such revenue for the five succeeding fiscal years after completion of such capital project or human capital investment.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+              </content>
+              <subparagraph eId="12_217aaa__subsec_f__subsec_4__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>the amount and type of state revenue generated in connection with each such capital project or human capital investment to date, and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_217aaa__subsec_f__subsec_4__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>the projected amount and type of such revenue for the five succeeding fiscal years after completion of such capital project or human capital investment.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

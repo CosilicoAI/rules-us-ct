@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-245"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-245"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17b-245"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-245/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-245/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-245/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-245/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319v">
+        <num>319v</num>
+        <heading>Temporary Assistance for Needy Families</heading>
+        <section eId="sec_17b_245">
+          <num>17b-245</num>
+          <heading>(Formerly Sec. 17-313c). Payments to day care and vocational training programs sponsored by certain associations</heading>
+          <subsection eId="17b_245__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The rates to be paid by the state to the day care and vocational training programs sponsored by the associations affiliated with United Cerebral Palsy of Connecticut, Inc., Epilepsy Foundation of America, Inc., Goodwill Industries of America, Inc. and to any private, nonprofit agency providing such programs for persons with a neurological impairment or autism spectrum disorder, for services to clients referred by any state agency, except employment opportunities and day services, shall be determined annually by the Commissioner of Social Services who shall prescribe uniform forms on which such day care and vocational training programs shall report their costs, except that rates effective April 30, 1989, shall remain in effect through May 31, 1990. Such rates shall be determined on the basis of a reasonable payment for necessary services rendered. Nothing contained herein shall authorize a payment by the state to any such day care or vocational training program in excess of the charges made by such programs for comparable services to the general public.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_245__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The amount to be paid by the state to the day care and vocational training programs sponsored by the associations affiliated with United Cerebral Palsy of Connecticut, Inc., Epilepsy Foundation of America, Inc., Goodwill Industries of America, Inc. and to any private, nonprofit agency providing such programs for autistic or neurologically impaired or severely handicapped persons, for employment opportunities and day services to clients referred by any state agency shall be determined annually using a uniform payment system in accordance with the provisions of subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_245__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of section17a-246.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

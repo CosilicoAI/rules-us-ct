@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-81bb"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-81bb"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-81bb"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-81bb/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-81bb/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-81bb/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-81bb/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_203">
+        <num>203</num>
+        <heading>Property Tax Assessment</heading>
+        <section eId="sec_12_81bb">
+          <num>12-81bb</num>
+          <heading>Municipal option to provide property tax credits for affordable housing deed restrictions</heading>
+          <subsection eId="12_81bb__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>As used in this section:</p>
+            </content>
+            <paragraph eId="12_81bb__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>“Residential property” means a single parcel of property on which is situated a single-family residence or a multi-family building;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_81bb__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>“Affordable housing deed restrictions” means deed restrictions filed on the land records of the municipality, containing covenants or restrictions that require such single-family residence or the dwelling units in such multi-family building to be sold or rented only to persons or families whose income is less than or equal to eighty per cent of the area median income or the state median income, whichever is less, and that shall constitute “affordable housing” within the meaning of section8-39a;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_81bb__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>“Long term” means a time period no shorter in duration than the minimum time period for affordability covenants or restrictions in deeds pursuant to subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_81bb__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of section8-30g; and</p>
+            </content>
+            <paragraph eId="12_81bb__subsec_a__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>“Binding” means not subject to revocation, either by the owner or a subsequent owner acting unilaterally, or by the owner or a subsequent owner acting jointly with others, until the expiration of the long-term deed restriction time period and enforceable for the duration of the long-term deed restriction time period both by the municipality and by any resident of the municipality.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_81bb__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Any municipality may, by ordinance adopted by its legislative body, provide property tax credits to owners of residential property who place long-term, binding affordable housing deed restrictions on such residential property in accordance with the provisions of this section.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

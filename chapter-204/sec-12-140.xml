@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-140"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-140"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-140"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-140/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-140/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-140/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-140/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_204">
+        <num>204</num>
+        <heading>Local Levy and Collection of Taxes</heading>
+        <section eId="sec_12_140">
+          <num>12-140</num>
+          <heading>Fees, costs and expenses of tax collectors and tax sales</heading>
+          <content>
+            <p>Sec. 12-140. Fees, costs and expenses of tax collectors and tax sales.The fee of collectors for issuing an alias tax warrant shall be six dollars. All reasonable and necessary costs or expenses for necessary advertising, postage on notices, and reasonable sums paid town clerks or other persons for examining records to ascertain encumbrances upon property sold, for preparing notices at the direction of the tax collector, for drafting collector's deeds, for attorney's fees, for all fees and costs incurred by the municipality in defending any civil action brought as a result of a tax sale or an alias tax warrant or which seeks to enjoin or declare unlawful any tax sale or alias tax warrant, for the services of auctioneers, clerks and other persons retained to assist the collector in conducting the tax sale, for filings in the land records, fees paid to any federal, state or local government entity or agency and for any other fees and expenses incurred or otherwise provided by law shall be paid by the delinquent taxpayer or as provided in section12-157.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

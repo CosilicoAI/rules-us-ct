@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-458h"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-458h"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-458h"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-458h/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-458h/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-458h/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-458h/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_221">
+        <num>221</num>
+        <heading>Real Estate Conveyance Tax</heading>
+        <section eId="sec_12_458h">
+          <num>12-458h</num>
+          <heading>Calculation of rate of tax to be imposed on the sale or use of diesel fuel</heading>
+          <subsection eId="12_458h__subsec_a">
+            <num>(a)</num>
+            <paragraph eId="12_458h__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>The Commissioner of Revenue Services shall, on or before June 15, 2008, and on or before the fifteenth day of June thereafter, calculate, in accordance with subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_458h__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section, the applicable tax rate per gallon of diesel fuel on the sale or use of such fuel during the twelve-month period beginning on the next succeeding July first, and shall notify each distributor, the chairpersons and ranking members of the joint standing committee of the General Assembly having cognizance of matters relating to finance, revenue and bonding, and the Secretary of the Office of Policy and Management of such applicable tax rate.</p>
+            </content>
+            <paragraph eId="12_458h__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>The commissioner shall, on or before June 15, 2008, and on or before the fifteenth day of June thereafter, determine the average wholesale price per gallon of diesel fuel in this state during the twelve-month period ending on the next preceding March thirty-first by using wholesale price information for diesel fuel published by the Oil Price Information Service. Such wholesale price information for “Hartford/Rocky Hill” and “New Haven” shall be averaged by the commissioner. If either the first or last day of such twelve-month period falls on a Sunday or a legal holiday, as defined in section1-4, the next succeeding day which is not a Sunday or legal holiday shall be substituted for such first or last day, as the case may be.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_458h__subsec_b">
+            <num>(b)</num>
+            <paragraph eId="12_458h__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>The applicable tax rate per gallon of diesel fuel shall be the sum of (A) the fixed rate per gallon, as defined in this subdivision, and (B) the product calculated in accordance with subdivision</p>
+              </content>
+              <subparagraph eId="12_458h__subsec_b__subsec_1__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>the fixed rate per gallon, as defined in this subdivision, and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_458h__subsec_b__subsec_1__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>the product calculated in accordance with subdivision</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_458h__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>of this subsection. The sum shall be rounded to the nearest one-tenth of a cent. For purposes of this subdivision, “the fixed rate per gallon” on the sale or use of diesel fuel during the twelve-month period beginning on the first day of July in 2008, 2009 and 2010 is twenty-six cents, and on the sale or use of diesel fuel during the twelve-month period beginning on the first day of July in 2011, and each year thereafter, is twenty-nine cents.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_458h__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>The commissioner shall multiply (A) the average wholesale price per gallon of diesel fuel, as determined in accordance with subdivision</p>
+              </content>
+              <subparagraph eId="12_458h__subsec_b__subsec_2__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>the average wholesale price per gallon of diesel fuel, as determined in accordance with subdivision</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_458h__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_458h__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section, by (B) the tax rate specified in subdivision</p>
+            </content>
+            <paragraph eId="12_458h__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_458h__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of section12-587. The tax rate so specified shall be the tax rate in effect for the twelve-month period beginning on the next succeeding July first.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_458h__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>For purposes of subdivision</p>
+            </content>
+            <paragraph eId="12_458h__subsec_c__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_458h__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of section12-459, the tax provided for by section12-458shall, if determined by the commissioner to be eligible for refund, be refunded at the tax rate per gallon specified in subdivision</p>
+            </content>
+            <paragraph eId="12_458h__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_458h__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

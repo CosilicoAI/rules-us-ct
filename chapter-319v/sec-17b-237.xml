@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-237"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-237"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17b-237"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-237/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-237/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-237/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-237/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319v">
+        <num>319v</num>
+        <heading>Temporary Assistance for Needy Families</heading>
+        <section eId="sec_17b_237">
+          <num>17b-237</num>
+          <heading>(Formerly Sec. 17-310). State aid toward support of children at center</heading>
+          <content>
+            <p>Sec. 17b-237. (Formerly Sec. 17-310). State aid toward support of children at center.The state shall pay annually toward the support of children who have been admitted to the center in accordance with the provisions of section17b-236twenty-five per cent of the operating expense of the convalescent hospital for the preceding year ended June thirtieth. Such amount shall be determined annually by the Commissioner of Social Services. Upon the determination by said commissioner of such amount, said commissioner shall notify the Comptroller thereof, and the Comptroller shall pay monthly during the ensuing fiscal year one-twelfth of the amount so determined. Such payments by the state shall not abrogate any responsibility for payments by the state or any town or any person for care in said center, except that for care in said convalescent hospital of any child directly supported by the state the charge for such care to the state shall not exceed seventy-five per cent of the daily average cost rate for the preceding year ended June thirtieth as such rate shall be determined by said commissioner.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

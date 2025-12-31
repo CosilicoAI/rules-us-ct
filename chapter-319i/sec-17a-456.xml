@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-456"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-456"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17a-456"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-456/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-456/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-456/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-456/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319i">
+        <num>319i</num>
+        <heading>Connecticut HUSKY Plan</heading>
+        <section eId="sec_17a_456">
+          <num>17a-456</num>
+          <heading>(Formerly Sec. 17-207). Board of Mental Health and Addiction Services</heading>
+          <subsection eId="17a_456__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>On and before October 1, 2022, there shall be a Board of Mental Health and Addiction Services that shall consist of:</p>
+            </content>
+            <paragraph eId="17a_456__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>Nineteen members appointed by the Governor, subject to the provisions of section4-9a, five of whom shall have had experience in the field of substance use disorders, five of whom shall be from the mental health community, three of whom shall be physicians licensed to practice medicine in this state who have had experience in the field of psychiatry, two of whom shall be psychologists licensed to practice in this state, two of whom shall be persons representing families of individuals with behavioral health disorders, and two of whom shall be persons representing families of individuals recovering from substance use disorders;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_456__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>the chairmen of the regional mental health boards;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_456__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>one designee of each such board;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_456__subsec_a__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>two designees from each of the five subregions represented by the substance abuse subregional planning and action councils;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_456__subsec_a__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>one designee from each mental health region established pursuant to section17a-478, each of whom shall represent individuals with psychiatric disabilities, selected by such regional mental health boards in collaboration with advocacy groups; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_456__subsec_a__subsec_6">
+              <num>(6)</num>
+              <content>
+                <p>one designee from each of the five subregions represented by such substance abuse subregional planning and action councils, each of whom shall represent individuals recovering from substance use disorders, selected by such substance abuse subregional planning and action councils in collaboration with advocacy groups. The members of the board shall serve without compensation except for necessary expenses incurred in performing their duties. The members of the board may include representatives of nongovernment organizations or groups, and of state agencies, concerned with planning, operation or utilization of facilities providing mental health and substance use disorder services, including consumers and providers of such services who are familiar with the need for such services, except that no more than half of the members of the board shall be providers of such services. Appointed members shall serve on the board for terms of four years each and members who are designees shall serve on the board at the pleasure of the designating authority. No appointed member of the board shall be employed by the state or be a member of the staff of any institution for which such member's compensation is paid wholly by the state. A majority of the board shall constitute a quorum.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17a_456__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>On and after October 1, 2022, there shall be a Board of Mental Health and Addiction Services that shall consist of</p>
+            </content>
+            <paragraph eId="17a_456__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>nineteen members appointed by the Governor, subject to the provisions of section4-9a, five of whom shall have lived experience with substance use disorders, five of whom shall have lived experience with a mental health diagnosis, five of whom shall be behavioral health practitioners licensed to practice in the state, two of whom shall be persons representing families of individuals with behavioral health disorders, and two of whom shall be persons representing families of individuals recovering from substance use disorders; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_456__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>five members appointed by the Commissioner of Mental Health and Addiction Services, each of whom shall represent a regional behavioral health action organization described in section17a-484f. The Governor shall appoint a chairperson from among the members of the board. The members of the board shall serve without compensation except for necessary expenses incurred in performing their duties. The members of the board may include representatives of nongovernment organizations or groups, and of state agencies, concerned with planning, operation or utilization of facilities providing mental health and substance use disorder services, including consumers and providers of such services who are familiar with the need for such services, except that no more than half of the members of the board shall be providers of such services. Members shall serve on the board for terms of four years. No member of the board shall be employed by the state or be a member of the staff of any institution for which such member's compensation is paid wholly by the state. A majority of the board shall constitute a quorum.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-297b"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-297b"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17b-297b"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-297b/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-297b/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-297b/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-297b/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319v">
+        <num>319v</num>
+        <heading>Temporary Assistance for Needy Families</heading>
+        <section eId="sec_17b_297b">
+          <num>17b-297b</num>
+          <heading>Procedures for sharing information in applications for school lunch program for purpose of determining eligibility under HUSKY Health program</heading>
+          <subsection eId="17b_297b__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>To the extent permitted by federal law, the Commissioners of Social Services and Education, in consultation with the board of directors, shall jointly establish procedures for the sharing of information contained in applications for free and reduced price meals under the National School Lunch Program for the purpose of determining whether children participating in said program are eligible for coverage under the HUSKY Health program. The Commissioner of Social Services shall take all actions necessary to ensure that children identified as eligible for the HUSKY Health program, are enrolled in the appropriate plan.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_297b__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The Commissioner of Education shall establish procedures whereby an individual may apply for the HUSKY Health program, at the same time such individual applies for the National School Lunch Program.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

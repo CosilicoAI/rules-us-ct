@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-19b"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-19b"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-19b"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-19b/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-19b/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-19b/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-19b/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_201">
+        <num>201</num>
+        <heading>State and Local Revenue Services. Department of Revenue Services</heading>
+        <section eId="sec_12_19b">
+          <num>12-19b</num>
+          <heading>Valuation of land and buildings for grants under section12-18bor12-19a. Revaluation. Appeals</heading>
+          <content>
+            <p>Sec. 12-19b. Valuation of land and buildings for grants under section12-18bor12-19a. Revaluation. Appeals.Not later than April first in any assessment year, any town, borough or fire district to which a grant is payable under the provisions of section12-18bor12-19ashall provide the Secretary of the Office of Policy and Management with the assessed valuation of the real property eligible therefor as of the first day of October immediately preceding, adjusted in accordance with any gradual increase in or deferment of assessed values of real property implemented in accordance with section12-62c, which is required for computation of such grant. Any town, borough or fire district that neglects to transmit to the secretary the assessed valuation as required by this section shall forfeit two hundred fifty dollars to the state, provided the secretary may waive such forfeiture in accordance with procedures and standards adopted by regulation in accordance with chapter 54. Said secretary may, on or before the first day of August of the state fiscal year in which such grant is payable, reevaluate any such property when, in the secretary's judgment, the valuation is inaccurate and shall notify such town, borough or fire district of such reevaluation by certified or registered mail. Any town, borough or fire district aggrieved by the action of the secretary under the provisions of this section may, not later than ten business days following receipt of such notice, appeal to the secretary for a hearing concerning such reevaluation. Such appeal shall be in writing and shall include a statement as to the reasons for such appeal. The secretary shall, not later than ten business days following receipt of such appeal, grant or deny such hearing by notification in writing, including in the event of a denial, a statement as to the reasons for such denial. Such notification shall be sent by certified or registered mail. If any town, borough or fire district is aggrieved by the action of the secretary following such hearing or in denying any such hearing, the town, borough or fire district may not later than ten business days after receiving such notice, appeal to the superior court for the judicial district wherein such town, borough or fire district is located. Any such appeal shall be privileged.
+See Sec. 12-1c re transfer of certain functions, powers and duties under this chapter to the Secretary of the Office of Policy and Management.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

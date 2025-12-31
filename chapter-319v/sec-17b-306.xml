@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-306"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-306"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17b-306"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-306/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-306/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-306/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-306/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319v">
+        <num>319v</num>
+        <heading>Temporary Assistance for Needy Families</heading>
+        <section eId="sec_17b_306">
+          <num>17b-306</num>
+          <heading>Plan for a system of preventive health services for children in the HUSKY Health program</heading>
+          <subsection eId="17b_306__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The Commissioner of Social Services, in consultation with the Commissioner of Public Health, shall develop and within available appropriations implement a plan for a system of preventive health services for children under HUSKY A and B. The goal of the system shall be to improve health outcomes for all children enrolled in the HUSKY Health program and to reduce racial and ethnic health disparities among children. Such system shall ensure that services under the federal Early and Periodic Screening, Diagnostic and Treatment Program are provided to children enrolled in HUSKY A.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_306__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The plan shall:</p>
+            </content>
+            <paragraph eId="17b_306__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>Establish a coordinated system for preventive health services for HUSKY A and B beneficiaries including, but not limited to, services under the federal Early and Periodic Screening, Diagnostic and Treatment Program, ophthalmologic and optometric services, oral health care, care coordination, chronic disease management and periodicity schedules based on standards specified by the American Academy of Pediatrics;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_306__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>Require the Department of Social Services to track the utilization of services in the system of preventive health services by HUSKY A and B beneficiaries to ensure that such beneficiaries receive all the services available under the system and to track the health outcomes of children; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_306__subsec_b__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>Include payment methodologies to create financial incentives and rewards for health care providers who participate and provide services in the system, such as case management fees, pay for performance, and payment for technical support and data entry associated with patient registries.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

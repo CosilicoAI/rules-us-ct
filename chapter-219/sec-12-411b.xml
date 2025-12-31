@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-411b"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-411b"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-411b"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-411b/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-411b/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-411b/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-411b/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_219">
+        <num>219</num>
+        <heading>Motor Vehicle Fuels Tax</heading>
+        <section eId="sec_12_411b">
+          <num>12-411b</num>
+          <heading>Collection of use tax by certain state contractors</heading>
+          <subsection eId="12_411b__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>For any contract for provision of tangible personal property to the state entered into on or after August 16, 2003, each department head, as defined in section4-5, shall enter into an agreement with the contractor pursuant to which such contractor shall agree, on its own behalf and on behalf of each affiliate, as defined in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_411b__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>of this section, of such contractor, for the term of the state contract, to collect and remit to the state on behalf of its customers any use tax due to the state under the provisions of this chapter for items of tangible personal property sold by the contractor or by any of its affiliates in the same manner as if the contractor and its affiliates were engaged in the business of selling tangible personal property for use in this state and had sufficient nexus with this state to be required to collect use tax due to the state.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_411b__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The following provisions shall apply to and be made part of any agreement entered into pursuant to subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_411b__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section:</p>
+            </content>
+            <paragraph eId="12_411b__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>The contractor and its affiliates are not liable for use tax not paid to them by a customer;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_411b__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>A customer's payment of a use tax to the contractor or its affiliates relieves the customer of liability for the use tax;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_411b__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>The contractor and its affiliates shall remit all use taxes they collect from customers on or before the due date specified in the agreement, which may not be later than the last day of the month next succeeding the end of a calendar quarter or other tax collection period during which the tax was collected; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_411b__subsec_a__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>Any contractor or affiliate who fails to remit use taxes collected on behalf of its customers by the due date specified in the agreement shall be subject to the interest and penalties provided for persons required to collect sales tax under this chapter.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_411b__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Any agreement entered into under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_411b__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section may provide that the contractor and its affiliates shall collect the use tax only on items that are subject to the six and thirty-five-hundredths per cent rate of tax.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_411b__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>For purposes of this section, “affiliate” means any person, as defined in section12-1, that controls, is controlled by, or is under common control with another person. A person controls another person if the person owns, directly or indirectly, more than ten per cent of the voting securities of the other person. For purposes of this subsection, “voting security” means a security that confers upon the holder the right to vote for the election of members of the board of directors or similar governing body of the business, or that is convertible into, or entitles the holder to receive, upon its exercise, a security that confers such a right to vote. “Voting security” includes a general partnership interest.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

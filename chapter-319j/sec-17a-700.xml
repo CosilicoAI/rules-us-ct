@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-700"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-700"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17a-700"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-700/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-700/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-700/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-700/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319j">
+        <num>319j</num>
+        <heading>Health Care For Uninsured Children</heading>
+        <section eId="sec_17a_700">
+          <num>17a-700</num>
+          <heading>(Formerly Sec. 19a-127i). Completion of treatment program by convicted person</heading>
+          <subsection eId="17a_700__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The director of the treatment program shall submit a report to the Court Support Services Division whenever a person treated pursuant to section17a-699has completed the treatment program. Such report shall recommend whether the person should receive further treatment for alcohol or drug dependency.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_700__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The Court Support Services Division shall notify the clerk of the court when a person</p>
+            </content>
+            <paragraph eId="17a_700__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>has completed the treatment program,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_700__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>has complied with all the conditions set under section17a-699, and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_700__subsec_b__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>if alcohol dependent, has abstained from the use of alcohol for two consecutive years, or, if drug dependent, has abstained from the unlawful use of drugs for two consecutive years. Upon receipt of such notification, the clerk shall set a hearing. The Court Support Services Division may advise the court of any recommendation it may make, including a recommendation to modify the sentence or terms of probation or to terminate probation and release the person. After a hearing, the court may modify the sentence or terms of probation or terminate the probation and release the person.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

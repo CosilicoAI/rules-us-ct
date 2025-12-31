@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-131"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-131"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-131"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-131/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-131/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-131/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-131/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_204">
+        <num>204</num>
+        <heading>Local Levy and Collection of Taxes</heading>
+        <section eId="sec_12_131">
+          <num>12-131</num>
+          <heading>Special forms for assessment lists, abstract books and rate bills</heading>
+          <content>
+            <p>Sec. 12-131. Special forms for assessment lists, abstract books and rate bills.The term “rate maker” means the person or board authorized to prepare rate bills for any municipality. The board of assessors of any municipality, upon written request by its property tax collector, may prepare tentative forms of individual assessment lists and of abstract books separating personal property from real estate and, in such case, shall prepare tentative rules and regulations for the use of such forms in such municipality. Such tentative forms, rules and regulations shall be submitted to the Secretary of the Office of Policy and Management. If he approves, they shall be used as of the assessment date next succeeding such approval. The rate maker in each such municipality shall prepare tentative forms of rate bills to correspond to such separation on the individual assessment lists and abstract book and shall submit such tentative forms of rate bills to said secretary. If said secretary approves, such forms of rate bills shall be used in such municipality. Said secretary may, at any time, rescind his approval of any form, rule or regulation provided for by this section. In such event, if it is necessary, the rate maker shall prepare a new form, rule or regulation and submit the same to said secretary. Each municipality for which a special form of individual assessment list or of abstract book or both have been approved in accordance with the provisions of this section shall be exempt from the provisions of section12-27relating to such forms.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

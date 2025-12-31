@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-673"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-673"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17a-673"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-673/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-673/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-673/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-673/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319j">
+        <num>319j</num>
+        <heading>Health Care For Uninsured Children</heading>
+        <section eId="sec_17a_673">
+          <num>17a-673</num>
+          <heading>(Formerly Sec. 19a-4e). Treatment programs. Annual report of facilities</heading>
+          <subsection eId="17a_673__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The department shall establish comprehensive and coordinated programs for the treatment of alcohol-dependent persons, drug-dependent persons and intoxicated persons.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_673__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The programs of the department shall be consistent with its state plan and shall include, but not be limited to:</p>
+            </content>
+            <paragraph eId="17a_673__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>Emergency treatment;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_673__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>inpatient treatment;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_673__subsec_b__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>intermediate treatment; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_673__subsec_b__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>outpatient and follow-up treatment, including appropriate rehabilitation services.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17a_673__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The department shall provide for adequate and appropriate treatment for alcohol-dependent persons, drug-dependent persons and intoxicated persons admitted under sections17a-680to17a-690, inclusive. Treatment may not be provided at a correctional institution except for inmates.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_673__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>The administrator of each treatment facility operated by the Department of Mental Health and Addiction Services shall make an annual report of its activities to the department in the form and manner the department specifies.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_673__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>All appropriate public and private resources shall be coordinated with and utilized in the program if possible.
+See Sec. 17a-714a re legal protections for licensed health care professionals who prescribe opioid antagonists to drug users.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

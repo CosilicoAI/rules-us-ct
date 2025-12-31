@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-455a"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-455a"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-455a"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-455a/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-455a/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-455a/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-455a/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_221">
+        <num>221</num>
+        <heading>Real Estate Conveyance Tax</heading>
+        <section eId="sec_12_455a">
+          <num>12-455a</num>
+          <heading>Definitions</heading>
+          <subsection eId="12_455a__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>“Distributor” means</p>
+            </content>
+            <paragraph eId="12_455a__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>any person, wherever resident or located, who or which imports fuels or causes fuels to be imported into this state, for sale or use,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_455a__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>any person who or which produces, refines, manufactures or compounds fuels within this state,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_455a__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>any person who or which distributes fuels by tank wagon in this state, and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_455a__subsec_a__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>any person who or which stores fuels in this state in a tank or other container having a capacity equaling or exceeding an amount established by the commissioner for purposes of the determination required in accordance with this subdivision;</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_455a__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>“Fuels” means</p>
+            </content>
+            <paragraph eId="12_455a__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>fuels as defined in section14-1and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_455a__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>any other combustible gas or liquid suitable for the generation of power to propel motor vehicles;</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_455a__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>“Motor vehicle” means any vehicle propelled or drawn by any power other than muscular, except aircraft, motorboats, road rollers, baggage trucks used about railroad stations, electric battery-operated wheel chairs when operated by persons with physical disabilities at speeds not exceeding fifteen miles per hour, agricultural tractors, farm implements and such vehicles as run only upon rails or tracks;</p>
+            </content>
+          </subsection>
+          <subsection eId="12_455a__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>“Person” means any individual, corporation, limited liability company, association, copartnership, company, firm or other aggregation;</p>
+            </content>
+          </subsection>
+          <subsection eId="12_455a__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>“Connecticut motor bus company” means any common carrier motor bus company, organized in this state and engaged in the business of carrying passengers for hire, to which a certificate has been issued under section13b-80and seventy-five per cent of whose gross operating revenue is derived from operations within this state.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

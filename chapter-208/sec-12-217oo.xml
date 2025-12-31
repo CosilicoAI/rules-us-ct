@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-217oo"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-217oo"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-217oo"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-217oo/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-217oo/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-217oo/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-217oo/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_208">
+        <num>208</num>
+        <heading>Estate Taxes</heading>
+        <section eId="sec_12_217oo">
+          <num>12-217oo</num>
+          <heading>Vocational rehabilitation job creation tax credit program. No credit allowed for income years commencing on or after January 1, 2012</heading>
+          <subsection eId="12_217oo__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>As used in this section:</p>
+            </content>
+            <paragraph eId="12_217oo__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>“Commissioner” means the Commissioner of Economic and Community Development;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_217oo__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>“Employer” means a person engaged in business who has employees and who is subject to tax under this chapter or chapter 207 or 229;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_217oo__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>“Income year” means the income year or taxable year, as determined under this chapter or chapter 207 or 229, as the case may be;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_217oo__subsec_a__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>“New qualifying employee” means a person who (A) is receiving vocational rehabilitation services from the Department of Aging and Disability Services, and (B) is hired by the employer to fill a new job after May 6, 2010, during the employer's income years commencing on or after January 1, 2010, and prior to January 1, 2012. A new qualifying employee does not include a person receiving vocational rehabilitation services pursuant to subparagraph (A) of this subdivision and who was employed in this state by a related person with respect to the employer during the prior twelve months;</p>
+              </content>
+              <subparagraph eId="12_217oo__subsec_a__subsec_4__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>is receiving vocational rehabilitation services from the Department of Aging and Disability Services, and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_217oo__subsec_a__subsec_4__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>is hired by the employer to fill a new job after May 6, 2010, during the employer's income years commencing on or after January 1, 2010, and prior to January 1, 2012. A new qualifying employee does not include a person receiving vocational rehabilitation services pursuant to subparagraph</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_217oo__subsec_a__subsec_4__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>of this subdivision and who was employed in this state by a related person with respect to the employer during the prior twelve months;</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_217oo__subsec_a__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>“Related person” means (A) a corporation, limited liability company, partnership, association or trust controlled by the employer, (B) an individual, corporation, limited liability company, partnership, association or trust that is in control of the employer, (C) a corporation, limited liability company, partnership, association or trust controlled by an individual, corporation, limited liability company, partnership, association or trust that is in control of the employer, or (D) a member of the same controlled group as the employer; and</p>
+              </content>
+              <subparagraph eId="12_217oo__subsec_a__subsec_5__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>a corporation, limited liability company, partnership, association or trust controlled by the employer,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_217oo__subsec_a__subsec_5__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>an individual, corporation, limited liability company, partnership, association or trust that is in control of the employer,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_217oo__subsec_a__subsec_5__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>a corporation, limited liability company, partnership, association or trust controlled by an individual, corporation, limited liability company, partnership, association or trust that is in control of the employer, or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_217oo__subsec_a__subsec_5__subsec_D">
+                <num>(D)</num>
+                <content>
+                  <p>a member of the same controlled group as the employer; and</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_217oo__subsec_a__subsec_6">
+              <num>(6)</num>
+              <content>
+                <p>“Control”, with respect to a corporation, means ownership, directly or indirectly, of stock possessing fifty per cent or more of the total combined voting power of all classes of the stock of such corporation entitled to vote. “Control”, with respect to a trust, means ownership, directly or indirectly, of fifty per cent or more of the beneficial interest in the principal or income of such trust. The ownership of stock in a corporation, of a capital or profits interest in a partnership, limited liability company or association or of a beneficial interest in a trust shall be determined in accordance with the rules for constructive ownership of stock provided in Section 267</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_217oo__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of the Internal Revenue Code of 1986, or any subsequent corresponding internal revenue code of the United States, as amended from time to time, other than paragraph</p>
+            </content>
+            <paragraph eId="12_217oo__subsec_c__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>of said Section 267</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_217oo__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_217oo__subsec_b">
+            <num>(b)</num>
+            <paragraph eId="12_217oo__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>There is established a vocational rehabilitation job creation tax credit program for employers whereby an employer who hires a new qualifying employee who resides in this state and requires such employee to work at least twenty hours or more per week for not less than forty-eight weeks in a calendar year may be allowed a tax credit against the tax imposed under this chapter or chapter 207 or 229, other than the liability imposed by section12-707.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_217oo__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>The tax credit shall be an amount equal to two hundred dollars per month for each new qualifying employee hired.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_217oo__subsec_b__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>No employer may claim a tax credit for any new qualifying employee who is an owner, member or partner in the business of the employer or who is not employed at the close of the income year of the employer.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_217oo__subsec_b__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>The employer shall claim the tax credit for the income year in which the employer hires a new qualifying employee and, if eligible, the two immediately succeeding income years. Any tax credit not used in an income year shall expire and shall not be refundable.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_217oo__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>To be eligible to claim the tax credit, an employer shall apply to the commissioner in accordance with the provisions of this section. The application shall be on a form provided by the commissioner and shall contain sufficient information as required by the commissioner, including the activities that the employer primarily engages in, the North American Industrial Classification System code of the employer and the name and position or job title of the new qualifying employee hired.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_217oo__subsec_d">
+            <num>(d)</num>
+            <paragraph eId="12_217oo__subsec_d__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>Upon receipt of an application, the commissioner shall render a decision on the application, in writing, not later than thirty days after the date of its receipt by the commissioner. If the commissioner approves the application of the employer, the commissioner shall issue a certification letter indicating that the tax credit will be available to be claimed by the employer if the employer otherwise meets the requirements of this section.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_217oo__subsec_d__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>The total amount of tax credits granted under this section and sections12-217ii,12-217nnand12-217ppshall not exceed twenty million dollars in any one fiscal year.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_217oo__subsec_d__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>No employer claiming the tax credit under this section, with respect to a new qualifying employee, may claim any credit against any tax under any other provision of the general statutes with respect to the same new qualifying employee.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_217oo__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>If the employer is an S corporation or an entity treated as a partnership for federal income tax purposes, the tax credit may be claimed by the shareholders or partners of the employer. If the employer is a single member limited liability company that is disregarded as an entity separate from its owner, the tax credit may be claimed by the limited liability company's owner.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_217oo__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>For an employer subject to the tax imposed under chapter 229, no credit allowed under this section shall exceed the amount of tax imposed by chapter 229. The commissioner shall annually provide to the Commissioner of Revenue Services a list detailing all tax credits that have been approved and all employers that have been issued a certification letter under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_217oo__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>of this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_217oo__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>No tax credit shall be allowed under this section for any new qualifying employee hired by an employer in any income year commencing on or after January 1, 2012.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

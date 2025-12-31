@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-223"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-223"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17b-223"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-223/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-223/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-223/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-223/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319v">
+        <num>319v</num>
+        <heading>Temporary Assistance for Needy Families</heading>
+        <section eId="sec_17b_223">
+          <num>17b-223</num>
+          <heading>(Formerly Sec. 17-295). Support in humane institutions</heading>
+          <subsection eId="17b_223__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The Comptroller shall at least annually determine the cost per capita per diem for the support of persons in state humane institutions and furnish such itemized per capita cost to the Commissioner of Administrative Services. Such cost for the care of persons in facilities operated by the Department of Mental Health and Addiction Services shall be determined by the Comptroller, in consultation with the Commissioner of Mental Health and Addiction Services, on a facility-wide, ward-wide or unit-wide basis. The provisions of this section shall not apply to cases eligible for medical assistance or public assistance under Title XVIII or Title XIX of the Social Security Act, and such cases shall be administered as medical or public assistance cases and shall be subject to federal and state law, rules and procedures governing the same.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_223__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The maximum rate to be charged for the support of each patient for the ensuing year shall be the per capita cost. The commissioner shall, upon the admission of each patient to a humane institution, and may, upon any subsequent readmission of such patient, cause an investigation to be made of the financial circumstances of each liable person and the estate of each patient and, if any such person or estate is found unable to pay the per capita cost, shall bill such liable person or estate from the date of admission at a rate which he finds such person or estate able to pay, provided the total billing to all persons responsible for the support of any patient, including the patient or patient's estate, shall be based on actual days of attendance at the facility involved and shall not exceed the per capita cost. A complete disclosure for the amount and terms of such monthly billing and continuing liability for costs associated with services provided by the state shall be provided to such liable person or patient prior to admission or if the immediate need or admission precludes such notification, at the earliest possibility thereafter.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_223__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Each patient, the husband or wife of such patient and the father and mother of a patient under the age of eighteen years each shall be legally liable from the date of admission for the support of such patient in such institution in accordance with his ability to pay; except that the maximum liability of legally liable relatives as such for a patient in a state humane institution shall be determined by the commissioner in accordance with section4a-12and subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_223__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section. The guardian, conservator and payee of Social Security or other benefits on behalf of any such patient shall be similarly responsible for the support of such patient, but shall be liable in such capacity only in accordance with the amount of the patient's estate or the benefits received, or both, as the case may be. Said commissioner may bill and accept payment from any other person or agency willing to assume any portion of the cost of support of a person in a state humane institution at such rate as such person or agency is willing to pay. The relatives of any such patient who is a veteran shall not be liable as such for any part of the cost of his care in such institution.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_223__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Wherever a rate of billing has been established as the result of a fraud of the patient or a liable person, or where assets of the patient or relative have been concealed so as not to be available to civil process, such patient or liable person, as the case may be, shall be liable for the difference between the amounts actually billed and paid and the amount which would have been billed against such patient or liable person except for such fraud or concealment, which difference may be recovered in a civil action in the same manner as is provided in section17b-228, together with interest at the rate of twelve per cent from the date of such billing, and no statute of limitations shall apply to such right of action.
+See Sec. 17a-461 re charges for care in Connecticut Mental Health Center.
+See Sec. 19a-257 re support of patients with chronic illness excluding tuberculosis.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

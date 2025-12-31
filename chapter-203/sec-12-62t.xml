@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-62t"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-62t"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-62t"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-62t/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-62t/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-62t/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-62t/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_203">
+        <num>203</num>
+        <heading>Property Tax Assessment</heading>
+        <section eId="sec_12_62t">
+          <num>12-62t</num>
+          <heading>Municipal option to delay revaluation or suspend phase-in of real property assessment increase for certain assessment years</heading>
+          <subsection eId="12_62t__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Notwithstanding any provision of the general statutes, any municipal charter, any special act or any home rule ordinance, any municipality required to effect a revaluation of real property under section12-62for the assessment year commencing October 1, 2013, or October 1, 2014, shall not be required to effect a revaluation prior to the assessment year commencing October 1, 2015, provided any decision not to implement a revaluation pursuant to this subsection is approved by the legislative body of such municipality. The rate maker, as defined in section12-131, in any municipality that elects, pursuant to this subsection, not to implement a revaluation, may prepare new rate bills under the provisions of chapter 204 in order to carry out the provisions of this subsection. Any municipality that elects, pursuant to this subsection, not to implement a revaluation for the assessment year commencing October 1, 2013, or October 1, 2014, shall implement a revaluation not later than the first day of October five years after the assessment date on which such deferred revaluation becomes effective.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_62t__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Notwithstanding any provision of the general statutes, any municipal charter, any special act or any home rule ordinance, any municipality that is in the process of phasing in a real property assessment increase or a portion of such increase as of July 1, 2014, may suspend such phase-in for a period of time, but not later than the assessment year commencing October 1, 2015, provided any decision to suspend a phase-in pursuant to this subsection is approved by the legislative body of such municipality. The rate maker, as defined in section12-131, in any municipality that elects, pursuant to this subsection, to suspend a phase-in may prepare new rate bills under the provisions of chapter 204 in order to carry out the provisions of this subsection.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_62t__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The assessor or board of assessors of any municipality that elects, pursuant to subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_62t__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section, not to implement a revaluation of real property for the assessment year commencing October 1, 2013, or October 1, 2014, or, pursuant to subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_62t__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section, to suspend a phase-in of an assessment increase for the assessment year commencing October 1, 2013, shall prepare a revised grand list for said assessment year, which shall reflect the assessments of real estate according to the grand list in effect for the assessment year commencing October 1, 2012, subject only to transfers of ownership, additions for new construction and reductions for demolitions. Such assessor shall send notice of any increase in the valuation of real estate over the valuation of such real estate as of October 1, 2012, or notice of the valuation of any real estate that is on the grand list to be effective for the October 1, 2013, assessment year, but was not on such list in the prior assessment year, to the last-known address of the person whose valuation is so affected, and such person shall have the right to appeal such increase or valuation during the next regular session of the board of assessment appeals at which real estate appeals may be heard.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

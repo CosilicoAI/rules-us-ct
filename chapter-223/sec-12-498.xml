@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-498"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-498"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-498"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-498/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-498/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-498/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-498/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_223">
+        <num>223</num>
+        <heading>Miscellaneous Tax Provisions</heading>
+        <section eId="sec_12_498">
+          <num>12-498</num>
+          <heading>Exempt transactions</heading>
+          <subsection eId="12_498__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The tax imposed by section12-494shall not apply to:</p>
+            </content>
+            <paragraph eId="12_498__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>Deeds that this state is prohibited from taxing under the Constitution or laws of the United States;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_498__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>Deeds that secure a debt or other obligation;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_498__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>Deeds to which this state or any of its political subdivisions or its or their respective agencies is a party;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_498__subsec_a__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>Tax deeds;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_498__subsec_a__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>Deeds of release of property that is security for a debt or other obligation;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_498__subsec_a__subsec_6">
+              <num>(6)</num>
+              <content>
+                <p>Deeds of partition;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_498__subsec_a__subsec_7">
+              <num>(7)</num>
+              <content>
+                <p>Deeds made pursuant to mergers of corporations;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_498__subsec_a__subsec_8">
+              <num>(8)</num>
+              <content>
+                <p>Deeds made by a subsidiary corporation to its parent corporation for no consideration other than the cancellation or surrender of the subsidiary's stock;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_498__subsec_a__subsec_9">
+              <num>(9)</num>
+              <content>
+                <p>Deeds made pursuant to a decree of the Superior Court under section46b-81,49-24or52-495or pursuant to a judgment of foreclosure by market sale under section49-24or pursuant to a judgment of loss mitigation under section49-30tor49-30u;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_498__subsec_a__subsec_10">
+              <num>(10)</num>
+              <content>
+                <p>Deeds, when the consideration for the interest or property conveyed is less than two thousand dollars;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_498__subsec_a__subsec_11">
+              <num>(11)</num>
+              <content>
+                <p>Deeds between affiliated corporations, provided both of such corporations are exempt from taxation pursuant to paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_498__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_498__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_498__subsec_a__subsec_25">
+              <num>(25)</num>
+              <content>
+                <p>of Section 501</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_498__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of the Internal Revenue Code of 1986, or any subsequent corresponding internal revenue code of the United States, as amended from time to time;</p>
+            </content>
+            <paragraph eId="12_498__subsec_c__subsec_12">
+              <num>(12)</num>
+              <content>
+                <p>Deeds made by a corporation that is exempt from taxation pursuant to paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_498__subsec_c__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>of Section 501</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_498__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of the Internal Revenue Code of 1986, or any subsequent corresponding internal revenue code of the United States, as amended from time to time, to any corporation which is exempt from taxation pursuant to said paragraph</p>
+            </content>
+            <paragraph eId="12_498__subsec_c__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>of said Section 501</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_498__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>;</p>
+            </content>
+            <paragraph eId="12_498__subsec_c__subsec_13">
+              <num>(13)</num>
+              <content>
+                <p>Deeds made to any nonprofit organization that is organized for the purpose of holding undeveloped land in trust for conservation or recreation purposes;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_498__subsec_c__subsec_14">
+              <num>(14)</num>
+              <content>
+                <p>Deeds between spouses;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_498__subsec_c__subsec_15">
+              <num>(15)</num>
+              <content>
+                <p>Deeds of property for the Adriaen's Landing site or the stadium facility site, for purposes of the overall project, each as defined in section32-651;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_498__subsec_c__subsec_16">
+              <num>(16)</num>
+              <content>
+                <p>Land transfers made on or after July 1, 1998, to a water company, as defined in section16-1, provided the land is classified as class I or class II land, as defined in section25-37c, after such transfer;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_498__subsec_c__subsec_17">
+              <num>(17)</num>
+              <content>
+                <p>Transfers or conveyances to effectuate a mere change of identity or form of ownership or organization, where there is no change in beneficial ownership;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_498__subsec_c__subsec_18">
+              <num>(18)</num>
+              <content>
+                <p>Conveyances of residential property that occur not later than six months after the date on which the property was previously conveyed to the transferor if the transferor is (A) an employer that acquired the property from an employee pursuant to an employee relocation plan, or (B) an entity in the business of purchasing and selling residential property of employees who are being relocated pursuant to such a plan;</p>
+              </content>
+              <subparagraph eId="12_498__subsec_c__subsec_18__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>an employer that acquired the property from an employee pursuant to an employee relocation plan, or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_498__subsec_c__subsec_18__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>an entity in the business of purchasing and selling residential property of employees who are being relocated pursuant to such a plan;</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_498__subsec_c__subsec_19">
+              <num>(19)</num>
+              <content>
+                <p>Deeds in lieu of foreclosure that transfer the transferor's principal residence;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_498__subsec_c__subsec_20">
+              <num>(20)</num>
+              <content>
+                <p>Any instrument that transfers the transferor's principal residence where the gross purchase price is insufficient to pay the sum of (A) mortgages encumbering the property transferred, and (B) any real property taxes and municipal utility or other charges for which the municipality may place a lien on the property and that have priority over the mortgages encumbering the property transferred;</p>
+              </content>
+              <subparagraph eId="12_498__subsec_c__subsec_20__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>mortgages encumbering the property transferred, and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_498__subsec_c__subsec_20__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>any real property taxes and municipal utility or other charges for which the municipality may place a lien on the property and that have priority over the mortgages encumbering the property transferred;</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_498__subsec_c__subsec_21">
+              <num>(21)</num>
+              <content>
+                <p>Deeds that transfer the transferor's principal residence, where such residence has a concrete foundation that has deteriorated due to the presence of pyrrhotite and such transferor has obtained a written evaluation from a professional engineer licensed pursuant to chapter 391 indicating that the foundation of such residence was made with defective concrete. The exemption authorized under this subdivision shall (A) apply to the first transfer of such residence after such written evaluation has been obtained, and (B) not be available to a transferor who has received financial assistance to repair or replace such foundation from the Crumbling Foundations Assistance Fund established under section8-441; and</p>
+              </content>
+              <subparagraph eId="12_498__subsec_c__subsec_21__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>apply to the first transfer of such residence after such written evaluation has been obtained, and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_498__subsec_c__subsec_21__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>not be available to a transferor who has received financial assistance to repair or replace such foundation from the Crumbling Foundations Assistance Fund established under section8-441; and</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_498__subsec_c__subsec_22">
+              <num>(22)</num>
+              <content>
+                <p>Deeds of property with dwelling units where all such units are deed restricted as affordable housing, as defined in section8-39a. For deeds of property with dwelling units where a portion of such units are subject to such deed restrictions, the exemption authorized under this subdivision shall apply only with respect to the dwelling units subject to such deed restrictions and such exemption shall be reduced proportionally based on the number of units not subject to such deed restrictions.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_498__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The tax imposed by subdivision</p>
+            </content>
+            <paragraph eId="12_498__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_498__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of section12-494shall not apply to:</p>
+            </content>
+            <paragraph eId="12_498__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>Deeds of the principal residence of any person approved for assistance under section12-129bor12-170aafor the current assessment year of the municipality in which such person resides or to any such transfer that occurs within fifteen months of the completion of any municipal assessment year for which such person qualified for such assistance;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_498__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>Deeds of property located in an area designated as an enterprise zone in accordance with section32-70; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_498__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>Deeds of property located in an entertainment district designated under section32-76or established under section 2 of public act 93-311*.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

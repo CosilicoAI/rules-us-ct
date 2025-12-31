@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-2e"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-2e"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-2e"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-2e/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-2e/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-2e/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-2e/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_201">
+        <num>201</num>
+        <heading>State and Local Revenue Services. Department of Revenue Services</heading>
+        <section eId="sec_12_2e">
+          <num>12-2e</num>
+          <heading>Closing agreements</heading>
+          <subsection eId="12_2e__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The Commissioner of Revenue Services may enter into an agreement, in writing, with any person relating to the liability of such person, or of the person or estate for whom such person acts, in respect of any tax payable to said commissioner for any taxable period.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_2e__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Such agreement shall be final and conclusive and, except upon a showing of fraud or malfeasance or misrepresentation of a material fact,</p>
+            </content>
+            <paragraph eId="12_2e__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>the case shall not be reopened as to the matters agreed upon or the agreement modified by any officer, employee or agent of the state of Connecticut, and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_2e__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>in any suit, action or proceeding, such agreement, or any determination, assessment, collection, payment abatement, refund or credit made in accordance therewith, shall not be annulled, modified, set aside or disregarded.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

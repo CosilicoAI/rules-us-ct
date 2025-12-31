@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-84"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-84"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17b-84"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-84/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-84/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-84/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-84/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319s">
+        <num>319s</num>
+        <heading>Connecticut Partnership for Long-Term Care</heading>
+        <section eId="sec_17b_84">
+          <num>17b-84</num>
+          <heading>(Formerly Sec. 17-82i). Funeral and burial allowance for state supplement or temporary family assistance program beneficiaries. Reductions. Disclosure of information regarding liquid assets</heading>
+          <subsection eId="17b_84__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Upon the death of any beneficiary under the state supplement or the temporary family assistance program, the Commissioner of Social Services shall order the payment of a sum not to exceed one thousand eight hundred dollars as an allowance toward the funeral and burial expenses of such decedent. The payment for funeral and burial expenses shall be reduced by</p>
+            </content>
+            <paragraph eId="17b_84__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>the amount in any revocable or irrevocable funeral fund,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_84__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>any prepaid funeral contract,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_84__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>the face value of any life insurance policy owned by the decedent that names a funeral home, cemetery or crematory as a beneficiary,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_84__subsec_a__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>the net value of all liquid assets in the decedent's estate, and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_84__subsec_a__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>contributions in excess of three thousand four hundred dollars toward such funeral and burial expenses from all other sources, including friends, relatives and all other persons, organizations, agencies, veterans' programs and other benefit programs. Notwithstanding the provisions of section17b-90, whenever payment for funeral, burial or cremation expenses is reduced due to liquid assets in the decedent's estate, the commissioner may disclose information concerning such liquid assets to the funeral director, cemetery or crematory providing funeral, burial or cremation services for the decedent.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_84__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The Commissioner of Social Services may adopt regulations, in accordance with chapter 54, to implement the provisions of this section.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-136"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-136"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-136"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-136/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-136/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-136/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-136/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_204">
+        <num>204</num>
+        <heading>Local Levy and Collection of Taxes</heading>
+        <section eId="sec_12_136">
+          <num>12-136</num>
+          <heading>Bonds of tax collectors. Appointment of new collector</heading>
+          <content>
+            <p>Sec. 12-136. Bonds of tax collectors. Appointment of new collector.The collector of taxes of each town, city or borough shall, before the commitment to him of any warrant for the collection of taxes, give a bond, to run for the term of his office, for the faithful discharge of his duties in such sum as is fixed by the selectmen of each town not consolidated with a city or borough, the mayor and aldermen of each city or the warden and burgesses of each borough. Each other collector of taxes shall, before the commitment to him of any warrant for the collection of taxes, give to the municipal district of which he is such collector a bond, with surety, to the acceptance of the committee or other authority signing the rate bill, to run for the term of his office, for the faithful discharge of his duties. The bond of each town tax collector shall be procured from a surety company of good standing approved by the selectmen, and the premium on such bond shall be paid by the town treasurer upon order of the selectmen. If any collector refuses to receive the rate bill or give the bond required by law or to collect and pay the tax within the time limited and delivers up his rate bill, the selectmen or committee of the community may depute some person to collect the sums due on such rate bill, who shall give bond as prescribed in this section.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

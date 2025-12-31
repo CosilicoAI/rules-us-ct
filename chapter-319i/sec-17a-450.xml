@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-450"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-450"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17a-450"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-450/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-450/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-450/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-450/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319i">
+        <num>319i</num>
+        <heading>Connecticut HUSKY Plan</heading>
+        <section eId="sec_17a_450">
+          <num>17a-450</num>
+          <heading>(Formerly Sec. 17-207b). Department of Mental Health and Addiction Services. Functions and duties</heading>
+          <subsection eId="17a_450__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>There shall be a Department of Mental Health and Addiction Services headed by a Commissioner of Mental Health and Addiction Services, appointed by the Governor with the advice of the Board of Mental Health and Addiction Services established pursuant to section17a-456.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_450__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>For the purposes of chapter 48, the Department of Mental Health and Addiction Services shall be organized to promote comprehensive, client-based services in the areas of mental health treatment and substance abuse treatment and to ensure the programmatic integrity and clinical identity of services in each area. The department shall perform the functions of: Centralized administration, planning and program development; prevention and treatment programs and facilities, both inpatient and outpatient, for persons with psychiatric disabilities or persons with substance use disorders, or both; community mental health centers and community or regional programs and facilities providing services for persons with psychiatric disabilities or persons with substance use disorders, or both; training and education; and research and evaluation of programs and facilities providing services for persons with psychiatric disabilities or persons with substance use disorders, or both. The department shall include, but not be limited to, the following divisions and facilities or their successor facilities: The office of the Commissioner of Mental Health and Addiction Services; Capitol Region Mental Health Center; Connecticut Valley Hospital, including the Addictions Division and the General Psychiatric Division of Connecticut Valley Hospital; the Whiting Forensic Hospital; the Connecticut Mental Health Center; Ribicoff Research Center; the Southwest Connecticut Mental Health System, including the Franklin S. DuBois Center and the Greater Bridgeport Community Mental Health Center; the Southeastern Mental Health Authority; River Valley Services; the Western Connecticut Mental Health Network; and any other state-operated facility for the treatment of persons with psychiatric disabilities or persons with substance use disorders, or both, but shall not include those portions of such facilities transferred to the Department of Children and Families for the purpose of consolidation of children's</p>
+            </content>
+            <paragraph eId="17a_450__subsec_b__subsec_7">
+              <num>(7)</num>
+              <content>
+                <p>of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17a_450__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of this section. Disclosures of patient information from the electronic health record system outside of the department shall be in accordance with applicable federal and state law.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_450__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The Department of Mental Health and Addiction Services may:</p>
+            </content>
+            <paragraph eId="17a_450__subsec_c__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>Solicit and accept for use any gift of money or property made by will or otherwise, and any grant of money, services or property from the federal government, the state or any political subdivision thereof or any private source, and do all things necessary to cooperate with the federal government or any of its agencies in making an application for any grant;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_450__subsec_c__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>Keep records and engage in research and the gathering of relevant statistics;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_450__subsec_c__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>Work with public or private agencies, organizations, facilities or individuals to ensure the operation of the programs set forth in accordance with sections17a-75to17a-83, inclusive,17a-450to17a-488a, inclusive,17a-495to17a-528, inclusive,17a-540to17a-550, inclusive,17a-560to17a-575, inclusive,17a-580to17a-603, inclusive, and17a-615to17a-618, inclusive;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_450__subsec_c__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>Hold hearings, issue subpoenas, administer oaths, compel testimony and order production of books, papers and records in the performance of its duties;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_450__subsec_c__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>Operate trustee accounts, in accordance with procedures prescribed by the Comptroller, on behalf of inpatient and outpatient department clients;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_450__subsec_c__subsec_6">
+              <num>(6)</num>
+              <content>
+                <p>Notwithstanding the provisions of sections4-101and17b-239, establish medical reimbursement rates for behavioral health services including, but not limited to, inpatient, outpatient and residential services purchased by the department;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_450__subsec_c__subsec_7">
+              <num>(7)</num>
+              <content>
+                <p>Establish and utilize an electronic health record system that allows authorized department personnel to have access to patient health information, including psychiatric records from any of the department's divisions and facilities set forth in subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17a_450__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section for purposes of (A) providing diagnosis and treatment, and (B) improving the department's health care operations, as defined in 45 CFR 164.501; and</p>
+            </content>
+            <paragraph eId="17a_450__subsec_b__subsec_8">
+              <num>(8)</num>
+              <content>
+                <p>Perform such other acts and functions as may be necessary or convenient to execute the authority expressly granted to it.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17a_450__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>The Department of Mental Health and Addiction Services is designated as the lead state agency for substance abuse prevention and treatment in this state, and as such is designated as the state methadone authority. As the designated state methadone authority, the department is authorized by the federal Center for Substance Abuse Treatment of the Substance Abuse and Mental Health Services Administration within the United States Department of Health and Human Services to exercise responsibility and authority for the treatment of opiate addiction with an opioid medication, and specifically for:</p>
+            </content>
+            <paragraph eId="17a_450__subsec_d__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>Approval of exceptions to federal opioid treatment protocols in accordance with the Center for Substance Abuse Treatment,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_450__subsec_d__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>monitoring all opioid treatment programs in the state, and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_450__subsec_d__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>approval of Center for Substance Abuse Treatment certification of all opioid treatment programs in the state. The Commissioner of Mental Health and Addiction Services may adopt regulations in accordance with chapter 54 to carry out the provisions of this subsection.
+See Sec. 1-101aa re provider participation in informal committees, task forces and work groups of department not deemed to be lobbying.
+See Sec. 17b-492c re authority of commissioner with respect to Medicare Part D program.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

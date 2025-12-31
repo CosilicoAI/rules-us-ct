@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-451"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-451"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-451"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-451/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-451/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-451/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-451/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_220">
+        <num>220</num>
+        <heading>Controlled Substances Tax</heading>
+        <section eId="sec_12_451">
+          <num>12-451</num>
+          <heading>Additional reciprocal tax</heading>
+          <content>
+            <p>Sec. 12-451. Additional reciprocal tax.“State”, when used in this section, shall include the District of Columbia, any other state of the United States and any foreign country. If any other state imposes taxes on alcoholic beverages manufactured in Connecticut and brought into such other state in excess of the taxes imposed on alcoholic beverages manufactured in such other state, the Connecticut Commissioner of Revenue Services shall, in addition to the tax on alcoholic beverages provided by this chapter, impose an additional tax on alcoholic beverages manufactured in such other state and brought into this state, which shall represent the excess of taxes imposed on Connecticut alcoholic beverages brought into such other state over the taxes imposed by such other state on alcoholic beverages manufactured in such other state. The Commissioner of Revenue Services shall issue regulations relative to the levy of such additional tax, shall send a copy of such regulations to each licensed distributor, shall file a copy thereof with the State Treasurer and a copy with the State Comptroller, and shall further cause to be published in a newspaper having general circulation in such other state a notice relative to such additional tax.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

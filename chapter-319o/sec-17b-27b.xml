@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-27b"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-27b"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17b-27b"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-27b/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-27b/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-27b/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-27b/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319o">
+        <num>319o</num>
+        <heading>Personal Care Assistance</heading>
+        <section eId="sec_17b_27b">
+          <num>17b-27b</num>
+          <heading>Connecticut Fatherhood Initiative. Definitions. Office established in Department of Social Services</heading>
+          <subsection eId="17b_27b__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>As used in this section and section17b-27c,</p>
+            </content>
+            <paragraph eId="17b_27b__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>“Connecticut Fatherhood Initiative”, or “CFI”, means an initiative that (A) promotes the positive involvement and interaction of fathers with their children with an emphasis on children from low-income families, and (B) identifies services that effectively encourage and enhance responsible and skillful parenting and increase the ability of fathers to meet the financial and emotional needs of their children; and</p>
+              </content>
+              <subparagraph eId="17b_27b__subsec_a__subsec_1__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>promotes the positive involvement and interaction of fathers with their children with an emphasis on children from low-income families, and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17b_27b__subsec_a__subsec_1__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>identifies services that effectively encourage and enhance responsible and skillful parenting and increase the ability of fathers to meet the financial and emotional needs of their children; and</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="17b_27b__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>“CFI objectives” means efforts to: (A) Promote public education concerning the financial and emotional responsibilities of fatherhood, (B) assist men in preparation for the legal, financial and emotional responsibilities of fatherhood, (C) promote the establishment of paternity at childbirth, (D) encourage fathers, regardless of marital status, to foster their emotional connection to and financial support of their children, (E) establish support mechanisms for fathers in their relationship with their children, regardless of their marital and financial status, and (F) integrate state and local services available for families.</p>
+              </content>
+              <subparagraph eId="17b_27b__subsec_a__subsec_2__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>Promote public education concerning the financial and emotional responsibilities of fatherhood,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17b_27b__subsec_a__subsec_2__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>assist men in preparation for the legal, financial and emotional responsibilities of fatherhood,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17b_27b__subsec_a__subsec_2__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>promote the establishment of paternity at childbirth,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17b_27b__subsec_a__subsec_2__subsec_D">
+                <num>(D)</num>
+                <content>
+                  <p>encourage fathers, regardless of marital status, to foster their emotional connection to and financial support of their children,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17b_27b__subsec_a__subsec_2__subsec_E">
+                <num>(E)</num>
+                <content>
+                  <p>establish support mechanisms for fathers in their relationship with their children, regardless of their marital and financial status, and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17b_27b__subsec_a__subsec_2__subsec_F">
+                <num>(F)</num>
+                <content>
+                  <p>integrate state and local services available for families.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_27b__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>There is established within the Department of Social Services the Office of the Connecticut Fatherhood Initiative. The office shall be overseen by the Commissioner of Social Services and shall perform administrative duties on behalf of the CFI in accordance with a strategic plan developed and implemented as part of the initiative with the approval of the council established pursuant to section17b-27c.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

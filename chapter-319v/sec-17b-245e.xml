@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-245e"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-245e"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17b-245e"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-245e/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-245e/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-245e/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-245e/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319v">
+        <num>319v</num>
+        <heading>Temporary Assistance for Needy Families</heading>
+        <section eId="sec_17b_245e">
+          <num>17b-245e</num>
+          <heading>Telehealth services provided under the Medicaid program. Report</heading>
+          <subsection eId="17b_245e__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>For purposes of this section:</p>
+            </content>
+            <paragraph eId="17b_245e__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>“Commissioner” means the Commissioner of Social Services;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_245e__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>“department” means the Department of Social Services; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_245e__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>“telehealth” has the same meaning as provided in section19a-906.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_245e__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The department shall provide coverage under the Medicaid program for telehealth services for categories of health care services that the commissioner determines are</p>
+            </content>
+            <paragraph eId="17b_245e__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>clinically appropriate to be provided by means of telehealth,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_245e__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>cost effective for the state, and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_245e__subsec_b__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>likely to expand access to medically necessary services where there is a clinical need for those services to be provided by telehealth or for Medicaid recipients for whom accessing appropriate health care services poses an undue hardship. The commissioner may provide coverage of telehealth services pursuant to this section notwithstanding any provision of the regulations of Connecticut state agencies that would otherwise prohibit coverage of telehealth services. The commissioner may implement policies and procedures as necessary to carry out the provisions of this section while in the process of adopting the policies and procedures as regulations, provided notice of intent to adopt the regulations is published in accordance with the provisions of section17b-10.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_245e__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The commissioner shall seek any federal waiver or amend the Medicaid state plan as necessary to attempt to secure federal reimbursement for the costs of providing such coverage under the Medicaid program. An application for such waiver or proposed amendment to the Medicaid state plan shall be submitted to the joint standing committees of the General Assembly having cognizance of matters relating to human services and appropriations and the budgets of state agencies as required under the provisions of section17b-8.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_245e__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Not later than August 1, 2020, the commissioner shall submit a report, in accordance with the provisions of section11-4a, to the joint standing committees of the General Assembly having cognizance of matters relating to human services and public health on</p>
+            </content>
+            <paragraph eId="17b_245e__subsec_d__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>the categories of health care services in which the department is utilizing telehealth services,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_245e__subsec_d__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>in what cities or regions of the state such services are being offered, and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_245e__subsec_d__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>any cost savings realized by the state by providing telehealth services.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

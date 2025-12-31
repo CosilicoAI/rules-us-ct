@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-839a"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-839a"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17a-839a"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-839a/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-839a/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-839a/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-839a/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319l">
+        <num>319l</num>
+        <heading>Nursing Home Financial Assistance</heading>
+        <section eId="sec_17a_839a">
+          <num>17a-839a</num>
+          <heading>(Formerly Sec. 46a-33c). State agency interpreting services. Interpreting services provided by the Department of Aging and Disability Services. Exceptions</heading>
+          <content>
+            <p>Sec. 17a-839a. (Formerly Sec. 46a-33c). State agency interpreting services. Interpreting services provided by the Department of Aging and Disability Services. Exceptions.For purposes of this section, “state agency” has the same meaning as provided in section9-612and “interpreting” has the same meaning as provided in section17a-838. Any state agency that is unable to fulfill a request for interpreting services with its own interpreting staff shall first request such services from the Department of Aging and Disability Services and may seek such services elsewhere if (1) the department is unable to fulfill the request in two business days, or (2) the agency shows good cause that it needs such services immediately. The provisions of this section shall not (A) apply to the Department of Aging and Disability Services if the department needs interpreting services related to an internal matter and the use of department interpreters may raise confidentiality concerns, or (B) affect any preexisting contract for interpreting services. Interpreting services provided by a state agency shall be in accordance with the provisions of section17a-838.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-217g"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-217g"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-217g"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-217g/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-217g/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-217g/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-217g/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_208">
+        <num>208</num>
+        <heading>Estate Taxes</heading>
+        <section eId="sec_12_217g">
+          <num>12-217g</num>
+          <heading>Tax credits for apprenticeship training in manufacturing, construction and plastics-related trades</heading>
+          <subsection eId="12_217g__subsec_a">
+            <num>(a)</num>
+            <paragraph eId="12_217g__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>There shall be allowed a credit for any taxpayer against the tax imposed under this chapter or chapter 228z, for any income or taxable year with respect to each apprenticeship in the manufacturing trades commenced by such taxpayer in such year under a qualified apprenticeship training program as described in subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_217g__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>of this section, certified in accordance with regulations adopted in accordance with the provisions of chapter 54 by the Labor Commissioner and registered with the Labor Department under section31-22r, in an amount equal to six dollars per hour multiplied by the total number of hours worked during the income or taxable year by apprentices in the first half of a two-year term of apprenticeship and the first three-quarters of a four-year term of apprenticeship, provided the amount of credit allowed for any income or taxable year with respect to each such apprenticeship may not exceed seven thousand five hundred dollars or fifty per cent of actual wages paid in such year to an apprentice in the first half of a two-year term of apprenticeship or in the first three-quarters of a four-year term of apprenticeship, whichever is less. For income or taxable years commencing on or after January 1, 2015, for purposes of this subsection, “taxpayer” includes an affected business entity, as defined in section12-284b.</p>
+            </content>
+            <paragraph eId="12_217g__subsec_d__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>(A) For taxable years commencing on or after January 1, 2015, but prior to January 1, 2022, any affected business entity allowed a credit under this subsection may sell, assign or otherwise transfer such credit, in whole or in part, to one or more taxpayers to offset any state tax due or otherwise payable by such taxpayers under this chapter, or, with respect to taxable years commencing on or after January 1, 2016, but prior to January 1, 2022, chapter 212 or 227, provided such credit may be sold, assigned or otherwise transferred, in whole or in part, not more than three times.
+(B) For taxable years commencing on or after January 1, 2022, with respect to an affected business entity claiming a credit under this subsection against the tax due under chapter 228z, the credit available to the members of such entity pursuant to subdivision</p>
+              </content>
+              <subparagraph eId="12_217g__subsec_d__subsec_2__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>For taxable years commencing on or after January 1, 2015, but prior to January 1, 2022, any affected business entity allowed a credit under this subsection may sell, assign or otherwise transfer such credit, in whole or in part, to one or more taxpayers to offset any state tax due or otherwise payable by such taxpayers under this chapter, or, with respect to taxable years commencing on or after January 1, 2016, but prior to January 1, 2022, chapter 212 or 227, provided such credit may be sold, assigned or otherwise transferred, in whole or in part, not more than three times.</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_217g__subsec_d__subsec_2__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>For taxable years commencing on or after January 1, 2022, with respect to an affected business entity claiming a credit under this subsection against the tax due under chapter 228z, the credit available to the members of such entity pursuant to subdivision</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_217g__subsec_d__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_217g__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>of section12-699shall be based upon the amount of tax due under chapter 228z from such entity prior to the application of the credit granted under this subsection and any other payments made against such tax due.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_217g__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>There shall be allowed a credit for any taxpayer against the tax imposed under this chapter for any income year with respect to each apprenticeship in plastics and plastics-related trades commenced by such taxpayer in such year under a qualified apprenticeship training program as described in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_217g__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>of this section, certified in accordance with regulations adopted in accordance with the provisions of chapter 54 by the Labor Commissioner and registered with the Labor Department under section31-22r, which apprenticeship exceeds the average number of such apprenticeships begun by such taxpayer during the five income years immediately preceding the income year with respect to which such credit is allowed, in an amount equal to four dollars per hour multiplied by the total number of hours worked during the income year by apprentices in the first half of a two-year term of apprenticeship and the first three-quarters of a four-year term of apprenticeship, provided the amount of credit allowed for any income year with respect to each such apprenticeship may not exceed four thousand eight hundred dollars or fifty per cent of actual wages paid in such income year to an apprentice in the first half of a two-year term of apprenticeship or in the first three-quarters of a four-year term of apprenticeship, whichever is less.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_217g__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>There shall be allowed a credit for any taxpayer against the tax imposed under this chapter for any income year with respect to wages paid to apprentices in the construction trades by such taxpayer in such year that the apprentice and taxpayer participate in a qualified apprenticeship training program, as described in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_217g__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>of this section, which</p>
+            </content>
+            <paragraph eId="12_217g__subsec_d__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>is at least four years in duration,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_217g__subsec_d__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>is certified in accordance with regulations adopted in accordance with the provisions of chapter 54 by the Labor Commissioner, and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_217g__subsec_d__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>is registered with the Labor Department under section31-22r. The tax credit shall be (A) in an amount equal to two dollars per hour multiplied by the total number of hours completed by each apprentice toward completion of such program, and (B) awarded upon completion and notification of completion of such program in the income year in which such completion and notification occur, provided the amount of credit allowed for such income year with respect to each such apprentice may not exceed four thousand dollars or fifty per cent of actual wages paid over the first four income years for such apprenticeship, whichever is less.</p>
+              </content>
+              <subparagraph eId="12_217g__subsec_d__subsec_3__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>in an amount equal to two dollars per hour multiplied by the total number of hours completed by each apprentice toward completion of such program, and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_217g__subsec_d__subsec_3__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>awarded upon completion and notification of completion of such program in the income year in which such completion and notification occur, provided the amount of credit allowed for such income year with respect to each such apprentice may not exceed four thousand dollars or fifty per cent of actual wages paid over the first four income years for such apprenticeship, whichever is less.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_217g__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>For purposes of this section, a qualified apprenticeship training program shall require at least four thousand but not more than eight thousand hours of apprenticeship training for certification of such apprenticeship by the Labor Department. The amount of credit allowed any taxpayer under this section for any income or taxable year may not exceed the amount of tax due from such taxpayer under this chapter or chapter 228z with respect to such income or taxable year.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

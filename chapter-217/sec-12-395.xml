@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-395"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-395"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-395"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-395/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-395/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-395/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-395/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_217">
+        <num>217</num>
+        <heading>Admissions and Dues Taxes</heading>
+        <section eId="sec_12_395">
+          <num>12-395</num>
+          <heading>Appeal of determination of domicile</heading>
+          <subsection eId="12_395__subsec_a">
+            <num>(a)</num>
+            <paragraph eId="12_395__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>The provisions of sections12-548and12-550to12-554, inclusive, shall apply to the provisions of this chapter in the same manner and with the same force and effect as if the language of said sections12-548and12-550to12-554, inclusive, had been incorporated in full into this chapter and had expressly referred to the tax imposed under this chapter, except to the extent that any such provision is inconsistent with a provision of this chapter.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_395__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>A finding of domicile by a court of probate in accordance with subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_395__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of section45a-309shall not affect the determination, for purposes of this chapter of whether a decedent died a resident of this state, except in accordance with the provisions of subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_395__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_395__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Any person aggrieved by any determination of domicile by the Commissioner of Revenue Services under the provisions of subdivision</p>
+            </content>
+            <paragraph eId="12_395__subsec_b__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_395__subsec_h">
+            <num>(h)</num>
+            <content>
+              <p>of section12-391may, not later than one month after service upon the person of notice of such determination, make a written application for a hearing to the court of probate for the district within which the decedent resided at the date of his death, or within which the commissioner contends that the decedent resided at the date of his death or, if the decedent died a nonresident of this state, in the court of probate for the district within which real estate or tangible personal property of the decedent is situated, or within which the commissioner contends that real estate or tangible personal property of the decedent is situated. Such application shall set forth in detail the objection to the determination of said commissioner and a copy of same shall be mailed to said commissioner at the time of filing. The court of probate shall assign a time and place for a hearing upon such application not less than two nor more than four weeks after receipt thereof and shall cause a copy of the order of hearing to be sent to said commissioner and to the person aggrieved by said determination at least ten days before the time of such hearing. The commissioner or any person interested may appear before the court at such hearing and be heard on any matter involved in the determination. At such hearing, the court shall determine all matters properly before it, and shall enter upon its records a decree of domicile. A copy of the decree of the court of probate shall be forwarded by the judge or clerk of such court to the commissioner and to the person aggrieved because of such determination of the commissioner. The determination by the Commissioner of Revenue Services shall be conclusive upon the state and any person aggrieved by any determination of the commissioner unless a hearing is held as provided in this subsection, in which case the decree of the court of probate shall be conclusive upon the state and any person aggrieved by such determination of the commissioner unless an</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

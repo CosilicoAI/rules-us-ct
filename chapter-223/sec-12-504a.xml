@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-504a"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-504a"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-504a"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-504a/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-504a/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-504a/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-504a/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_223">
+        <num>223</num>
+        <heading>Miscellaneous Tax Provisions</heading>
+        <section eId="sec_12_504a">
+          <num>12-504a</num>
+          <heading>Conveyance tax on sale or transfer of land classified as farm, forest, open space or maritime heritage land</heading>
+          <subsection eId="12_504a__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>If at any time there is a change of ownership for any property that is classified as farm land pursuant to section12-107c, forest land pursuant to section12-107d, open space land pursuant to section12-107eor maritime heritage land pursuant to section12-107g, a new application shall be filed with the assessor pursuant to said section12-107c,12-107d,12-107eor12-107g, provided such change of ownership is not an excepted transfer pursuant to section12-504c.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_504a__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Any land which has been classified by the record owner thereof as open space land pursuant to section12-107eor as maritime heritage land pursuant to section12-107g, if sold or transferred by him within a period of ten years from the time he first caused such land to be so classified, shall be subject to a conveyance tax applicable to the total sales price of such land, which tax shall be in addition to the tax imposed under sections12-494to12-504, inclusive. Said conveyance tax shall be at the following rate:</p>
+            </content>
+            <paragraph eId="12_504a__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>Ten per cent of said total sales price if sold within the first year following the date of such classification;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_504a__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>nine per cent if sold within the second year following the date of such classification;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_504a__subsec_b__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>eight per cent if sold within the third year following the date of such classification;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_504a__subsec_b__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>seven per cent if sold within the fourth year following the date of such classification;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_504a__subsec_b__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>six per cent if sold within the fifth year following the date of such classification;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_504a__subsec_b__subsec_6">
+              <num>(6)</num>
+              <content>
+                <p>five per cent if sold within the sixth year following the date of such classification;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_504a__subsec_b__subsec_7">
+              <num>(7)</num>
+              <content>
+                <p>four per cent if sold within the seventh year following the date of such classification;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_504a__subsec_b__subsec_8">
+              <num>(8)</num>
+              <content>
+                <p>three per cent if sold within the eighth year following the date of such classification;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_504a__subsec_b__subsec_9">
+              <num>(9)</num>
+              <content>
+                <p>two per cent if sold within the ninth year following the date of such classification; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_504a__subsec_b__subsec_10">
+              <num>(10)</num>
+              <content>
+                <p>one per cent if sold within the tenth year following the date of such classification. No conveyance tax shall be imposed on such record owner by the provisions of sections12-504ato12-504f, inclusive, following the end of the tenth year after the date of such classification by the record owner or person acquiring title to such land or causing such land to be so classified.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_504a__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Any land which has been classified by the record owner thereof as farm land pursuant to section12-107cor as forest land pursuant to section12-107d, if sold or transferred by him within a period of ten years from the time he acquired title to such land or from the time he first caused such land to be so classified, whichever is earlier, shall be subject to a conveyance tax applicable to the total sales price of such land, which tax shall be in addition to the tax imposed under sections12-494to12-504, inclusive. Said conveyance tax shall be at the following rate:</p>
+            </content>
+            <paragraph eId="12_504a__subsec_c__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>Ten per cent of said total sales price if sold within the first year of ownership by such record owner;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_504a__subsec_c__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>nine per cent if sold within the second year of ownership by such record owner;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_504a__subsec_c__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>eight per cent if sold within the third year of ownership by such record owner;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_504a__subsec_c__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>seven per cent if sold within the fourth year of ownership by such record owner;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_504a__subsec_c__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>six per cent if sold within the fifth year of ownership by such record owner;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_504a__subsec_c__subsec_6">
+              <num>(6)</num>
+              <content>
+                <p>five per cent if sold within the sixth year of ownership by such record owner;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_504a__subsec_c__subsec_7">
+              <num>(7)</num>
+              <content>
+                <p>four per cent if sold within the seventh year of ownership by such record owner;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_504a__subsec_c__subsec_8">
+              <num>(8)</num>
+              <content>
+                <p>three per cent if sold within the eighth year of ownership by such record owner;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_504a__subsec_c__subsec_9">
+              <num>(9)</num>
+              <content>
+                <p>two per cent if sold within the ninth year of ownership by such record owner; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_504a__subsec_c__subsec_10">
+              <num>(10)</num>
+              <content>
+                <p>one per cent if sold within the tenth year of ownership by such record owner. No conveyance tax shall be imposed by the provisions of sections12-504ato12-504f, inclusive, following the end of the tenth year of ownership by the record owner or person acquiring title to such land or causing such land to be so classified.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

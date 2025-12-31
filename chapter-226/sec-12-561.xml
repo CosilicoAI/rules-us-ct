@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-561"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-561"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-561"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-561/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-561/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-561/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-561/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_226">
+        <num>226</num>
+        <heading>Prepared Food and Beverage Tax</heading>
+        <section eId="sec_12_561">
+          <num>12-561</num>
+          <heading>Conflict of interest</heading>
+          <content>
+            <p>Sec. 12-561. Conflict of interest.No commissioner or unit head or employee of the department shall directly or indirectly, individually or as a member of a partnership or as a shareholder of a corporation, have any interest whatsoever in dealing in any lottery, racing, fronton, or betting enterprise or casino gaming facility or in the ownership or leasing of any property or premises used by or for any lottery, racing, fronton, or betting enterprise or casino gaming facility. For purposes of this section, an interest does not include ownership of investment securities in a publicly held corporation that is traded on a national exchange or over-the-counter market, provided the investment securities held by such person and such person's spouse, parent and child, in the aggregate, do not exceed one-half of one per cent of the total number of shares issued by such corporation. No commissioner or unit head shall, directly or indirectly, (1) wager at any off-track betting facility, race track or fronton authorized under this chapter, (2) purchase lottery tickets issued under this chapter, (3) play any authorized game conducted at a casino gaming facility, (4) place a sports wager, as defined in section12-850, or (5) participate in online casino gaming, as defined in section12-850. The commissioner may adopt regulations in accordance with the provisions of chapter 54 to prohibit any employee of the department from engaging, directly or indirectly, in any form of legalized gambling activity in which such employee is involved because of his or her employment with the department. For purposes of this section, “unit head” means a managerial employee with direct oversight of a legalized gambling activity.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

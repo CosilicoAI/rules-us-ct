@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-39t"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-39t"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-39t"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-39t/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-39t/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-39t/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-39t/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_202">
+        <num>202</num>
+        <heading>Collection of State Taxes</heading>
+        <section eId="sec_12_39t">
+          <num>12-39t</num>
+          <heading>Suspension of statute of limitations for filing a claim for refund of taxes</heading>
+          <subsection eId="12_39t__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>In the case of any individual who files a claim for refund under any provision of this title, the running of the period specified for filing such a claim for refund shall be suspended during any period of such individual's life that such individual is financially disabled, provided the individual proves the existence of the financial disability as required and in the form and manner prescribed by the Commissioner of Revenue Services. For purposes of this section, an individual is “financially disabled” if such individual is unable to manage such individual's financial affairs by reason of a medically determinable physical or mental impairment of the individual which can be expected to result in death or which has lasted or can be expected to last for a continuous period of not less than twelve months, except that an individual is not financially disabled during any period that such individual's spouse or any other person is authorized to act on behalf of such individual in financial matters.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_39t__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>In any case under Title 11 of the United States Code, commencing on or after July 1, 2003, the running of any period of time specified in this title for the Commissioner of Revenue Services to make an assessment shall be suspended for the time period during which such case is pending under said Title 11 and for one hundred twenty days thereafter.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

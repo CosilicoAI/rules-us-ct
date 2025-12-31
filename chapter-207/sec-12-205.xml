@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-205"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-205"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-205"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-205/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-205/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-205/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-205/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_207">
+        <num>207</num>
+        <heading>Gift Tax</heading>
+        <section eId="sec_12_205">
+          <num>12-205</num>
+          <heading>Annual return. Extensions</heading>
+          <content>
+            <p>Sec. 12-205. Annual return. Extensions.Each domestic insurance company doing business in this state shall, on or before the first day of March, annually, render to the Commissioner of Revenue Services an annual return, on forms prescribed or furnished by the commissioner and signed by one of the principal officers of such company, stating specifically the name of the company and the location of its principal office, the names and locations of any subsidiary domestic insurance companies or insurance holding companies, the interest, dividends, premiums and other items of gross income received by such company and by each of the departments of such company during the next preceding calendar year, the deductions from such items of gross income as specified in this chapter and such other information as the commissioner may require for the purpose of making any computations required by this chapter and for the enforcement of this chapter. The amount of tax reported to be due on such return shall be due and payable on or before said first day of March. Payments shall be made in cash or by check, draft or money order drawn to the order of the Commissioner of Revenue Services. The commissioner may, for good cause shown, extend the time for making the return and paying the tax, if a written request is filed with the commissioner together with a tentative return which must be accompanied by a payment of the tax reported to be due thereon on or before said first day of March. Any company to which an extension is granted shall pay, in addition to the tax, interest at the rate of one per cent per month or fraction thereof from the date on which the tax would have been due without the extension until the date of payment.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

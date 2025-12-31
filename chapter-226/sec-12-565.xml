@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-565"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-565"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-565"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-565/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-565/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-565/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-565/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_226">
+        <num>226</num>
+        <heading>Prepared Food and Beverage Tax</heading>
+        <section eId="sec_12_565">
+          <num>12-565</num>
+          <heading>Powers of commissioner</heading>
+          <content>
+            <p>Sec. 12-565. Powers of commissioner.The commissioner may conduct any inquiry, investigation or hearing necessary to carry out the provisions of this chapter. The commissioner shall have power to administer oaths and take testimony under oath concerning the matter of inquiry or investigation. At any hearing ordered, the commissioner or an agent authorized by law to issue such process may subpoena witnesses and require the production of records, papers and documents pertinent to such inquiry. No witness under subpoena issued under the provisions of this section shall be excused from testifying or from producing records, papers or documents on the ground that such testimony or the production of such records or other documentary evidence would tend to incriminate him, but such evidence or the records or papers so produced shall not be used in any criminal proceeding against him. If any person disobeys such process or, having appeared in obedience thereto, refuses to answer any pertinent question put to him or to produce any records and papers pursuant thereto, the commissioner may apply to the superior court for the judicial district of Hartford or for the judicial district wherein the person resides or wherein the business has been conducted, or to any judge of said court if the same is not in session, setting forth such disobedience to process or refusal to answer. Said court or such judge shall cite such person to appear before said court or such judge to answer such question or to produce such records and papers and, upon his refusal to do so, shall commit such person to a community correctional center until he testifies, but not for a longer period than sixty days. Notwithstanding the serving of the term of such commitment by any person, the commissioner may proceed with such inquiry and examination as if the witness had not previously been called upon to testify. Officers who serve subpoenas issued by the commissioner or under his authority and witnesses attending hearings conducted under this section shall receive the same fees and compensation as officers and witnesses in the courts of this state to be paid on vouchers of the department on order of the Comptroller. The commissioner may delegate the powers granted to him under this section.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

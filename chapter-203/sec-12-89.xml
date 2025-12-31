@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-89"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-89"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-89"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-89/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-89/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-89/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-89/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_203">
+        <num>203</num>
+        <heading>Property Tax Assessment</heading>
+        <section eId="sec_12_89">
+          <num>12-89</num>
+          <heading>Assessors or boards of assessors to determine exemptions</heading>
+          <subsection eId="12_89__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The assessor or board of assessors of each town, consolidated town and city or consolidated town and borough shall inspect the statements and applications filed pursuant to sections12-81and12-87and determine what part, if any, of the property claimed to be exempt is in fact exempt. The assessor or board of assessors shall place a valuation upon any such property found to be taxable. Any property acquired by any tax-exempt organization after October first shall first become exempt on the assessment date next succeeding the date of acquisition. For assessment years commencing on or after October 1, 2022, if the board of assessors determines that property claimed to be exempt is taxable, the board of assessors shall state upon its records the rationale for such determination.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_89__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Upon the denial in whole or in part of a statement or application inspected pursuant to subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_89__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section, the assessor or board of assessors shall mail a written notice of such denial to the last known address of the taxpayer or organization. Such notice shall be mailed not earlier than the assessment date and not later than the tenth calendar day immediately following the date on which the assessor or board of assessors signs and attests to the grand list pursuant to section12-55. Such notice shall include</p>
+            </content>
+            <paragraph eId="12_89__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>the gross assessed valuation of the property, the amounts of any exemption granted and the net taxable valuation of the property, and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_89__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>a statement that the taxpayer or organization may appeal the decision of the assessor or board of assessors pursuant to subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_89__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_89__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Any taxpayer or organization filing a tax-exempt statement or application for exemption, aggrieved at the action of the assessor or board of assessors, may appeal, within the time prescribed by law for such appeals, to the board of assessment appeals. Any such taxpayer or organization claiming to be aggrieved by the action of the board of assessment appeals may, within two months from the time of such action, make application in the nature of an appeal therefrom to the superior court for the judicial district in which such property is situated.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

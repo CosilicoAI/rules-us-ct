@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-810"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-810"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17a-810"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-810/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-810/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-810/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-810/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319l">
+        <num>319l</num>
+        <heading>Nursing Home Financial Assistance</heading>
+        <section eId="sec_17a_810">
+          <num>17a-810</num>
+          <heading>(Formerly Sec. 10-293). Advisory Board for Persons Who are Blind or Visually Impaired; advisor to Department of Aging and Disability Services</heading>
+          <subsection eId="17a_810__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>There is established an Advisory Board for Persons Who are Blind or Visually Impaired that shall serve as an advisor to the Department of Rehabilitation Services in fulfilling its responsibilities in providing services to persons who are blind or visually impaired in the state.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_810__subsec_b">
+            <num>(b)</num>
+            <paragraph eId="17a_810__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>The Advisory Board for Persons Who are Blind or Visually Impaired shall consist of members appointed as follows: Six appointed by the Governor, one appointed by the president pro tempore of the Senate, one appointed by the speaker of the House of Representatives, one appointed by the majority leader of the Senate, one appointed by the minority leader of the Senate, one appointed by the majority leader of the House of Representatives and one appointed by the minority leader of the House of Representatives and all shall be residents of the state. The Commissioner of Social Services shall be an ex-officio member. One of the members appointed by the Governor shall be the parent of a child who receives services provided by the Department of Aging and Disability Services, and not less than two of the members appointed by the Governor shall be persons who are blind.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_810__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>Three members appointed by the Governor shall serve a term of four years. Three members appointed by the Governor shall serve a term of two years. The three members appointed by the president pro tempore of the Senate, the majority leader of the Senate and the minority leader of the Senate shall serve a term of four years. The three members appointed by the speaker of the House of Representatives, the majority leader of the House of Representatives, and the minority leader of the House of Representatives shall serve a term of two years. Thereafter, all members shall be appointed for a term of four years, commencing on January fourth of the year of the appointment.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_810__subsec_b__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>One of the members appointed by the Governor shall be designated by the Governor as the chairperson of the advisory board. The advisory board shall meet annually in the month of September and may meet at any other time upon the call of its chairperson; and the chairperson shall call a meeting at the request of two or more members. Any appointed member who fails to attend three consecutive meetings or fifty per cent of all meetings held during any calendar year shall be deemed to have resigned. A majority of the members in office shall constitute a quorum. The appointing authority may, for reasonable cause, remove any appointed member and appoint another person to fill the vacancy for the unexpired portion of the term. Any vacancy in the advisory board shall be filled by the appointing authority for the unexpired portion of the term.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

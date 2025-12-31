@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-424"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-424"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-424"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-424/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-424/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-424/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-424/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_219">
+        <num>219</num>
+        <heading>Motor Vehicle Fuels Tax</heading>
+        <section eId="sec_12_424">
+          <num>12-424</num>
+          <heading>Payment on termination of business and successor's liability</heading>
+          <content>
+            <p>Sec. 12-424. Payment on termination of business and successor's liability.(1)Withholding by purchaser.If any person liable for any amount under this chapter sells out his or her business or stock of goods or quits the business, such person's successors or assigns shall withhold sufficient of the purchase price to cover such amount until the former owner produces a receipt from the commissioner showing that it has been paid or a certificate stating that no amount is due.
+(2)Liability of purchaser; release.If the purchaser of a business or stock of goods fails to withhold the purchase price as required, such purchaser becomes personally liable for the payment of the amount required to be withheld by the purchaser to the extent of the purchase price, valued in money. Within sixty days after receiving a written request from the purchaser for a certificate, the commissioner shall either issue the certificate or mail notice to the purchaser at said purchaser's address as it appears on the records of the commissioner of the amount that must be paid as a condition of issuing the certificate. Failure of the commissioner to mail the notice shall release the purchaser from any further obligation to withhold the purchase price as above provided. The time within which the obligation of the successor may be enforced shall start to run at the time the person sells out his or her business or stock of goods or quits the business or at the time that the assessment against such person becomes final, whichever event occurs later.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

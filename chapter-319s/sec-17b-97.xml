@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-97"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-97"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17b-97"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-97/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-97/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-97/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-97/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319s">
+        <num>319s</num>
+        <heading>Connecticut Partnership for Long-Term Care</heading>
+        <section eId="sec_17b_97">
+          <num>17b-97</num>
+          <heading>(Formerly Sec. 17-83i). Fraud in obtaining aid or food stamp or supplemental nutrition assistance program benefits or in receiving payment. Penalties. Unlawful award of public assistance benefits</heading>
+          <subsection eId="17b_97__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Any food stamps or supplemental nutrition assistance furnished or any sums paid to or on behalf of any person under the state supplement program, medical assistance program, temporary family assistance program, aid to families with dependent children program, state-administered general assistance program, food stamp program or supplemental nutrition assistance program as a result of any false statement, misrepresentation or concealment of or failure to disclose assets by him, or by any person legally liable for his support, may be recovered in an action brought by the state against such person or persons.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_97__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Any person who, by means of an intentionally false statement or misrepresentation or by impersonation or other fraudulent act or device, obtains, or attempts to obtain, or aids or abets any person to obtain, any monetary award under the state supplement program, medical assistance program, temporary family assistance program, aid to families with dependent children program, state-administered general assistance program, food stamp program or supplemental nutrition assistance program to which he is not entitled; and any person who, with intent to defraud, buys or aids or abets in buying or in any way disposing of the property of a person receiving an award, and any person who, with intent to defraud, violates the provisions of section17b-85or any other provision of said programs shall be subject to the penalties for larceny under sections53a-122and53a-123, depending on the amount involved. When a person receiving assistance is convicted of an offense involving an overpayment of public assistance under said sections, the Commissioner of Social Services may discontinue his award or take such other action as conforms to federal regulations.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_97__subsec_c">
+            <num>(c)</num>
+            <heading>Repealed by P</heading>
+            <content>
+              <p>A. 74-140, S. 3.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_97__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Any person who, by means of an intentionally false statement or misrepresentation or by impersonation or other fraudulent act or device, obtains, or attempts to obtain, or aids or abets any person to obtain, or who knowingly uses, transfers, acquires, alters, or attempts to use, traffic in, forge or possess, any United States Department of Agriculture food coupon, food stamp coupon authorization to participate card, or Department of Social Services public assistance photographic identification card or electronically coded identification and debit card, shall be subject to the penalties for larceny under sections53a-122and53a-123, depending on the amount involved.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_97__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>Any person having duties in the administration of a state or federally funded public assistance program who fraudulently misappropriates, attempts to misappropriate, or aids and abets in the misappropriation of any United States Department of Agriculture food coupon, food stamp coupon authorization to participate card, or Department of Social Services public assistance photographic identification card or electronically coded identification and debit card, shall be subject to the penalties for larceny under sections53a-122and53a-123, depending on the amount involved and shall be subject to discipline or discharge by the commissioner.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_97__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>Any person having duties in the administration of a state or federally funded public assistance program who, directly or indirectly, by himself or by another, solicits, accepts or agrees to accept from another, any benefit for, because of or as consideration for, taking, or promising to take, action which results, or is intended to result, in the unlawful award, transfer or receipt of public assistance benefits or United States Department of Agriculture food stamp or supplemental nutrition assistance benefits shall be subject to the penalty provided for bribe receiving under section53a-148and shall be subject to discipline or discharge by the commissioner.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

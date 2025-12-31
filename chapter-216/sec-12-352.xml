@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-352"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-352"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-352"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-352/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-352/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-352/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-352/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_216">
+        <num>216</num>
+        <heading>Sales and Use Taxes</heading>
+        <section eId="sec_12_352">
+          <num>12-352</num>
+          <heading>Net estate of nonresident transferor; deductions</heading>
+          <subsection eId="12_352__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Fees of the Connecticut Probate Court;</p>
+            </content>
+          </subsection>
+          <subsection eId="12_352__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>advertising expenses incidental to administration in this state;</p>
+            </content>
+          </subsection>
+          <subsection eId="12_352__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>the reasonable compensation of appraisers of real estate or tangible personal property situated within this state;</p>
+            </content>
+          </subsection>
+          <subsection eId="12_352__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>expenses incurred in connection with procuring the fiduciary's bond filed in the Connecticut Probate Court;</p>
+            </content>
+          </subsection>
+          <subsection eId="12_352__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>commissions paid in connection with the sale of real estate or tangible personal property situated within this state;</p>
+            </content>
+          </subsection>
+          <subsection eId="12_352__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>reasonable compensation of executors and administrators, qualifying as such in the Connecticut Probate Court, and reasonable fees for Connecticut attorneys;</p>
+            </content>
+          </subsection>
+          <subsection eId="12_352__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>the amount at the date of the transferor's death of all unpaid mortgages upon real or tangible personal property situated within this state, which mortgages were not deducted in the appraisal of the property mortgaged;</p>
+            </content>
+          </subsection>
+          <subsection eId="12_352__subsec_h">
+            <num>(h)</num>
+            <content>
+              <p>unpaid taxes upon real or tangible personal property situated within this state which were a lien at the date of the transferor's death;</p>
+            </content>
+          </subsection>
+          <subsection eId="12_352__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>any tax on untaxed property assessed by this state against the estate of the transferor;</p>
+            </content>
+          </subsection>
+          <subsection eId="12_352__subsec_j">
+            <num>(j)</num>
+            <content>
+              <p>special assessments which, at the date of death, were a lien on real property of the transferor situated within this state;</p>
+            </content>
+          </subsection>
+          <subsection eId="12_352__subsec_k">
+            <num>(k)</num>
+            <content>
+              <p>any amount exempted pursuant to subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_352__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of section12-344. In case the domiciliary estate is insolvent, there shall be allowed as a deduction, in addition to the foregoing items, the amount by which the total of the lawful claims against and administration expenses of the estate, exclusive of Connecticut deductible items set forth above, exceeds the total value of property wherever situated subject to such claims and expenses, exclusive of the gross estate situated in this state. The foregoing deductions shall be allowed in the case of property transferred by will and by laws relating to intestate estates, provided they reduce the gross taxable estate. In the case of property transferred other than by will or by laws relating to intestate estates, such deductions shall be allowed</p>
+            </content>
+            <paragraph eId="12_352__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>only to the extent that such property is includable in the decedent's gross taxable estate under the provisions of this chapter, and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_352__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>only to the extent that the transferee has actually paid the deductible items and either the transferee was legally obligated to pay such items or the assets subject to probate are insufficient to pay such items.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>
