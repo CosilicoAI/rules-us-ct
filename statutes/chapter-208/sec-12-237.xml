@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-237"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-237"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-237"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-237/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-237/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-237/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-237/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_208">
+        <num>208</num>
+        <heading>Estate Taxes</heading>
+        <section eId="sec_12_237">
+          <num>12-237</num>
+          <heading>Appeal</heading>
+          <content>
+            <p>Sec. 12-237. Appeal.Any taxpayer aggrieved because of any order, decision, determination or disallowance of the Commissioner of Revenue Services under the provisions of this part may, not later than thirty days after service upon the taxpayer of notice of such order, decision, determination or disallowance, take an appeal therefrom to the superior court for the judicial district of New Britain, which shall be accompanied by a citation to the Commissioner of Revenue Services to appear before said court. Such citation shall be signed by the same authority, and such appeal shall be returnable at the same time and served and returned in the same manner, as is required in case of a summons in a civil action. The authority issuing the citation shall take from the appellant a bond or recognizance to the state of Connecticut, with surety to prosecute the appeal to effect and to comply with the orders and decrees of the court in the premises. Such appeals shall be preferred cases, to be heard, unless cause appears to the contrary, at the first session, by the court or by a committee appointed by it. Said court may grant such relief as may be equitable and, if such tax has been paid prior to the granting of such relief, may order the Treasurer to pay the amount of such relief, with interest at the rate of eight per cent per annum, to the aggrieved taxpayer. If the appeal has been taken without probable cause, the court may tax double or triple costs, as the case demands; and, upon all such appeals which may be denied, costs may be taxed against the appellant at the discretion of the court, but no costs shall be taxed against the state.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

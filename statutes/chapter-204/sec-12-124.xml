@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-124"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-124"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-124"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-124/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-124/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-124/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-124/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_204">
+        <num>204</num>
+        <heading>Local Levy and Collection of Taxes</heading>
+        <section eId="sec_12_124">
+          <num>12-124</num>
+          <heading>Abatement of taxes and interest</heading>
+          <content>
+            <p>Sec. 12-124. Abatement of taxes and interest.The selectmen of towns, the mayor and aldermen of cities, the warden and burgesses of boroughs and the committees of other communities (1) may abate the taxes, or the interest on delinquent taxes, or both, assessed by their respective communities upon such persons as are poor and unable to pay the same or upon railroad companies in bankruptcy reorganization, provided either a standing abatement committee of a community or, if a community has no such committee, the Secretary of the Office of Policy and Management shall approve such abatement, and (2) shall present to each annual meeting of their respective communities a list of all persons whose taxes, or the interest on whose taxes, they have abated in the preceding year.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

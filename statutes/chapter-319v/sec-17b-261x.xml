@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-261x"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-261x"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17b-261x"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-261x/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-261x/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-261x/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-261x/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319v">
+        <num>319v</num>
+        <heading>Temporary Assistance for Needy Families</heading>
+        <section eId="sec_17b_261x">
+          <num>17b-261x</num>
+          <heading>Minimum protected resource allowance for community spouse of institutionalized Medicaid recipient</heading>
+          <subsection eId="17b_261x__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>For purposes of this section:</p>
+            </content>
+            <paragraph eId="17b_261x__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>“Institutionalized spouse” has the same meaning as provided in 42 USC 1396r-5</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_261x__subsec_h">
+            <num>(h)</num>
+            <paragraph eId="17b_261x__subsec_h__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_261x__subsec_h__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>“Community spouse” has the same meaning as provided in 42 USC 1396r-5</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_261x__subsec_h">
+            <num>(h)</num>
+            <paragraph eId="17b_261x__subsec_h__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_261x__subsec_h__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>“Minimum community spouse resource allowance” means the minimum amount of assets a community spouse of an institutionalized spouse may keep pursuant to 42 USC 1396r-5</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_261x__subsec_f">
+            <num>(f)</num>
+            <paragraph eId="17b_261x__subsec_f__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_261x__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The Commissioner of Social Services shall amend the Medicaid state plan in accordance with federal law to set the minimum community spouse resource allowance at fifty thousand dollars.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_261x__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Not later than July 1, 2023, the commissioner shall report on the impact of increasing the minimum community spouse resource allowance, in accordance with the provisions of section11-4a, to the joint standing committees of the General Assembly having cognizance of matters relating to aging, human services and appropriations and the budgets of state agencies. Such report shall include, but not be limited to:</p>
+            </content>
+            <paragraph eId="17b_261x__subsec_c__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>The number of community spouses who were able to keep additional assets as a result of the increase in the minimum community spouse resource allowance pursuant to subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_261x__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section; and</p>
+            </content>
+            <paragraph eId="17b_261x__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>the cost to the state of increasing said amount.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_261x__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>The commissioner may adopt regulations, in accordance with the provisions of chapter 54, to implement the provisions of this section.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

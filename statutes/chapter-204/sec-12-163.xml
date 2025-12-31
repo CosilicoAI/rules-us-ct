@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-163"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-163"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-163"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-163/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-163/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-163/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-163/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_204">
+        <num>204</num>
+        <heading>Local Levy and Collection of Taxes</heading>
+        <section eId="sec_12_163">
+          <num>12-163</num>
+          <heading>Jeopardy collection of taxes. Written notice</heading>
+          <subsection eId="12_163__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>If, between the assessment date and the tax due date, any tax collector, after exercising due diligence, determines that the collection of any tax will be jeopardized by delay, he shall, subject to the provisions of this section, collect such tax forthwith. He may enforce collection thereof by using any one or more of the methods provided in sections12-155,12-161and12-162, or in any other section of the general statutes relating to the enforced collection of taxes. If the amount of such tax has been definitely fixed by the rate maker, the collector shall collect such amount. If the assessment of the property represented by such tax has been fixed by the assessors but the tax rate has not been laid, the collector shall, subject to the provisions of this section, enforce collection of a tax obtained by multiplying the assessment so fixed by the tax rate of the year next preceding. If neither the assessment of the property nor the tax rate has been fixed, the tax collector shall make application to the assessors for a valuation on such property. The assessors shall forthwith assess such property and the assessment placed upon such property by the assessors, together with the tax rate of the year next preceding, shall be used by the collector in determining the amount of tax to be collected. If, after the payment of any tax in conformity with the provisions of this section, it is found that the amount so paid is in excess of the amount which would have been paid on the tax due date or after appeal to the courts, the excess so paid shall be returned to the taxpayer upon written application by him to the treasurer of the municipality. Such written application shall contain a recital of the facts; shall show the amount of rebate to which the applicant believes he is entitled; shall be approved by the tax collector, and shall be made within the period of one year from the date of the definite determination of such tax. The person against whom jeopardy collection proceedings</p>
+            </content>
+          </subsection>
+          <subsection eId="12_163__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Upon commencing a jeopardy tax collection proceeding, a tax collector shall provide written notice of such collection proceeding to</p>
+            </content>
+            <paragraph eId="12_163__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>the chief elected official or chief executive officer of the municipality in which the property is located, and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_163__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>the taxpayer subject to such collection proceeding. Such written notice shall contain a detailed explanation supporting the tax collector's determination that the collection of the tax will be jeopardized by delay.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

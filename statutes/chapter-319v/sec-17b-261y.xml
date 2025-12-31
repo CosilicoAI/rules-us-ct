@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-261y"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-261y"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17b-261y"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-261y/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-261y/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-261y/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-261y/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319v">
+        <num>319v</num>
+        <heading>Temporary Assistance for Needy Families</heading>
+        <section eId="sec_17b_261y">
+          <num>17b-261y</num>
+          <heading>Department to compile annual data on denial of Medicaid eligibility in any matter in which Probate Court issued order or decree re assets or income affecting Medicaid eligibility</heading>
+          <content>
+            <p>Sec. 17b-261y. Department to compile annual data on denial of Medicaid eligibility in any matter in which Probate Court issued order or decree re assets or income affecting Medicaid eligibility.The Department of Social Services shall compile annual data concerning the denial of Medicaid eligibility in any matter in which a Probate Court in this state issued an order or decree concerning assets or income that, according to the department, affected an individual's Medicaid eligibility. Not later than January 1, 2024, and annually thereafter, the department, in accordance with the provisions of section11-4a, shall report to the joint standing committees of the General Assembly having cognizance of matters relating to the judiciary and human services on: (1) On any Probate Court order or decree relating to assets or income with which the department did not comply and, according to the department, affected an individual applying for Medicaid eligibility, such report shall include a written explanation for such noncompliance and whether the department appealed the Probate Court order or decree; and (2) for all occurrences described in subdivision (1) of this section, whether the denial of Medicaid eligibility by the department was appealed and the outcome or status of any such appeal.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-278i"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-278i"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17b-278i"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-278i/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-278i/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-278i/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-278i/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319v">
+        <num>319v</num>
+        <heading>Temporary Assistance for Needy Families</heading>
+        <section eId="sec_17b_278i">
+          <num>17b-278i</num>
+          <heading>Medical assistance for customized wheelchairs. Definitions. Repairs. Refurbished equipment, parts and components. Regulations</heading>
+          <subsection eId="17b_278i__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>As used in this section,</p>
+            </content>
+            <paragraph eId="17b_278i__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>“customized wheelchair” means a wheelchair built, designed or outfitted for a Medicaid recipient with a physical disability unable to achieve maximum mobility with a standard wheelchair and includes a complex rehabilitation technology wheelchair,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_278i__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>“authorized wheelchair dealer”, “complex rehabilitation technology wheelchair” and “timely repair” have the same meanings as provided in section42-337, and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_278i__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>“medically necessary” has the same meaning as provided in section17b-259b. Customized wheelchairs shall be covered under the Medicaid program only when “medically necessary” and a standard wheelchair does not meet an individual's needs as determined by the Department of Social Services. Wheelchair repairs and parts replacements may be subject to review and approval by the department. Refurbished wheelchairs, parts and components shall be utilized whenever practicable. The Department of Social Services may designate categories of durable medical equipment in addition to customized wheelchairs for which reused equipment, parts and components shall be utilized whenever practicable.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_278i__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Notwithstanding the provisions of subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_278i__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section, on and after July 1, 2024, the Commissioner of Social Services shall not require a new prescription or prior authorization for the medically necessary repair of a customized wheelchair unless the original prescription for such wheelchair is more than five years old.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_278i__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The commissioner shall seek any federal approval necessary, including amending the Medicaid state plan or applying for a Medicaid waiver, to implement the provisions of this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_278i__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>The commissioner, pursuant to section17b-10, may implement policies and procedures necessary to administer the provisions of this section while in the process of adopting such policies and procedures as regulations, provided the commissioner posts notice of intent to adopt regulations on the eRegulations System not later than twenty days after the date of implementation. Policies and procedures implemented pursuant to this section shall be valid until the time final regulations are adopted.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

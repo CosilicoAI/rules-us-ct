@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-272"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-272"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17a-272"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-272/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-272/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-272/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-272/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319c">
+        <num>319c</num>
+        <heading>Early Childhood Programs</heading>
+        <section eId="sec_17a_272">
+          <num>17a-272</num>
+          <heading>(Formerly Sec. 19a-447). Training schools. Developmental services regions. Directors. Assistant directors</heading>
+          <subsection eId="17a_272__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The director of each training school or state developmental services region shall be appointed by the Commissioner of Developmental Services, and shall be removable in the same manner. The director shall be a trained administrator of services and facilities engaged in the care, custody, treatment and training of persons with intellectual disability. Each director shall be subject to the direction of the Commissioner of Developmental Services and shall be responsible for the operation and the administration of the training school or state developmental services region.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_272__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Each director may with the approval of the Commissioner of Developmental Services appoint four assistant directors for the efficient conduct of the business of each training school or state developmental services region. Each director shall designate an assistant director who shall in the event of the director's absence, disqualification or death, exercise the powers and duties of the director until the director resumes his or her duties or the vacancy is filled. The director may remove an assistant director.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

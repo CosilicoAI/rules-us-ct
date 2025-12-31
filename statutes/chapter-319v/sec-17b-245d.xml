@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-245d"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-245d"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17b-245d"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-245d/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-245d/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-245d/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-245d/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319v">
+        <num>319v</num>
+        <heading>Temporary Assistance for Needy Families</heading>
+        <section eId="sec_17b_245d">
+          <num>17b-245d</num>
+          <heading>Information to be provided by federally qualified health centers. Adjustment of encounter rates</heading>
+          <subsection eId="17b_245d__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>On or before February 1, 2013, and on January first annually thereafter, each federally qualified health center shall file with the Department of Social Services the following documents for the previous state fiscal year:</p>
+            </content>
+            <paragraph eId="17b_245d__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>Medicaid cost report;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_245d__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>audited financial statements; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_245d__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>any additional information reasonably required by the department. Any federally qualified health center that does not use the state fiscal year as its fiscal year shall have six months from the completion of such health center's fiscal year to file said documents with the department.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_245d__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Each federally qualified health center shall provide to the Department of Social Services a copy of its original scope of project, as approved by the federal Health Resources and Services Administration, and all subsequently approved amendments to its original scope of project. Each federally qualified health center shall notify the department, in writing, of all approvals for additional amendments to its scope of project, and provide to the department a copy of such amended scope of project, not later than thirty days after such approvals.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_245d__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>If there is an increase or a decrease in the scope of services furnished by a federally qualified health center, the federally qualified health center shall notify the Department of Social Services, in writing, of any such increase or decrease not later than thirty days after such increase or decrease and provide any additional information reasonably requested by the department not later than thirty days after the request.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_245d__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>The Commissioner of Social Services may impose a civil penalty of five hundred dollars per day on any federally qualified health center that fails to provide any information required pursuant to this section not later than thirty days after the date such information is due.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_245d__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>The department may adjust a federally qualified health center's encounter rate based upon an increase or decrease in the scope of services furnished by the federally qualified health center, in accordance with 42 USC 1396a(bb)</p>
+            </content>
+            <paragraph eId="17b_245d__subsec_e__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>(B), following receipt of the written notification described in subsection</p>
+              </content>
+              <subparagraph eId="17b_245d__subsec_e__subsec_3__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>, following receipt of the written notification described in subsection</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_245d__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of this section or based upon the department's review of documents filed in accordance with subsections</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_245d__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>and</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_245d__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_245d__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>The Commissioner of Social Services shall implement policies and procedures necessary to administer the provisions of this section while in the process of adopting such policies and procedures as regulations, provided the commissioner prints notice of intent to adopt regulations in the Connecticut Law Journal not later than twenty days after the date of implementation. Policies and procedures implemented pursuant to this section shall be valid until the time final regulations are adopted.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

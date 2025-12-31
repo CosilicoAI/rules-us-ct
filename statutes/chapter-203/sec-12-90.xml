@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-90"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-90"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-90"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-90/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-90/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-90/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-90/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_203">
+        <num>203</num>
+        <heading>Property Tax Assessment</heading>
+        <section eId="sec_12_90">
+          <num>12-90</num>
+          <heading>Limitation on number of exemptions allowed</heading>
+          <subsection eId="12_90__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>No individual entitled to exemption under two or more of subdivisions</p>
+            </content>
+            <paragraph eId="12_90__subsec_a__subsec_19">
+              <num>(19)</num>
+              <content>
+                <p>,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_90__subsec_a__subsec_20">
+              <num>(20)</num>
+              <content>
+                <p>,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_90__subsec_a__subsec_22">
+              <num>(22)</num>
+              <content>
+                <p>,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_90__subsec_a__subsec_23">
+              <num>(23)</num>
+              <content>
+                <p>,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_90__subsec_a__subsec_25">
+              <num>(25)</num>
+              <content>
+                <p>,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_90__subsec_a__subsec_26">
+              <num>(26)</num>
+              <content>
+                <p>and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_90__subsec_a__subsec_28">
+              <num>(28)</num>
+              <content>
+                <p>of section12-81and under section12-82shall receive more than one exemption.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_90__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Notwithstanding the provisions of subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_90__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section, any individual entitled to the exemption from property tax allowed in accordance with subdivision</p>
+            </content>
+            <paragraph eId="12_90__subsec_a__subsec_22">
+              <num>(22)</num>
+              <content>
+                <p>of said section12-81for the surviving spouse of a veteran as defined therein, which individual, except for said provisions of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_90__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>hereof, would also be entitled to the exemption from property tax allowed in accordance with subdivision</p>
+            </content>
+            <paragraph eId="12_90__subsec_a__subsec_19">
+              <num>(19)</num>
+              <content>
+                <p>of said section12-81for veterans as defined therein, shall be entitled to receive the amount of exemption allowed under said subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_90__subsec_a__subsec_22">
+              <num>(22)</num>
+              <content>
+                <p>as such a surviving spouse and, in addition, the amount of exemption allowed under said subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_90__subsec_a__subsec_19">
+              <num>(19)</num>
+              <content>
+                <p>as a veteran qualified for such exemption thereunder.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-81n"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-81n"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-81n"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-81n/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-81n/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-81n/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-81n/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_203">
+        <num>203</num>
+        <heading>Property Tax Assessment</heading>
+        <section eId="sec_12_81n">
+          <num>12-81n</num>
+          <heading>Municipal option to provide additional exemption for businesses offering child care services to residents</heading>
+          <content>
+            <p>Sec. 12-81n. Municipal option to provide additional exemption for businesses offering child care services to residents.Any municipality, upon approval by its legislative body, may provide an exemption from property tax of property subject to taxation under chapter 208 of a business which offers child care services, as described in section19a-77, to residents of the municipality, provided such business is not regularly engaged in the construction or operation of child care centers, group child care homes or family child care homes. Such exemption shall be in the amount of (1) up to one hundred per cent of the assessed value of the property of the business used in providing child care services; and (2) up to ten per cent of the balance of the assessed value of the property of the business.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

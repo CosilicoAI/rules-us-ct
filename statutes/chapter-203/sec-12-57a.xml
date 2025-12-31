@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-57a"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-57a"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-57a"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-57a/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-57a/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-57a/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-57a/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_203">
+        <num>203</num>
+        <heading>Property Tax Assessment</heading>
+        <section eId="sec_12_57a">
+          <num>12-57a</num>
+          <heading>Leased personal property and name of owner thereof to be included for information purposes in declaration of lessee</heading>
+          <subsection eId="12_57a__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Any personal property subject to a contract of lease, except any motor vehicle registered with the Commissioner of Motor Vehicles, which property is in the possession of the lessee on any assessment day in the municipality in which the lessee resides, shall, for information purposes only, be included in the personal property declaration of the lessee as an individual entry or as part of a list of such leased property in the possession of the lessee on such assessment day. Such entry or declaration may be in the form of an attachment or a separate category of property in such declaration and with respect to each item of such leased property, the lessee shall be required to include the name and address of the owner of such property and the term of the lease applicable thereto. In the event the lessee is not required to submit a personal property declaration in such municipality, any such items of leased personal property shall be recorded in such form as used for purposes of personal property declarations, adding thereto identification of such property as leased personal property and including with respect to each item of such property the name and address of the owner thereof.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_57a__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Whenever any such lessee of personal property fails to file the information required in this section, it shall be assumed that any such property in the lessee's possession is owned by the lessee, who shall be subject to the penalty as provided in section12-41in the same manner as any owner of personal property who fails to file a personal property declaration as required.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

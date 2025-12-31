@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-43"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-43"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-43"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-43/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-43/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-43/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-43/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_203">
+        <num>203</num>
+        <heading>Property Tax Assessment</heading>
+        <section eId="sec_12_43">
+          <num>12-43</num>
+          <heading>Property of nonresidents</heading>
+          <subsection eId="12_43__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Each owner of tangible personal property located in any town for three months or more during the assessment year immediately preceding any assessment day, who is a nonresident of such town, shall file a declaration of such personal property with the assessors of the town in which the same is located on such assessment day, if located in such town for three months or more in such year, otherwise, in the town in which such property is located for the three months or more in such year nearest to such assessment day, under the same provisions as apply to residents, and such personal property shall not be liable to taxation in any other town in this state. The declaration of each nonresident taxpayer shall contain the nonresident's post-office and street address.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_43__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>At least thirty days before the expiration of the time for filing such declaration, the assessors shall mail blank declaration forms to each nonresident, or to such nonresident's attorney or agent having custody of the nonresident's taxable property, or send such forms electronically to such nonresident's electronic mail address or the electronic mail address of such nonresident's attorney or agent, provided such nonresident has requested, in writing, to receive such forms electronically. If the identity or mailing address of a nonresident taxpayer is not discovered until after the expiration of time for filing a declaration, the assessor shall, not later than ten days after determining the identity or mailing address, mail a declaration form to the nonresident taxpayer. Such taxpayer shall file the declaration not later than fifteen days after the date such declaration form is sent. Each nonresident taxpayer who fails to file a declaration in accordance with the provisions of this section shall be subject to the penalty provided in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_43__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>of section12-41.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_43__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>As used in this section, “nonresident” means a person who does not reside in the town in which such person's tangible personal property is located on the assessment day, or a company, corporation, limited liability company, partnership or any other type of business enterprise that does not have an established place for conducting business in such town on the assessment day.
+See Sec. 12-71 re personal property subject to tax.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

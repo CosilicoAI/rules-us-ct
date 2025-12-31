@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-276"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-276"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17b-276"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-276/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-276/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-276/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-276/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319v">
+        <num>319v</num>
+        <heading>Temporary Assistance for Needy Families</heading>
+        <section eId="sec_17b_276">
+          <num>17b-276</num>
+          <heading>(Formerly Sec. 17-134s). Competitive bidding process for nonemergency transportation services. Disclosure of payment source. Fee schedules</heading>
+          <subsection eId="17b_276__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The Commissioner of Social Services shall identify geographic areas of the state where competitive bidding for nonemergency transportation services provided to medical assistance recipients to access covered medical services would result in cost savings to the state. For the identified areas, the Commissioner of Social Services, in consultation with the Commissioner of Transportation, the Commissioner of Public Health and the Secretary of the Office of Policy and Management, shall purchase such nonemergency transportation services through a competitive bidding process. Any transportation providers awarded a contract or subcontract for the direct provision of such services shall meet state licensure or certification requirements and the nonemergency transportation requirements established by the Department of Social Services, and shall provide the most cost effective transportation service, provided any contractor awarded a contract solely for coordinating such transportation services shall not be required to meet such licensure or certification requirements and provided the first such contracts for the purchase of such services shall not exceed one year. Prior to awarding a contract pursuant to this section, the Commissioner of Social Services shall consider the effect of the contract on the emergency ambulance primary service areas and volunteer ambulance services affected by the contract. The commissioner may limit the geographic areas to be served by a contractor and may limit the amount of services to be performed by a contractor. The commissioner may operate one or more pilot programs prior to state-wide operation of a competitive bidding program for nonemergency transportation services. By enrolling in the Medicaid program or participating in the competitively bid contract for nonemergency transportation services, providers of nonemergency transportation services agree to offer to recipients of medical assistance all types or levels of transportation services </p>
+            </content>
+          </subsection>
+          <subsection eId="17b_276__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Notwithstanding any other provision of the general statutes, for purposes of administering medical assistance programs, including, but not limited to, programs administered pursuant to Title XIX or Title XXI of the Social Security Act, the Department of Social Services shall be the sole state agency that sets emergency and nonemergency medical transportation fees or fee schedules for any transportation services that are reimbursed by the department for said medical assistance programs. Effective July 1, 2011, the Commissioner of Social Services shall reduce, by not more than ten per cent, the rates in effect on December 31, 2010, for emergency ambulance transportation fees that are directly reimbursed by the Department of Social Services, provided the commissioner may increase such rates at such time when the commissioner determines there are sufficient funds and a reasonable need for such rate increase.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

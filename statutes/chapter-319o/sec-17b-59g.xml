@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-59g"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-59g"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17b-59g"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-59g/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-59g/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-59g/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-59g/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319o">
+        <num>319o</num>
+        <heading>Personal Care Assistance</heading>
+        <section eId="sec_17b_59g">
+          <num>17b-59g</num>
+          <heading>Program to expedite development of State-wide Health Information Exchange. Entity to implement the program. Board of directors</heading>
+          <subsection eId="17b_59g__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The state, acting by and through the Secretary of the Office of Policy and Management, in collaboration with the Commissioner of Health Strategy, shall establish a program to expedite the development of the State-wide Health Information Exchange, established under section17b-59d, to assist the state, health care providers, insurance carriers, physicians and all stakeholders in empowering consumers to make effective health care decisions, promote patient-centered care, improve the quality, safety and value of health care, reduce waste and duplication of services, support clinical decision-making, keep confidential health information secure and make progress toward the state's public health goals. The purposes of the program shall be to</p>
+            </content>
+            <paragraph eId="17b_59g__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>assist the State-wide Health Information Exchange in establishing and maintaining itself as a neutral and trusted entity that serves the public good for the benefit of all Connecticut residents, including, but not limited to, Connecticut health care consumers and Connecticut health care providers and carriers,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_59g__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>perform, on behalf of the state, the role of intermediary between public and private stakeholders and customers of the State-wide Health Information Exchange, and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_59g__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>fulfill the responsibilities of the Office of Health Strategy, as described in section19a-754a.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_59g__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The Commissioner of Health Strategy, in consultation with the health information technology officer, designated in accordance with section19a-754, shall design, and the Secretary of the Office of Policy and Management, in collaboration with said commissioner, may establish or incorporate an entity to implement the program established under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_59g__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section. Such entity shall, without limitation, be owned and governed, in whole or in part, by a party or parties other than the state and may be organized as a nonprofit entity.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_59g__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Any entity established or incorporated pursuant to subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_59g__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section shall have its powers vested in and exercised by a board of directors. The board of directors shall be comprised of the following members who shall each serve for a term of two years:</p>
+            </content>
+            <paragraph eId="17b_59g__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>One member who shall have expertise as an advocate for consumers of health care, appointed by the Governor;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_59g__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>One member who shall have expertise as a clinical medical doctor, appointed by the president pro tempore of the Senate;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_59g__subsec_b__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>One member who shall have expertise in the area of hospital administration, appointed by the speaker of the House of Representatives;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_59g__subsec_b__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>One member who shall have expertise in the area of corporate law or finance, appointed by the minority leader of the Senate;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_59g__subsec_b__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>One member who shall have expertise in group health insurance coverage, appointed by the minority leader of the House of Representatives;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_59g__subsec_b__subsec_6">
+              <num>(6)</num>
+              <content>
+                <p>The Chief Information Officer and the Secretary of the Office of Policy and Management, or their designees, who shall serve as ex-officio, voting members of the board;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_59g__subsec_b__subsec_7">
+              <num>(7)</num>
+              <content>
+                <p>The health information technology officer, designated in accordance with section19a-754a, who shall serve as chairperson of the board; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_59g__subsec_b__subsec_8">
+              <num>(8)</num>
+              <content>
+                <p>The Commissioner of Social Services, or the commissioner's designee, who shall serve as an ex-officio, voting member of the board.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_59g__subsec_d">
+            <num>(d)</num>
+            <heading>Any vacancy shall be filled by the appointing authority for the balance of the unexpired term</heading>
+            <content>
+              <p>If an appointing authority fails to make an initial appointment on or before sixty days after the establishment of such entity, or to fill a vacancy in an appointment on or before sixty days after the date of such vacancy, the Governor shall make such appointment or fill such vacancy.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_59g__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>Any entity established or incorporated under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_59g__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section may</p>
+            </content>
+            <paragraph eId="17b_59g__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>employ a staff and fix their duties, qualifications and compensation;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_59g__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>solicit, receive and accept aid or contributions, including money, property, labor and other things of value from any source;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_59g__subsec_b__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>receive, and manage on behalf of the state, funding from the federal government, other public sources or private sources to cover costs associated with the planning, implementation and administration of the State-wide Health Information Exchange;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_59g__subsec_b__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>collect and remit fees set by the Health Information Technology Officer charged to persons or entities for access to or interaction with said exchange;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_59g__subsec_b__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>retain outside consultants and technical experts;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_59g__subsec_b__subsec_6">
+              <num>(6)</num>
+              <content>
+                <p>maintain an office in the state at such place or places as such entity may designate;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_59g__subsec_b__subsec_7">
+              <num>(7)</num>
+              <content>
+                <p>procure insurance against loss in connection with such entity's property and other assets in such amounts and from such insurers as such entity deems desirable;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_59g__subsec_b__subsec_8">
+              <num>(8)</num>
+              <content>
+                <p>sue and be sued and plead and be impleaded;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_59g__subsec_b__subsec_9">
+              <num>(9)</num>
+              <content>
+                <p>borrow money for the purpose of obtaining working capital; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_59g__subsec_b__subsec_10">
+              <num>(10)</num>
+              <content>
+                <p>subject to the powers, purposes and restrictions of sections17b-59a,17b-59d, and17b-59f, do all acts and things necessary and convenient to carry out the purposes of this section and section19a-754a.
+Note: Chapter 319p is reserved for future use.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

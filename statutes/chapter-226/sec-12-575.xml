@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-575"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-575"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-575"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-575/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-575/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-575/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-575/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_226">
+        <num>226</num>
+        <heading>Prepared Food and Beverage Tax</heading>
+        <section eId="sec_12_575">
+          <num>12-575</num>
+          <heading>Pari-mutuel betting. Tax. Uncashed tickets. Payments to municipalities</heading>
+          <subsection eId="12_575__subsec_a">
+            <num>(a)</num>
+            <heading>Pari-mutuel betting permitted</heading>
+            <content>
+              <p>The department may permit at racing events, exhibitions of the game of jai alai licensed under the provisions of this chapter or at off-track betting facilities, betting under a pari-mutuel system, so called, including standard pari-mutuel, daily double, exacta, quinella, trifecta, superfecta, twin trifecta, pick four and pick six betting, and such other forms of multiple betting as the department may determine.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_575__subsec_b">
+            <num>(b)</num>
+            <heading>Operation of pari-mutuel system</heading>
+            <content>
+              <p>The pari-mutuel system, so called, shall not be used or permitted at any location other than the race track at which the racing event is licensed to be conducted or the fronton at which the game of jai alai is licensed to be played or at an off-track betting facility operated by the department or by a licensee authorized to operate the off-track betting system. A computerized electronic totalizator system, approved by the commissioner, shall be used to conduct pari-mutuel wagering at each racing or jai alai event. A computerized electronic totalizator system approved by the commissioner and, where authorized by subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_575__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of section12-571a, and approved by the commissioner, a simulcast system shall be used to conduct pari-mutuel wagering and simulcasting of off-track betting race programs at off-track betting facilities. The commissioner may require any licensee to submit information concerning the daily operation of such totalizator or simulcast system which the commissioner deems necessary for the effective administration of this chapter, including records of all wagering transactions, in such form and manner as the commissioner prescribes.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_575__subsec_c">
+            <num>(c)</num>
+            <heading>Takeout</heading>
+            <paragraph eId="12_575__subsec_c__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>Except as provided in subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_575__subsec_c__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>of this subsection, each licensee conducting horse racing events under the pari-mutuel system shall distribute all sums deposited in any pari-mutuel program to the holders of winning tickets therein, less seventeen per cent of the total deposits plus the breakage to the dime of the amount so retained, and each licensee conducting jai alai events shall distribute all sums deposited in any pari-mutuel program to the holders of winning tickets therein, less a maximum of eighteen per cent of the deposits in the win, place or show pools and less a maximum of twenty-three per cent of the deposits in all other pools plus the breakage to the dime of the amount so retained.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_575__subsec_c__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>Each licensee conducting horse racing or jai alai events may carry over all or a portion of the sums deposited in any pari-mutuel program, less the amount retained as provided in this section, in the twin trifecta, pick four or pick six pari-mutuel pool to another pool, including a pool in a succeeding performance.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_575__subsec_d">
+            <num>(d)</num>
+            <heading>Tax: Horse racing</heading>
+            <content>
+              <p>Each licensee conducting horse racing events under the pari-mutuel system shall pay to the state, and there is hereby imposed:</p>
+            </content>
+            <paragraph eId="12_575__subsec_d__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>A tax on the total money wagered in the pari-mutuel pool on each day the licensee conducts racing events, pursuant to the following schedule:
+Total WageredTax0 to $100,0013.25% on the entire pool$100,001 to $200,0013.75% on the entire pool$200,001 to $300,0014.25% on the entire pool$300,001 to $400,0014.75% on the entire pool$400,001 to $500,0015.25% on the entire pool$500,001 to $600,0015.75% on the entire pool$600,001 to $700,0016.25% on the entire pool$700,001 to $800,0016.75% on the entire pool$800,001 to $900,0017.25% on the entire pool$900,001 to $1,000,0017.75% on the entire pool$1,000,001 and over8.75% on the entire pool
+and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_575__subsec_d__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>a tax equal to one-half of the breakage to the dime resulting from such wagering. The commissioner shall by regulation adopted in accordance with the provisions of chapter 54 designate the percentage of the difference between the seventeen per cent specified in subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_575__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of this section and the tax specified in this subsection, which shall be allocated as prize or purse money for the horses racing at each facility.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_575__subsec_e">
+            <num>(e)</num>
+            <heading>Tax: Jai alai</heading>
+            <content>
+              <p>Each licensee operating a fronton at which the game of jai alai is licensed to be played under the pari-mutuel system shall pay to the state and there is hereby imposed:</p>
+            </content>
+            <paragraph eId="12_575__subsec_e__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>(A) A tax at the rate of two per cent on any amount up to and including fifty million dollars of the total money wagered on such games, (B) a tax at the rate of three per cent of any amount in excess of fifty million dollars and up to and including eighty million dollars of the total money wagered on such games, and (C) a tax at the rate of four per cent on any amount in excess of eighty million dollars of the total money wagered on such games, and</p>
+              </content>
+              <subparagraph eId="12_575__subsec_e__subsec_1__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>A tax at the rate of two per cent on any amount up to and including fifty million dollars of the total money wagered on such games,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_575__subsec_e__subsec_1__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>a tax at the rate of three per cent of any amount in excess of fifty million dollars and up to and including eighty million dollars of the total money wagered on such games, and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_575__subsec_e__subsec_1__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>a tax at the rate of four per cent on any amount in excess of eighty million dollars of the total money wagered on such games, and</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_575__subsec_e__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>a tax equal to one-half of the breakage to the dime resulting from such wagering.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_575__subsec_f">
+            <num>(f)</num>
+            <heading>Tax: Off-track betting</heading>
+            <content>
+              <p>The licensee authorized to operate the system of off-track betting under the pari-mutuel system shall pay to the state and there is hereby imposed:</p>
+            </content>
+            <paragraph eId="12_575__subsec_f__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>A tax at the rate of three and one-half per cent on the total money wagered in the pari-mutuel pool on each day the licensee broadcasts racing events, and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_575__subsec_f__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>a tax equal to one-half of the breakage to the dime resulting from such wagering.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_575__subsec_g">
+            <num>(g)</num>
+            <heading>Tax: Assessment and payment</heading>
+            <content>
+              <p>The commissioner shall assess and collect the taxes imposed by this chapter under such regulations as the commissioner may prescribe, in accordance with the provisions of chapter 54. All taxes hereby imposed shall be due and payable by the close of the next banking day after each day's racing or jai alai exhibition. If any such tax is not paid when due, the commissioner shall impose a delinquency assessment upon the licensee in the amount of ten per cent of such tax or ten dollars, whichever amount is greater, plus interest at the rate of one and one-half per cent of the unpaid principal of such tax for each month or fraction of a month from the date such tax is due to the date of payment. Subject to the provisions of section12-3a, the commissioner may waive all or part of the penalties provided under this subsection when it is proven to the commissioner's satisfaction that the failure to pay such tax within the time required was due to reasonable cause and was not intentional or due to neglect. Failure to pay any such delinquent tax upon demand may be considered by the commissioner as cause for revocation of license.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_575__subsec_h">
+            <num>(h)</num>
+            <heading>Accounting</heading>
+            <content>
+              <p>The commissioner shall devise a system of accounting and shall supervise betting at such track, fronton or off-track betting facility in such manner that the rights of the state are protected and shall collect all fees and licenses under such regulations as the commissioner shall prescribe, in accordance with the provisions of chapter 54.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_575__subsec_i">
+            <num>(i)</num>
+            <heading>Unclaimed moneys</heading>
+            <content>
+              <p>The amount of unclaimed moneys, as determined by the commissioner, held by any licensee other than by licensees authorized to operate a jai alai fronton or the off-track betting system on account of outstanding and uncashed winning tickets, shall be due and payable to the commissioner, for deposit in the General Fund of the state, at the expiration of one year after the close of the meeting during which such tickets were issued. If any such unclaimed moneys are not paid when due, the commissioner shall impose a delinquency assessment upon the licensee in the amount of ten per cent of such moneys or ten dollars, whichever amount is greater, plus interest at the rate of one and one-half per cent of the unpaid principal of such moneys for each month or fraction of a month from the date such moneys are due to the date of payment. Subject to the provisions of section12-3a, the commissioner may waive all or part of the penalties provided under this subsection when it is proven to the commissioner's satisfaction that the failure to pay such moneys to the state within the time required was due to reasonable cause and was not intentional or due to neglect.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_575__subsec_j">
+            <num>(j)</num>
+            <heading>Inspection</heading>
+            <content>
+              <p>The commissioner may authorize deputies and the Commissioner of Revenue Services or his or her agents are authorized to enter upon the premises at any horse racing event, jai alai exhibition or off-track betting race event for the purpose of inspecting books and records, supervising and examining cashiers, ticket sellers, pool sellers and other persons handling money at such event and such other supervision as may be necessary for the maintenance of order at such event.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_575__subsec_k">
+            <num>(k)</num>
+            <heading>Payments to municipalities</heading>
+            <paragraph eId="12_575__subsec_k__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>The commissioner shall pay each municipality in which a horse race track is located one-quarter of one per cent of the total money wagered on horse racing events at such race track, except the commissioner shall pay each such municipality having a population in excess of fifty thousand one per cent of the total money wagered at such horse racing events in such municipality. The commissioner shall pay each municipality in which a jai alai fronton is located one-half of one per cent of the total money wagered on jai alai games at such fronton, except the commissioner shall pay each such municipality having a population in excess of fifty thousand one per cent of the total money wagered on jai alai games at such fronton located in such municipality. The commissioner shall pay each municipality in which an off-track betting facility is located one and three-fifths per cent of the total money wagered in such facility less amounts paid as refunds or for cancellations. The commissioner shall pay to both the city of New Haven and the town of Windsor Locks an additional one-half of one per cent of the total money wagered less any amount paid as a refund or for a cancellation in any facility equipped with screens for simulcasting after October 1, 1997, located within a fifteen-mile radius of facilities in New Haven and Windsor Locks. Payment shall be made not less than four times a year and not more than twelve times a year as determined by the commissioner, and shall be made from the tax imposed pursuant to subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_575__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>of this section for horse racing, subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_575__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>of this section for jai alai games and subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_575__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>of this section for off-track betting.</p>
+            </content>
+            <paragraph eId="12_575__subsec_f__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>In the event a licensee incurs a loss from the operation of a pari-mutuel facility, as determined by the commissioner, the legislative body of the city or town in which such facility is located may direct the commissioner to credit or rebate all or a part of the revenue otherwise due to the municipality back to the facility. In no case shall such credit and such reimbursement exceed the amount of the licensee's loss, and in no fiscal year shall these provisions affect the total fees paid to the state by the authorized operator of the off-track betting system on its off-track betting activities.
+See chapter 226b re disclosure statements with regard to pari-mutuel betting.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

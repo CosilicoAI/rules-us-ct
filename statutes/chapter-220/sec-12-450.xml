@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-450"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-450"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-450"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-450/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-450/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-450/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-450/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_220">
+        <num>220</num>
+        <heading>Controlled Substances Tax</heading>
+        <section eId="sec_12_450">
+          <num>12-450</num>
+          <heading>Cooperation with Department of Consumer Protection. Suspension of permit</heading>
+          <content>
+            <p>Sec. 12-450. Cooperation with Department of Consumer Protection. Suspension of permit.The Department of Consumer Protection shall, upon request of the Commissioner of Revenue Services, after a hearing by said commissioner, suspend the permit of any permittee licensed under chapter 545 who has failed to file any return required or to pay any tax prescribed or to perform any other act or duty imposed under any provisions of the general statutes relating to taxation until written notice from the Commissioner of Revenue Services has been received authorizing reinstatement of the permit. Notice of such compliance by the permittee shall be promptly forwarded to the department. The Department of Consumer Protection shall furnish to the commissioner such information in its possession relative to any person or company engaged in the beverage business as the commissioner requests.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

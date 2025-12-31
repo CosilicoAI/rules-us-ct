@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-241"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-241"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-241"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-241/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-241/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-241/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-241/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_208">
+        <num>208</num>
+        <heading>Estate Taxes</heading>
+        <section eId="sec_12_241">
+          <num>12-241</num>
+          <heading>Tax to be in lieu of other taxes</heading>
+          <content>
+            <p>Sec. 12-241. Tax to be in lieu of other taxes.The taxes imposed by this part, and in the case of domestic insurance companies by chapter 207, shall be in lieu of all other taxes upon the intangible assets of any company, or upon the intangible assets of an employee's stock bonus, pension or profit-sharing trust established by any company, which trust is exempt from federal income taxation. As to any motor bus company engaged in the business of carrying passengers for hire over the highways of the state in common carrier motor vehicles, the tax imposed by this chapter shall be in lieu of all other taxes upon all common carrier motor buses owned by such company and used exclusively in the business of carrying passengers for hire and upon the franchises of such company, in lieu of fifty per cent of all other taxes on the real property and tangible personal property of a Connecticut motor bus company, other than motor buses, which real and tangible personal property is used directly in the conduct of its motor bus business, and in lieu of all other taxes upon or measured by income derived by such company from such operations, but receipts of any such company from activities other than such operations shall be unaffected by the provisions hereof, and the provisions hereof shall not be construed as exempting any company from taxation on its real estate and personal property other than common carrier motor buses used exclusively in the business of carrying passengers for hire, except as herein provided in the case of a Connecticut motor bus company, or from complying with the provisions of the general statutes relating to fees payable to the Commissioner of Motor Vehicles or for the licensing and registration of motor vehicles.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

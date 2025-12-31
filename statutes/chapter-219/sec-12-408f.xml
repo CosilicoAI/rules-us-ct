@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-408f"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-408f"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-408f"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-408f/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-408f/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-408f/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-408f/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_219">
+        <num>219</num>
+        <heading>Motor Vehicle Fuels Tax</heading>
+        <section eId="sec_12_408f">
+          <num>12-408f</num>
+          <heading>Referrers. Notice requirements</heading>
+          <subsection eId="12_408f__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>As used in this section:</p>
+            </content>
+            <paragraph eId="12_408f__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>“Referral” or “refer” means the transfer by a referrer of a potential purchaser to a seller who advertises or lists tangible personal property for sale on or in the referrer's medium; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_408f__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>“Referrer” means any person who (A) contracts or otherwise agrees with a seller to list or advertise for sale one or more items of tangible personal property by any means, including an Internet web site and a catalog, provided such listing or advertisement includes the seller's shipping terms or a statement of whether the seller collects sales tax, (B) offers a comparison of similar products offered by multiple sellers, (C) receives commissions, fees or other consideration in excess of one hundred twenty-five thousand dollars during the prior twelve-month period from a seller or sellers for such listings or advertisements, (D) refers, via telephone, Internet web site link or other means, a potential customer to a seller or an affiliated person of a seller, as described in subparagraph (C) of subdivision</p>
+              </content>
+              <subparagraph eId="12_408f__subsec_a__subsec_2__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>contracts or otherwise agrees with a seller to list or advertise for sale one or more items of tangible personal property by any means, including an Internet web site and a catalog, provided such listing or advertisement includes the seller's shipping terms or a statement of whether the seller collects sales tax,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_408f__subsec_a__subsec_2__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>offers a comparison of similar products offered by multiple sellers,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_408f__subsec_a__subsec_2__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>receives commissions, fees or other consideration in excess of one hundred twenty-five thousand dollars during the prior twelve-month period from a seller or sellers for such listings or advertisements,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_408f__subsec_a__subsec_2__subsec_D">
+                <num>(D)</num>
+                <content>
+                  <p>refers, via telephone, Internet web site link or other means, a potential customer to a seller or an affiliated person of a seller, as described in subparagraph</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_408f__subsec_a__subsec_2__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>of subdivision</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_408f__subsec_a__subsec_15">
+              <num>(15)</num>
+              <content>
+                <p>of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_408f__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of section12-407, and (E) does not collect payments from the customer for the seller. For purposes of this subdivision, “shipping terms” does not mean a seller's mere mention of general shipping costs in the seller's own listing or advertisement.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_408f__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Each referrer shall, to the extent not prohibited by the Constitution of the United States:</p>
+            </content>
+            <paragraph eId="12_408f__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>Post a conspicuous notice on or in such referrer's medium that informs consumers (A) that sales or use tax is due from Connecticut purchasers on certain purchases, (B) that the seller might not collect and remit sales tax on a purchase, (C) that Connecticut requires Connecticut purchasers to file a use tax return if sales tax is not imposed at the time of the sale by the seller, (D) of the instructions for obtaining additional information from the Department of Revenue Services regarding the remittance of sales and use taxes on purchases made by Connecticut purchasers, and (E) that such notice is being provided pursuant to this section;</p>
+              </content>
+              <subparagraph eId="12_408f__subsec_b__subsec_1__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>that sales or use tax is due from Connecticut purchasers on certain purchases,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_408f__subsec_b__subsec_1__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>that the seller might not collect and remit sales tax on a purchase,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_408f__subsec_b__subsec_1__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>that Connecticut requires Connecticut purchasers to file a use tax return if sales tax is not imposed at the time of the sale by the seller,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_408f__subsec_b__subsec_1__subsec_D">
+                <num>(D)</num>
+                <content>
+                  <p>of the instructions for obtaining additional information from the Department of Revenue Services regarding the remittance of sales and use taxes on purchases made by Connecticut purchasers, and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_408f__subsec_b__subsec_1__subsec_E">
+                <num>(E)</num>
+                <content>
+                  <p>that such notice is being provided pursuant to this section;</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_408f__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>Provide, not later than January 1, 2020, a quarterly notice to each seller to whom such referrer transferred during the previous calendar year a potential purchaser located in this state that contains (A) a statement that Connecticut imposes a sales or use tax on sales made to Connecticut purchasers, (B) a statement that a seller making sales to Connecticut purchasers must collect and remit sales and use taxes to the Department of Revenue Services, and (C) instructions for obtaining additional information regarding the Connecticut sales and use taxes from said department.</p>
+              </content>
+              <subparagraph eId="12_408f__subsec_b__subsec_2__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>a statement that Connecticut imposes a sales or use tax on sales made to Connecticut purchasers,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_408f__subsec_b__subsec_2__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>a statement that a seller making sales to Connecticut purchasers must collect and remit sales and use taxes to the Department of Revenue Services, and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_408f__subsec_b__subsec_2__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>instructions for obtaining additional information regarding the Connecticut sales and use taxes from said department.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_408f__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Not later than January 31, 2021, and annually thereafter, each referrer shall submit a report electronically, in a form and manner prescribed by the Commissioner of Revenue Services, to the commissioner that contains</p>
+            </content>
+            <paragraph eId="12_408f__subsec_c__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>the name and address of each seller who received a notice pursuant to subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_408f__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section in the calendar year immediately preceding, and</p>
+            </content>
+            <paragraph eId="12_408f__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>the name and address of each seller for which the referrer knows that such seller (A) listed or advertised such seller's tangible personal property on or in such referrer's medium, and (B) collected and remitted Connecticut sales and use taxes.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+              </content>
+              <subparagraph eId="12_408f__subsec_b__subsec_2__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>listed or advertised such seller's tangible personal property on or in such referrer's medium, and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_408f__subsec_b__subsec_2__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>collected and remitted Connecticut sales and use taxes.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-286"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-286"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-286"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-286/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-286/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-286/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-286/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_214">
+        <num>214</num>
+        <heading>Business Tax Credits</heading>
+        <section eId="sec_12_286">
+          <num>12-286</num>
+          <heading>Dealers and distributors to be licensed. Regulations re licensing vending machines. Refusal to issue license. Penalties</heading>
+          <subsection eId="12_286__subsec_a">
+            <num>(a)</num>
+            <paragraph eId="12_286__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>The commissioner shall, after May 25, 1994, require for an initial application for a distributor's license, in addition to such other information deemed to be necessary, the filing of three affidavits from three recognized manufacturers of cigarettes stating such manufacturers' intent to supply the distributor if the applicant is granted a license. A chain store shall be exempt from filing such affidavits. Any pending application on May 25, 1994, and any person purchasing the business of a licensed distributor shall be exempt from filing such affidavits. For purposes of this subsection, “chain store” means the operator or franchisor of five or more retail establishments.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_286__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>The commissioner may make public a list of recognized manufacturers of cigarettes.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_286__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>A separate license shall be required for each class of business if the applicant is engaged in business both as a distributor and dealer. The commissioner shall prescribe the form of application for a distributor's license and for a dealer's license. Each license so issued shall be conspicuously displayed on the premises covered by the license.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_286__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The commissioner shall make regulations not inconsistent with the law for the licensing of vending machines.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_286__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>The commissioner may, in the commissioner's discretion, refuse to issue a license if there is reasonable ground to believe</p>
+            </content>
+            <paragraph eId="12_286__subsec_d__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>that the applicant has wilfully made any false statement of substance with respect to such application for license,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_286__subsec_d__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>that the applicant has neglected to pay any taxes due to this state, or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_286__subsec_d__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>that the applicant has been convicted of violating any of the cigarette or other tobacco products tax laws of this or any other state or the cigarette tax laws of the United States or has such a criminal record that the commissioner reasonably believes that such applicant is not a suitable person to be issued a license, provided no refusal shall be rendered under this subdivision except in accordance with the provisions of sections46a-80and46a-81.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_286__subsec_e">
+            <num>(e)</num>
+            <paragraph eId="12_286__subsec_e__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>Any person who knowingly sells, offers for sale or possesses with intent to sell any cigarettes, without a license as provided in this chapter, shall be fined not more than one thousand dollars or imprisoned for not more than six months, or both, for each offense. Each day of such unauthorized operation may be deemed a separate offense. The provisions of this subdivision shall not apply to any person whose dealer's license has expired, provided the period of operation without such license is not more than ninety days after the date of expiration.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_286__subsec_e__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>Any person who knowingly sells at retail, offers for sale at retail or possesses with intent to sell at retail any taxed tobacco products, as defined in section12-330a, without a dealer's license as provided in this chapter, shall be fined not more than one thousand dollars or imprisoned for not more than six months, or both, for each offense. Each day of such unauthorized operation may be deemed a separate offense. The provisions of this subdivision shall not apply to any person whose dealer's license has expired, provided the period of operation without such license is not more than ninety days from the date of expiration.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_286__subsec_e__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>Any person whose dealer's license has expired and who knowingly sells at retail, offers for sale at retail or possesses with intent to sell at retail any cigarettes or taxed tobacco products, as defined in section12-330a, where such person's period of operation without such license is not more than ninety days from the date of expiration of such license, shall be fined three hundred fifty dollars.
+See Sec. 12-291a re penalty for failure to secure or renew license under Secs. 12-287, 12-288 and 12-291.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

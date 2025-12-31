@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-250"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-250"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17b-250"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-250/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-250/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-250/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-250/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319v">
+        <num>319v</num>
+        <heading>Temporary Assistance for Needy Families</heading>
+        <section eId="sec_17b_250">
+          <num>17b-250</num>
+          <heading>(Formerly Sec. 17-318). Payment of hospital expense of inmate transferred from correctional institution</heading>
+          <content>
+            <p>Sec. 17b-250. (Formerly Sec. 17-318). Payment of hospital expense of inmate transferred from correctional institution.When any person has been transferred from the Connecticut Correctional Institution, Somers, the York Correctional Institution, or its maximum security division, the John R. Manson Youth Institution, Cheshire, or a community correctional center to a state hospital, such person's hospital expense prior to the termination of his sentence shall be charged to the state. If any person, transferred from a correctional institution or community correction center is committed to or otherwise remains in a state hospital after the expiration of his sentence, such person's hospital expense shall be paid to the state in the manner provided for payment in sections17b-122,17b-124to17b-132, inclusive,17b-136to17b-138, inclusive,17b-194to17b-197, inclusive,17b-222to17b-250, inclusive,17b-263,17b-340to17b-350, inclusive,17b-689band17b-743to17b-747, inclusive.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

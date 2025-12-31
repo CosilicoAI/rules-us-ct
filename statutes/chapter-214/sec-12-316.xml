@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-316"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-316"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-316"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-316/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-316/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-316/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-316/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_214">
+        <num>214</num>
+        <heading>Business Tax Credits</heading>
+        <section eId="sec_12_316">
+          <num>12-316</num>
+          <heading>Imposition of tax</heading>
+          <content>
+            <p>Sec. 12-316. Imposition of tax.A tax is hereby imposed at the rate of two hundred seventeen and one-half mills for each cigarette upon the storage or use within this state of any unstamped cigarettes in the possession of any person other than a licensed distributor or dealer, or a carrier for transit from without this state to a licensed distributor or dealer within this state. Any person, including distributors, dealers, carriers, warehousemen and consumers, last having possession of unstamped cigarettes in this state shall be liable for the tax on such cigarettes if such cigarettes are unaccounted for in transit, storage or otherwise, and in such event a presumption shall exist for the purpose of taxation that such cigarettes were used and consumed in Connecticut.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

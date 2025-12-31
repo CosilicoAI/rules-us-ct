@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-63h"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-63h"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-63h"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-63h/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-63h/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-63h/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-63h/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_203">
+        <num>203</num>
+        <heading>Property Tax Assessment</heading>
+        <section eId="sec_12_63h">
+          <num>12-63h</num>
+          <heading>Land value taxation program</heading>
+          <subsection eId="12_63h__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The Secretary of the Office of Policy and Management shall establish a pilot program in up to three municipalities whereby the selected municipalities shall develop a plan for implementation of land value taxation that</p>
+            </content>
+            <paragraph eId="12_63h__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>classifies real estate included in the taxable grand list as (A) land or land exclusive of buildings, or (B) buildings on land; and</p>
+              </content>
+              <subparagraph eId="12_63h__subsec_a__subsec_1__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>land or land exclusive of buildings, or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_63h__subsec_a__subsec_1__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>buildings on land; and</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_63h__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>establishes a different mill rate for property tax purposes for each class, provided the higher mill rate shall apply to land or land exclusive of buildings. The different mill rates for taxable real estate in each class shall not be applicable to any property for which a grant is payable under section12-18b.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_63h__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The secretary shall establish an application procedure and any other criteria for the program and shall send a copy of such application procedure and any other criteria to the joint standing committee of the General Assembly having cognizance of matters relating to planning and development. The secretary shall not select a municipality for the pilot program unless the legislative body of the municipality has approved the application. The secretary shall send a notice of selection for the pilot program to the chief executive officer of the municipality and to the joint standing committee of the General Assembly having cognizance of matters relating to planning and development.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_63h__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>After receipt of the notice of selection provided by the Secretary of the Office of Policy and Management pursuant to subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_63h__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section, the chief elected official of such municipality shall appoint a committee consisting of</p>
+            </content>
+            <paragraph eId="12_63h__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>a representative of the legislative body of the municipality or where the legislative body is the town meeting, a representative of the board of selectmen;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_63h__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>a representative from the business community;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_63h__subsec_b__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>a land use attorney; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_63h__subsec_b__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>relevant taxpayers and stakeholders. Such committee shall prepare a plan for implementation of land value taxation. Such plan shall (A) provide a process for implementation of differentiated tax rates; (B) designate geographic areas of the municipality where the differentiated rates shall be applied; and (C) identify legal and administrative issues affecting the implementation of the plan. The chief executive officer, the chief elected official, the assessor and the tax collector of the municipality shall have an opportunity to review and comment on the plan. On or before December 31, 2020, and upon approval of the plan by the legislative body, the plan shall be submitted to the joint standing committees of the General Assembly having cognizance of matters relating to planning and development, finance, revenue and bonding and commerce. Any municipality that has previously applied for and participated in the pilot program established pursuant to this section shall be ineligible for subsequent selection to participate in the pilot program.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+              </content>
+              <subparagraph eId="12_63h__subsec_b__subsec_4__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>provide a process for implementation of differentiated tax rates;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_63h__subsec_b__subsec_4__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>designate geographic areas of the municipality where the differentiated rates shall be applied; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_63h__subsec_b__subsec_4__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>identify legal and administrative issues affecting the implementation of the plan. The chief executive officer, the chief elected official, the assessor and the tax collector of the municipality shall have an opportunity to review and comment on the plan. On or before December 31, 2020, and upon approval of the plan by the legislative body, the plan shall be submitted to the joint standing committees of the General Assembly having cognizance of matters relating to planning and development, finance, revenue and bonding and commerce. Any municipality that has previously applied for and participated in the pilot program established pursuant to this section shall be ineligible for subsequent selection to participate in the pilot program.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

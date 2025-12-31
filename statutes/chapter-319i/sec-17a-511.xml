@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-511"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-511"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17a-511"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-511/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-511/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-511/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-511/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319i">
+        <num>319i</num>
+        <heading>Connecticut HUSKY Plan</heading>
+        <section eId="sec_17a_511">
+          <num>17a-511</num>
+          <heading>(Formerly Sec. 17-193). Transfer of patients by agreement</heading>
+          <subsection eId="17a_511__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Any person who has been committed by any court to a hospital for psychiatric disabilities may be transferred to any other hospital for psychiatric disabilities upon agreement of the superintendents of the respective institutions from and to which it is desired to make such transfer, subject to the approval of the Commissioner of Mental Health and Addiction Services, or, in the case of a person under eighteen years of age, the approval of the Commissioner of Children and Families. Such agreement shall be in writing, executed in triplicate and in accordance with a form prescribed by the Attorney General, which form shall be uniform throughout the state. One copy of such agreement shall be filed for record in the court by which such person was committed and one copy retained in the files of each of the institutions participating in such transfer. Any such agreement shall have the same effect as an order of the court committing the person named therein. The conservator, overseer or any member of the family of any person so transferred, or his or her next friend, may make application to the court which made the order of commitment, for a revocation or modification of such agreement, and thereupon such court shall order such notice of the time and place of hearing thereon as it finds reasonable and upon such hearing may revoke, modify or affirm such transfer.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_511__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Any person who has been voluntarily admitted to a hospital for psychiatric disabilities pursuant to section17a-506may, with the informed consent of such person, be transferred to any other hospital for psychiatric disabilities. If that person is subject to the jurisdiction of the Commissioner of Mental Health and Addiction Services, the transfer shall require the agreement of the superintendents of the respective institutions from and to which it is desired to make the transfer and the approval of the Commissioner of Mental Health and Addiction Services. If that person is under eighteen years of age and subject to the jurisdiction of the Commissioner of Children and Families, the transfer shall require the agreement of the superintendents of the respective institutions from and to which it is desired to make the transfer and the approval of the Commissioner of Children and Families. An agreement to transfer under this subsection shall be in writing, executed in triplicate and in accordance with a form prescribed by the Attorney General, which form shall be uniform throughout the state. One copy of the agreement shall be retained in the files of each of the institutions participating in the transfer and one copy shall be provided to the person who has been voluntarily admitted or to that person's authorized representative. A transfer under this subsection shall not affect the person's rights under the voluntary admission.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

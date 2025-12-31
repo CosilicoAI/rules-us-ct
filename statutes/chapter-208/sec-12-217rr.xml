@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-217rr"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-217rr"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-217rr"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-217rr/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-217rr/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-217rr/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-217rr/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_208">
+        <num>208</num>
+        <heading>Estate Taxes</heading>
+        <section eId="sec_12_217rr">
+          <num>12-217rr</num>
+          <heading>Tax credits for cash contributions to youth development organizations. Sunset</heading>
+          <subsection eId="12_217rr__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>As used in this section, “youth development organization” means a nonprofit organization that is exempt from taxation pursuant to Section 501</p>
+            </content>
+          </subsection>
+          <subsection eId="12_217rr__subsec_c">
+            <num>(c)</num>
+            <paragraph eId="12_217rr__subsec_c__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>of the Internal Revenue Code of 1986, or any subsequent corresponding internal revenue code of the United States, as amended from time to time, and that</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_217rr__subsec_c__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>provides evidence-supported interventions to high-risk youth to improve school and family engagement, and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_217rr__subsec_c__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>offers skills development, transitional employment and job placement and support to assist young adults to be employed and self-sufficient.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_217rr__subsec_b">
+            <num>(b)</num>
+            <paragraph eId="12_217rr__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>There shall be allowed, for the income or taxable years commencing on or after January 1, 2024, and prior to January 1, 2026, a credit against the tax imposed by this chapter or chapter 229, other than the liability imposed by section12-707, for cash contributions made to a youth development organization to fund programs such as after-school tutoring, mentoring programs and workforce preparedness training.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_217rr__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>The amount of the credit allowed shall be fifty per cent of the contribution made for an income or taxable year, as applicable, and shall not exceed (A) one hundred thousand dollars for any income year for any taxpayer subject to the tax imposed by this chapter, or (B) twenty thousand dollars for any taxable year for any taxpayer subject to the tax imposed under chapter 229.</p>
+              </content>
+              <subparagraph eId="12_217rr__subsec_b__subsec_2__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>one hundred thousand dollars for any income year for any taxpayer subject to the tax imposed by this chapter, or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_217rr__subsec_b__subsec_2__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>twenty thousand dollars for any taxable year for any taxpayer subject to the tax imposed under chapter 229.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_217rr__subsec_b__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>If the taxpayer that made the contribution is an S corporation or an entity treated as a partnership for federal income tax purposes, the credit may be claimed by the taxpayer's shareholders or partners. If such taxpayer is a single member limited liability company that is disregarded as an entity separate from its owner, the credit may be claimed by such limited liability company's owner, provided such owner is subject to the tax imposed under this chapter or chapter 229.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_217rr__subsec_c">
+            <num>(c)</num>
+            <paragraph eId="12_217rr__subsec_c__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>Any entity or individual subject to the tax imposed by this chapter or chapter 229 may apply to the Office of Policy and Management, in such form and manner as prescribed by the Secretary of the Office of Policy and Management, to reserve an allocation for a credit in the amount of the contribution such entity or individual intends to make. The application shall contain such information as the secretary deems necessary to administer the provisions of this section.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_217rr__subsec_c__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>The secretary shall approve applications on a first-come, first-served basis and shall notify the entity or individual in writing not later than thirty days after the date of receipt of an application of the secretary's approval or rejection of the application. Any entity or individual that is approved shall make the intended contribution to the youth development organization not later than one hundred twenty days after the date such entity or individual receives notice of the secretary's approval.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_217rr__subsec_c__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>The total amount of credits that may be reserved under this subsection shall not exceed two million five hundred thousand dollars in any one fiscal year.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_217rr__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>After an entity or individual has made the contribution, such entity or individual shall apply to the Secretary of the Office of Policy and Management for a tax credit voucher and shall provide with the application such documentation and independent certification as the secretary may require pertaining to the amount of the contribution and certifying that such contribution was actually made to the youth development organization. If the secretary determines that such entity or individual is eligible to be issued a tax credit voucher, the secretary shall enter on the voucher the amount of the credit allowed. The secretary shall provide a copy of such voucher to the Commissioner of Revenue Services upon request. The credit allowed under this section shall be claimed for the income or taxable year in which the contribution was made.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_217rr__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>Any entity or individual that submits information to the Secretary of the Office of Policy and Management that such entity or individual knows to be fraudulent or false shall, in addition to any other penalties provided by law, be liable for a penalty equal to the amount of such entity's or individual's credit allowed under this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_217rr__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>The Secretary of the Office of Policy and Management and the Commissioner of Revenue Services may, for purposes of determining the correctness of any credit claimed pursuant to this section, examine any books, papers and records relating to the documentation provided with an application for a tax credit voucher under this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_217rr__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>Not later than March 1, 2025, and March 1, 2026, the Secretary of the Office of Policy and Management shall submit a report, in accordance with the provisions of section11-4a, to the joint standing committees of the General Assembly having cognizance of matters relating to commerce and finance, revenue and bonding. Such report shall include information for the preceding calendar year regarding</p>
+            </content>
+            <paragraph eId="12_217rr__subsec_g__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>the number of applications the secretary received to reserve a credit under this section and the number of such applications that were approved and were rejected,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_217rr__subsec_g__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>the total number of tax credit vouchers approved and the amount of each such voucher,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_217rr__subsec_g__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>the number of entities subject to the tax imposed by this chapter (A) whose applications were approved, and (B) who received a tax credit voucher,</p>
+              </content>
+              <subparagraph eId="12_217rr__subsec_g__subsec_3__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>whose applications were approved, and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_217rr__subsec_g__subsec_3__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>who received a tax credit voucher,</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_217rr__subsec_g__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>the number of individuals subject to the tax imposed by chapter 229 (A) whose applications were approved, and (B) who received a tax credit voucher,</p>
+              </content>
+              <subparagraph eId="12_217rr__subsec_g__subsec_4__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>whose applications were approved, and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_217rr__subsec_g__subsec_4__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>who received a tax credit voucher,</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_217rr__subsec_g__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>the youth development organizations to which contributions were made pursuant to this section, and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_217rr__subsec_g__subsec_6">
+              <num>(6)</num>
+              <content>
+                <p>any other information or data the secretary deems relevant to evaluating the effectiveness of the credit under this section.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

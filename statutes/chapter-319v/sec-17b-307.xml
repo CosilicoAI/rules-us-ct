@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-307"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-307"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17b-307"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-307/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-307/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-307/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-307/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319v">
+        <num>319v</num>
+        <heading>Temporary Assistance for Needy Families</heading>
+        <section eId="sec_17b_307">
+          <num>17b-307</num>
+          <heading>Primary care case management pilot program</heading>
+          <subsection eId="17b_307__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Notwithstanding any provision of the general statutes, the Department of Social Services shall develop and implement a pilot program for the delivery of health care services through a system of primary care case management to not less than one thousand individuals who are otherwise eligible to receive HUSKY A benefits. Primary care providers participating in the primary care case management pilot program shall provide program beneficiaries with primary care medical services and arrange for specialty care as needed. For purposes of this section, “primary care case management” means a system of care in which the health care services for program beneficiaries are coordinated by a primary care provider chosen by or assigned to the beneficiary. The Commissioner of Social Services shall begin enrollment for the primary care case management system not later than April 1, 2008.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_307__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The Department of Social Services shall expand the pilot program for the delivery of health care services through the primary care case management system, as described in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_307__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section, to include primary care providers in the towns of Torrington and Putnam. Not later than July 1, 2010, the department shall expand the pilot program to include the town of Putnam. Not later than October 1, 2010, the department shall expand the pilot program to include the town of Torrington. The Commissioner of Social Services may seek a waiver from federal law for the purpose of expanding the primary care case management system pursuant to this subsection.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_307__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Not later than July 1, 2011, the commissioner shall report, in accordance with section11-4a, to the joint standing committees of the General Assembly having cognizance of matters relating to human services and appropriations and the budgets of state agencies on the expansion of the pilot program.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

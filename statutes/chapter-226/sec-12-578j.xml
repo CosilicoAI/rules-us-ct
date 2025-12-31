@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-578j"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-578j"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-578j"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-578j/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-578j/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-578j/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-578j/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_226">
+        <num>226</num>
+        <heading>Prepared Food and Beverage Tax</heading>
+        <section eId="sec_12_578j">
+          <num>12-578j</num>
+          <heading>Payment to state</heading>
+          <subsection eId="12_578j__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Not later than June 30, 2019, MMCT Venture, LLC, as defined in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_578j__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of section12-578f, shall pay to the state thirty million dollars for deposit in the General Fund. Such money shall be credited against any unpaid required payments pursuant to subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_578j__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of section12-578gfor each month in which the casino gaming facility is conducting authorized games in such amount and manner as determined pursuant to an agreement between the Secretary of the Office of Policy and Management and MMCT Venture, LLC. No interest shall be charged.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_578j__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Notwithstanding the provisions of subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_578j__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section, the requirement to make a payment to the state pursuant to subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_578j__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section shall not be effective during the ten-year initial term that amendments to the Mashantucket Pequot procedures and to the Mashantucket Pequot memorandum of understanding with the Mashantucket Pequot Tribe, or a new compact with the Mashantucket Pequot Tribe, and amendments to the Mohegan compact and to the Mohegan memorandum of understanding with the Mohegan Tribe of Indians of Connecticut, or a new compact with the Mohegan Tribe of Indians of Connecticut, entered into pursuant to section12-851are effective, as described in subdivision</p>
+            </content>
+            <paragraph eId="12_578j__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_578j__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of section12-851.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

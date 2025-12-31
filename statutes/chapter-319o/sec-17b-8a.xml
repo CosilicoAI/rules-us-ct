@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-8a"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-8a"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17b-8a"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-8a/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-8a/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-8a/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-8a/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319o">
+        <num>319o</num>
+        <heading>Personal Care Assistance</heading>
+        <section eId="sec_17b_8a">
+          <num>17b-8a</num>
+          <heading>Medicaid Coverage for the Lowest Income Populations program: Eligibility and service plan. Legislative review</heading>
+          <subsection eId="17b_8a__subsec_a">
+            <num>(a)</num>
+            <paragraph eId="17b_8a__subsec_a__subsec_10">
+              <num>(10)</num>
+              <content>
+                <p>(A)</p>
+              </content>
+              <subparagraph eId="17b_8a__subsec_a__subsec_10__subsec_A">
+                <num>(A)</num>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_8a__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>(VIII) of the Social Security Act, to the joint standing committees of the General Assembly having cognizance of matters relating to human services and appropriations and the budgets of state agencies prior to the submission of such plan to the federal government. Not later than fifteen days after the date of their receipt of such plan, the joint standing committees shall:</p>
+            </content>
+            <paragraph eId="17b_8a__subsec_i__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>Hold a public hearing, or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_8a__subsec_i__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>notify the Commissioner of Social Services if such joint standing committees do not intend to hold a public hearing. The joint standing committees shall advise the commissioner of their approval or denial of such plan not later than fifteen days after receipt of such plan. If the joint standing committees do not agree or fail to take action within fifteen days, the proposal shall be deemed approved.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

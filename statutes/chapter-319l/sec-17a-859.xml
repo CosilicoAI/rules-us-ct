@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-859"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-859"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17a-859"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-859/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-859/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-859/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-859/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319l">
+        <num>319l</num>
+        <heading>Nursing Home Financial Assistance</heading>
+        <section eId="sec_17a_859">
+          <num>17a-859</num>
+          <heading>(Formerly Sec. 17a-303a). Fall prevention program</heading>
+          <subsection eId="17a_859__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The Department of Aging and Disability Services shall establish, within available appropriations, a fall prevention program. Within such program, the department shall:</p>
+            </content>
+            <paragraph eId="17a_859__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>Promote and support research to: (A) Improve the identification, diagnosis, treatment and rehabilitation of older persons and others who have a high risk of falling; (B) improve data collection and analysis to identify risk factors for falls and factors that reduce the likelihood of falls; (C) design, implement and evaluate the most effective fall prevention interventions; (D) improve intervention strategies that have been proven effective in reducing falls by tailoring such strategies to specific populations of older persons; (E) maximize the dissemination of proven, effective fall prevention interventions; (F) assess the risk of falls occurring in various settings; (G) identify barriers to the adoption of proven interventions with respect to the prevention of falls among older persons; (H) develop, implement and evaluate the most effective approaches to reducing falls among high-risk older persons living in communities and long-term care and assisted living facilities; and (I) evaluate the effectiveness of community programs designed to prevent falls among older persons;</p>
+              </content>
+              <subparagraph eId="17a_859__subsec_a__subsec_1__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>Improve the identification, diagnosis, treatment and rehabilitation of older persons and others who have a high risk of falling;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17a_859__subsec_a__subsec_1__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>improve data collection and analysis to identify risk factors for falls and factors that reduce the likelihood of falls;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17a_859__subsec_a__subsec_1__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>design, implement and evaluate the most effective fall prevention interventions;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17a_859__subsec_a__subsec_1__subsec_D">
+                <num>(D)</num>
+                <content>
+                  <p>improve intervention strategies that have been proven effective in reducing falls by tailoring such strategies to specific populations of older persons;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17a_859__subsec_a__subsec_1__subsec_E">
+                <num>(E)</num>
+                <content>
+                  <p>maximize the dissemination of proven, effective fall prevention interventions;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17a_859__subsec_a__subsec_1__subsec_F">
+                <num>(F)</num>
+                <content>
+                  <p>assess the risk of falls occurring in various settings;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17a_859__subsec_a__subsec_1__subsec_G">
+                <num>(G)</num>
+                <content>
+                  <p>identify barriers to the adoption of proven interventions with respect to the prevention of falls among older persons;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17a_859__subsec_a__subsec_1__subsec_H">
+                <num>(H)</num>
+                <content>
+                  <p>develop, implement and evaluate the most effective approaches to reducing falls among high-risk older persons living in communities and long-term care and assisted living facilities; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17a_859__subsec_a__subsec_1__subsec_I">
+                <num>(I)</num>
+                <content>
+                  <p>evaluate the effectiveness of community programs designed to prevent falls among older persons;</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="17a_859__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>Establish, in consultation with the Commissioner of Public Health, a professional education program in fall prevention, evaluation and management for physicians, allied health professionals and other health care providers who provide services for older persons in this state. The Commissioner of Aging and Disability Services may contract for the establishment of such program through (A) a request for proposal process, (B) a competitive grant program, or (C) cooperative agreements with qualified organizations, institutions or consortia of qualified organizations and institutions;</p>
+              </content>
+              <subparagraph eId="17a_859__subsec_a__subsec_2__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>a request for proposal process,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17a_859__subsec_a__subsec_2__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>a competitive grant program, or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17a_859__subsec_a__subsec_2__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>cooperative agreements with qualified organizations, institutions or consortia of qualified organizations and institutions;</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="17a_859__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>Oversee and support demonstration and research projects to be carried out by organizations, institutions or consortia of organizations and institutions deemed qualified by the Commissioner of Aging and Disability Services. Such demonstration and research projects may be in the following areas:
+(A) Targeted fall risk screening and referral programs;
+(B) Programs designed for community-dwelling older persons that use fall intervention approaches, including physical activity, medication assessment and reduction of medication when possible, vision enhancement and home-modification strategies;
+(C) Programs that target new fall victims who are at a high risk for second falls and that are designed to maximize independence and quality of life for older persons, particularly those older persons with functional limitations; and
+(D) Private sector and public-private partnerships to develop technologies to prevent falls among older persons and prevent or reduce injuries when falls occur; and</p>
+              </content>
+              <subparagraph eId="17a_859__subsec_a__subsec_3__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>Targeted fall risk screening and referral programs;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17a_859__subsec_a__subsec_3__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>Programs designed for community-dwelling older persons that use fall intervention approaches, including physical activity, medication assessment and reduction of medication when possible, vision enhancement and home-modification strategies;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17a_859__subsec_a__subsec_3__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>Programs that target new fall victims who are at a high risk for second falls and that are designed to maximize independence and quality of life for older persons, particularly those older persons with functional limitations; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17a_859__subsec_a__subsec_3__subsec_D">
+                <num>(D)</num>
+                <content>
+                  <p>Private sector and public-private partnerships to develop technologies to prevent falls among older persons and prevent or reduce injuries when falls occur; and</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="17a_859__subsec_a__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>Award grants to, or enter into contracts or cooperative agreements with, organizations, institutions or consortia of organizations and institutions deemed qualified by the Commissioner of Aging and Disability Services to design, implement and evaluate fall prevention programs using proven intervention strategies in residential and institutional settings.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17a_859__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>In awarding any grants or entering into any contracts or agreements pursuant to this section, after October 1, 2017, the Commissioner of Aging and Disability Services shall determine appropriate data and program outcome measures, including fall prevention program outcome measures, as applicable, that the recipient organization, institution or consortia of organizations and institutions shall collect and report to the commissioner and the frequency of such reports.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

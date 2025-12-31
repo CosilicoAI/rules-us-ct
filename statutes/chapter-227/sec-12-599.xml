@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-599"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-599"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-599"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-599/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-599/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-599/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-599/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_227">
+        <num>227</num>
+        <heading>Rental Surcharge on Leasing Companies</heading>
+        <section eId="sec_12_599">
+          <num>12-599</num>
+          <heading>Tax to constitute operating overhead of taxpayer. Limitation on price increases in this state*</heading>
+          <subsection eId="12_599__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>It is not the intention of the General Assembly that the tax imposed under section12-587be construed as a tax upon purchasers of petroleum products, but that such tax shall be levied upon and be collectible from petroleum companies as defined in said section12-587, and that such tax shall constitute a part of the operating overhead of such companies.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_599__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>No petroleum company subject to the tax imposed under section12-587shall raise its posted wholesale rack price in Connecticut for any petroleum product exempt from the federal Emergency Petroleum Allocation Act (P.L. 93-159) by an amount higher than the average amount by which such company raises its wholesale rack price for such product in all ports on the eastern coast of the United States.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

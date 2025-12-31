@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-104"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-104"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17b-104"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-104/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-104/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-104/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-104/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319s">
+        <num>319s</num>
+        <heading>Connecticut Partnership for Long-Term Care</heading>
+        <section eId="sec_17b_104">
+          <num>17b-104</num>
+          <heading>(Formerly Sec. 17-2). State supplementation to the Supplemental Security Income Program. Temporary family assistance program standard of need, payment standards. State-administered general assistance program annual payment standard increase</heading>
+          <subsection eId="17b_104__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The Commissioner of Social Services shall administer the program of state supplementation to the Supplemental Security Income Program provided for by the Social Security Act and state law. The commissioner may delegate any powers and authority to any deputy, assistant, investigator or supervisor, who shall have, within the scope of the power and authority so delegated, all of the power and authority of the Commissioner of Social Services. The standard of need for the temporary family assistance program shall be fifty-five per cent of the federal poverty level. The commissioner shall make a reinvestigation, at least every twelve months, of all cases receiving aid from the state, except that such reinvestigation may be conducted every twenty-four months for recipients of assistance to the elderly or disabled with stable circumstances, and shall maintain all case records of the several programs administered by the Department of Social Services so that such records show, at all times, full information with respect to eligibility of the applicant or recipient. In the determination of need under any public assistance program, such income or earnings shall be disregarded as federal law requires, and such income or earnings may be disregarded as federal law permits. In determining eligibility, the commissioner shall disregard from income</p>
+            </content>
+            <paragraph eId="17b_104__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>Aid and Attendance pension benefits granted to a veteran, as defined under section27-103, or the surviving spouse of such veteran, and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_104__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>any tax refund or advance payment with respect to a refundable credit to the same extent such refund or advance payment would be disregarded under 26 USC 6409 in any federal program or state or local program financed in whole or in part with federal funds. The commissioner shall encourage and promulgate such incentive earning programs as are permitted by federal law and regulations.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_104__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>On July 1, 2007, and annually thereafter, the commissioner shall increase the payment standards over those of the previous fiscal year under the state-administered general assistance program by the percentage increase, if any, in the most recent calendar year average in the consumer price index for urban consumers over the average for the previous calendar year, provided the annual increase, if any, shall not exceed five per cent, except that the payment standards for the fiscal years ending June 30, 2010, June 30, 2011, June 30, 2012, June 30, 2013, June 30, 2016, June 30, 2017, June 30, 2018, June 30, 2019, June 30, 2020, and June 30, 2021, shall not be increased.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_104__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>On and after July 1, 2022, the payment standards for families receiving assistance under the temporary family assistance program shall be equal to seventy-three per cent of the standards of need established for said program under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_104__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_104__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>For a family living in subsidized housing, income shall be attributed to such family which shall be eight per cent of the payment standard for such family.
+See Sec. 4-67c re establishment of uniform fee schedule applicable to practitioners of the healing arts and allied professions and callings under chapters 370 to 383 and vendors of sickroom supplies, etc.
+See Sec. 4a-16 re disposition of estates of public assistance beneficiaries or state institution patients.
+See Sec. 17b-198 re standards for granting of general assistance and medical assistance.
+See Sec. 47-65 re assistance to Indians living on reservations.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

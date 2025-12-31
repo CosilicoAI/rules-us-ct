@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-62a"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-62a"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-62a"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-62a/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-62a/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-62a/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-62a/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_203">
+        <num>203</num>
+        <heading>Property Tax Assessment</heading>
+        <section eId="sec_12_62a">
+          <num>12-62a</num>
+          <heading>Uniform assessment date and rate</heading>
+          <subsection eId="12_62a__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Each municipality, as defined in section7-381, shall establish a uniform assessment date of October first.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_62a__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Each such municipality shall assess all property for purposes of the local property tax at a uniform rate of seventy per cent of present true and actual value, as determined under section12-63.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_62a__subsec_c">
+            <num>(c)</num>
+            <heading>Repealed by P</heading>
+            <content>
+              <p>A. 96-171, S. 15, 16.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_62a__subsec_d">
+            <num>(d)</num>
+            <heading>Repealed by P</heading>
+            <content>
+              <p>A. 96-171, S. 15, 16.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_62a__subsec_e">
+            <num>(e)</num>
+            <heading>Repealed by P</heading>
+            <content>
+              <p>A.06-148, S. 10 and P.A.06-176, S. 4.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_62a__subsec_f">
+            <num>(f)</num>
+            <heading>Repealed by P</heading>
+            <content>
+              <p>A.06-148, S. 10 and P.A.06-176, S. 4.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_62a__subsec_g">
+            <num>(g)</num>
+            <heading>Repealed by P</heading>
+            <content>
+              <p>A. 83-465, S. 3, 4.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

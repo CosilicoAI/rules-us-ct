@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-556g"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-556g"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-556g"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-556g/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-556g/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-556g/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-556g/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_225">
+        <num>225</num>
+        <heading>Room Occupancy Tax</heading>
+        <section eId="sec_12_556g">
+          <num>12-556g</num>
+          <heading>Surcharge on admission charge to events at Tennis Foundation of Connecticut facilities</heading>
+          <subsection eId="12_556g__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>A facilities surcharge shall be imposed on the admission charge, as defined in subsection</p>
+            </content>
+            <paragraph eId="12_556g__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>of section12-540, to the events at facilities owned or managed by the Tennis Foundation of Connecticut or any successor organization. The surcharge shall be imposed at a rate of ten per cent of such admission charge and shall be in addition to any tax otherwise applicable to such transaction. The surcharge shall be imposed on sponsors and promoters of events held at facilities owned or managed by the Tennis Foundation of Connecticut or any successor organization and reimbursement for the surcharge shall be collected by the sponsor or promoter from the purchaser. Such reimbursement shall be paid by the purchaser to the sponsor or promoter. The surcharge, when added to the admission charge, shall be a debt from the purchaser to the sponsor or promoter and shall be recoverable at law.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_556g__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The surcharge imposed in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_556g__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section is due and payable to the Tennis Foundation of Connecticut or any successor organization monthly on or before the last day of the month next succeeding each monthly period except that if the total surcharge liability for the twelve-month period ended on the preceding September thirtieth was less than four thousand dollars the sponsor or promoter may pay the surcharge on a quarterly basis.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

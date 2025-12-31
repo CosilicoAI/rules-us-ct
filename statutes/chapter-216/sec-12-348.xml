@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-348"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-348"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-348"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-348/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-348/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-348/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-348/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_216">
+        <num>216</num>
+        <heading>Sales and Use Taxes</heading>
+        <section eId="sec_12_348">
+          <num>12-348</num>
+          <heading>Declaration by officer of corporation or other entity claiming exemption</heading>
+          <content>
+            <p>Sec. 12-348. Declaration by officer of corporation or other entity claiming exemption.The Commissioner of Revenue services may require, from any corporation, institution, society, association or trust claiming exemption from the succession tax upon any transfer to it pursuant to the provisions of section12-347or claiming a refund under the provisions of said section12-347, a declaration, prescribed as to form by the Commissioner of Revenue Services and bearing notice to the effect that false statements made in such declaration are punishable, by its president or chief executive officer to the effect that no officer, member, shareholder or employee thereof is receiving or has previously received any pecuniary profit from the operation thereof except reasonable compensation for services in effecting one or more of the purposes for which it is formed or as a proper beneficiary of a strictly charitable purpose.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

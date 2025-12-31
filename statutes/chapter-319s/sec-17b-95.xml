@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-95"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-95"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17b-95"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-95/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-95/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-95/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-95/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319s">
+        <num>319s</num>
+        <heading>Connecticut Partnership for Long-Term Care</heading>
+        <section eId="sec_17b_95">
+          <num>17b-95</num>
+          <heading>(Formerly Sec. 17-83g). Claim of state on death of Medicaid beneficiary for amounts due under federal law. Priority of claims</heading>
+          <subsection eId="17b_95__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Upon the death of any person who has at any time been a beneficiary of the Medicaid program, the state shall have a claim against such person's estate for all amounts paid on behalf of such person under the Medicaid program for which the state has not been reimbursed and that the state is required to recover under federal law, provided such claim shall not include, to the extent permissible under federal law, moneys invested in an individual ABLE account established pursuant to section3-39k. The claim of the state shall only be to the extent that the amount which the surviving spouse, parent or dependent children of the decedent would otherwise take from such estate is not needed for their support.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_95__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Claims pursuant to this section shall have priority over all unsecured claims against such estate, except</p>
+            </content>
+            <paragraph eId="17b_95__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>expenses of last sickness not to exceed three hundred seventy-five dollars,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_95__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>funeral and burial expenses in accordance with sections17b-84and17b-131, and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_95__subsec_b__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>administrative expenses, including probate fees and taxes, and including fiduciary fees not exceeding the following commissions on the value of the whole estates accounted for by such fiduciaries: On the first two thousand dollars or portion thereof, five per cent; on the next eight thousand dollars or portion thereof, four per cent; on the excess over ten thousand dollars, three per cent. Upon petition by any fiduciary, the Probate Court, after a hearing thereon, may authorize compensation in excess of the above schedule for extraordinary services. Notice of any such petition and hearing shall be given to the Commissioner of Administrative Services in Hartford at least ten days in advance of such hearing. The allowable funeral and burial payment herein shall be reduced by the amount of any prepaid funeral arrangement. Any amount paid from the estate under this section to any person which exceeds the limits provided herein shall be repaid to the estate by such person, and such amount may be recovered in a civil action with interest at six per cent from the date of demand.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_95__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>For purposes of this section, all sums due on or after July 1, 2003, to any individual after the death of a Medicaid beneficiary pursuant to the terms of an annuity contract purchased at any time with assets of a Medicaid beneficiary, shall be deemed to be part of the estate of the deceased beneficiary and shall be payable to the state by the recipient of such annuity payments to the extent necessary to achieve full reimbursement of any Medicaid benefits paid to, or on behalf of, the deceased beneficiary that the state is required to recover under federal law and the provisions of section17b-93, irrespective of any provision of law. The recipient of beneficiary payments from any such annuity contract shall be solely liable to the state of Connecticut for reimbursement of Medicaid benefits paid to, or on behalf of, the deceased beneficiary that the state is required to recover under federal law and the provisions of section17b-93to the extent of any payments received by such recipient pursuant to the annuity contract.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

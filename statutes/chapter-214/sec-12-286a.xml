@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-286a"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-286a"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-286a"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-286a/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-286a/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-286a/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-286a/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_214">
+        <num>214</num>
+        <heading>Business Tax Credits</heading>
+        <section eId="sec_12_286a">
+          <num>12-286a</num>
+          <heading>Notice of restriction on sale of cigarettes and tobacco products. Investigation by Commissioner of Consumer Protection. Penalties</heading>
+          <subsection eId="12_286a__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Each distributor and each dealer shall place and maintain in legible condition at each point of sale of cigarettes to consumers, including the front of each cigarette vending machine, and each restricted cigarette vending machine a notice which states</p>
+            </content>
+            <paragraph eId="12_286a__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>that the sale, giving or delivering of tobacco products, including cigarettes, to any person under twenty-one years of age is prohibited by section53-344,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_286a__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>the misrepresentation of age through the use of false identification by a person under twenty-one years of age to purchase cigarettes or tobacco products is prohibited by said section, and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_286a__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>the penalties and fines for violating said section and section12-295a.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_286a__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Any person who violates subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_286a__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section shall be fined not more than one hundred dollars.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_286a__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The Commissioner of Consumer Protection may investigate any alleged violation of the provisions of subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_286a__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section and, if there appears to be reasonable cause therefor, on reasonable notice to any person accused of any such violation, may make complaint to the prosecuting authority having jurisdiction of any such complaint or may, after notice and a hearing as provided in section20-321, fine a distributor or dealer who violates said subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_286a__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>one hundred dollars per violation. Each day a distributor or dealer fails to post a notice in violation of subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_286a__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section shall be a separate violation.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-28d"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-28d"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17b-28d"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-28d/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-28d/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-28d/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-28d/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319o">
+        <num>319o</num>
+        <heading>Personal Care Assistance</heading>
+        <section eId="sec_17b_28d">
+          <num>17b-28d</num>
+          <heading>Amendment to state Medicaid plan to increase federal matching funds for Medicaid services provided to children requiring special education. Notice to boards of education re changes to policies or procedures</heading>
+          <subsection eId="17b_28d__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The Commissioner of Social Services, in consultation with the Commissioner of Education, shall submit to the Centers for Medicare and Medicaid Services an amendment to the state Medicaid plan concerning school-based child health services provided to Medicaid enrolled children requiring special education pursuant to an individualized education program. Such amendment to the Medicaid plan shall maintain and enhance, to the extent permitted, federal financial participation associated with such costs through a service-specific rate method.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_28d__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The Commissioner of Social Services shall provide written notification to each local or regional board of education in the state of any change in policy or billing procedure not later than thirty days after the effective date of such change.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

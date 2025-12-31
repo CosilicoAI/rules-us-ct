@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-282f"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-282f"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17b-282f"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-282f/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-282f/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-282f/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-282f/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319v">
+        <num>319v</num>
+        <heading>Temporary Assistance for Needy Families</heading>
+        <section eId="sec_17b_282f">
+          <num>17b-282f</num>
+          <heading>Mobile dental clinics. Medicaid coverage areas. Regulations</heading>
+          <subsection eId="17b_282f__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>For purposes of this section,</p>
+            </content>
+            <paragraph eId="17b_282f__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>“mobile dental clinic” means preventative or restorative dental services offered by a licensed dentist or dental hygienist from a van or through the use of portable equipment at various locations, and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_282f__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>“fixed location” means the permanent office of an associated dentist licensed pursuant to chapter 379, who contracts with a mobile dental clinic and (A) is enrolled as a Medicaid provider; (B) maintains the diagnostic imaging, tests and charts of patients treated by the mobile dental clinic; (C) accepts and treats patients from the mobile dental clinic; and (D) provides a continuum of dental care.</p>
+              </content>
+              <subparagraph eId="17b_282f__subsec_a__subsec_2__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>is enrolled as a Medicaid provider;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17b_282f__subsec_a__subsec_2__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>maintains the diagnostic imaging, tests and charts of patients treated by the mobile dental clinic;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17b_282f__subsec_a__subsec_2__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>accepts and treats patients from the mobile dental clinic; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17b_282f__subsec_a__subsec_2__subsec_D">
+                <num>(D)</num>
+                <content>
+                  <p>provides a continuum of dental care.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_282f__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>A mobile dental clinic may submit claims for Medicaid reimbursement to the Department of Social Services for dental treatment of Medicaid beneficiaries that occurred not more than thirty miles from the associated dentist's fixed location, except that a mobile dental clinic located in the counties of New London, Litchfield and Windham may submit claims for Medicaid reimbursement to the Department of Social Services for dental treatment of Medicaid beneficiaries that occurred not more than fifty miles from the dentist's fixed location.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_282f__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The Commissioner of Social Services shall adopt regulations in accordance with the provisions of chapter 54 to implement the provisions of this section. The commissioner may adopt policies and procedures to implement the provisions of this section while in the process of adopting regulations, provided such policies and procedures are published on the eRegulations System before such policies and procedures are implemented.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

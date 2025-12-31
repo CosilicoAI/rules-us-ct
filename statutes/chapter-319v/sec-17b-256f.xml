@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-256f"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-256f"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17b-256f"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-256f/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-256f/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-256f/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-256f/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319v">
+        <num>319v</num>
+        <heading>Temporary Assistance for Needy Families</heading>
+        <section eId="sec_17b_256f">
+          <num>17b-256f</num>
+          <heading>Eligibility for Medicare savings programs. Regulations</heading>
+          <subsection eId="17b_256f__subsec_p">
+            <num>(p)</num>
+            <content>
+              <p>, by such amounts that shall result in persons with income that is</p>
+            </content>
+            <paragraph eId="17b_256f__subsec_p__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>less than two hundred eleven per cent of the federal poverty level qualifying for the Qualified Medicare Beneficiary program,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_256f__subsec_p__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>at or above two hundred eleven per cent of the federal poverty level but less than two hundred thirty-one per cent of the federal poverty level qualifying for the Specified Low-Income Medicare Beneficiary program, and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_256f__subsec_p__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>at or above two hundred thirty-one per cent of the federal poverty level but less than two hundred forty-six per cent of the federal poverty level qualifying for the Qualifying Individual program. The commissioner shall not apply an asset test for eligibility under the Medicare Savings Program. The commissioner shall not consider as income Aid and Attendance pension benefits granted to a veteran, as defined in section27-103, or the surviving spouse of such veteran. The Commissioner of Social Services, pursuant to section17b-10, may implement policies and procedures to administer the provisions of this section while in the process of adopting such policies and procedures in regulation form, provided the commissioner prints notice of the intent to adopt the regulations on the department's Internet web site and the eRegulations System not later than twenty days after the date of implementation. Such policies and procedures shall be valid until the time final regulations are adopted.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

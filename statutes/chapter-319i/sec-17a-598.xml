@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-598"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-598"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17a-598"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-598/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-598/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-598/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-598/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319i">
+        <num>319i</num>
+        <heading>Connecticut HUSKY Plan</heading>
+        <section eId="sec_17a_598">
+          <num>17a-598</num>
+          <heading>(Formerly Sec. 17-257s). Court hearing procedures</heading>
+          <subsection eId="17a_598__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>At any hearing before the court under section17a-582or17a-593, the acquittee shall have the right to appear and shall be represented by counsel. If the acquittee fails or refuses to obtain counsel, the court shall appoint counsel to represent him. If the acquittee is indigent, counsel shall be provided, pursuant to the provisions of chapter 887, and the court shall determine and allow, as provided in section54-147, the cost of briefs, any other necessary expenses, and compensation of the counsel for the acquittee. The costs, expenses and compensation so allowed shall be paid by the state.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_598__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>At any hearing before the court under section17a-582or17a-593, documents and reports considered by the court shall be available for examination by the acquittee, counsel for the acquittee and the state's attorney.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

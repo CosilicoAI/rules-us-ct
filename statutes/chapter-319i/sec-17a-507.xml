@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-507"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-507"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17a-507"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-507/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-507/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-507/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-507/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319i">
+        <num>319i</num>
+        <heading>Connecticut HUSKY Plan</heading>
+        <section eId="sec_17a_507">
+          <num>17a-507</num>
+          <heading>(Formerly Sec. 17-187a). Admission to general hospital having psychiatric facilities</heading>
+          <subsection eId="17a_507__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Any general hospital having psychiatric facilities for care of inpatients may admit any person for observation and treatment without formal or written application if such hospital deems such person clinically suitable for such admission, observation and treatment, and any such person shall be free to leave such hospital at any time.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_507__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Any such hospital may admit and detain persons under the provisions of sections17a-498,17a-502and17a-506in the same manner as hospitals for psychiatric disabilities, including persons admitted under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_507__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section for whom a certificate of emergency detention or a commitment order of a probate court has been made.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

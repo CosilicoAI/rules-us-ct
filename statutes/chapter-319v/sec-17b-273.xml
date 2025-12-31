@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-273"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-273"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17b-273"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-273/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-273/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-273/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-273/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319v">
+        <num>319v</num>
+        <heading>Temporary Assistance for Needy Families</heading>
+        <section eId="sec_17b_273">
+          <num>17b-273</num>
+          <heading>(Formerly Sec. 17-134o). Payment rate for ambulance rides eligible under medical assistance program. Payment methodology for ambulance services</heading>
+          <content>
+            <p>Sec. 17b-273. (Formerly Sec. 17-134o). Payment rate for ambulance rides eligible under medical assistance program. Payment methodology for ambulance services.On and after April 1, 1983, the Commissioner of Social Services shall increase the payment rate for ambulance rides eligible under the state medical assistance program. Subject to federal approval, beginning with the fiscal year commencing July 1, 2015, the Commissioner of Social Services shall, within available appropriations, revise the payment methodology for ambulance services under the Medicaid program to apply a relative value unit system similar to the payment methodology used in the Medicare program. The basic life support nonemergency transport shall be designated as the base rate with the relative value unit system applied to basic life support nonemergency transports, basic life support emergency transports, advanced life support nonemergency transports, advanced life support emergency transports and paramedic intercept services. For purposes of this section, “relative value unit” means a numeric value for ambulance services relative to the value of a base level ambulance service.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

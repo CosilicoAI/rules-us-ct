@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-261m"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-261m"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17b-261m"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-261m/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-261m/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-261m/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-261m/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319v">
+        <num>319v</num>
+        <heading>Temporary Assistance for Needy Families</heading>
+        <section eId="sec_17b_261m">
+          <num>17b-261m</num>
+          <heading>Administrative services organization. Contract for services. Establishment of rates</heading>
+          <subsection eId="17b_261m__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The Commissioner of Social Services may contract with one or more administrative services organizations to provide care coordination, utilization management, disease management, customer service and review of grievances for recipients of assistance under the HUSKY Health program. Such organization may also provide network management, credentialing of providers, monitoring of copayments and premiums and other services as required by the commissioner. Subject to approval by applicable federal authority, the Department of Social Services shall utilize the contracted organization's provider network and billing systems in the administration of the program. In order to implement the provisions of this section, the commissioner may establish rates of payment to providers of medical services under this section if the establishment of such rates is required to ensure that any contract entered into with an administrative services organization pursuant to this section is cost neutral to such providers in the aggregate and ensures patient access. Utilization may be a factor in determining cost neutrality.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_261m__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Any contract entered into with an administrative services organization, pursuant to subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_261m__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section, shall include a provision to reduce inappropriate use of hospital emergency department services, which may include a cost-sharing requirement and intensive care management services.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

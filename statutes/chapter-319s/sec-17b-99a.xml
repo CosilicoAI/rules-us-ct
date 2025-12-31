@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-99a"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-99a"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17b-99a"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-99a/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-99a/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-99a/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-99a/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319s">
+        <num>319s</num>
+        <heading>Connecticut Partnership for Long-Term Care</heading>
+        <section eId="sec_17b_99a">
+          <num>17b-99a</num>
+          <heading>Audits of long-term care facilities</heading>
+          <subsection eId="17b_99a__subsec_a">
+            <num>(a)</num>
+            <paragraph eId="17b_99a__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>For purposes of this section, (A) “extrapolation” means the determination of an unknown value by projecting the results of the review of a sample to the universe from which the sample was drawn, (B) “facility” means any facility described in this subsection and for which rates are established pursuant to section17b-340, and (C) “universe” means a defined population of claims submitted by a facility during a specific time period.</p>
+              </content>
+              <subparagraph eId="17b_99a__subsec_a__subsec_1__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>“extrapolation” means the determination of an unknown value by projecting the results of the review of a sample to the universe from which the sample was drawn,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17b_99a__subsec_a__subsec_1__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>“facility” means any facility described in this subsection and for which rates are established pursuant to section17b-340, and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17b_99a__subsec_a__subsec_1__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>“universe” means a defined population of claims submitted by a facility during a specific time period.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="17b_99a__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>The Commissioner of Social Services shall conduct any audit of a licensed chronic and convalescent nursing home, chronic disease hospital associated with a chronic and convalescent nursing home, a rest home with nursing supervision, a licensed residential care home, as defined in section19a-490, and a residential facility for persons with intellectual disability which is licensed pursuant to section17a-227and certified to participate in the Medicaid program as an intermediate care facility for individuals with intellectual disabilities in accordance with the provisions of this section.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_99a__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Not less than thirty days prior to the commencement of any such audit, the commissioner shall provide written notification of the audit to such facility, unless the commissioner makes a good-faith determination that</p>
+            </content>
+            <paragraph eId="17b_99a__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>the health or safety of a recipient of services is at risk; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_99a__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>the facility is engaging in vendor fraud under sections53a-290to53a-296, inclusive.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_99a__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Any clerical error, including, but not limited to, recordkeeping, typographical, scrivener's or computer error, discovered in a record or document produced for any such audit, shall not of itself constitute a wilful violation of the rules of a medical assistance program administered by the Department of Social Services unless proof of intent to commit fraud or otherwise violate program rules is established. In determining which facilities shall be subject to audits, the Commissioner of Social Services may give consideration to the history of a facility's compliance in addition to other criteria used to select a facility for an audit.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_99a__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>A finding of overpayment or underpayment to such facility shall not be based on extrapolation unless</p>
+            </content>
+            <paragraph eId="17b_99a__subsec_d__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>there is a determination of sustained or high level of payment error involving the facility,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_99a__subsec_d__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>documented educational intervention has failed to correct the level of payment error, or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_99a__subsec_d__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>the value of the claims in aggregate exceeds two hundred thousand dollars on an annual basis.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_99a__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>A facility, in complying with the requirements of any such audit, shall be allowed not less than thirty days to provide documentation in connection with any discrepancy discovered and brought to the attention of such facility in the course of any such audit.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_99a__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>The commissioner shall produce a preliminary written report concerning any audit conducted pursuant to this section and such preliminary report shall be provided to the facility that was the subject of the audit not later than sixty days after the conclusion of such audit.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_99a__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>The commissioner shall, following the issuance of the preliminary report pursuant to subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_99a__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>of this section, hold an exit conference with any facility that was the subject of any audit pursuant to this subsection for the purpose of discussing the preliminary report. Such facility may present evidence at such exit conference refuting findings in the preliminary report.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_99a__subsec_h">
+            <num>(h)</num>
+            <content>
+              <p>The commissioner shall produce a final written report concerning any audit conducted pursuant to this subsection. Such final written report shall be provided to the facility that was the subject of the audit not later than sixty days after the date of the exit conference conducted pursuant to subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_99a__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>of this section, unless the commissioner and the facility agree to a later date or there are other referrals or investigations pending concerning the facility.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_99a__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Any facility aggrieved by a final report issued pursuant to subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_99a__subsec_h">
+            <num>(h)</num>
+            <content>
+              <p>of this section may request a rehearing. A rehearing shall be held by the commissioner or the commissioner's designee, provided a detailed written description of all items of aggrievement in the final report is filed by the facility not later than ninety days following the date of written notice of the commissioner's decision. The rehearing shall be held not later than thirty days following the date of filing of the detailed written description of each specific item of aggrievement. The commissioner shall issue a final decision not later than sixty days following the close of evidence or the date on which final briefs are filed, whichever occurs later. Any items not resolved at such rehearing to the satisfaction of the facility or the commissioner shall be submitted to binding arbitration by an arbitration board consisting of one member appointed by the facility, one member appointed by the commissioner and one member appointed by the Chief Court Administrator from among the retired judges of the Superior Court, which retired judge shall be compensated for his services on such board in the same manner as a state referee is compensated for his services under section52-434. The proceedings of the arbitration board and any decisions rendered by such board shall be conducted in accordance with the provisions of the Social Security Act, 42 USC 1396, as amended from time to time, and chapter 54.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_99a__subsec_j">
+            <num>(j)</num>
+            <content>
+              <p>The submission of any false or misleading fiscal information or data to the commissioner shall be grounds for suspension of payments by the state under sections17b-239to17b-246, inclusive, and sections17b-340and17b-343, in accordance with regulations adopted by the commissioner. In addition, any person, including any corporation, who knowingly makes or causes to be made any false or misleading statement or who knowingly submits false or misleading fiscal information or data on the forms approved by the commissioner shall be guilty of a class D felony.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_99a__subsec_k">
+            <num>(k)</num>
+            <content>
+              <p>The commissioner, or any agent authorized by the commissioner to conduct any inquiry, investigation or hearing under the provisions of this section, shall have power to administer oaths and take testimony under oath relative to the matter of inquiry or investigation. At any hearing ordered by the commissioner, the commissioner or such agent having authority by law to issue such process may subpoena witnesses and require the production of records, papers and documents pertinent to such inquiry. If any person disobeys such process or, having appeared in obedience thereto, refuses to answer any pertinent question put to the person by the commissioner or the commissioner's authorized agent or to produce any records and papers pursuant thereto, the commissioner or the commissioner's agent may apply to the superior court for the judicial district of Hartford or for the judicial district wherein the person resides or wherein the business has been conducted, or to any judge of such court if the same is not in session, setting forth such disobedience to process or refusal to answer, and such court or judge shall cite such person to appear before such court or judge to answer such question or to produce such records and papers.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_99a__subsec_l">
+            <num>(l)</num>
+            <content>
+              <p>The commissioner shall provide free training to facilities on the preparation of cost reports to avoid clerical errors and shall post information on the department's Internet web site concerning the auditing process and methods to avoid clerical errors. Not later than April 1, 2015, the commissioner shall establish audit protocols to assist facilities subject to audit pursuant to this section in developing programs to improve compliance with Medicaid requirements under state and federal laws and regulations, provided audit protocols may not be relied upon to create a substantive or procedural right or benefit enforceable at law or in equity by any person, including a corporation. The commissioner shall establish and publish on the department's Internet web site audit protocols for:</p>
+            </content>
+            <paragraph eId="17b_99a__subsec_l__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>Licensed chronic and convalescent nursing homes,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_99a__subsec_l__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>chronic disease hospitals associated with chronic and convalescent nursing homes,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_99a__subsec_l__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>rest homes with nursing supervision,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_99a__subsec_l__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>licensed residential care homes, as defined in section19a-490, and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_99a__subsec_l__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>residential facilities for persons with intellectual disability that are licensed pursuant to section17a-227and certified to participate in the Medicaid program as intermediate care facilities for individuals with intellectual disabilities. The commissioner shall ensure that the Department of Social Services, or any entity with which the commissioner contracts to conduct an audit pursuant to this section, has on staff or consults with, as needed, licensed health professionals with experience in treatment, billing and coding procedures used by the facilities being audited pursuant to this section.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

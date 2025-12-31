@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-35a"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-35a"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-35a"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-35a/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-35a/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-35a/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-35a/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_202">
+        <num>202</num>
+        <heading>Collection of State Taxes</heading>
+        <section eId="sec_12_35a">
+          <num>12-35a</num>
+          <heading>Lien on personal property as security related to delinquent state taxes</heading>
+          <subsection eId="12_35a__subsec_a">
+            <num>(a)</num>
+            <heading>Definitions</heading>
+            <content>
+              <p>Whenever used in this section, unless the context otherwise requires:</p>
+            </content>
+            <paragraph eId="12_35a__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>“Goods” means goods, as defined in subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_35a__subsec_a__subsec_44">
+              <num>(44)</num>
+              <content>
+                <p>of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_35a__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of section42a-9-102;</p>
+            </content>
+            <paragraph eId="12_35a__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>“proceeds” means proceeds, as defined in subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_35a__subsec_a__subsec_64">
+              <num>(64)</num>
+              <content>
+                <p>of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_35a__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of section42a-9-102;</p>
+            </content>
+            <paragraph eId="12_35a__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>“debtor” means the taxpayer;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_35a__subsec_a__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>“secured party” means the state of Connecticut;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_35a__subsec_a__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>“collateral” means property which is the subject of the tax lien;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_35a__subsec_a__subsec_6">
+              <num>(6)</num>
+              <content>
+                <p>“obligations” means amount of tax and accrued penalties and interest claimed to be due the state in relation to the tax lien;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_35a__subsec_a__subsec_7">
+              <num>(7)</num>
+              <content>
+                <p>“person” means any individual, trust, partnership, association, company, limited liability company or corporation;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_35a__subsec_a__subsec_8">
+              <num>(8)</num>
+              <content>
+                <p>“purchase money security interest” means purchase money security interest, as defined in section42a-9-103a;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_35a__subsec_a__subsec_9">
+              <num>(9)</num>
+              <content>
+                <p>“commercial transactions financing agreement” means an agreement entered into by a person in the course of his trade or business to make loans to the taxpayer, part or all of the security for repayment of any such loan being inventory acquired by the taxpayer in the ordinary course of trade or business;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_35a__subsec_a__subsec_10">
+              <num>(10)</num>
+              <content>
+                <p>“qualified property” when used with respect to a commercial transactions financing agreement, means inventory;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_35a__subsec_a__subsec_11">
+              <num>(11)</num>
+              <content>
+                <p>“obligatory disbursement agreement” means an agreement, entered into by a person in the course of trade or business, to make disbursements but such an agreement shall be considered within this term only to the extent of disbursements which are required to be made by reason of the intervention of the rights of a person other than the taxpayer;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_35a__subsec_a__subsec_12">
+              <num>(12)</num>
+              <content>
+                <p>“qualified property” when used with respect to obligatory disbursement agreement, means property subject to the lien imposed in accordance with this section, at the time of tax lien filing and, to the extent that the acquisition is directly traceable to the disbursements under an obligatory disbursement agreement, property acquired by the taxpayer after the time of tax lien filing;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_35a__subsec_a__subsec_13">
+              <num>(13)</num>
+              <content>
+                <p>“inventory” means inventory, as defined in subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_35a__subsec_a__subsec_48">
+              <num>(48)</num>
+              <content>
+                <p>of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_35a__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of section42a-9-102;</p>
+            </content>
+            <paragraph eId="12_35a__subsec_a__subsec_14">
+              <num>(14)</num>
+              <content>
+                <p>“lien creditor” means lien creditor, as defined in subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_35a__subsec_a__subsec_52">
+              <num>(52)</num>
+              <content>
+                <p>of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_35a__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of section42a-9-102;</p>
+            </content>
+            <paragraph eId="12_35a__subsec_a__subsec_15">
+              <num>(15)</num>
+              <content>
+                <p>“account” means account, as defined in subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_35a__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_35a__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of section42a-9-102;</p>
+            </content>
+            <paragraph eId="12_35a__subsec_a__subsec_16">
+              <num>(16)</num>
+              <content>
+                <p>“chattel paper” means chattel paper, as defined in subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_35a__subsec_a__subsec_11">
+              <num>(11)</num>
+              <content>
+                <p>of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_35a__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of section42a-9-102;</p>
+            </content>
+            <paragraph eId="12_35a__subsec_a__subsec_17">
+              <num>(17)</num>
+              <content>
+                <p>“commercial tort claim” means commercial tort claim, as defined in subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_35a__subsec_a__subsec_13">
+              <num>(13)</num>
+              <content>
+                <p>of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_35a__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of section42a-9-102;</p>
+            </content>
+            <paragraph eId="12_35a__subsec_a__subsec_18">
+              <num>(18)</num>
+              <content>
+                <p>“deposit account” means deposit account, as defined in subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_35a__subsec_a__subsec_29">
+              <num>(29)</num>
+              <content>
+                <p>of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_35a__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of section42a-9-102;</p>
+            </content>
+            <paragraph eId="12_35a__subsec_a__subsec_19">
+              <num>(19)</num>
+              <content>
+                <p>“document” means document, as defined in subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_35a__subsec_a__subsec_30">
+              <num>(30)</num>
+              <content>
+                <p>of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_35a__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of section42a-9-102;</p>
+            </content>
+            <paragraph eId="12_35a__subsec_a__subsec_20">
+              <num>(20)</num>
+              <content>
+                <p>“general intangible” means general intangible, as defined in subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_35a__subsec_a__subsec_42">
+              <num>(42)</num>
+              <content>
+                <p>of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_35a__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of section42a-9-102;</p>
+            </content>
+            <paragraph eId="12_35a__subsec_a__subsec_21">
+              <num>(21)</num>
+              <content>
+                <p>“instrument” means instrument, as defined in subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_35a__subsec_a__subsec_47">
+              <num>(47)</num>
+              <content>
+                <p>of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_35a__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of section42a-9-102;</p>
+            </content>
+            <paragraph eId="12_35a__subsec_a__subsec_22">
+              <num>(22)</num>
+              <content>
+                <p>“investment property” means investment property, as defined in subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_35a__subsec_a__subsec_49">
+              <num>(49)</num>
+              <content>
+                <p>of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_35a__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of section42a-9-102;</p>
+            </content>
+            <paragraph eId="12_35a__subsec_a__subsec_23">
+              <num>(23)</num>
+              <content>
+                <p>“filing office” means filing office, as defined in subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_35a__subsec_a__subsec_37">
+              <num>(37)</num>
+              <content>
+                <p>of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_35a__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of section42a-9-102; and</p>
+            </content>
+            <paragraph eId="12_35a__subsec_a__subsec_24">
+              <num>(24)</num>
+              <content>
+                <p>“state” means state, as defined in subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_35a__subsec_a__subsec_77">
+              <num>(77)</num>
+              <content>
+                <p>of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_35a__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of section42a-9-102, except that “the state” or “this state” means the state of Connecticut.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_35a__subsec_b">
+            <num>(b)</num>
+            <heading>Perfection of state's lien on goods of taxpayer</heading>
+            <content>
+              <p>Upon failure of any person to pay any tax, except taxes under chapter 216, due the state within thirty days from its due date, or if before the due date of any tax, except taxes under chapter 216, the Commissioner of Revenue Services believes that the collection of such tax will be jeopardized by delay, the state shall have a lien, upon perfection as hereinafter provided, upon the goods, accounts, chattel paper, instruments, documents, investment property, deposit accounts, commercial tort claims and general intangibles situated in this state and owned by the taxpayer upon the date of perfection, or upon the goods, accounts, chattel paper, instruments, documents, investment property, deposit accounts, commercial tort claims and general intangibles thereafter acquired by the taxpayer. Such lien shall attach and become perfected at the time when notice of such lien is filed pursuant to the filing provisions of part 5 of article 9 of title 42a, except that the signature of the taxpayer against whose property the lien is claimed shall not be required on said notice of lien and, in each case, the lien shall be filed as if the debtor were located in this state. Nothing in this section shall be construed as prohibiting the commissioner from filing both a notice of lien as if the debtor were located in this state and a notice of lien with the filing office of a state other than this state, if the commissioner determines that it would be beneficial to this state to do so. Except as hereinafter provided, upon perfection, such lien shall have priority over all subsequently perfected liens and security interests.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_35a__subsec_c">
+            <num>(c)</num>
+            <heading>Information required in notice of lien</heading>
+            <content>
+              <p>Each such notice of lien shall contain such information as will identify</p>
+            </content>
+            <paragraph eId="12_35a__subsec_c__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>the owner of the property upon which the lien is claimed,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_35a__subsec_c__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>the residence or business address of such owner,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_35a__subsec_c__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>the specific property claimed to be subject to such lien,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_35a__subsec_c__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>the location of such property,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_35a__subsec_c__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>the type of tax,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_35a__subsec_c__subsec_6">
+              <num>(6)</num>
+              <content>
+                <p>the amount of tax and accrued penalties and interest claimed to be due the state in relation to the lien and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_35a__subsec_c__subsec_7">
+              <num>(7)</num>
+              <content>
+                <p>the tax period or periods for which such lien is claimed.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_35a__subsec_d">
+            <num>(d)</num>
+            <heading>State lien effective for ten years</heading>
+            <content>
+              <p>The lien shall be effective for a period of ten years from the date of filing unless discharged as hereinafter provided.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_35a__subsec_e">
+            <num>(e)</num>
+            <heading>Rights and remedies of the state as secured party</heading>
+            <content>
+              <p>A notice of tax lien having been filed, the state shall have the rights and remedies of a secured party, as provided in sections42a-9-601to42a-9-628, inclusive, and the taxpayer against whom said lien has been filed shall have the rights and remedies of a debtor, as provided in said sections. In proceeding to enforce such lien, the state shall observe the procedures applicable to a secured party under sections42a-9-601to42a-9-628, inclusive.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_35a__subsec_f">
+            <num>(f)</num>
+            <heading>Security interests or property not subject to tax lien</heading>
+            <content>
+              <p>Even though notice of tax lien has been filed, such lien shall not be valid with respect to:</p>
+            </content>
+            <paragraph eId="12_35a__subsec_f__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>A security interest which came into existence after tax lien filing but which (A) is in qualified property covered by the terms of a written agreement entered into before tax lien filing and constituting a commercial transactions financing agreement or an obligatory disbursement agreement and (B) is protected under the laws of this state against a judgment lien arising, as of the time of tax lien filing, out of an unsecured obligation;</p>
+              </content>
+              <subparagraph eId="12_35a__subsec_f__subsec_1__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>is in qualified property covered by the terms of a written agreement entered into before tax lien filing and constituting a commercial transactions financing agreement or an obligatory disbursement agreement and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_35a__subsec_f__subsec_1__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>is protected under the laws of this state against a judgment lien arising, as of the time of tax lien filing, out of an unsecured obligation;</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_35a__subsec_f__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>a security interest which came into existence after tax lien filing by reason of disbursements made before the forty-sixth day after the date of tax lien filing, or before the person making such disbursements had actual notice or knowledge of tax lien filing, whichever is earlier, but only if such security interest (A) is in property subject at the time of tax lien filing, to the lien imposed by this section and covered by the terms of a written agreement entered into before tax lien filing and (B) is protected under the laws of this state against a judgment lien arising, as of the time of tax lien filing, out of an unsecured obligation;</p>
+              </content>
+              <subparagraph eId="12_35a__subsec_f__subsec_2__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>is in property subject at the time of tax lien filing, to the lien imposed by this section and covered by the terms of a written agreement entered into before tax lien filing and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_35a__subsec_f__subsec_2__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>is protected under the laws of this state against a judgment lien arising, as of the time of tax lien filing, out of an unsecured obligation;</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_35a__subsec_f__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>tangible personal property purchased at retail, as against a purchaser in the ordinary course of the seller's trade or business, unless at the time of such purchase such purchaser intends such purchase to, or knows such purchase will, hinder, evade, or defeat the collection of any tax; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_35a__subsec_f__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>a purchase money security interest, if said purchase money security interest would be prior to a conflicting security interest in the same collateral under section42a-9-324.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_35a__subsec_g">
+            <num>(g)</num>
+            <heading>Discharge of state tax lien</heading>
+            <content>
+              <p>When the amount of tax, penalty or interest with respect to which a lien has been created under this section has been satisfied, the Commissioner of Revenue Services, upon request of any interested party, shall issue a certificate discharging such lien, which certificate shall be filed with the Uniform Commercial Code Division of the office of the Secretary of the State in the same manner as termination statements are filed under section42a-9-513.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_35a__subsec_h">
+            <num>(h)</num>
+            <heading>Electronic signature</heading>
+            <content>
+              <p>The commissioner may use an electronic signature, as defined in section1-267, for any filing authorized under this section.
+See Sec. 12-829 re withholding of delinquent taxes, penalties and interest from lottery winnings.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

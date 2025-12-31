@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-588"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-588"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17a-588"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-588/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-588/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-588/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-588/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319i">
+        <num>319i</num>
+        <heading>Connecticut HUSKY Plan</heading>
+        <section eId="sec_17a_588">
+          <num>17a-588</num>
+          <heading>(Formerly Sec. 17-257i). Conditional release</heading>
+          <subsection eId="17a_588__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>If at any time after the confinement of an acquittee in a hospital for psychiatric disabilities or the placement of an acquittee with the Commissioner of Developmental Services, the superintendent of such hospital or said commissioner is of the opinion that such acquittee is a person who should be conditionally released, the superintendent or said commissioner shall apply to the board for an order of conditional release. The application shall be accompanied by a report setting forth the facts supporting the opinion of the superintendent or said commissioner, and by a conditional release plan. The board shall hold a hearing on the application within sixty, but not less than thirty, days of its receipt.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_588__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>At any time after the confinement of an acquittee in a hospital for psychiatric disabilities or the placement of an acquittee with the Commissioner of Developmental Services, the acquittee or another person acting on his behalf may apply to the board for an order of conditional release. On receipt of the application, the board shall request the superintendent of the hospital or said commissioner to report whether he is of the opinion that the acquittee is a person who should be conditionally released. The report shall set forth facts supporting the opinion. An application for conditional release under this subsection shall not be filed more often than once every six months from the date of the initial board hearing held pursuant to section17a-583. The board is not required to hold a hearing on a first application under this subsection any sooner than ninety days after the initial hearing. Hearings resulting from any subsequent requests shall be held within sixty days of the filing of the application.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_588__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Not less than thirty days prior to any such hearing, the board shall send copies of the superintendent's or said commissioner's report to the state's attorney and counsel for the acquittee. At any hearing held pursuant to this section, the board shall make a finding and act pursuant to section17a-584.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

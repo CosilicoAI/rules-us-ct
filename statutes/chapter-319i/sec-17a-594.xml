@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-594"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-594"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17a-594"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-594/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-594/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-594/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-594/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319i">
+        <num>319i</num>
+        <heading>Connecticut HUSKY Plan</heading>
+        <section eId="sec_17a_594">
+          <num>17a-594</num>
+          <heading>(Formerly Sec. 17-257o). Summary modification or termination of conditional release upon violation of terms or change in mental health</heading>
+          <subsection eId="17a_594__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>If at any time while an acquittee is under the jurisdiction of the board, it appears to the board or its chairman that a conditionally released acquittee has violated the terms of a conditional release or that the mental health of the acquittee has changed, the board or its chairman may order the modification of the conditional release of the acquittee or may order the termination of the conditional release of the acquittee and his return to a hospital for psychiatric disabilities or to the Commissioner of Developmental Services for examination or treatment. The state's attorney may, at any time, notify the board or its chairman of facts that the state's attorney believes indicate that the conditionally released acquittee has violated the terms of a conditional release, that the mental health of the acquittee has changed or that the conditions of release should be modified. A written order of the board, or its chairman on behalf of the board, is sufficient warrant for any peace officer to take the acquittee into custody and transport him to a hospital for psychiatric disabilities or to the Commissioner of Developmental Services.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_594__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Any peace officer or any person or agency providing treatment or responsible for the supervision of a conditionally released acquittee may take the acquittee into custody or request that the acquittee be taken into custody if there is reasonable cause to believe that the acquittee is a person with psychiatric disabilities or a person with intellectual disability to the extent that his continued release would constitute a danger to himself or others and that the acquittee is in need of immediate care, custody or treatment. The acquittee shall be immediately transported to a hospital for psychiatric disabilities or to the Commissioner of Developmental Services.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_594__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Within thirty days of the acquittee being taken into custody pursuant to subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_594__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>or</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_594__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section, the board shall commence a hearing to determine the mental condition of the acquittee and shall make a finding and act pursuant to section17a-584.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

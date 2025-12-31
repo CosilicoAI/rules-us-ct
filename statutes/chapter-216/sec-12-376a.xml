@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-376a"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-376a"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-376a"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-376a/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-376a/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-376a/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-376a/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_216">
+        <num>216</num>
+        <heading>Sales and Use Taxes</heading>
+        <section eId="sec_12_376a">
+          <num>12-376a</num>
+          <heading>Waiver of interest on tax on certain transfers</heading>
+          <content>
+            <p>Sec. 12-376a. Waiver of interest on tax on certain transfers.Whenever any transfer of property is reported and a tax paid thereon under the provisions of this chapter more than six months after the date of death of the transferor, and it appears that such transfer could not have been known, or in good faith was not known, at the time of the death of the transferor, or at the time any other estate of such transferor was probated, the running of interest at one per cent per month or fraction thereof on such transfer, as provided by section12-376, may be waived by the Commissioner of Revenue Services upon a finding that such transfer could not have been known, or in good faith was not known, within six months of the date of death of the transferor. Upon such waiver by the commissioner interest at three-fourths per cent per month or fraction thereof shall run on the amount of tax payable on such transfer for a period from six months after the date of death of the transferor until the date of payment of such tax to the commissioner.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

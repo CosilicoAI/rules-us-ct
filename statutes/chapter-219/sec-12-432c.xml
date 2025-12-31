@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-432c"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-432c"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-432c"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-432c/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-432c/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-432c/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-432c/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_219">
+        <num>219</num>
+        <heading>Motor Vehicle Fuels Tax</heading>
+        <section eId="sec_12_432c">
+          <num>12-432c</num>
+          <heading>Tax rate amendments contingent upon estimated gross tax revenue in cumulative monthly financial statement issued by Comptroller</heading>
+          <subsection eId="12_432c__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>If any cumulative monthly financial statement issued by the Comptroller pursuant to section3-115after September 9, 2009, and before January 1, 2010, indicates that the estimated gross tax revenue to the General Fund, to the end of the fiscal year ending June 30, 2010, is at least one per cent less than the estimated gross tax revenue to the General Fund for said fiscal year, included in public act 09-3 of the June special session* pursuant to section2-35, the amendments made to the provisions of subdivisions</p>
+            </content>
+            <paragraph eId="12_432c__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_432c__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>of section12-408, subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_432c__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>of section12-411, subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_432c__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of section12-411band subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_432c__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of section12-414, pursuant to sections 108 to 112, inclusive, of public act 09-3 of the June special session*, shall not take effect.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_432c__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>If any cumulative monthly financial statement issued by the Comptroller pursuant to section3-115after January 1, 2010, and on or before June 30, 2010, indicates that the estimated gross tax revenue to the General Fund, to the end of the fiscal year ending June 30, 2010, is at least one per cent less than the estimated gross tax revenue to the General Fund for said fiscal year, included in public act 09-3 of the June special session* pursuant to section2-35,</p>
+            </content>
+            <paragraph eId="12_432c__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>the amendments made to the provisions of subdivisions</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_432c__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_432c__subsec_b__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>of section12-408, subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_432c__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>of section12-411, subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_432c__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of section12-411band subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_432c__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of section12-414, pursuant to sections 108 to 112, inclusive, of public act 09-3 of the June special session*, shall, on and after July 1, 2010, be inoperative and have no effect, and</p>
+            </content>
+            <paragraph eId="12_432c__subsec_c__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>the provisions of said subdivisions and subsection of said sections of the general statutes, revision of 1958, revised to December 31, 2009, shall be effective on and after July 1, 2010.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

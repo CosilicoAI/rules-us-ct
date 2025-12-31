@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-53"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-53"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-53"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-53/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-53/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-53/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-53/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_203">
+        <num>203</num>
+        <heading>Property Tax Assessment</heading>
+        <section eId="sec_12_53">
+          <num>12-53</num>
+          <heading>Addition of omitted property. Audits. Penalty</heading>
+          <subsection eId="12_53__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>For purposes of this section:</p>
+            </content>
+            <paragraph eId="12_53__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>“Omitted property” means property for which complete information is not included in the declaration required to be filed by law with respect to (A) the total number and type of all items subject to taxation, or (B) the true original cost and year acquired of all such items;</p>
+              </content>
+              <subparagraph eId="12_53__subsec_a__subsec_1__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>the total number and type of all items subject to taxation, or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_53__subsec_a__subsec_1__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>the true original cost and year acquired of all such items;</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_53__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>“Books”, “papers”, “documents” and “other records” includes, but is not limited to, federal tax forms relating to the acquisition and cost of fixed assets, general ledgers, balance sheets, disbursement ledgers, fixed asset and depreciation schedules, financial statements, invoices, operating expense reports, capital and operating leases, conditional sales agreements and building or leasehold ledgers; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_53__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>“Designee of an assessor” means a Connecticut municipal assessor certified in accordance with subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_53__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of section12-40a, a certified public accountant, a revaluation company certified in accordance with section12-2cfor the valuation of personal property, or an individual certified as a revaluation company employee in accordance with section12-2bfor the valuation of personal property.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_53__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>During the period prescribed by law for the completion of their duties the assessor or board of assessors of each town shall add to the declaration of each taxpayer any taxable property which they have reason to believe is owned by such taxpayer and has been omitted from such declaration. The property so added shall be assessed at the percentage of the actual valuation thereof, as determined by the assessor or board of assessors in accordance with the provisions of sections12-63and12-71, from the best information the assessor or board of assessors can obtain, and twentyfive per cent of the assessment of such omitted property shall be added thereto. The assessor or board of assessors shall notify such person, in accordance with section12-55, of any such increase in the assessed valuation.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_53__subsec_c">
+            <num>(c)</num>
+            <paragraph eId="12_53__subsec_c__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>The assessor or board of assessors may perform an audit or require a designee of the assessor to perform an audit of any personal property required to be declared pursuant to section12-40or section12-43. The assessor shall give notice in writing to the owner, custodian or other person having knowledge of any such property or the valuation thereof, of the time and place of such audit with respect to such property. Such notice shall be placed in the hands of such person or left at such person's usual place of residence or business or shall be sent to such person by registered or certified mail at the last-known place of residence or business not later than three years following the assessment date for which such declaration was required to be filed. Such notice shall direct the person named therein to appear before the assessor or board of assessors, or before a designee of said assessor, with books of account, papers, documents and other records for examination under oath relative to any such property or the valuation thereof. The methodologies used to determine the value of such property during such audit shall remain consistent with the methodologies requested by the assessor to determine the value of such property for the grand list year to which such audit or audits relate.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_53__subsec_c__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>All taxable property, discovered during such audit and not declared by the owner as required by law, shall be added to the owner's declaration by such assessor or board of assessors at the percentage of its actual valuation, as determined by the assessor or board of assessors in accordance with the provisions of sections12-63and12-71, and twenty-five per cent of such assessment shall be added thereto. If personal property is discovered during such audit to have been omitted, as defined in subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_53__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section, by the taxpayer, the difference between the value originally determined by the assessor and that determined as a result of the audit, shall be added to the taxpayer's declaration by the assessor at the percentage of its actual valuation pursuant to sections12-63and12-71, plus twenty-five per cent of the assessment of such omitted property.</p>
+            </content>
+            <paragraph eId="12_53__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>Notwithstanding the provisions of sections12-57and12-129, if any property is discovered during such audit to be listed in error by the owner, it shall be removed from such owner's declaration by the assessor or board of assessors.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_53__subsec_a__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>No person shall be excused from giving testimony or producing books of account, papers, documents and other records on the ground that such testimony and such production of documents will tend to incriminate such person, but such testimony and such production of documentary evidence shall not be used in any criminal proceeding against such person. Any person who fails to appear at the time and place of such audit as designated in such notice, or, having appeared, refuses to answer any pertinent question or who fails to produce the books, papers or other documents mentioned in such notice, shall be guilty of a class D misdemeanor. All property which the assessor or board of assessors believes should have been declared for taxation and was not declared and concerning which sufficient information cannot be obtained by them at such hearing, or any adjournment thereof, shall be added to the list at such percentage of the actual valuation thereof from the best information obtainable by the assessor or board of assessors and twenty-five per cent shall be added to such assessment.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_53__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>If the assessor or board of assessors of any town adds property to the declaration of any person or makes out a declaration for any person not filing a declaration or increases or decreases the valuation of any taxable property under the provisions of subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_53__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of this section, they shall, within thirty days of the completion of an audit under said subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_53__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>, give such person notice in writing by mailing the same, postage prepaid, to such person's last-known address and the same shall be held to be sufficient. Such notice shall include, but not be limited to, an accounting of the additions or deletions segregated by the categories of personal property on the declaration used by personal property owners in said town, a revised copy of the declaration reflecting the changes determined at such audit and information describing the manner in which an appeal may be filed with the board of assessment appeals.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_53__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>Any person claiming to be aggrieved by the action of the assessor or board of assessors under this section may appeal the doings of the assessor or board of assessors to the board of assessment appeals and the Superior Court as otherwise provided in this chapter, provided such appeal shall be extended in time to the next succeeding board of assessment appeals if the statutory period for the meeting of such board has passed. Any person intending to so appeal to the board of assessment appeals may indicate that taxes paid by such person for any additional assessment added in accordance with this section, during the pendency of such appeal, are paid “under protest” and thereupon such person shall not be liable for any interest on the taxes based upon such additional assessment, provided</p>
+            </content>
+            <paragraph eId="12_53__subsec_e__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>such person shall have paid not less than seventy-five per cent of the amount of the taxes resulting from such additional assessment within the time specified and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_53__subsec_e__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>the board of assessment appeals reduces the valuation of property or removes items of property from the list of such person so that there is no tax liability related to such additional assessment.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_53__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>Upon receipt of notice from the assessor or board of assessors of the addition of property to the declaration of any owner, or an increase in the assessment of any property included in such owner's declaration, the tax collector of the town shall, if such notice is received after the normal billing date, not later than thirty days thereafter mail or hand a bill to such owner based upon the addition of property to said owner's declaration or the increase in the assessment of any property that had been included in such owner's declaration added by the assessor or board of assessors. Such tax shall be due and payable and collectible as other municipal taxes and subject to the same liens and processes of collection, except that</p>
+            </content>
+            <paragraph eId="12_53__subsec_f__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>such tax for the current fiscal year shall be due and payable in an initial or single installment due and payable not sooner than thirty days after the date such bill is mailed or handed to such owner and in any remaining, regular installments as the same are due and payable, and the several installments of the tax so due and payable, shall be equal, and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_53__subsec_f__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>such tax for any prior fiscal year shall be payable not sooner than thirty days after the date such bill is mailed or delivered to such owner and shall include interest from the date or dates such tax for the corresponding grand list would have been due.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

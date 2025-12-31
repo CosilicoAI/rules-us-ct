@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-584"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-584"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17a-584"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-584/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-584/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-584/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-584/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319i">
+        <num>319i</num>
+        <heading>Connecticut HUSKY Plan</heading>
+        <section eId="sec_17a_584">
+          <num>17a-584</num>
+          <heading>(Formerly Sec. 17-257e). Finding and action by board. Recommendation of discharge. Order of conditional release or confinement</heading>
+          <subsection eId="17a_584__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>of section17a-593, the board shall make a finding as to the mental condition of the acquittee and, considering that its primary concerns are the protection of society and the safety and well-being of the acquittee, shall do one of the following:</p>
+            </content>
+            <paragraph eId="17a_584__subsec_d__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>If the board finds that the acquittee is a person who should be discharged, it shall recommend such discharge to the court pursuant to section17a-593.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_584__subsec_d__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>If the board finds that the acquittee is a person who should be conditionally released, the board shall order the acquittee conditionally released subject to such conditions as are necessary to prevent the acquittee from constituting a danger to himself or others.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_584__subsec_d__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>If the board finds that the acquittee is a person who should be confined, the board shall order the person confined in a hospital for psychiatric disabilities or placed with the Commissioner of Developmental Services for custody, care and treatment.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

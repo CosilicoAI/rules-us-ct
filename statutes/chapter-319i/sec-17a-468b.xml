@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-468b"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-468b"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17a-468b"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-468b/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-468b/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-468b/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-468b/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319i">
+        <num>319i</num>
+        <heading>Connecticut HUSKY Plan</heading>
+        <section eId="sec_17a_468b">
+          <num>17a-468b</num>
+          <heading>Residences for adults with acquired brain injuries. Administration of medication</heading>
+          <subsection eId="17a_468b__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>For the purposes of this section, “residence for adult persons with acquired brain injuries” means a community-based residence</p>
+            </content>
+            <paragraph eId="17a_468b__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>exclusively serving adult persons with acquired brain injuries,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_468b__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>funded or operated by the Department of Mental Health and Addiction Services, and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_468b__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>that provides rehabilitation and other support services for persons with acquired brain injuries requiring assistance to live in the community.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17a_468b__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Notwithstanding the provisions of chapters 368v and 368z, community-based organizations may operate residences for adult persons with acquired brain injuries. Notwithstanding the provisions of chapter 378, medication may be administered to persons residing in such residences by trained persons pursuant to the written order of a physician licensed under chapter 370, a dentist licensed under chapter 379, an advanced practice registered nurse licensed to prescribe in accordance with section20-94a, or a physician assistant licensed to prescribe in accordance with section20-12d. The Commissioner of Public Health, in consultation with the Commissioner of Mental Health and Addiction Services, shall develop standards for the operation of such residences and the training required of persons authorized under this section to administer medications in such residences.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

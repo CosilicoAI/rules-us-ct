@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-101"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-101"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17b-101"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-101/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-101/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-101/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-101/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319s">
+        <num>319s</num>
+        <heading>Connecticut Partnership for Long-Term Care</heading>
+        <section eId="sec_17b_101">
+          <num>17b-101</num>
+          <heading>(Formerly Sec. 17-83m). State's right of subrogation to right of applicant or recipient of assistance re transfer of property. Civil action by commissioner</heading>
+          <content>
+            <p>Sec. 17b-101. (Formerly Sec. 17-83m). State's right of subrogation to right of applicant or recipient of assistance re transfer of property. Civil action by commissioner.In the event that any person applying for or receiving public assistance or state-administered general assistance has any right to rescind, revoke, avoid or otherwise set aside any assignment, transfer or other disposition of property, the state shall be subrogated to such right. The Commissioner of Social Services may bring such civil actions and pursue such other remedies as would have been available to such recipient to enforce such right, for the purposes described in section17b-100, whether or not such disposition constituted a fraudulent conveyance within the meaning of said section17b-100.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

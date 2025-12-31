@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-166"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-166"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-166"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-166/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-166/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-166/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-166/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_204">
+        <num>204</num>
+        <heading>Local Levy and Collection of Taxes</heading>
+        <section eId="sec_12_166">
+          <num>12-166</num>
+          <heading>Powers and duties of collector</heading>
+          <content>
+            <p>Sec. 12-166. Powers and duties of collector.Unless the context otherwise requires, “tax”, wherever used in this section, includes each property tax and each installment and part thereof due to a municipality, as such tax may have been increased by interest, penalties, fees and charges, including collection fees of a collection agency and attorneys' fees, provided such attorneys' fees shall be limited to those ordered by the court in any court action or proceeding brought by the municipality to recover such tax. Each collector of taxes of each municipality may collect any tax at any time by authority of any present or future legislation providing for the collection of any tax and said collector may photostat the receipted bills of such collected taxes. Each collector of taxes of each municipality shall, within a reasonable period after each unpaid tax, or the first installment thereof in case installment payments have been authorized, has become due and payable, exclusive of each lawful abatement, exclusive of each lawful deduction because of a correction which has been made under the provisions of any legislation providing for corrections of taxes, exclusive of each uncollectible tax which has been lawfully transferred to the suspense tax book under the provisions of section12-165, exclusive of each uncollectible tax removed under the provisions of section12-164and exclusive of each uncollectible tax removed from the rate bills under the provisions of section12-195, proceed to collect such tax as it has been increased by interest, penalties, fees and charges and shall, when collection has been made, pay the same, together with all interest, penalties, fees and charges, to the treasurer of the municipality served by him.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

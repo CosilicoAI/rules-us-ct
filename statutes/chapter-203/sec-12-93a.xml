@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-93a"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-93a"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-93a"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-93a/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-93a/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-93a/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-93a/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_203">
+        <num>203</num>
+        <heading>Property Tax Assessment</heading>
+        <section eId="sec_12_93a">
+          <num>12-93a</num>
+          <heading>Allowance of veterans' property tax exemptions in relation to a residential dwelling on leased land and certain vehicles</heading>
+          <subsection eId="12_93a__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Any person entitled to an exemption from property tax in accordance with any provision of subdivisions</p>
+            </content>
+            <paragraph eId="12_93a__subsec_a__subsec_19">
+              <num>(19)</num>
+              <content>
+                <p>to</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_93a__subsec_a__subsec_26">
+              <num>(26)</num>
+              <content>
+                <p>, inclusive, of section12-81who is the owner of a residential dwelling on leased land, including any such person who is a sublessee under terms of the lease, shall be entitled to claim such exemption in respect to the assessment of the dwelling for purposes of the property tax, provided</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_93a__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>the dwelling is such person's principal place of residence,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_93a__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>such lease or sublease requires that such person as the lessee or sublessee, whichever is applicable, pay all property taxes related to the dwelling and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_93a__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>such lease or sublease is recorded in the land records of the town.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_93a__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Any person entitled to an exemption from property tax in accordance with the provisions of subdivisions</p>
+            </content>
+            <paragraph eId="12_93a__subsec_b__subsec_19">
+              <num>(19)</num>
+              <content>
+                <p>to</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_93a__subsec_b__subsec_26">
+              <num>(26)</num>
+              <content>
+                <p>, inclusive, of section12-81shall be entitled to claim such exemption with respect to the assessment of a motor vehicle that is leased by such person. Notwithstanding the provisions of this chapter, any person claiming the exemption under this section for a leased motor vehicle shall be entitled to a refund of tax paid with respect to such vehicle whether such tax was paid by the lessee or by the lessor pursuant to the terms of the lease. Such refund shall equal the amount of such person's exemption multiplied by the applicable mill rate. Any such person claiming the exemption for a leased vehicle under this subdivision for any assessment year shall, not later than the thirty-first day of December next following the assessment year during which the tax for such leased vehicle has been paid, file with the assessor or board of assessors, in the town in which such motor vehicle tax has been paid, written application claiming such exemption on a form approved for such purpose by such assessor or board. Upon approving such person's exemption claim, the assessor shall certify the amount of refund to which the applicant is entitled and shall notify the tax collector of such amount. The tax collector shall refer such certification to the board of selectmen in a town or to the corresponding authority in any other municipality. Upon receipt of such certification, the selectmen or such other authority shall draw an order on the Treasurer in favor of such person for the amount of refund so certified. Failure to file such application as prescribed in this subsection with respect to any assessment year shall constitute a waiver of the right to such exemption for such assessment year.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

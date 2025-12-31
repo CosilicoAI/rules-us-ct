@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-288"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-288"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-288"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-288/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-288/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-288/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-288/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_214">
+        <num>214</num>
+        <heading>Business Tax Credits</heading>
+        <section eId="sec_12_288">
+          <num>12-288</num>
+          <heading>Distributor's license</heading>
+          <content>
+            <p>Sec. 12-288. Distributor's license.Each person engaging in, or intending to engage in, the business of selling cigarettes in this state as a distributor shall secure a license from the Commissioner of Revenue Services before engaging or continuing to engage in such business. Subject to the provisions of section12-286, such license shall be renewable annually. The annual fee for a distributor's license shall be one thousand two hundred fifty dollars, provided in the case of a distributor who sells cigarettes as a distributor exclusively to retail stores which such distributor is operating, the fee for such distributor's license shall be: (1) Three hundred fifteen dollars annually if such distributor operates or franchises less than fifteen such retail stores; (2) six hundred twenty-five dollars annually if such distributor operates or franchises fifteen or more but less than twenty-five such retail stores; and (3) one thousand two hundred fifty dollars annually if such distributor operates or franchises twenty-five or more such retail stores. Such license shall be valid for a period beginning with the date of license to the thirtieth day of September next succeeding the date of license unless sooner revoked by the commissioner as provided in section12-295or unless the person to whom such license was issued discontinues business, in either of which cases the holder of the license shall immediately return it to the Commissioner of Revenue Services.
+See Sec. 12-291a re penalty for failure to secure or renew license.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-486a"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-486a"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-486a"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-486a/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-486a/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-486a/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-486a/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_222">
+        <num>222</num>
+        <heading>Unrelated Business Income Tax</heading>
+        <section eId="sec_12_486a">
+          <num>12-486a</num>
+          <heading>Deficiency assessments by commissioner</heading>
+          <subsection eId="12_486a__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>If the Commissioner of Revenue Services is not satisfied with any report or return of a motor carrier subject to the tax imposed by this chapter or the amount of such tax to be paid by any such motor carrier, the commissioner may compute and assess the amount of such tax on the basis of facts contained in such report or return or on the basis of any other information available to the commissioner. One or more deficiency assessments may be made with respect to any return for the tax imposed by this chapter.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_486a__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The amount of such deficiency assessment, exclusive of penalties, shall bear interest at the rate of one per cent per month or fraction thereof from the last day of the month succeeding the quarterly period for which the amount or any portion thereof should have been returned until the date of payment.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_486a__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>When it appears that any part of the deficiency for which a deficiency assessment is made is due to negligence or intentional disregard of the provisions of this chapter or regulations promulgated thereunder, there shall be imposed a penalty equal to ten per cent of the amount of such deficiency assessment, or fifty dollars, whichever is greater. When it appears that any part of the deficiency for which a deficiency assessment is made is due to fraud or intent to evade the provisions of this chapter or regulations promulgated thereunder, there shall be imposed a penalty of twenty-five per cent of the amount of such deficiency assessment. No taxpayer shall be subject to more than one penalty under this subsection in relation to the same tax period.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_486a__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>The Commissioner of Revenue Services shall give written notice to any motor carrier of any such deficiency assessment. If such notice is served by mail, it shall be addressed to such motor carrier at the address appearing in the records of the Department of Revenue Services. Except in the case of fraud, intent to evade the provisions of this chapter or failure to submit a return, such notice of a deficiency assessment shall be mailed within three years after the last day of the month following the quarterly period for which the amount is assessed or within three years after the return for such period is filed, whichever is later.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_486a__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>If, prior to the expiration of the time prescribed in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_486a__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>of this section for the mailing of notice of a deficiency assessment, the taxpayer has consented in writing to the mailing of notice after such time, the notice may be mailed at any time prior to the expiration of the period agreed upon for such mailing. The period so agreed upon may be extended by subsequent agreements in writing made before the expiration of such period.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

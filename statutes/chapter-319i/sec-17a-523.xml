@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-523"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-523"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17a-523"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-523/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-523/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-523/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-523/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319i">
+        <num>319i</num>
+        <heading>Connecticut HUSKY Plan</heading>
+        <section eId="sec_17a_523">
+          <num>17a-523</num>
+          <heading>(Formerly Sec. 17-200). Commission to inquire whether person is wrongly confined</heading>
+          <content>
+            <p>Sec. 17a-523. (Formerly Sec. 17-200). Commission to inquire whether person is wrongly confined.Any judge of the Superior Court, on information to him that any person is unjustly deprived of his liberty by being detained or confined in any hospital for psychiatric disabilities, or in any place for the detention or confinement of persons with psychiatric disabilities, or in custody and control of any individual under an order of a court of probate, may appoint a commission of not fewer than two persons, who, at a time and place appointed by them, shall hear any evidence offered regarding the case. Such commission need not summon the party claimed to be unjustly confined before it, but shall have one or more private interviews with him and shall also make inquiries of the physicians and other persons having charge of such place of detention or confinement, and within a reasonable time thereafter report to such judge the facts and its opinion thereon. If, in its opinion, such person is not legally detained or confined in such place, or is cured, or his confinement is no longer beneficial or advisable, such judge shall order his discharge; but no commission shall be appointed with reference to the same person more often than once in six months. The judge before whom any of the proceedings provided for in this section are had may tax reasonable costs at his discretion.
+See Sec. 17a-510 re procedure for release or transfer of patient in hospital for the mentally ill.
+See Sec. 46b-1 re wrongful confinement considered as family relations matter.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

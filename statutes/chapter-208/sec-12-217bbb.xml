@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-217bbb"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-217bbb"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-217bbb"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-217bbb/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-217bbb/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-217bbb/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-217bbb/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_208">
+        <num>208</num>
+        <heading>Estate Taxes</heading>
+        <section eId="sec_12_217bbb">
+          <num>12-217bbb</num>
+          <heading>Accumulated research and experimental expenditures tax credits and accumulated research and development tax credits. Innovation investment fund tax credit auction</heading>
+          <subsection eId="12_217bbb__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>As used in this section,</p>
+            </content>
+            <paragraph eId="12_217bbb__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>“accumulated credits” means credits allowed under sections12-217jand12-217nthat have not been taken through the last income year completed prior to the date of an auction under this section,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_217bbb__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>“commissioner” means the Commissioner of Economic and Community Development, and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_217bbb__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>“chief executive officer” means the chief executive officer of Connecticut Innovations, Incorporated.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_217bbb__subsec_b">
+            <num>(b)</num>
+            <paragraph eId="12_217bbb__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>The commissioner, in consultation with the Commissioner of Revenue Services and the chief executive officer, shall hold an innovation investment fund tax credit auction, at such time and as frequently as the commissioner deems appropriate and effective, to allow taxpayers with accumulated credits to utilize such credits in exchange for making an investment as provided under subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_217bbb__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of this section.</p>
+            </content>
+            <paragraph eId="12_217bbb__subsec_c__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>For each tax credit auction, the commissioner shall specify, in consultation with the chief executive officer, the deadline for submitting a bid, the minimum number of cents for each dollar of accumulated credit that may be bid and the information required to be included with such bid. Each bidder shall submit a sealed bid and the commissioner shall select, in consultation with the chief executive officer, the winning bid or bids based upon the amounts of accumulated credits the bidder proposes to exchange, the amounts the bidder proposes to invest for such exchange and any other criteria the commissioner and the chief executive officer deem appropriate to evaluate the bids.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_217bbb__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The commissioner shall invest the amounts received from the winning bidder or bidders in the winning bidder's corporate venture fund, subject to the following requirements:</p>
+            </content>
+            <paragraph eId="12_217bbb__subsec_c__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>All investments shall be made under the advisement of a representative of Connecticut Innovations, Incorporated, who is a member of the corporate venture fund's investment committee;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_217bbb__subsec_c__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>The amount invested in a corporate venture fund pursuant to this subsection shall be not less than five million dollars and not more than ten million dollars;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_217bbb__subsec_c__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>All such amounts invested shall be invested in (A) start-up businesses located in the state, or (B) spin-off companies located in the state from the bidder's research and development department;</p>
+              </content>
+              <subparagraph eId="12_217bbb__subsec_c__subsec_3__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>start-up businesses located in the state, or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_217bbb__subsec_c__subsec_3__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>spin-off companies located in the state from the bidder's research and development department;</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_217bbb__subsec_c__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>The portion of profits attributable to such investments shall be divided equally between the state and the bidder and the state's share shall be deposited in the General Fund; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_217bbb__subsec_c__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>The bidder agrees to reinvest the bidder's profits attributable to such investments in the bidder's corporate venture fund.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_217bbb__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>In lieu of holding a tax credit auction under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_217bbb__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section, the commissioner, in consultation with the chief executive officer, may enter into an agreement with a taxpayer with accumulated credits to allow such taxpayer to utilize such credits in exchange for making an investment as provided under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_217bbb__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of this section. The requirements applicable to investments under said subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_217bbb__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>shall apply to investments made pursuant to an agreement under this subsection, except that the number of cents for each dollar of accumulated credit may be negotiated by the commissioner, in consultation with the Commissioner of Revenue Services, and the taxpayer.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_217bbb__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>The commissioner shall continue to hold tax credit auctions pursuant to subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_217bbb__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section or proactively seek agreements under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_217bbb__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>of this section, or both, until a minimum of two deals with different corporate venture funds are reached, provided nothing in this subsection shall be construed to prohibit the commissioner from continuing to hold such auctions or enter into such agreements after two deals have been reached.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_217bbb__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>The total amount of investments made under this section and the accumulated credits used under section12-217aaa, at full value, shall not exceed fifty million dollars in the aggregate.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_217bbb__subsec_g">
+            <num>(g)</num>
+            <paragraph eId="12_217bbb__subsec_g__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>On and after July 1, 2020, the credits allowed to be used pursuant to subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_217bbb__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>or</p>
+            </content>
+          </subsection>
+          <subsection eId="12_217bbb__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>of this section may be claimed against the tax imposed under chapter 219 or, notwithstanding the limits imposed under section12-217zz, this chapter, with respect to the following income years of the taxpayer: (A) With respect to the income year in which the taxpayer made the investment required under this section and the next succeeding income year, zero per cent; and (B) with respect to the second full income year succeeding the year in which the taxpayer made the investment required under this section, an amount and on a schedule for such second full income year and next succeeding income years as agreed to by the commissioner, in consultation with the Commissioner of Revenue Services, and the taxpayer that made the investment.</p>
+            </content>
+            <paragraph eId="12_217bbb__subsec_d__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>Credits allowed to be used pursuant to subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_217bbb__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>or</p>
+            </content>
+          </subsection>
+          <subsection eId="12_217bbb__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>of this section may be sold, assigned or otherwise transferred, in whole or in part.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_217bbb__subsec_h">
+            <num>(h)</num>
+            <content>
+              <p>Tax credit auctions and agreements under this section may be held or entered into for five years after the date the first such auction or agreement is held or entered into, whichever is earlier.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_217bbb__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Any taxpayer with accumulated credits may sell, assign or otherwise transfer such accumulated credits, in whole or in part, to one or more taxpayers for the sole purpose of exchanging such accumulated credits in accordance with the provisions of subsections</p>
+            </content>
+          </subsection>
+          <subsection eId="12_217bbb__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>to</p>
+            </content>
+          </subsection>
+          <subsection eId="12_217bbb__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>, inclusive, of this section. Such accumulated credits may not be sold, assigned or otherwise transferred, in whole or in part, more than once.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

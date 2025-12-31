@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-713"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-713"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17a-713"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-713/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-713/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-713/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-713/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319j">
+        <num>319j</num>
+        <heading>Health Care For Uninsured Children</heading>
+        <section eId="sec_17a_713">
+          <num>17a-713</num>
+          <heading>(Formerly Sec. 19a-4h). Chronic gamblers treatment and rehabilitation program. Account</heading>
+          <subsection eId="17a_713__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The Department of Mental Health and Addiction Services shall establish a program for the treatment and rehabilitation of compulsive gamblers in the state. The program shall provide prevention, treatment and rehabilitation services for chronic gamblers. The department may enter into agreements with regional behavioral health action organizations and nonprofit organizations to assist in providing these services, provided not less than twenty-five per cent of the amount received pursuant to section12-818annually shall be set aside for contracts with regional behavioral health action organizations established pursuant to section17a-484fand nonprofit organizations and not less than five per cent of the amount received pursuant to section12-818annually shall be set aside for a contract with the Connecticut Council on Problem Gambling. The department may impose a reasonable fee, on a sliding scale, on those participants who can afford to pay for any such services. The department shall implement such program when the account established under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_713__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section is sufficient to meet initial operating expenses. As used in this section, “chronic gambler” means a person who is chronically and progressively preoccupied with gambling and the urge to gamble, and with gambling behavior that compromises, disrupts or damages personal, family or vocational pursuits.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_713__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The program established by subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_713__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section shall be funded by:</p>
+            </content>
+            <paragraph eId="17a_713__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>Imposition of a fee of one hundred thirty-five dollars on each association license, for each performance of jai alai conducted under the provisions of chapter 226, provided no such licensee shall contribute more than forty-five thousand dollars in any one year;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_713__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>imposition of a fee of twenty-five dollars for each teletheater performance on each operator of a teletheater facility;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_713__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>the amount received from the Connecticut Lottery Corporation pursuant to section12-818; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_713__subsec_a__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>any amount received pursuant to section12-871from the holder of a master wagering license under section12-852. The Commissioner of Consumer Protection shall collect the fee from each association licensee or such operator on a monthly basis. The receipts shall be deposited in the General Fund and credited to a separate, nonlapsing chronic gamblers treatment and rehabilitation account which shall be established by the Comptroller. All moneys in the account are deemed to be appropriated and shall be expended for the purposes established in subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17a_713__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_713__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The department shall adopt regulations in accordance with the provisions of chapter 54 to carry out the purposes of this section.
+See Sec. 12-563a re informational materials concerning programs for prevention, treatment and rehabilitation of chronic gamblers prepared by Department of Consumer Protection.
+See Sec. 12-818 re transfer of funds from Connecticut Lottery Corporation for educational, prevention and treatment programs.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

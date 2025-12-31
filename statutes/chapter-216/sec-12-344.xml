@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-344"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-344"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-344"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-344/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-344/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-344/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-344/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_216">
+        <num>216</num>
+        <heading>Sales and Use Taxes</heading>
+        <section eId="sec_12_344">
+          <num>12-344</num>
+          <heading>Rates</heading>
+          <subsection eId="12_344__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The tax imposed under the provisions of this chapter shall be at the following rates: Class AA, subject to the provisions of subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_344__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section with respect to the net taxable estate passing to the surviving spouse of any transferor whose death occurs on or after July 1, 1986, the net taxable estate of any transferor passing to any husband or wife, in excess of three hundred thousand dollars in value to and including four hundred thousand dollars, five per cent thereof; on the amount in excess of four hundred thousand dollars to and including six hundred thousand dollars, six per cent thereof; on the amount in excess of six hundred thousand dollars to and including one million dollars, seven per cent thereof; and on the amount in excess of one million dollars, eight per cent thereof: Class A, subject to the provisions of subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_344__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of this section with respect to the net taxable estate passing to any such class A beneficiary of any transferor whose death occurs on or after January 1, 1997, the net taxable estate of any transferor passing to any parent, grandparent, adoptive parent and any natural or adopted descendant, in excess of fifty thousand dollars in value to and including one hundred fifty thousand dollars, shall be three per cent thereof; on the amount in excess of one hundred fifty thousand dollars to and including two hundred fifty thousand dollars, four per cent thereof; on the amount in excess of two hundred fifty thousand dollars to and including four hundred thousand dollars, five per cent thereof; on the amount in excess of four hundred thousand dollars to and including six hundred thousand dollars, six per cent thereof; on the amount in excess of six hundred thousand dollars to and including one million dollars, seven per cent thereof; and on the amount in excess of one million dollars, eight per cent thereof: Class B, subject to the provisions of subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_344__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>of this section with respect to the net taxable estate passing to any such class B beneficiary of any transferor whose death occurs on or after January 1, 1999, the net taxable estate of any transferor passing to the husband or wife or widower or widow who has not remarried of any natural or adopted child of such transferor, to any stepchild, brother or sister of the full or half blood or adopted brother or sister and to any natural or adopted descendant of such brother or sister, in excess of six thousand dollars shall be subject to a tax of four per cent to and including twenty-five thousand dollars; the tax on the amount passing to relatives of this class in excess of twenty-five thousand dollars to and including one hundred fifty thousand dollars shall be five per cent thereof; on the amount in excess of one hundred fifty thousand dollars to and including two hundred fifty thousand dollars, six per cent thereof; on the amount in excess of two hundred fifty thousand dollars to and including four hundred thousand dollars, seven per cent thereof; on the amount in excess of four hundred thousand dollars to and including six hundred thousand dollars, eight per cent thereof; on the amount in excess of six hundred thousand dollars to and including one million dollars, nine per cent thereof; and on the amount in excess of one million dollars, ten per cent thereof: Class C, subject to the provisions of subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_344__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>of this section with respect to the net taxable estate passing to any such class C beneficiary of a transferor whose death occurs on or after January 1, 2001, the net taxable estate of any transferor passing to any person, corporation or association, not included in either Class AA, Class A or Class B, in excess of one thousand dollars, and not otherwise exempt, shall be subject to a tax of eight per cent to and including twenty-five thousand dollars; the tax on the amount passing to beneficiaries in this class, in excess of twenty-five thousand dollars to and including one hundred fifty thousand dollars, shall be nine per cent thereof; on the amount in excess of one hundred fifty thousand dollars to and including two hundred fifty thousand dollars, ten per cent thereof; on the amount in excess of two hundred fifty thousand dollars to and including four hundred thousand dollars, eleven per cent thereof; on the amount in excess of four hundred thousand dollars to and including six hundred thousand dollars, twelve per cent thereof; on the amount in excess of six hundred thousand dollars to and including one million dollars, thirteen per cent thereof; and on the amount in excess of one million dollars, fourteen per cent thereof. Only one exemption as provided in this section for each class shall apply to the net estate passing to all beneficiaries or distributees in such class. The value of all taxable transfers to a beneficiary or distributee shall be aggregated for the purpose of computing the tax and exemptions.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_344__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The tax under this section applicable to the net taxable estate of any transferor passing to the surviving spouse of such transferor shall, with respect to the estate of any transferor whose death occurs on or after July 1, 1986, be imposed as follows:</p>
+            </content>
+            <paragraph eId="12_344__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>If the death of the transferor occurs on or after July 1, 1986, but prior to July 1, 1987, the net taxable estate passing to the surviving spouse of such transferor shall be subject to tax at the rate of (A) three per cent on the amount in excess of three hundred thousand dollars in value to and including four hundred thousand dollars, (B) four per cent on the amount in excess of four hundred thousand dollars in value to and including six hundred thousand dollars, (C) five per cent on the amount in excess of six hundred thousand dollars in value to and including one million dollars and (D) six per cent on the amount in excess of one million dollars in value,</p>
+              </content>
+              <subparagraph eId="12_344__subsec_b__subsec_1__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>three per cent on the amount in excess of three hundred thousand dollars in value to and including four hundred thousand dollars,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_344__subsec_b__subsec_1__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>four per cent on the amount in excess of four hundred thousand dollars in value to and including six hundred thousand dollars,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_344__subsec_b__subsec_1__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>five per cent on the amount in excess of six hundred thousand dollars in value to and including one million dollars and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_344__subsec_b__subsec_1__subsec_D">
+                <num>(D)</num>
+                <content>
+                  <p>six per cent on the amount in excess of one million dollars in value,</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_344__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>if the death of the transferor occurs on or after July 1, 1987, but prior to July 1, 1988, the net taxable estate passing to the surviving spouse of such transferor shall be subject to tax at the rate of (A) one and one-half per cent on the amount in excess of three hundred thousand dollars in value to and including four hundred thousand dollars, (B) two per cent on the amount in excess of four hundred thousand dollars in value to and including six hundred thousand dollars, (C) two and one-half per cent on the amount in excess of six hundred thousand dollars in value to and including one million dollars and (D) three per cent on the amount in excess of one million dollars in value, and</p>
+              </content>
+              <subparagraph eId="12_344__subsec_b__subsec_2__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>one and one-half per cent on the amount in excess of three hundred thousand dollars in value to and including four hundred thousand dollars,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_344__subsec_b__subsec_2__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>two per cent on the amount in excess of four hundred thousand dollars in value to and including six hundred thousand dollars,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_344__subsec_b__subsec_2__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>two and one-half per cent on the amount in excess of six hundred thousand dollars in value to and including one million dollars and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_344__subsec_b__subsec_2__subsec_D">
+                <num>(D)</num>
+                <content>
+                  <p>three per cent on the amount in excess of one million dollars in value, and</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_344__subsec_b__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>if the death of the transferor occurs on or after July 1, 1988, the net taxable estate passing to the surviving spouse of such transferor shall not be subject to tax under this chapter.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_344__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The tax under this section, applicable to the net taxable estate of any transferor, whose death occurs on or after January 1, 1997, passing to a class A beneficiary shall be imposed as follows:</p>
+            </content>
+            <paragraph eId="12_344__subsec_c__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>If the death of the transferor occurs on or after January 1, 1997, but prior to January 1, 1998, at the rate of (A) five per cent on the amount in excess of two hundred fifty thousand dollars in value to and including four hundred thousand dollars, (B) six per cent on the amount in excess of four hundred thousand dollars in value to and including six hundred thousand dollars, (C) seven per cent on the amount in excess of six hundred thousand dollars in value to and including one million dollars and (D) eight per cent on the amount in excess of one million dollars in value,</p>
+              </content>
+              <subparagraph eId="12_344__subsec_c__subsec_1__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>five per cent on the amount in excess of two hundred fifty thousand dollars in value to and including four hundred thousand dollars,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_344__subsec_c__subsec_1__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>six per cent on the amount in excess of four hundred thousand dollars in value to and including six hundred thousand dollars,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_344__subsec_c__subsec_1__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>seven per cent on the amount in excess of six hundred thousand dollars in value to and including one million dollars and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_344__subsec_c__subsec_1__subsec_D">
+                <num>(D)</num>
+                <content>
+                  <p>eight per cent on the amount in excess of one million dollars in value,</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_344__subsec_c__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>if the death of the transferor occurs on or after January 1, 1998, but prior to January 1, 1999, at the rate of (A) six per cent on the amount in excess of five hundred thousand dollars in value to and including six hundred thousand dollars, (B) seven per cent on the amount in excess of six hundred thousand dollars in value to and including one million dollars and (C) eight per cent on the amount in excess of one million dollars in value,</p>
+              </content>
+              <subparagraph eId="12_344__subsec_c__subsec_2__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>six per cent on the amount in excess of five hundred thousand dollars in value to and including six hundred thousand dollars,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_344__subsec_c__subsec_2__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>seven per cent on the amount in excess of six hundred thousand dollars in value to and including one million dollars and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_344__subsec_c__subsec_2__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>eight per cent on the amount in excess of one million dollars in value,</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_344__subsec_c__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>if the death of the transferor occurs on or after January 1, 1999, but prior to January 1, 2000, at the rate of (A) seven per cent on the amount in excess of eight hundred thousand dollars in value to and including one million dollars and (B) eight per cent on the amount in excess of one million dollars in value,</p>
+              </content>
+              <subparagraph eId="12_344__subsec_c__subsec_3__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>seven per cent on the amount in excess of eight hundred thousand dollars in value to and including one million dollars and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_344__subsec_c__subsec_3__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>eight per cent on the amount in excess of one million dollars in value,</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_344__subsec_c__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>if the death of the transferor occurs on or after January 1, 2000, but prior to January 1, 2001, at the rate of eight per cent on the amount in excess of two million dollars in value and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_344__subsec_c__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>if the death of the transferor occurs on or after January 1, 2001, the net taxable estate passing to a class A beneficiary shall not be subject to tax under this chapter.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_344__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>The tax under this section applicable to the net taxable estate of any transferor, whose death occurs on or after January 1, 1999, passing to a class B beneficiary shall be imposed as follows:</p>
+            </content>
+            <paragraph eId="12_344__subsec_d__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>If the death of the transferor occurs on or after January 1, 1999, but prior to January 1, 2000, at the rate of (A) six per cent on the amount in excess of two hundred thousand dollars in value to and including two hundred fifty thousand dollars, (B) seven per cent on the amount in excess of two hundred fifty thousand dollars in value to and including four hundred thousand dollars, (C) eight per cent on the amount in excess of four hundred thousand dollars in value to and including six hundred thousand dollars, (D) nine per cent on the amount in excess of six hundred thousand dollars in value to and including one million dollars, and (E) ten per cent on the amount in excess of one million dollars in value,</p>
+              </content>
+              <subparagraph eId="12_344__subsec_d__subsec_1__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>six per cent on the amount in excess of two hundred thousand dollars in value to and including two hundred fifty thousand dollars,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_344__subsec_d__subsec_1__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>seven per cent on the amount in excess of two hundred fifty thousand dollars in value to and including four hundred thousand dollars,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_344__subsec_d__subsec_1__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>eight per cent on the amount in excess of four hundred thousand dollars in value to and including six hundred thousand dollars,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_344__subsec_d__subsec_1__subsec_D">
+                <num>(D)</num>
+                <content>
+                  <p>nine per cent on the amount in excess of six hundred thousand dollars in value to and including one million dollars, and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_344__subsec_d__subsec_1__subsec_E">
+                <num>(E)</num>
+                <content>
+                  <p>ten per cent on the amount in excess of one million dollars in value,</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_344__subsec_d__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>if the death of the transferor occurs on or after January 1, 2000, but prior to January 1, 2001, at the rate of (A) eight per cent on the amount in excess of four hundred thousand dollars in value to and including six hundred thousand dollars, (B) nine per cent on the amount in excess of six hundred thousand dollars in value to and including one million dollars, and (C) ten per cent on the amount in excess of one million dollars in value,</p>
+              </content>
+              <subparagraph eId="12_344__subsec_d__subsec_2__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>eight per cent on the amount in excess of four hundred thousand dollars in value to and including six hundred thousand dollars,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_344__subsec_d__subsec_2__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>nine per cent on the amount in excess of six hundred thousand dollars in value to and including one million dollars, and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_344__subsec_d__subsec_2__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>ten per cent on the amount in excess of one million dollars in value,</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_344__subsec_d__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>if the death of the transferor occurs on or after January 1, 2001, but prior to January 1, 2005, at the rate of (A) nine per cent on the amount in excess of six hundred thousand dollars in value to and including one million dollars, and (B) ten per cent on the amount in excess of one million dollars in value,</p>
+              </content>
+              <subparagraph eId="12_344__subsec_d__subsec_3__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>nine per cent on the amount in excess of six hundred thousand dollars in value to and including one million dollars, and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_344__subsec_d__subsec_3__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>ten per cent on the amount in excess of one million dollars in value,</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_344__subsec_d__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>if the death of the transferor occurs on or after January 1, 2005, the net taxable estate passing to a class B beneficiary shall not be subject to tax under this chapter.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_344__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>The tax under this section applicable to the net taxable estate of any transferor, whose death occurs on or after January 1, 2001, passing to a class C beneficiary shall be imposed as follows:</p>
+            </content>
+            <paragraph eId="12_344__subsec_e__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>If the death of the transferor occurs on or after January 1, 2001, but prior to January 1, 2005, at the rate of (A) ten per cent on the amount in excess of two hundred thousand dollars in value to and including two hundred fifty thousand dollars, (B) eleven per cent on the amount in excess of two hundred fifty thousand dollars in value to and including four hundred thousand dollars, (C) twelve per cent on the amount in excess of four hundred thousand dollars in value to and including six hundred thousand dollars, (D) thirteen per cent on the amount in excess of six hundred thousand dollars in value to and including one million dollars, and (E) fourteen per cent on the amount in excess of one million dollars in value,</p>
+              </content>
+              <subparagraph eId="12_344__subsec_e__subsec_1__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>ten per cent on the amount in excess of two hundred thousand dollars in value to and including two hundred fifty thousand dollars,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_344__subsec_e__subsec_1__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>eleven per cent on the amount in excess of two hundred fifty thousand dollars in value to and including four hundred thousand dollars,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_344__subsec_e__subsec_1__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>twelve per cent on the amount in excess of four hundred thousand dollars in value to and including six hundred thousand dollars,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_344__subsec_e__subsec_1__subsec_D">
+                <num>(D)</num>
+                <content>
+                  <p>thirteen per cent on the amount in excess of six hundred thousand dollars in value to and including one million dollars, and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_344__subsec_e__subsec_1__subsec_E">
+                <num>(E)</num>
+                <content>
+                  <p>fourteen per cent on the amount in excess of one million dollars in value,</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_344__subsec_e__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>if the death of the transferor occurs on or after January 1, 2005, the net taxable estate passing to a class C beneficiary shall not be subject to tax under this chapter.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

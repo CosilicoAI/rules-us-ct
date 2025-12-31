@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-599"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-599"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17a-599"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-599/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-599/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-599/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-599/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319i">
+        <num>319i</num>
+        <heading>Connecticut HUSKY Plan</heading>
+        <section eId="sec_17a_599">
+          <num>17a-599</num>
+          <heading>(Formerly Sec. 17-257t). Confinement under conditions of maximum security. Transfer for medical treatment. Risk management review committee. Requests to transfer from maximum security division to lower security division</heading>
+          <subsection eId="17a_599__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>At any time the court or the board determines that the acquittee is a person who should be confined, it shall make a further determination of whether the acquittee is so violent as to require confinement under conditions of maximum security. Any acquittee found so violent as to require confinement under conditions of maximum security shall not be confined in any hospital for psychiatric disabilities or placed with the Commissioner of Developmental Services unless such hospital or said commissioner has the trained and equipped staff, facilities or security to accommodate such acquittee.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_599__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The Commissioner of Mental Health and Addiction Services may transfer any acquittee who requires</p>
+            </content>
+            <paragraph eId="17a_599__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>confinement under conditions of maximum security pursuant to subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17a_599__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section, and</p>
+            </content>
+            <paragraph eId="17a_599__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>medical treatment that is unavailable in the maximum security environment or would constitute a safety hazard to the acquittee or others due to the use of certain medical equipment or material, to a facility that can provide such medical treatment, provided (A) the commissioner ensures that the conditions of custody of the acquittee at such facility are and remain equivalent to conditions of maximum security, (B) the commissioner consults with a licensed health care provider who has evaluated the acquittee regarding such transfer and the licensed health care provider approves of such transfer, and (C) transfer of the acquittee back to the maximum security setting occurs upon completion of the medical treatment. The commissioner shall provide the board with notice of such transfer at the most reasonable time determined by the superintendent, but not later than forty-eight hours after such transfer.</p>
+              </content>
+              <subparagraph eId="17a_599__subsec_a__subsec_2__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>the commissioner ensures that the conditions of custody of the acquittee at such facility are and remain equivalent to conditions of maximum security,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17a_599__subsec_a__subsec_2__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>the commissioner consults with a licensed health care provider who has evaluated the acquittee regarding such transfer and the licensed health care provider approves of such transfer, and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17a_599__subsec_a__subsec_2__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>transfer of the acquittee back to the maximum security setting occurs upon completion of the medical treatment. The commissioner shall provide the board with notice of such transfer at the most reasonable time determined by the superintendent, but not later than forty-eight hours after such transfer.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="17a_599__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Each hospital for psychiatric disabilities treating acquittees under secure conditions shall establish a risk management review committee comprised of licensed clinical professionals and administrators of the hospital to review requests to transfer an acquittee from a maximum security division of the hospital to a lower security division of the hospital for the reason described in this subsection. If at any time after the confinement of an acquittee in a hospital for psychiatric disabilities under conditions of maximum security, the superintendent of such hospital is of the opinion, after consultation with the hospital's risk management review committee, that the acquittee's psychiatric supervision and treatment would be safely advanced by permitting the acquittee to transfer to a lower security division of the hospital, the superintendent may effectuate the transfer. The superintendent shall provide the board with at least forty-eight hours advance notice of the transfer. The board shall notify each victim, as defined in section17a-601, of the acquittee regarding the transfer.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

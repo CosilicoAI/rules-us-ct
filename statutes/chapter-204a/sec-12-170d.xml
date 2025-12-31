@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-170d"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-170d"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-170d"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-170d/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-170d/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-170d/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-170d/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_204a">
+        <num>204a</num>
+        <heading>Property Tax Relief for Elderly Homeowners and Renters and Persons with Permanent Total Disability</heading>
+        <section eId="sec_12_170d">
+          <num>12-170d</num>
+          <heading>Partial state refund of rent and utility bills paid by certain renters age sixty-five or over or renters under age sixty-five with permanent total disability. Eligibility limitations</heading>
+          <subsection eId="12_170d__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Beginning with the calendar year 1973 and for each calendar year thereafter any renter of real property, or of a mobile manufactured home, as defined in section12-63a, which such renter occupies as his or her home, who meets the qualifications set forth in this section, shall be entitled to receive in the following year in the form of direct payment from the state, a grant in refund of utility and rent bills actually paid by or for such renter on such real property or mobile manufactured home to the extent set forth in section12-170e. Such grant by the state shall be made upon receipt by the state of a certificate of grant with a copy of the application therefor attached, as provided in section12-170f. If the rental quarters are occupied by more than one person, it shall be assumed for the purposes of this section and sections12-170eand12-170fthat each of such persons pays his or her proportionate share of the rental and utility expenses levied thereon and grants shall be calculated on that portion of utility and rent bills paid that are applicable to the person making application for grant under said sections. For purposes of this section and sections12-170eand12-170f, a married couple shall constitute one tenant, and a resident of cooperative housing shall be a renter. To qualify for such payment by the state, the renter shall meet qualification requirements in accordance with each of the following subdivisions:</p>
+            </content>
+            <paragraph eId="12_170d__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>(A) At the close of the calendar year for which a grant is claimed be sixty-five years of age or over, or his or her spouse who is residing with such renter shall be sixty-five years of age or over, at the close of such year, or be fifty years of age or over and the surviving spouse of a renter who at the time of his or her death had qualified and was entitled to tax relief under this chapter, provided such spouse was domiciled with such renter at the time of his or her death, or (B) at the close of the calendar year for which a grant is claimed be under age sixty-five and eligible in accordance with applicable federal regulations, to receive permanent total disability benefits under Social Security, or if such renter has not been engaged in employment covered by Social Security and accordingly has not qualified for Social Security benefits but has become qualified for permanent total disability benefits under any federal, state or local government retirement or disability plan, including the Railroad Retirement Act and any government-related teacher's retirement plan, determined by the Secretary of the Office of Policy and Management to contain requirements in respect to qualification for such permanent total disability benefits which are comparable to such requirements under Social Security;</p>
+              </content>
+              <subparagraph eId="12_170d__subsec_a__subsec_1__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>At the close of the calendar year for which a grant is claimed be sixty-five years of age or over, or his or her spouse who is residing with such renter shall be sixty-five years of age or over, at the close of such year, or be fifty years of age or over and the surviving spouse of a renter who at the time of his or her death had qualified and was entitled to tax relief under this chapter, provided such spouse was domiciled with such renter at the time of his or her death, or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_170d__subsec_a__subsec_1__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>at the close of the calendar year for which a grant is claimed be under age sixty-five and eligible in accordance with applicable federal regulations, to receive permanent total disability benefits under Social Security, or if such renter has not been engaged in employment covered by Social Security and accordingly has not qualified for Social Security benefits but has become qualified for permanent total disability benefits under any federal, state or local government retirement or disability plan, including the Railroad Retirement Act and any government-related teacher's retirement plan, determined by the Secretary of the Office of Policy and Management to contain requirements in respect to qualification for such permanent total disability benefits which are comparable to such requirements under Social Security;</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_170d__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>shall reside within this state and shall have resided within this state for at least one year or such renter's spouse who is domiciled with such renter shall have resided within this state for at least one year and shall reside within this state at the time of filing the claim and shall have resided within this state for the period for which claim is made;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_170d__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>shall have taxable and nontaxable income, the total of which shall hereinafter be called “qualifying income”, during the calendar year preceding the filing of such renter's claim in an amount of not more than twenty thousand dollars, jointly with spouse, if married, and not more than sixteen thousand two hundred dollars if unmarried, provided such maximum amounts of qualifying income shall be subject to adjustment in accordance with subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_170d__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_170d__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of section12-170e, and provided the amount of any Medicaid payments made on behalf of the renter or the spouse of the renter shall not constitute income; and</p>
+            </content>
+            <paragraph eId="12_170d__subsec_a__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>shall not have received financial aid or subsidy from federal, state, county or municipal funds, excluding Social Security receipts, emergency energy assistance under any state program, emergency energy assistance under any federal program, emergency energy assistance under any local program, payments received under the federal Supplemental Security Income Program, payments derived from previous employment, veterans and veterans disability benefits and subsidized housing accommodations, during the calendar year for which a grant is claimed, for payment, directly or indirectly, of rent, electricity, gas, water and fuel applicable to the rented residence. Notwithstanding the provisions of subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_170d__subsec_a__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>of this subsection, a renter who receives cash assistance from the Department of Social Services in the calendar year prior to that in which such renter files an application for a grant may be entitled to receive such grant provided the amount of the cash assistance received shall be deducted from the amount of such grant and the difference between the amount of the cash assistance and the amount of the grant is equal to or greater than ten dollars. Funds attributable to such reductions shall be transferred annually from the appropriation to the Office of Policy and Management, for tax relief for elderly renters, to the Department of Social Services, to the appropriate accounts, following the issuance of such grants. Notwithstanding the provisions of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_170d__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of section12-170aa, the owner of a mobile manufactured home may elect to receive benefits under section12-170ein lieu of benefits under said section12-170aa.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_170d__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>For purposes of determining qualifying income under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_170d__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section with respect to a married renter who submits an application for a grant in accordance with sections12-170dto12-170g, inclusive, the Social Security income of the spouse of such renter shall not be included in the qualifying income of such renter, for purposes of determining eligibility for benefits under said sections, if such spouse is a resident of a health care or nursing home facility in this state receiving payment related to such spouse under the Title XIX Medicaid program. An applicant who is legally separated pursuant to the provisions of section46b-40, as of the thirty-first day of December preceding the date on which such person files an application for a grant in accordance with sections12-170dto12-170g, inclusive, may apply as an unmarried person and shall be regarded as such for purposes of determining qualifying income under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_170d__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section.
+See Sec. 12-120b re uniform administrative procedure for appeals related to state-reimbursed property tax exemptions, credits and rebates.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

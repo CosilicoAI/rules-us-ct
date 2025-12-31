@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-1b"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-1b"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-1b"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-1b/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-1b/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-1b/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-1b/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_201">
+        <num>201</num>
+        <heading>State and Local Revenue Services. Department of Revenue Services</heading>
+        <section eId="sec_12_1b">
+          <num>12-1b</num>
+          <heading>Terms “Tax Commissioner”, “state Tax Commissioner”, “Tax Department”, and “state Tax Department” deemed to mean Commissioner or Department of Revenue Services. Excepted chapters</heading>
+          <subsection eId="12_1b__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Whenever the term “Tax Commissioner” or “state Tax Commissioner” occurs or is referred to in the general statutes, except in chapters 111 and 112, it shall be deemed to mean or refer to the Commissioner of Revenue Services.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_1b__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Whenever the term “Tax Department” or “state Tax Department” occurs or is referred to in the general statutes, except in chapters 111 and 112, it shall be deemed to mean or refer to the Department of Revenue Services.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

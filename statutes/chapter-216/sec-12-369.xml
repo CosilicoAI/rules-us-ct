@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-369"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-369"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-369"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-369/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-369/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-369/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-369/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_216">
+        <num>216</num>
+        <heading>Sales and Use Taxes</heading>
+        <section eId="sec_12_369">
+          <num>12-369</num>
+          <heading>Action for quieting title to property</heading>
+          <content>
+            <p>Sec. 12-369. Action for quieting title to property.Actions may be brought against the state by any interested person for the purpose of quieting the title to any property against the lien or claim for lien of any tax under this chapter or for the purpose of having it determined whether any property is subject to any lien for or chargeable with such tax or for the purpose of foreclosing any lien or mortgage upon such property or for enforcing any rights in such property. No such action, except such foreclosure, shall be maintained if any proceedings are pending in any court in this state wherein the liability of such property for taxation under this chapter may be determined. All parties interested in such property and in the taxability thereof shall be made parties to such an action, and any interested party who refuses to join as plaintiff may be made a defendant. Process directed to the state in such actions shall be served upon the state by leaving a true and attested copy of the writ, summons and complaint with the commissioner or at his office with any of the employees in said office and such service shall be sufficient service upon the state. Actions under this section affecting real property shall be commenced in the appropriate court of the judicial district in which such real property or any part thereof is situated. All other actions hereunder shall be brought in the appropriate court of the judicial district in which the estate of the transferor is being or was administered.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-413"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-413"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-413"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-413/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-413/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-413/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-413/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_219">
+        <num>219</num>
+        <heading>Motor Vehicle Fuels Tax</heading>
+        <section eId="sec_12_413">
+          <num>12-413</num>
+          <heading>Exemptions from use tax</heading>
+          <subsection eId="12_413__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>any property reported to the Surplus Property Board of the United States or any successor thereto, as surplus property by any owning agency; and</p>
+            </content>
+          </subsection>
+          <subsection eId="12_413__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>any property included in any contractor inventory, is exempted from the use tax. “Surplus property”, “owning agency”, and “contractor inventory” as used in this section have the meanings ascribed to them in that act of the Congress of the United States known as the “Surplus Property Act of 1944”.</p>
+            </content>
+            <paragraph eId="12_413__subsec_b__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>Purchase brought into state by resident.The use tax shall not apply to the purchase of any articles of tangible personal property which have been brought into this state on the person of a resident of this state when the purchase price of the same does not exceed twenty-five dollars; provided such purchase shall be for personal use or consumption in this state and not for use or consumption in carrying on a trade, occupation, business or profession.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_413__subsec_b__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>Property donated to governmental entity or tax-exempt organization.The use tax shall not apply to the purchase of any articles of tangible personal property by a retailer for resale, if those articles are subsequently withdrawn from inventory and donated by the retailer to (A) the United States, the state of Connecticut or any of the political subdivisions thereof, or its or their respective agencies, or (B) any organization that is exempt from federal income tax under Section 501</p>
+              </content>
+              <subparagraph eId="12_413__subsec_b__subsec_4__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>the United States, the state of Connecticut or any of the political subdivisions thereof, or its or their respective agencies, or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_413__subsec_b__subsec_4__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>any organization that is exempt from federal income tax under Section 501</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_413__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of the Internal Revenue Code of 1986, or any subsequent corresponding internal revenue code of the United States, as from time to time amended, and that the United States Treasury Department has expressly determined, by letter, to be an organization that is described in Section 501</p>
+            </content>
+          </subsection>
+          <subsection eId="12_413__subsec_c">
+            <num>(c)</num>
+            <paragraph eId="12_413__subsec_c__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>of said internal revenue code.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

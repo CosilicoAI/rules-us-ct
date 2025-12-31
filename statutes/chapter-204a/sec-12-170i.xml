@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-170i"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-170i"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-170i"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-170i/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-170i/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-170i/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-170i/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_204a">
+        <num>204a</num>
+        <heading>Property Tax Relief for Elderly Homeowners and Renters and Persons with Permanent Total Disability</heading>
+        <section eId="sec_12_170i">
+          <num>12-170i</num>
+          <heading>Tax credit or reimbursement for homeowner eligible under this chapter except that the property was part of an unsettled estate when claim was due</heading>
+          <subsection eId="12_170i__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Notwithstanding the provisions of this chapter any person:</p>
+            </content>
+            <paragraph eId="12_170i__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>Who becomes the owner of any real property by reason of bequest or devise of such real property upon the death of a taxpayer who was eligible for tax relief pursuant to sections12-129bto12-129d, inclusive, or this chapter at the time of his death;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_170i__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>who occupies such property as his home;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_170i__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>who occupied such property as his home at the time of the death of such taxpayer; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_170i__subsec_a__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>who would have been eligible for tax relief under this chapter if such person had been the owner of such property for any year for which a tax was imposed after the death of such taxpayer if the estate of the decedent had been settled as of the date of the determination of eligibility for such tax relief, shall be eligible for tax relief pursuant to subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_170i__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_170i__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Any person eligible for tax relief pursuant to this section shall:</p>
+            </content>
+            <paragraph eId="12_170i__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>If the tax has been paid for any year for which the tax was imposed after the death of the preceding taxpayer, be reimbursed by any municipality collecting any such tax in an amount equal to the difference between the amount of tax which would have been paid by such person if such person had been the owner of such property as of the date of the determination of eligibility for tax relief pursuant to this chapter and the amount actually paid; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_170i__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>if such tax has not been paid for any such year, pay a tax equal to the amount which would have been imposed if such person had been the owner of such property as of the date of the determination of eligibility for tax relief pursuant to this chapter.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_170i__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The determination of eligibility of any person for tax reimbursements or credits pursuant to this section shall be made in accordance with the procedures set forth in this chapter, except any person may apply for such relief at any time within one year of the final settlement of the estate of the deceased taxpayer or one year of July 1, 1985, whichever is later.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_170i__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>The state shall reimburse each municipality by the last day of each calendar year in which tax reimbursements were paid or tax credits were granted pursuant to this section to the extent of the total revenue loss represented by such reimbursements or credits.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

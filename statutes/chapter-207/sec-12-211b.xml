@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-211b"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-211b"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-211b"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-211b/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-211b/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-211b/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-211b/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_207">
+        <num>207</num>
+        <heading>Gift Tax</heading>
+        <section eId="sec_12_211b">
+          <num>12-211b</num>
+          <heading>Order of credits claimed</heading>
+          <subsection eId="12_211b__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Whenever a company subject to tax under the provisions of this chapter is eligible to claim more than one tax credit, the credits shall be claimed for the calendar year in the following order:</p>
+            </content>
+            <paragraph eId="12_211b__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>Any credit that may be carried backward to a preceding calendar year or years shall first be claimed (A) with any credit carry-back that will expire first being claimed prior to any credit carry-back that will expire later or will not expire at all, and (B) if the credit carry-backs will expire at the same time, in the order in which the company may receive the maximum benefit;</p>
+              </content>
+              <subparagraph eId="12_211b__subsec_a__subsec_1__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>with any credit carry-back that will expire first being claimed prior to any credit carry-back that will expire later or will not expire at all, and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_211b__subsec_a__subsec_1__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>if the credit carry-backs will expire at the same time, in the order in which the company may receive the maximum benefit;</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_211b__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>Any credit that may not be carried backward to a preceding calendar year or years and that may not be carried forward to a succeeding calendar year or years shall next be claimed, in the order in which the company may receive the maximum benefit; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_211b__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>Any credit that may be carried forward to a succeeding calendar year or years shall next be claimed (A) with any credit carry-forward that will expire first being claimed prior to any credit carry-forward that will expire later or will not expire at all, and (B) if the credit carry-forwards will expire at the same time, in the order in which the company may receive the maximum benefit.</p>
+              </content>
+              <subparagraph eId="12_211b__subsec_a__subsec_3__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>with any credit carry-forward that will expire first being claimed prior to any credit carry-forward that will expire later or will not expire at all, and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_211b__subsec_a__subsec_3__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>if the credit carry-forwards will expire at the same time, in the order in which the company may receive the maximum benefit.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_211b__subsec_b">
+            <num>(b)</num>
+            <heading>In no event shall any credit be claimed more than once</heading>
+            <content>
+              <p>(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

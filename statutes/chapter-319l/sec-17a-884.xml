@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-884"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-884"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17a-884"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-884/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-884/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-884/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-884/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319l">
+        <num>319l</num>
+        <heading>Nursing Home Financial Assistance</heading>
+        <section eId="sec_17a_884">
+          <num>17a-884</num>
+          <heading>(Formerly Sec. 17a-421). Duties of state agency</heading>
+          <content>
+            <p>Sec. 17a-884. (Formerly Sec. 17a-421). Duties of state agency.The state agency shall:
+(1) Ensure that no individual, or member of the immediate family of an individual, involved in the designation of the State Ombudsman, whether by appointment or otherwise, or the designation of representatives of the office is subject to a conflict of interest;
+(2) Ensure that no officer or employee of the office, representative of the office, or member of the immediate family of the officer, employee or representative of the office, is subject to a conflict of interest;
+(3) Ensure that the State Ombudsman: (A) Does not have a direct involvement in the licensing or certification of a long-term care facility or of a provider of a long-term care service; (B) does not have an ownership or investment interest, represented by equity, debt or other financial relationship, in a long-term care facility or a long-term care service; (C) is not employed by, or participating in the management of, a long-term care facility and has not been employed by or participated in such management in the twelve months prior to being State Ombudsman; and (D) does not receive, or have the right to receive, directly or indirectly, remuneration, in cash or in kind, under a compensation arrangement with an owner or operator of a long-term care facility; and
+(4) Establish and specify, in writing, mechanisms to identify and remove conflicts of interest described in subdivisions (1) and (2) of this section, and to identify and eliminate the relationships described in subdivision (3) of this section, including such mechanisms as: (A) The methods by which the state agency will examine individuals and immediate family members to identify the conflicts; and (B) the actions that the state agency will require the individuals and such family members to take to remove such conflicts.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

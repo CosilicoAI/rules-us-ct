@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-578h"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-578h"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-578h"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-578h/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-578h/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-578h/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-578h/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_226">
+        <num>226</num>
+        <heading>Prepared Food and Beverage Tax</heading>
+        <section eId="sec_12_578h">
+          <num>12-578h</num>
+          <heading>Payments from municipal gaming account to municipalities</heading>
+          <subsection eId="12_578h__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>There is established an account to be known as the “municipal gaming account” which shall be a separate, nonlapsing account within the Mashantucket Pequot and Mohegan Fund established by section3-55i. The account shall contain any moneys required by law to be deposited in the account. Moneys in the account shall be expended by the Office of Policy and Management for the purpose of providing annual grants pursuant to subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_578h__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_578h__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>On and after the date the Secretary of the Office of Policy and Management finds that a minimum of seven million five hundred thousand dollars has been deposited in the municipal gaming account pursuant to subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_578h__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of section12-578g, the Office of Policy and Management shall provide an annual grant of seven hundred fifty thousand dollars to each of the following municipalities: Bridgeport, East Hartford, Ellington, Enfield, Hartford, New Haven, Norwalk, South Windsor, Waterbury, West Hartford, Windsor and Windsor Locks. The amount of the grant payable to each municipality during any fiscal year shall be reduced proportionately if the total of such grants exceeds the amount of funds available for such year.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

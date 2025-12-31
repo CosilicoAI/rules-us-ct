@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-129"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-129"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17b-129"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-129/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-129/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-129/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-129/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319s">
+        <num>319s</num>
+        <heading>Connecticut Partnership for Long-Term Care</heading>
+        <section eId="sec_17b_129">
+          <num>17b-129</num>
+          <heading>(Formerly Sec. 17-283a). Town's claim against proceeds of cause of action. Assignment of interest in estate to the town. Limitation</heading>
+          <subsection eId="17b_129__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>If any beneficiary of aid under sections17b-122,17b-124to17b-132, inclusive,17b-136to17b-138, inclusive,17b-194to17b-197, inclusive,17b-222to17b-250, inclusive,17b-263,17b-340to17b-350, inclusive,17b-689band17b-743to17b-747, inclusive, has a cause of action, a town that provided aid to such beneficiary shall have a claim against the proceeds of such cause of action for the amount of such aid or fifty per cent of the proceeds received by such beneficiary after payment of all expenses connected with the cause of action, whichever is less, which shall have priority over all other unsecured claims and unrecorded encumbrances. Such claim shall be a lien, subordinate to any interest the state may possess, against the proceeds from such cause of action, for the amount established in accordance with this section, and such lien shall have priority over all other claims except attorney's fees for such causes of action, expenses of suit, costs of hospitalization connected with the cause of action by whomever paid, over and above hospital insurance or other such benefits, and, for such period of hospitalization as was not paid for by the town, physician's fees for services during any such period as are connected with the cause of action over and above medical insurance or other such benefits. The total amount of the claims by the town under this subsection shall not exceed fifty per cent of the proceeds received by the recipient after the allowable expenses and the town's claim shall be reduced accordingly. The proceeds of such causes of action shall be assignable to the town for payment of such lien irrespective of any other provision of law except section17b-93. Upon presentation to the attorney for the beneficiary of an assignment of such proceeds executed by the beneficiary or his conservator or guardian, such assignment shall constitute an irrevocable direction to the attorney to pay the town in accordance with its terms.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_129__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>In the case of an inheritance of an estate by a beneficiary of aid under sections17b-122,17b-124to17b-132, inclusive,17b-136to17b-138, inclusive,17b-194to17b-197, inclusive,17b-222to17b-250, inclusive,17b-263,17b-340to17b-350, inclusive,17b-689band17b-743to17b-747, inclusive, fifty per cent of the assets of the estate payable to the beneficiary or the amount of such assets equal to the amount of assistance paid, whichever is less, shall be assignable to the town. The total amount of the claims of the town under this subsection shall not exceed fifty per cent of the assets of the estate payable to the beneficiary and the town's assigned share shall be reduced accordingly. The Court of Probate shall accept any such assignment executed by the beneficiary and filed by the town with the court prior to the distribution of such inheritance, and to the extent of such inheritance not already distributed, the court shall order distribution in accordance therewith. If the town receives any assets of an estate pursuant to any such assignment, the town shall be subject to the same duties and liabilities concerning such assigned assets as the beneficiary.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_129__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>No claim shall be made, or lien applied, against any payment made pursuant to chapter 135, any payment made pursuant to section47-88dor47-287, any moneys received as a settlement or award in a housing or employment or public accommodation discrimination case, any court-ordered retroactive rent abatement, including any made pursuant to subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_129__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>of section47a-14h, or section47a-4a,47a-5or47a-57, or any security deposit refund pursuant to subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_129__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>of section47a-21paid to a beneficiary of assistance under sections17b-122,17b-124to17b-132, inclusive,17b-136to17b-138, inclusive,17b-194to17b-197, inclusive,17b-222to17b-250, inclusive,17b-263,17b-340to17b-350, inclusive,17b-689band17b-743to17b-747, inclusive.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

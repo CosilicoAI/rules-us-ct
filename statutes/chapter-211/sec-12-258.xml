@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-258"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-258"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-258"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-258/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-258/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-258/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-258/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_211">
+        <num>211</num>
+        <heading>Income Tax</heading>
+        <section eId="sec_12_258">
+          <num>12-258</num>
+          <heading>Apportionment of gross earnings. Rates of tax</heading>
+          <subsection eId="12_258__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Each person included in section12-256shall be taxed upon the amount of the gross earnings in each quarterly period from the lines, facilities, apparatus and auxiliary equipment operated by it in this state, or from the transmission of video programming by satellite or by a certified competitive video service provider to subscribers in this state, as the case may be, at the rates provided in this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_258__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Gross earnings for any quarterly period, for the purposes of assessment and taxation, shall be as follows: In the case of a person carrying on the business wholly within the limits of this state, the entire amount of the gross earnings subject to the tax imposed under section12-256; in the case of a person also carrying on the business outside of this state, a portion of the entire amount of the gross earnings subject to the tax imposed under section12-256apportioned to this state as follows:</p>
+            </content>
+            <paragraph eId="12_258__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>In the case of a person operating a community antenna television system, such portion of the total gross earnings from the lines, facilities, apparatus and auxiliary equipment operated by it as is represented by the total number of miles of lines operated by such person within this state on the first day and on the last day of such quarterly period to the total number of miles of lines operated by such person both within and without the state on said dates;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_258__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>in the case of a person operating a business that provides one-way transmission to subscribers of video programming by satellite, such portion of the total gross earnings from the transmission to subscribers in this state as is represented by the total number of subscribers served by such person within this state on the first day and on the last day of such quarterly period to the total number of subscribers served by such person both within and without the state on said dates; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_258__subsec_b__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>in the case of a person providing certified competitive video service, such portion of the total gross earnings from the transmission to subscribers in this state as is represented by the total number of subscribers served by such person within this state on the first and the last days of such quarterly period to the average of the total number of subscribers served by such person both within and without the state on said dates.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_258__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The rates of tax on the gross earnings as determined in this section shall be as follows:</p>
+            </content>
+            <paragraph eId="12_258__subsec_c__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>Persons operating a community antenna television system or a certified competitive video service, five per cent of such gross earnings, reduced by any assessments made pursuant to section16-49which are attributable to the year in which such tax is assessed; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_258__subsec_c__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>persons operating a business that provides one-way transmission to subscribers of video programming by satellite, five per cent of such gross earnings.
+See Sec. 12-268a re decrease or increase in apportionments.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

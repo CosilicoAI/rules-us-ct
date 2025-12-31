@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-784"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-784"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17a-784"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-784/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-784/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-784/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-784/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319l">
+        <num>319l</num>
+        <heading>Nursing Home Financial Assistance</heading>
+        <section eId="sec_17a_784">
+          <num>17a-784</num>
+          <heading>(Formerly Sec. 17b-655). Powers and duties of Department of Aging and Disability Services re vocational education</heading>
+          <subsection eId="17a_784__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>In carrying out sections17a-780to17a-790, inclusive,17a-796,17a-797,17a-799and17a-835, the Department of Aging and Disability Services shall cooperate with other departments, agencies and institutions, both public and private, in providing for the vocational rehabilitation of persons with disabilities, in studying the problems involved therein and in establishing, developing and providing such programs, facilities and services as it deems necessary or desirable. Notwithstanding any other provision of the general statutes, the Department of Aging and Disability Services shall not be required to pay that portion of the cost of a program of postsecondary education or training which is properly designated as expected parental or family contribution in accordance with state and federal law regarding eligibility for student financial aid.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_784__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Subject to the approval of all real estate acquisitions by the Commissioner of Administrative Services and the State Properties Review Board, in carrying out said sections, the Department of Aging and Disability Services may</p>
+            </content>
+            <paragraph eId="17a_784__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>establish, operate, foster and promote the establishment of rehabilitation facilities and make grants to public and other nonprofit and nonsectarian organizations for such purposes;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_784__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>assist persons with significant disabilities to establish and operate small businesses; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_784__subsec_b__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>make studies, investigations, demonstrations and reports, and provide training and instruction, including the establishment and maintenance of such research fellowships and traineeships with such stipends and allowances as may be deemed necessary, in matters relating to vocational rehabilitation.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17a_784__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The Commissioner of Aging and Disability Services shall develop and maintain a program of public education and information. The program shall include, but need not be limited to, education of the public concerning services available from the Department of Aging and Disability Services, its policies and goals, an outreach effort to discover persons with disabilities, including such persons who are minorities as defined in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_784__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of section32-9n, who may benefit from the services it offers and the dissemination of printed materials to persons at their initial meeting with staff of the department, including a statement of such person's rights.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

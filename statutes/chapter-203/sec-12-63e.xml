@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-63e"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-63e"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-63e"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-63e/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-63e/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-63e/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-63e/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_203">
+        <num>203</num>
+        <heading>Property Tax Assessment</heading>
+        <section eId="sec_12_63e">
+          <num>12-63e</num>
+          <heading>Valuation of property on which a polluted or environmentally hazardous condition exists</heading>
+          <subsection eId="12_63e__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Notwithstanding the provisions of this chapter, and except as provided in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_63e__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section, when determining the value of any property, except residential property, for purpose of the assessment for property taxes, the assessors of a municipality shall not reduce the value of any property due to any polluted or environmentally hazardous condition existing on such property if such condition was caused by the owner of such property or if a successor in title to such owner acquired such property after any notice of the existence of any such condition was filed on the land records in the town where the property is located. For purposes of this section, an owner shall be deemed to have caused the polluted or environmentally hazardous condition if the Department of Energy and Environmental Protection, the United States Environmental Protection Agency or a court of competent jurisdiction has determined that such owner caused such condition or a portion of it.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_63e__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>If any owner of such property or if any successor in title to such owner who acquired such property after any notice of the existence of any such condition was filed on the land records in the town where the property is located</p>
+            </content>
+            <paragraph eId="12_63e__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>enters into an agreement with the department to voluntarily remediate such property,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_63e__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>files such agreement on the land records of the town where such property is located, and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_63e__subsec_b__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>has developed an approved remedial action plan for the property, the provisions of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_63e__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section shall not apply. In any such cases, the assessors of a municipality may reduce the value of any property due to any polluted or environmentally hazardous condition existing on such property. The assessors of a municipality may also raise the value of any property after remediation is completed to take into account the removal of such pollution or environmentally hazardous condition.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

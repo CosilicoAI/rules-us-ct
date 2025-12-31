@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-62q"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-62q"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-62q"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-62q/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-62q/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-62q/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-62q/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_203">
+        <num>203</num>
+        <heading>Property Tax Assessment</heading>
+        <section eId="sec_12_62q">
+          <num>12-62q</num>
+          <heading>Regional revaluation program</heading>
+          <subsection eId="12_62q__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Notwithstanding the provisions of subdivision</p>
+            </content>
+            <paragraph eId="12_62q__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_62q__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of section12-62, any two or more towns may enter into an agreement, as provided in section7-148ccand sections7-339ato7-339l, inclusive, to establish a regional revaluation program. Towns participating in such an agreement shall provide for the revaluation of all parcels of real property encompassed within such towns at the same time and not less than once every five years, or shall annually revalue approximately one-fifth of all such parcels over a five-year period.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_62q__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Any agreement entered into pursuant to subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_62q__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section shall:</p>
+            </content>
+            <paragraph eId="12_62q__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>Establish or designate an entity, which may be a regional planning organization, as the coordinating agency for implementation of the regional revaluation program;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_62q__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>indicate how a revaluation company certified in accordance with section12-2bwill be hired and overseen by the participating towns or the coordinating agency;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_62q__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>include a revaluation schedule that lists any adjustments to the revaluation schedules for participating towns;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_62q__subsec_a__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>identify administrative and procedural processes that will be implemented by the participating towns to implement the program; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_62q__subsec_a__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>estimate the projected savings resulting from a regional revaluation program.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_62q__subsec_c">
+            <num>(c)</num>
+            <paragraph eId="12_62q__subsec_c__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>Prior to entering into an agreement pursuant to subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_62q__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section, the participating towns shall submit to the Secretary of the Office of Policy and Management proposed adjustments to the revaluation schedules for the participating towns for the secretary's review and approval. The secretary shall, not later than forty-five days after receipt of such agreement, notify all participating towns of the approval or disapproval of such proposed adjustments. If any such adjustments are disapproved, the secretary shall notify the towns of each reason for each such disapproval and make recommendations for revision.</p>
+            </content>
+            <paragraph eId="12_62q__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>If participation in a regional revaluation program causes a town to postpone the revaluation required by subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_62q__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_62q__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of section12-62, such postponement shall be expressly approved by the secretary in the approval the secretary provides pursuant to this subsection.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_62q__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>All procedures for conducting a revaluation in accordance with section12-62shall be followed by all towns participating in a regional revaluation program.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_62q__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>If any participating town decides to withdraw from a regional revaluation program after the date on which a regional revaluation is implemented, such town shall notify the Secretary of the Office of Policy and Management. Such town shall resume the revaluation schedule required pursuant to subdivision</p>
+            </content>
+            <paragraph eId="12_62q__subsec_e__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_62q__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of section12-62with the date of the last regional revaluation as the starting point for implementing future revaluations. If any participating town decides to withdraw from a regional revaluation program prior to the date on which a regional revaluation is implemented, such town shall notify the secretary and shall be required to resume implementation of revaluation in accordance with the provisions of section12-62.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

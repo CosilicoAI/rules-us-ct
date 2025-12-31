@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-90"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-90"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17b-90"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-90/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-90/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-90/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-90/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319s">
+        <num>319s</num>
+        <heading>Connecticut Partnership for Long-Term Care</heading>
+        <section eId="sec_17b_90">
+          <num>17b-90</num>
+          <heading>(Formerly Sec. 17-83). Disclosure of information concerning program applicants and participants. Limitations. Regulations</heading>
+          <subsection eId="17b_90__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The commissioner shall adopt regulations, in accordance with chapter 54, necessary to enable him to carry out the programs the Department of Social Services is designated to administer pursuant to section17b-2, including any regulations necessary for receiving grants from the federal government to this state if the absence of any such regulation would result in the loss of such grants and regulations governing the custody and use of the records, papers, files and communications concerning persons applying for or receiving assistance under said sections. When names and addresses of recipients of such assistance are required by law to be furnished to or held by any other government agency, such agency shall adopt regulations to prevent the publication of lists thereof or their use for purposes not directly connected with the administration of said programs.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_90__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>No person shall, except for purposes directly connected with the administration of programs of the Department of Social Services and in accordance with the regulations of the commissioner, solicit, disclose, receive or make use of, or authorize, knowingly permit, participate in or acquiesce in the use of, any list of the names of, or any information concerning, persons applying for or receiving assistance from the Department of Social Services or persons participating in a program administered by said department, directly or indirectly derived from the records, papers, files or communications of the state or its subdivisions or agencies, or acquired in the course of the performance of official duties. The Commissioner of Social Services shall disclose</p>
+            </content>
+            <paragraph eId="17b_90__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>to any authorized representative of the Labor Commissioner such information directly related to unemployment compensation, administered pursuant to chapter 567 or information necessary for implementation of sections17b-112l,17b-688b,17b-688cand17b-688hand section 122 of public act 97-2 of the June 18 special session*,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_90__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>to any authorized representative of the Commissioner of Mental Health and Addiction Services any information necessary for the implementation and operation of the basic needs supplement program,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_90__subsec_b__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>to any authorized representative of the Commissioner of Administrative Services or the Commissioner of Emergency Services and Public Protection such information as the Commissioner of Social Services determines is directly related to and necessary for the Department of Administrative Services or the Department of Emergency Services and Public Protection for purposes of performing their functions of collecting social services recoveries and overpayments or amounts due as support in social services cases, investigating social services fraud or locating absent parents of public assistance recipients,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_90__subsec_b__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>to any authorized representative of the Commissioner of Children and Families necessary information concerning a child or the immediate family of a child receiving services from the Department of Social Services, including safety net services, if (A) the Commissioner of Children and Families or the Commissioner of Social Services has determined that imminent danger to such child's health, safety or welfare exists to target the services of the family services programs administered by the Department of Children and Families, or (B) the Commissioner of Children and Families requires access to the federal Parent Locator Service established pursuant to 42 USC 653 in order to identify a parent or putative parent of a child,</p>
+              </content>
+              <subparagraph eId="17b_90__subsec_b__subsec_4__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>the Commissioner of Children and Families or the Commissioner of Social Services has determined that imminent danger to such child's health, safety or welfare exists to target the services of the family services programs administered by the Department of Children and Families, or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17b_90__subsec_b__subsec_4__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>the Commissioner of Children and Families requires access to the federal Parent Locator Service established pursuant to 42 USC 653 in order to identify a parent or putative parent of a child,</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="17b_90__subsec_b__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>to a town official or other contractor or authorized representative of the Labor Commissioner such information concerning an applicant for or a recipient of assistance under state-administered general assistance deemed necessary by the Commissioner of Social Services and the Labor Commissioner to carry out their respective responsibilities to serve such persons under the programs administered by the Labor Department that are designed to serve applicants for or recipients of state-administered general assistance,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_90__subsec_b__subsec_6">
+              <num>(6)</num>
+              <content>
+                <p>to any authorized representative of the Commissioner of Mental Health and Addiction Services for the purposes of the behavioral health managed care program established by section17a-453,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_90__subsec_b__subsec_7">
+              <num>(7)</num>
+              <content>
+                <p>to any authorized representative of the Commissioner of Early Childhood to carry out his or her respective responsibilities under the two-generational academic achievement and workforce readiness initiative established pursuant to section17b-112land programs that regulate child care services or youth camps,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_90__subsec_b__subsec_8">
+              <num>(8)</num>
+              <content>
+                <p>to a health insurance provider, in IV-D support cases, as defined in subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_90__subsec_b__subsec_13">
+              <num>(13)</num>
+              <content>
+                <p>of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_90__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of section46b-231, information concerning a child and the custodial parent of such child that is necessary to enroll such child in a health insurance plan available through such provider when the noncustodial parent of such child is under court order to provide health insurance coverage but is unable to provide such information, provided the Commissioner of Social Services determines, after providing prior notice of the disclosure to such custodial parent and an opportunity for such parent to object, that such disclosure is in the best interests of the child,</p>
+            </content>
+            <paragraph eId="17b_90__subsec_b__subsec_9">
+              <num>(9)</num>
+              <content>
+                <p>to any authorized representative of the Department of Correction, in IV-D support cases, as defined in subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_90__subsec_b__subsec_13">
+              <num>(13)</num>
+              <content>
+                <p>of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_90__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of section46b-231, information concerning noncustodial parents that is necessary to identify inmates or parolees with IV-D support cases who may benefit from Department of Correction educational, training, skill building, work or rehabilitation programming that will significantly increase an inmate's or parolee's ability to fulfill such inmate's support obligation,</p>
+            </content>
+            <paragraph eId="17b_90__subsec_b__subsec_10">
+              <num>(10)</num>
+              <content>
+                <p>to any authorized representative of the Judicial Branch, in IV-D support cases, as defined in subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_90__subsec_b__subsec_13">
+              <num>(13)</num>
+              <content>
+                <p>of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_90__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of section46b-231, information concerning noncustodial parents that is necessary to: (A) Identify noncustodial parents with IV-D support cases who may benefit from educational, training, skill building, work or rehabilitation programming that will significantly increase such parent's ability to fulfill such parent's support obligation, (B) assist in the administration of the Title IV-D child support program, or (C) assist in the identification of cases involving family violence,</p>
+            </content>
+            <paragraph eId="17b_90__subsec_b__subsec_11">
+              <num>(11)</num>
+              <content>
+                <p>to any authorized representative of the State Treasurer, in IV-D support cases, as defined in subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_90__subsec_b__subsec_13">
+              <num>(13)</num>
+              <content>
+                <p>of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_90__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of section46b-231, information that is necessary to identify child support obligors who owe overdue child support prior to the Treasurer's payment of such obligors' claim for any property unclaimed or presumed abandoned under part III of chapter 32,</p>
+            </content>
+            <paragraph eId="17b_90__subsec_b__subsec_12">
+              <num>(12)</num>
+              <content>
+                <p>to any authorized representative of the Secretary of the Office of Policy and Management any information necessary for the implementation and operation of the renters rebate program established by section12-170d, or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_90__subsec_b__subsec_13">
+              <num>(13)</num>
+              <content>
+                <p>to any authorized representative of the Department of Aging and Disability Services, or to an area agency on aging contracting with said department to provide services under the elderly nutrition program, information on persons enrolled in the supplemental nutrition assistance program who have requested or been recommended to receive elderly nutrition program services. No such representative shall disclose any information obtained pursuant to this section, except as specified in this section. Any applicant for assistance provided through the Department of Social Services shall be notified that, if and when such applicant receives benefits, the department will be providing law enforcement officials with the address of such applicant upon the request of any such official pursuant to section17b-16a.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_90__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>In IV-D support cases, as defined in subdivision</p>
+            </content>
+            <paragraph eId="17b_90__subsec_c__subsec_13">
+              <num>(13)</num>
+              <content>
+                <p>of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_90__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of section46b-231, in addition to the prohibitions of subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_90__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section, no information shall be released concerning the whereabouts of one party to another party</p>
+            </content>
+            <paragraph eId="17b_90__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>against whom a protective order, a restraining order or a standing criminal protective order with respect to the former party is in effect, or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_90__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>if the department has reason to believe that the release of the information may result in physical or emotional harm to the former party.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_90__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>The Commissioner of Social Services shall provide written notice to a person applying for or receiving assistance from the Department of Social Services or a person participating in a program administered by said department that such person's address and telephone number may be provided to the Department of Children and Families pursuant to subdivision</p>
+            </content>
+            <paragraph eId="17b_90__subsec_d__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_90__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_90__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>Penalties prescribed by subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_90__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of section17b-97shall apply to violations of this section.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-136"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-136"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17b-136"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-136/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-136/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-136/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-136/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319s">
+        <num>319s</num>
+        <heading>Connecticut Partnership for Long-Term Care</heading>
+        <section eId="sec_17b_136">
+          <num>17b-136</num>
+          <heading>(Formerly Sec. 17-293). Interstate transportation. Admission to state mental hospital</heading>
+          <subsection eId="17b_136__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The Commissioner of Social Services is authorized to enter into reciprocal agreements with other states regarding the interstate transportation of poor and indigent persons and to arrange with the selectmen and institutional authorities for the acceptance and support of persons receiving public aid in other states in accordance with the terms of such reciprocal agreements.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_136__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>If such poor or indigent person is mentally ill, the superintendent or director of any state-operated facility as defined in section17a-458is authorized to admit and hold such person in accordance with the provisions of section17a-502, except that the certificate required may be signed by a physician licensed in the sending state or may be signed by a commissioned medical officer of the United States armed forces or Public Health Service acting in the performance of his official duties. The superintendent or director may make application for the commitment of such person in the court of probate having jurisdiction in the town where such hospital is located and the Commissioner of Administrative Services shall collect, from the person or persons liable for his support, the amount expended for the support and benefit of such person in the manner provided in section17b-223.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

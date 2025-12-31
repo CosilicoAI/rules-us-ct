@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-191"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-191"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17b-191"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-191/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-191/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-191/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-191/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319t">
+        <num>319t</num>
+        <heading>State Supplement to Supplemental Security Income</heading>
+        <section eId="sec_17b_191">
+          <num>17b-191</num>
+          <heading>Operation of state-administered general assistance program. Cash assistance. Eligibility</heading>
+          <subsection eId="17b_191__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Notwithstanding the provisions of sections17b-190,17b-195and17b-196, the Commissioner of Social Services shall operate a state-administered general assistance program in accordance with this section and sections17b-131,17b-193,17b-194,17b-197and17b-198. Notwithstanding any provision of the general statutes, on and after October 1, 2003, no town shall be reimbursed by the state for any general assistance medical benefits incurred after September 30, 2003, and on and after March 1, 2004, no town shall be reimbursed by the state for any general assistance cash benefits or general assistance program administrative costs incurred after February 29, 2004.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_191__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The state-administered general assistance program shall provide cash assistance of</p>
+            </content>
+            <paragraph eId="17b_191__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>two hundred dollars per month for an unemployable person upon determination of such person's unemployability;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_191__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>two hundred dollars per month for a transitional person who is required to pay for shelter; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_191__subsec_b__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>fifty dollars per month for a transitional person who is not required to pay for shelter. The standard of assistance paid for individuals residing in rated boarding facilities shall remain at the level in effect on August 31, 2003. No person shall be eligible for cash assistance under the program if eligible for cash assistance under any other state or federal cash assistance program. The standards of assistance set forth in this subsection shall be subject to annual increases, as described in subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_191__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of section17b-104.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_191__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>To be eligible for cash assistance under the program, a person shall</p>
+            </content>
+            <paragraph eId="17b_191__subsec_c__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>be (A) eighteen years of age or older; (B) a minor found by a court to be emancipated pursuant to section46b-150; or (C) under eighteen years of age and the commissioner determines good cause for such person's eligibility, and</p>
+              </content>
+              <subparagraph eId="17b_191__subsec_c__subsec_1__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>eighteen years of age or older;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17b_191__subsec_c__subsec_1__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>a minor found by a court to be emancipated pursuant to section46b-150; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17b_191__subsec_c__subsec_1__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>under eighteen years of age and the commissioner determines good cause for such person's eligibility, and</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="17b_191__subsec_c__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>not have assets exceeding five hundred dollars or, if such person is married, such person and his or her spouse shall not have assets exceeding one thousand dollars. In determining eligibility, the commissioner shall not consider as income (A) Aid and Attendance pension benefits granted to a veteran, as defined in section27-103, or the surviving spouse of such veteran; and (B) any tax refund or advance payment with respect to a refundable credit to the same extent such refund or advance payment would be disregarded under 26 USC 6409 in any federal program or state or local program financed in whole or in part with federal funds. No person who is a substance abuser and refuses or fails to enter available, appropriate treatment shall be eligible for cash assistance under the program until such person enters treatment. No person whose benefits from the temporary family assistance program have terminated as a result of time-limited benefits or for failure to comply with a program requirement shall be eligible for cash assistance under the program.</p>
+              </content>
+              <subparagraph eId="17b_191__subsec_c__subsec_2__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>Aid and Attendance pension benefits granted to a veteran, as defined in section27-103, or the surviving spouse of such veteran; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17b_191__subsec_c__subsec_2__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>any tax refund or advance payment with respect to a refundable credit to the same extent such refund or advance payment would be disregarded under 26 USC 6409 in any federal program or state or local program financed in whole or in part with federal funds. No person who is a substance abuser and refuses or fails to enter available, appropriate treatment shall be eligible for cash assistance under the program until such person enters treatment. No person whose benefits from the temporary family assistance program have terminated as a result of time-limited benefits or for failure to comply with a program requirement shall be eligible for cash assistance under the program.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_191__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Prior to or upon discontinuance of assistance, a person previously determined to be a transitional person may petition the commissioner to review the determination of his or her status. In such review, the commissioner shall consider factors, including, but not limited to:</p>
+            </content>
+            <paragraph eId="17b_191__subsec_d__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>Age;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_191__subsec_d__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>education;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_191__subsec_d__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>vocational training;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_191__subsec_d__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>mental and physical health; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_191__subsec_d__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>employment history and shall make a determination of such person's ability to obtain gainful employment.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_191__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>Notwithstanding any other provision of this section or section17b-194, a victim of domestic violence, as defined in section17b-112a, who is not eligible for diversion assistance under the provisions of section17b-112g, shall be eligible for a one-time assistance payment under the state-administered general assistance program within resources available to the Department of Social Services. Such payment shall be equivalent to that which such victim would be entitled to receive as diversion assistance if such victim and his or her family, if any, were eligible for diversion assistance. In determining whether and in what amount a victim of domestic violence and his or her family are eligible for a one-time assistance payment pursuant to this subsection, the commissioner shall not include as a member of such victim's family the spouse, domestic partner or other household member credibly accused of domestic violence by such victim, nor shall the commissioner count the income or assets of such a spouse, domestic partner or other household member. For purposes of this subsection, allegations of domestic violence may be substantiated by the commissioner pursuant to the provisions of subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_191__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of section17b-112a, and “family” has the same meaning as used in section17b-112, except as otherwise provided in this subsection.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

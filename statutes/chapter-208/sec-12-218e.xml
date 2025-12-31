@@ -1,0 +1,642 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-218e"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-218e"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-218e"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-218e/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-218e/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-218e/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-218e/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_208">
+        <num>208</num>
+        <heading>Estate Taxes</heading>
+        <section eId="sec_12_218e">
+          <num>12-218e</num>
+          <heading>Combined group's net income. Apportionment percentage. Net operating loss. Carryover. Additional tax base. Nexus combined base tax</heading>
+          <subsection eId="12_218e__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>For purposes of this chapter, the combined group's net income shall be the aggregate net income or loss of each taxable member and nontaxable member of the combined group derived from a unitary business, which shall be determined as follows:</p>
+            </content>
+            <paragraph eId="12_218e__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>For any member incorporated in the United States, included in a consolidated federal corporate income tax return and filing a federal corporate income tax return, the income to be included in calculating the combined group's net income shall be such member's gross income, less the deductions provided under section12-217, as if the member were not consolidated for federal tax purposes.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_218e__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>For any member not included in a consolidated federal corporate income tax return but required to file its own federal corporate income tax return, the income to be included in calculating the combined group's net income shall be such member's gross income, less the deductions provided under section12-217.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_218e__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>For any member not incorporated in the United States, not included in a consolidated federal corporate income tax return and not required to file its own federal corporate income tax return, the income to be included in the combined group's net income shall be determined from a profit and loss statement that shall be prepared for each foreign branch or corporation in the currency in which the books of account of the branch or corporation are regularly maintained, adjusted to conform it to the accounting principles generally accepted in the United States for the presentation of such statements and further adjusted to take into account any book-tax differences required by federal or Connecticut law. The profit and loss statement of each such member of the combined group and the apportionment factors related thereto, whether United States or foreign, shall be translated into or from the currency in which the parent company maintains its books and records on any reasonable basis consistently applied on a year-to-year or entity-by-entity basis. Income shall be expressed in United States dollars. In lieu of these procedures and subject to the determination of the commissioner that the income to be reported reasonably approximates income as determined under this chapter, income may be determined on any reasonable basis consistently applied on a year-to-year or entity-by-entity basis.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_218e__subsec_a__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>(A) If the unitary business has income from an entity that is treated as a pass-through entity, the combined group's net income shall include its member's direct and indirect distributive share of the pass-through entity's unitary business income.
+(B) The distributive share of income received by a limited partner from an investment partnership shall not be considered to be derived from a unitary business unless the general partner of such investment partnership and such limited partner have common ownership. To the extent that the limited partner is otherwise carrying on or doing business in Connecticut, it shall apportion its distributive share of income from an investment partnership in accordance with subdivision</p>
+              </content>
+              <subparagraph eId="12_218e__subsec_a__subsec_4__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>If the unitary business has income from an entity that is treated as a pass-through entity, the combined group's net income shall include its member's direct and indirect distributive share of the pass-through entity's unitary business income.</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_218e__subsec_a__subsec_4__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>The distributive share of income received by a limited partner from an investment partnership shall not be considered to be derived from a unitary business unless the general partner of such investment partnership and such limited partner have common ownership. To the extent that the limited partner is otherwise carrying on or doing business in Connecticut, it shall apportion its distributive share of income from an investment partnership in accordance with subdivision</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_218e__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_218e__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>of section12-218. If the limited partner is not otherwise carrying on or doing business in Connecticut, its distributive share of income from an investment partnership is not subject to tax under this chapter.</p>
+            </content>
+            <paragraph eId="12_218e__subsec_g__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>All dividends paid by one member to another member of the combined group shall be eliminated from the income of the recipient.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_218e__subsec_g__subsec_6">
+              <num>(6)</num>
+              <content>
+                <p>The principles set forth in the Treasury regulations promulgated under Section 1502 of the Internal Revenue Code, including the principles relating to deferrals, eliminations, and exclusions, shall apply to the extent consistent with the Connecticut combined group membership and combined unitary reporting principles. Upon the occurrence of either of the following events, deferred business income resulting from an intercompany transaction among members of a combined group shall be restored to the income of the seller and shall be included in the combined group's net income as if the seller had earned the income immediately before the event:
+(A) The object of a deferred intercompany transaction is:</p>
+              </content>
+              <subparagraph eId="12_218e__subsec_g__subsec_6__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>The object of a deferred intercompany transaction is:</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_218e__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Resold by the buyer to an entity that is not a member of the combined group, (ii) resold by the buyer to an entity that is a member of the combined group for use outside the unitary business in which the buyer and seller are engaged, or (iii) converted by the buyer to a use outside the unitary business in which the buyer and seller are engaged; or
+(B) The buyer and seller are no longer members of the same combined group, regardless of whether the members remain unitary.</p>
+            </content>
+            <paragraph eId="12_218e__subsec_i__subsec_7">
+              <num>(7)</num>
+              <content>
+                <p>A charitable expense incurred by a member of a combined group shall, to the extent allowable as a deduction pursuant to Section 170 of the Internal Revenue Code, be subtracted first from the combined group's net income, subject to the income limitations of said section applied to the entire business income of the group. Any charitable deduction disallowed under the foregoing rule, but allowed as a carryover deduction in a subsequent year, shall be treated as originally incurred in the subsequent year by the same member and the rules of this section shall apply in the subsequent year in determining the allowable deduction for that year.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_218e__subsec_i__subsec_8">
+              <num>(8)</num>
+              <content>
+                <p>Gain or loss from the sale or exchange of capital assets, property described by Section 1231</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_218e__subsec_a">
+            <num>(a)</num>
+            <paragraph eId="12_218e__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>of the Internal Revenue Code and property subject to an involuntary conversion shall be removed from the net income of each member of a combined group and shall be included in the combined group's net income as follows:
+(A) For each class of gain or loss, whether short-term capital, long-term capital, Section 1231 of the Internal Revenue Code gain or loss, or gain or loss from involuntary conversions, all members' business gain and loss for the class shall be combined, without netting among such classes, and each class of net business gain or loss shall be apportioned to each member under subsection</p>
+              </content>
+              <subparagraph eId="12_218e__subsec_a__subsec_3__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>For each class of gain or loss, whether short-term capital, long-term capital, Section 1231 of the Internal Revenue Code gain or loss, or gain or loss from involuntary conversions, all members' business gain and loss for the class shall be combined, without netting among such classes, and each class of net business gain or loss shall be apportioned to each member under subsection</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_218e__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section; and
+(B) Any resulting income or loss apportioned to this state, as long as the loss is not subject to the limitations of Section 1211 of the Internal Revenue Code, of a taxable member produced by the application of subparagraph (A) of this subdivision shall then be applied to all other income or loss of that member apportioned to this state. Any resulting loss of a member apportioned to this state that is subject to the limitations of said Section 1211 shall be carried forward by that member and shall be treated as short-term capital loss apportioned to this state and incurred by that member for the year for which the carryover applies.</p>
+            </content>
+            <paragraph eId="12_218e__subsec_b__subsec_9">
+              <num>(9)</num>
+              <content>
+                <p>Any expense of any member of the combined group that is directly or indirectly attributable to the income of any member of the combined group, which income this state is prohibited from taxing pursuant to the laws or Constitution of the United States, shall be disallowed as a deduction for purposes of determining the combined group's net income.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_218e__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>A taxable member of a combined group shall determine its apportionment percentage as follows:</p>
+            </content>
+            <paragraph eId="12_218e__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>Each taxable member shall determine its apportionment percentage based on the otherwise applicable apportionment formula provided in this chapter. In computing its denominators for all factors, the taxable member shall use the combined group's denominator for that factor. In computing the numerator of its receipts factor, each taxable member shall add to such numerator its share of receipts of nontaxable members assignable to this state, as provided in subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_218e__subsec_b__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>of this subsection.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_218e__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>The combined group shall determine its property and payroll factor denominators using the factors from all members, whether or not a member would otherwise apportion its income using such property and payroll factors.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_218e__subsec_b__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>Receipts assignable to this state of each nontaxable member shall be determined based upon the apportionment formula that would be applicable to such member if it were a taxable member and shall be aggregated. Each taxable member of the combined group shall include in the numerator of its receipts factor a portion of the aggregate receipts assignable to this state of nontaxable members based on a ratio, the numerator of which is such taxable member's receipts assignable to this state, without regard to this subsection, and the denominator of which is the aggregate receipts assignable to this state of all the taxable members of the combined group, without regard to this subsection.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_218e__subsec_b__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>In determining the numerator and denominator of the apportionment factors of taxable members, transactions between or among members of such combined group shall be eliminated.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_218e__subsec_b__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>If any member of a combined group required to file a combined unitary tax return pursuant to section12-222is taxable without this state, or is a financial service company, as defined in section12-218b, each taxable member shall be entitled to apportion its net income in accordance with this section.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_218e__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>To calculate each taxable member's net income or loss apportioned to this state, each taxable member shall apply its apportionment percentage, as determined pursuant to subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_218e__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section, to the combined group's net income.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_218e__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>After calculating its net income or loss apportioned to this state, pursuant to subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_218e__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of this section, each taxable member of a combined group required to file a combined unitary tax return pursuant to section12-222may deduct a net operating loss from its net income apportioned to this state as follows:</p>
+            </content>
+            <paragraph eId="12_218e__subsec_c__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>For income years beginning on or after January 1, 2016, if the computation of a combined group's net income results in a net operating loss, a taxable member of such group may carry over its net loss apportioned to this state, as calculated under subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_218e__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of this section, derived from the unitary business in a future income year to the extent that the carryover and deduction is otherwise consistent with subparagraph (A) of subdivision</p>
+            </content>
+            <paragraph eId="12_218e__subsec_c__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_218e__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of section12-217. Any taxable member that has more than one operating loss carryover shall apply the carryovers in the order that the operating loss was incurred, with the oldest carryover to be deducted first.</p>
+            </content>
+            <paragraph eId="12_218e__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>Where a taxable member of a combined group has an operating loss carryover derived from a loss incurred by a combined group in an income year beginning on or after January 1, 2016, then the taxable member may share the operating loss carryover with other taxable members of the combined group if such other taxable members were members of the combined group in the income year that the loss was incurred. Any amount of operating loss carryover that is deducted by another taxable member of the combined group shall reduce the amount of operating loss carryover that may be carried over by the taxable member that originally incurred the loss.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_218e__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>Where a taxable member of a combined group has an operating loss carryover derived from a loss incurred in an income year beginning prior to January 1, 2016, or derived from an income year during which the taxable member was not a member of such combined group, the carryover shall remain available to be deducted by that taxable member or other group members that, in the year the loss was incurred, were part of the same combined group as such taxable member under section12-223aor same unitary group as such taxable member under subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_218e__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>of section12-218dof the general statutes, revision of 1958, revised to January 1, 2015. Such carryover shall not be deductible by any other members of the combined group.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_218e__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>Each taxable member shall multiply its income or loss apportioned to this state, as calculated under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_218e__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of this section and as further modified by subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_218e__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>of this section, by the tax rate set forth in section12-214.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_218e__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>The additional tax base of taxable and nontaxable members of a combined group required to file a combined unitary tax return pursuant to section12-222shall be calculated as follows:</p>
+            </content>
+            <paragraph eId="12_218e__subsec_f__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>Except as otherwise provided in subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_218e__subsec_f__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>of this subsection, members of the combined group shall calculate the combined group's additional tax base by aggregating their separate additional tax bases under subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_218e__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of section12-219provided (A) intercorporate stockholdings in the combined group shall be eliminated, (B) no deduction shall be allowed under subparagraph (B)(ii) of subdivision</p>
+            </content>
+            <paragraph eId="12_218e__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_218e__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of section12-219, for such intercorporate stockholdings, and (C) assets and liabilities attributable to transactions with another member of the combined group, including, but not limited to, a financial service company, as defined in section12-218b, shall be eliminated. In calculating the combined group's additional tax base, the separate additional tax bases of nontaxable members shall be included, as if those nontaxable members were taxable members. The amount calculated under this subdivision shall be apportioned to those members pursuant to subdivision</p>
+            </content>
+            <paragraph eId="12_218e__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_218e__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>of this section.</p>
+            </content>
+            <paragraph eId="12_218e__subsec_g__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>Members of the combined group that are financial service companies, as defined in section12-218b, shall not be included in the calculation of the combined group's additional tax base set forth in subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_218e__subsec_g__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>of this subsection. Financial service companies that are taxable members shall calculate their additional tax liability under subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_218e__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>of section12-219.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_218e__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>A taxable member of a combined group required to file a combined unitary tax return pursuant to section12-222shall determine its apportionment percentage under section12-219aas follows:</p>
+            </content>
+            <paragraph eId="12_218e__subsec_g__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>A taxable member whose separate additional tax base is included in the calculation of the combined group's additional tax base under subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_218e__subsec_g__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_218e__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>of this section shall apportion the combined group's additional tax base using the otherwise applicable apportionment formula provided in section12-219a. However, the denominator of such apportionment fraction shall be the sum of subdivisions</p>
+            </content>
+            <paragraph eId="12_218e__subsec_f__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_218e__subsec_f__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_218e__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of said section12-219afor all members whose separate additional tax bases are included in the calculation of the combined group's additional tax base under subdivision</p>
+            </content>
+            <paragraph eId="12_218e__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_218e__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>of this section. The numerator of such apportionment fraction shall be the sum of subparagraph (A) of subdivision</p>
+            </content>
+            <paragraph eId="12_218e__subsec_f__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_218e__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of said section12-219aand subparagraph (A) of subdivision</p>
+            </content>
+            <paragraph eId="12_218e__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_218e__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of said section12-219afor such taxable member.</p>
+            </content>
+            <paragraph eId="12_218e__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>Taxable members of the combined group that are financial service companies, as defined in section12-218b, shall each have an additional tax liability as described in subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_218e__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_218e__subsec_h">
+            <num>(h)</num>
+            <content>
+              <p>of this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_218e__subsec_h">
+            <num>(h)</num>
+            <paragraph eId="12_218e__subsec_h__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>A taxable member whose separate additional tax base is included in the calculation of the combined group's additional tax base under subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_218e__subsec_h__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_218e__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>of this section shall multiply the combined group's additional tax base, as calculated under subdivision</p>
+            </content>
+            <paragraph eId="12_218e__subsec_f__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_218e__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>of this section, by such member's apportionment fraction determined in subdivision</p>
+            </content>
+            <paragraph eId="12_218e__subsec_f__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_218e__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>of this section, by the tax rate set forth in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_218e__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of section12-219. In no event shall the aggregate tax so calculated for all members of the combined group exceed one million dollars, nor shall a tax credit allowed against the tax imposed by this chapter reduce a taxable member's tax calculated under this subsection to an amount less than two hundred fifty dollars.</p>
+            </content>
+            <paragraph eId="12_218e__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>Taxable members of the combined group that are financial service companies, as defined in section12-218b, shall each have an additional tax liability of two hundred fifty dollars. In no event shall a tax credit allowed against the tax imposed by this chapter reduce a financial service company's tax calculated under this subsection to an amount less than two hundred fifty dollars.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_218e__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>To the extent that the aggregate amount of tax calculated on each taxable member's additional tax base exceeds one million dollars, each taxable member will prorate its tax, in proportion to the group's tax calculated without regard to the one-million-dollar cap, such that the group's aggregate additional tax equals one million dollars.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_218e__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>If the aggregate amount of tax calculated on each taxable member's apportioned net income under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_218e__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>of this section equals or exceeds the aggregate amount of tax calculated on each taxable member's apportioned additional tax base under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_218e__subsec_h">
+            <num>(h)</num>
+            <content>
+              <p>of this section, each taxable member shall be subject to tax on its net income. If the aggregate amount of tax calculated on each taxable member's apportioned additional tax base under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_218e__subsec_h">
+            <num>(h)</num>
+            <content>
+              <p>of this section exceeds the aggregate amount of tax calculated on each taxable member's apportioned net income under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_218e__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>of this section, each taxable member shall be subject to tax on its additional tax base.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_218e__subsec_j">
+            <num>(j)</num>
+            <paragraph eId="12_218e__subsec_j__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>Each taxable member of a combined group required to file a combined unitary tax return pursuant to section12-222shall separately apply the provisions of sections12-217eeand12-217zzin determining the amount of tax credit available to such member.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_218e__subsec_j__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>If a taxable member of a combined group earns a tax credit in an income year beginning on or after January 1, 2016, then the taxable member may share the credit with other taxable members of the combined group. Any amount of credit that is utilized by another taxable member of the combined group shall reduce the amount of credit carryover that may be carried over by the taxable member that originally earned the credit. If a taxable member of a combined group has a tax credit carryover derived from an income year beginning on or after January 1, 2016, then the taxable member may share the carryover credit with other taxable members of the combined group, if such other taxable members were members of the combined group in the income year in which the credit was earned.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_218e__subsec_j__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>If a taxable member of a combined group has a tax credit carryover derived from an income year beginning prior to January 1, 2016, or derived from an income year during which the taxable member was not a member of such combined group, the credit carryover shall remain available to be utilized by such taxable member or other group members which, in the year the credit was earned, were part of the same combined group as such taxable member under section12-223aor the same unitary group as such taxable member under subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_218e__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>of section12-218dof the general statutes, revision of 1958, revised to January 1, 2015.</p>
+            </content>
+            <paragraph eId="12_218e__subsec_d__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>To the extent a taxable member has more than one corporation business tax credit that it may utilize in an income year, whether such credits were earned by said member or are available to said member in accordance with subdivisions</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_218e__subsec_d__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_218e__subsec_d__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>of this subsection, the credits shall be claimed in the same order as provided in section12-217aa.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_218e__subsec_k">
+            <num>(k)</num>
+            <paragraph eId="12_218e__subsec_k__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>In no event shall the tax calculated for a combined group on a combined unitary basis, prior to surtax and application of credits, exceed the nexus combined base tax described in subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_218e__subsec_k__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>of this subsection by more than two million five hundred thousand dollars.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_218e__subsec_k__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>(A) The nexus combined base tax equals the tax measured on the sum of the separate net income or loss of each taxable member or the minimum tax base of each taxable member as if such members were not required to file a combined unitary tax return, but only to the extent that such income, loss or minimum tax base of any taxable member is separately apportioned to Connecticut in accordance with the applicable provisions of section12-218,12-218b,12-219aor12-244. In computing such net income or loss, intercorporate dividends shall be eliminated, and in computing the combined additional tax base, intercorporate stockholdings shall be eliminated.
+(B) In computing such net income or loss, any intangible expenses and costs, as defined in section12-218c, any interest expenses and costs, as defined in section12-218c, and any income attributable to such intangible expenses and costs or to such interest expenses and costs shall be eliminated, provided the corporation that is required to make adjustments under section12-218cfor such intangible expenses and costs or for such interest expenses and costs, and the related member or members, as defined in section12-218c, are both taxable members of the combined group. If any such income and any such expenses and costs are eliminated as provided in this subparagraph, the intangible property, as defined in section12-218c, of the corporation eliminating such income shall not be taken into account in apportioning under the provisions of section12-219athe tax calculated under subsection</p>
+              </content>
+              <subparagraph eId="12_218e__subsec_k__subsec_2__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>The nexus combined base tax equals the tax measured on the sum of the separate net income or loss of each taxable member or the minimum tax base of each taxable member as if such members were not required to file a combined unitary tax return, but only to the extent that such income, loss or minimum tax base of any taxable member is separately apportioned to Connecticut in accordance with the applicable provisions of section12-218,12-218b,12-219aor12-244. In computing such net income or loss, intercorporate dividends shall be eliminated, and in computing the combined additional tax base, intercorporate stockholdings shall be eliminated.</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_218e__subsec_k__subsec_2__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>In computing such net income or loss, any intangible expenses and costs, as defined in section12-218c, any interest expenses and costs, as defined in section12-218c, and any income attributable to such intangible expenses and costs or to such interest expenses and costs shall be eliminated, provided the corporation that is required to make adjustments under section12-218cfor such intangible expenses and costs or for such interest expenses and costs, and the related member or members, as defined in section12-218c, are both taxable members of the combined group. If any such income and any such expenses and costs are eliminated as provided in this subparagraph, the intangible property, as defined in section12-218c, of the corporation eliminating such income shall not be taken into account in apportioning under the provisions of section12-219athe tax calculated under subsection</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_218e__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of section12-219of such corporation.
+(C) In computing the apportionment fraction under this subdivision:</p>
+            </content>
+          </subsection>
+          <subsection eId="12_218e__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Intercompany rents shall not be included in the computation of the value of property rented if the lessor and lessee are both taxable members in the combined unitary tax return; and
+(ii) Intercompany business receipts, receipts by a taxable member included in a combined unitary tax return from any other taxable member included in such return, shall not be included.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-3"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-3"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17b-3"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-3/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-3/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-3/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-3/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319o">
+        <num>319o</num>
+        <heading>Personal Care Assistance</heading>
+        <section eId="sec_17b_3">
+          <num>17b-3</num>
+          <heading>Commissioner of Social Services: Powers and duties</heading>
+          <subsection eId="17b_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The Commissioner of Social Services shall administer all law under the jurisdiction of the Department of Social Services. The commissioner shall have the power and duty to do the following:</p>
+            </content>
+            <paragraph eId="17b_3__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>Administer, coordinate and direct the operation of the department;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_3__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>adopt and enforce such regulations, in accordance with chapter 54, as are necessary to implement the purposes of the department as established by statute;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_3__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>establish rules for the internal operation and administration of the department;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_3__subsec_a__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>establish and develop programs and administer services to achieve the purposes of the department as established by statute;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_3__subsec_a__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>enter into a contract, including, but not limited to, up to five contracts with other states, for facilities, services and programs to implement the purposes of the department as established by statute;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_3__subsec_a__subsec_6">
+              <num>(6)</num>
+              <content>
+                <p>process applications and requests for services promptly;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_3__subsec_a__subsec_7">
+              <num>(7)</num>
+              <content>
+                <p>with the approval of the Comptroller and in accordance with such procedures as may be specified by the Comptroller, make payments to providers of services for individuals who are eligible for benefits from the department as appropriate;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_3__subsec_a__subsec_8">
+              <num>(8)</num>
+              <content>
+                <p>make no duplicate awards for items of assistance once granted, except for replacement of lost or stolen checks on which payment has been stopped;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_3__subsec_a__subsec_9">
+              <num>(9)</num>
+              <content>
+                <p>promote economic self-sufficiency where appropriate in the department's programs, policies, practices and staff interactions with recipients;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_3__subsec_a__subsec_10">
+              <num>(10)</num>
+              <content>
+                <p>act as advocate for the need of more comprehensive and coordinated programs for persons served by the department;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_3__subsec_a__subsec_11">
+              <num>(11)</num>
+              <content>
+                <p>plan services and programs for persons served by the department;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_3__subsec_a__subsec_12">
+              <num>(12)</num>
+              <content>
+                <p>coordinate outreach activities by public and private agencies assisting persons served by the department;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_3__subsec_a__subsec_13">
+              <num>(13)</num>
+              <content>
+                <p>consult and cooperate with area and private planning agencies;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_3__subsec_a__subsec_14">
+              <num>(14)</num>
+              <content>
+                <p>advise and inform municipal officials and officials of social service agencies about social service programs and collect and disseminate information pertaining thereto, including information about federal, state, municipal and private assistance programs and services;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_3__subsec_a__subsec_15">
+              <num>(15)</num>
+              <content>
+                <p>encourage and facilitate effective communication and coordination among federal, state, municipal and private agencies;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_3__subsec_a__subsec_16">
+              <num>(16)</num>
+              <content>
+                <p>inquire into the utilization of state and federal government resources which offer solutions to problems of the delivery of social services;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_3__subsec_a__subsec_17">
+              <num>(17)</num>
+              <content>
+                <p>conduct, encourage and maintain research and studies relating to social services development;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_3__subsec_a__subsec_18">
+              <num>(18)</num>
+              <content>
+                <p>prepare, review and encourage model comprehensive social service programs;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_3__subsec_a__subsec_19">
+              <num>(19)</num>
+              <content>
+                <p>maintain an inventory of data and information and act as a clearing house and referral agency for information on state and federal programs and services; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_3__subsec_a__subsec_20">
+              <num>(20)</num>
+              <content>
+                <p>conduct, encourage and maintain research and studies and advise municipal officials and officials of social service agencies about forms of intergovernmental cooperation and coordination between public and private agencies designed to advance social service programs. The commissioner may require notice of the submission of all applications by municipalities, any agency thereof, and social service agencies, for federal and state financial assistance to carry out social services. The commissioner shall establish state-wide and regional advisory councils.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The Commissioner of Social Services is authorized to do all things necessary to apply for, qualify for and accept any federal funds made available or allotted under any federal act for social service development, or any other projects, programs or activities which may be established by federal law, for any of the purposes or activities related thereto, and said commissioner shall administer any such funds allotted to the department in accordance with federal law. The commissioner may enter into contracts with the federal government concerning the use and repayment of such funds under any such federal act, the prosecution of the work under any such contract and the establishment of and disbursement from a separate account in which federal and state funds estimated to be required for plan preparation or other eligible activities under such federal act shall be kept. Said account shall not be a part of the General Fund of the state or any subdivision of the state.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_3__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The powers and duties enumerated in this section shall be in addition to and shall not limit any other powers or duties of the commissioner contained in any other law.
+See Sec. 19a-45a re memorandum of understanding between Commissioners of Social Services and Public Health to improve delivery of public health services for low-income populations.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

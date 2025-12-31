@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-274"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-274"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17a-274"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-274/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-274/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-274/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-274/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319c">
+        <num>319c</num>
+        <heading>Early Childhood Programs</heading>
+        <section eId="sec_17a_274">
+          <num>17a-274</num>
+          <heading>(Formerly Sec. 19a-448). Involuntary placements with the Department of Developmental Services. Petition. Notice and hearing. Rights of respondent. Examination by psychologist. Temporary placement. Evaluation of needs. Fraudulent or malicious petitions</heading>
+          <subsection eId="17a_274__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Any Probate Court shall have the power to place any person residing in its district whom it finds to be a person with intellectual disability, as defined in section1-1g, with the Department of Developmental Services for placement in any appropriate setting which meets the person's habilitative needs in the least restrictive environment available or which can be created within existing resources of the department, in accordance with the provisions of this section and section17a-276. No person shall be so placed unless the court has found the person has intellectual disability, as defined in section1-1g, and</p>
+            </content>
+            <paragraph eId="17a_274__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>is unable to provide for himself or herself at least one of the following: Education, habilitation, care for personal health and mental health needs, meals, clothing, safe shelter or protection from harm;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_274__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>has no family or legal representative or other person to care for him or her, or such person's family or legal representative or other person can no longer provide adequate care for him or her;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_274__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>is unable to obtain adequate, appropriate services which would enable such person to receive care, treatment and education or habilitation without placement by a Probate Court; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_274__subsec_a__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>is not willing to be placed under the custody and control of the Department of Developmental Services or its agents or voluntary admission has been sought by the legal representative of such person and such voluntary admission has been opposed by the protected person or the protected person's next of kin.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17a_274__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>A petition to the Probate Court for placement under this section may be filed by any interested party. The petition and all records of Probate Court proceedings held as a result of the filing of such petition shall be confidential and shall not be open to public inspection by or disclosed to any person, except that</p>
+            </content>
+            <paragraph eId="17a_274__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>such records shall be available to (A) the parties in any such case and their counsel, (B) the Department of Developmental Services, and (C) the Office of the Probate Court Administrator;</p>
+              </content>
+              <subparagraph eId="17a_274__subsec_b__subsec_1__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>the parties in any such case and their counsel,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17a_274__subsec_b__subsec_1__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>the Department of Developmental Services, and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17a_274__subsec_b__subsec_1__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>the Office of the Probate Court Administrator;</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="17a_274__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>if the court appoints a legal representative, the names of the legal representative and the protected person shall be public; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_274__subsec_b__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>the court may, after hearing with notice to the respondent, the respondent's counsel, the legal representative and the Department of Developmental Services, permit records to be disclosed for cause shown. The petition shall allege that the respondent is a person with intellectual disability and (A) is unable to provide for himself or herself at least one of the following: Education, habilitation, care for personal health and mental health needs, meals, clothing, safe shelter or protection from harm; (B) has no family or legal representative or other person to care for the respondent or the respondent's family or the legal representative or other person can no longer provide adequate care for the respondent; (C) is unable to obtain adequate, appropriate services which would enable the respondent to receive care, treatment and education or habilitation without placement by a Probate Court; and (D) is not willing to be placed under the custody and control of the Department of Developmental Services or its agents or voluntary admission has been sought by the legal representative of the respondent and such voluntary admission has been opposed by the protected person or the protected person's next of kin.</p>
+              </content>
+              <subparagraph eId="17a_274__subsec_b__subsec_3__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>is unable to provide for himself or herself at least one of the following: Education, habilitation, care for personal health and mental health needs, meals, clothing, safe shelter or protection from harm;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17a_274__subsec_b__subsec_3__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>has no family or legal representative or other person to care for the respondent or the respondent's family or the legal representative or other person can no longer provide adequate care for the respondent;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17a_274__subsec_b__subsec_3__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>is unable to obtain adequate, appropriate services which would enable the respondent to receive care, treatment and education or habilitation without placement by a Probate Court; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17a_274__subsec_b__subsec_3__subsec_D">
+                <num>(D)</num>
+                <content>
+                  <p>is not willing to be placed under the custody and control of the Department of Developmental Services or its agents or voluntary admission has been sought by the legal representative of the respondent and such voluntary admission has been opposed by the protected person or the protected person's next of kin.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="17a_274__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Immediately upon the filing of the petition, the Probate Court shall assign a time, date and place for a hearing, such hearing to be held not later than thirty business days from the date of receipt of the petition. The court shall give notice of the hearing to</p>
+            </content>
+            <paragraph eId="17a_274__subsec_c__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>the petitioner;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_274__subsec_c__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>the respondent;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_274__subsec_c__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>the respondent's legal representative;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_274__subsec_c__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>the respondent's spouse or, if none;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_274__subsec_c__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>the respondent's children or, if none;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_274__subsec_c__subsec_6">
+              <num>(6)</num>
+              <content>
+                <p>the respondent's parents or, if none;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_274__subsec_c__subsec_7">
+              <num>(7)</num>
+              <content>
+                <p>the respondent's siblings;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_274__subsec_c__subsec_8">
+              <num>(8)</num>
+              <content>
+                <p>the Commissioner of Developmental Services, or the commissioner's designee; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_274__subsec_c__subsec_9">
+              <num>(9)</num>
+              <content>
+                <p>at the court's discretion, other persons having an interest in the respondent.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17a_274__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Notice to the respondent and Commissioner of Developmental Services shall include: The names of all persons filing the petition, the allegations made in the petition, the time, date and place of the hearing, and the name, address and telephone number of the attorney who will represent the respondent. The notice shall state the right of the respondent to be present at the hearing, to present evidence, to cross-examine witnesses who testify at the hearing, and to an independent diagnostic and evaluative examination by a licensed psychologist of the respondent's own choice, who may testify on the respondent's behalf. If the court finds the respondent is indigent, the notice shall further state the respondent may be represented by counsel of the respondent's own choosing, and, if the court finds the respondent is indigent, that counsel shall be provided without cost. The reasonable compensation for counsel provided to indigent respondents shall be established by, and paid from funds appropriated to, the Judicial Department, however, if funds have not been included in the budget of the Judicial Department for such purposes, such compensation shall be established by the Probate Court Administrator and paid from the Probate Court Administration Fund.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_274__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>Unless the respondent is represented by counsel, the court shall immediately appoint an attorney to represent the respondent from a list of attorneys admitted to practice in this state provided by the Probate Court Administrator in accordance with regulations adopted by the Probate Court Administrator in accordance with section45a-77. Such attorney may, unless replaced, attend all examinations preceding the hearing and may copy or inspect any and all reports concerning the respondent.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_274__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>The court shall appoint a licensed psychologist from a panel of psychologists provided by the Probate Court Administrator to examine the respondent. The psychologist shall prepare a report on a form provided by the Probate Court. Such report shall include a statement as to whether the respondent has intellectual disability and an explanation of how the determination was reached. The explanation shall include the results of a psychological assessment within the past year, an interview or observation of the respondent, and an evaluation of adaptive behavior. Such report shall include a statement of the respondent's needs. Duplicate copies of the report shall be filed with the Commissioner of Developmental Services, or the commissioner's designee, and all attorneys of record not less than five days prior to the date of the hearing. The court shall order the psychologist to appear for cross-examination at the request of the respondent if the respondent makes such request not less than three days prior to the date of the hearing.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_274__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>If the court, after hearing, finds there is clear and convincing evidence that the respondent has intellectual disability and meets the criteria set out in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_274__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section, the court shall order the respondent placed with the Department of Developmental Services for placement in the least restrictive environment available or which can be created within existing resources of the department.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_274__subsec_h">
+            <num>(h)</num>
+            <content>
+              <p>If, after hearing, the court determines that the respondent's need for placement is so critical as to require immediate placement, the court shall order the respondent to be temporarily placed in the most appropriate available placement. The Department of Developmental Services upon receipt of such order shall place the respondent in such setting and shall proceed according to subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_274__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>of this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_274__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>The Department of Developmental Services, upon receipt of an order pursuant to subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_274__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>of this section, shall arrange for an interdisciplinary team to evaluate the respondent, determine the respondent's priority needs for support services and determine the least restrictive environment in which those needs could be met. The Department of Developmental Services shall place the respondent as soon as possible. If no placement has become available not later than sixty days after the date that the respondent's need for residential support services was determined, the Commissioner of Developmental Services, or the commissioner's designee, shall so advise the court and shall continue to report to the court every thirty days thereafter until an appropriate placement is available.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_274__subsec_j">
+            <num>(j)</num>
+            <content>
+              <p>Upon receipt of a report under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_274__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>of this section, the Probate Court, if it determines that the respondent's need is so critical as to require immediate placement, shall order the respondent to be temporarily placed in the most appropriate available placement.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_274__subsec_k">
+            <num>(k)</num>
+            <content>
+              <p>Any person or agency having reasonable cause to believe that a person has intellectual disability and is in need of immediate care and treatment for such person's safety and welfare, which care and treatment is not being provided by such person's family, legal representative or other person responsible for such person's care, shall make a written report to the Commissioner of Developmental Services. The report shall contain the name and address of the person believed to have intellectual disability and be in need of immediate care and treatment, and such person's family, legal representative or other person responsible for such person's care, and all evidence forming the basis for such belief and shall be signed and dated by the person making such report. The Commissioner of Developmental Services, or the commissioner's designee, shall promptly determine whether there is reasonable cause to believe that the person named in the report has intellectual disability and is in need of immediate care and treatment, which care and treatment is not being provided by such person's family, legal representative or other person responsible for such person's care and if the commissioner, or the commissioner's designee, so determines, shall assume the care and custody of such person. The commissioner or the commissioner's designee shall, within twenty-four hours, excluding Saturdays, Sundays and legal holidays, after assuming the care and custody of such person, file a petition pursuant to subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_274__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section in the Probate Court for the district in which such person resided prior to emergency placement. The Probate Court in which such application is filed shall assign a time and place for a hearing pursuant to subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_274__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_274__subsec_l">
+            <num>(l)</num>
+            <content>
+              <p>In the event that any person placed under the provisions of this section is recommended for transfer by the Department of Developmental Services, the department shall proceed as required by subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_274__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of section17a-210eand shall in addition notify the Probate Court which made the placement.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_274__subsec_m">
+            <num>(m)</num>
+            <content>
+              <p>Any person who wilfully files or attempts to file, or conspires with any person to file a fraudulent or malicious petition for the placement of any person pursuant to this section, shall be guilty of a class D felony.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_274__subsec_n">
+            <num>(n)</num>
+            <content>
+              <p>For the purposes of this section,</p>
+            </content>
+            <paragraph eId="17a_274__subsec_n__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>“interdisciplinary team” means a group of persons appointed by the Commissioner of Developmental Services, or the commissioner's designee, including a social worker, psychologist, nurse, residential programmer, educational or vocational programmer and such other persons as may be appropriate;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_274__subsec_n__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>“intellectual disability” has the same meaning as provided in section1-1g;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_274__subsec_n__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>“respondent” means a person alleged to be a person with intellectual disability for whom a petition for placement has been filed; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_274__subsec_n__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>“placement” means placement in a community companion home, community living arrangement, group home, regional facility, other residential facility or residential program for persons with intellectual disability.
+See Sec. 17a-282 re recommitment and transfers of committed persons with intellectual disability.
+See Sec. 17a-474 re release and transfer of inmates of humane institutions.
+See Sec. 17b-732 re uniform forms for commitment of minors.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

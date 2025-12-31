@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-62n"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-62n"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-62n"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-62n/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-62n/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-62n/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-62n/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_203">
+        <num>203</num>
+        <heading>Property Tax Assessment</heading>
+        <section eId="sec_12_62n">
+          <num>12-62n</num>
+          <heading>Municipal option to adopt assessment rates limiting property tax increases on apartment and residential properties</heading>
+          <subsection eId="12_62n__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>For the purposes of this section:</p>
+            </content>
+            <paragraph eId="12_62n__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>“Apartment property” means a building containing five or more dwelling units used for human habitation, the parcel of land on which such building is situated, and any accessory buildings or other improvements located on such parcel;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_62n__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>“Base year” means the fiscal year immediately preceding the fiscal year in which a municipality levies property taxes on the basis of assessments derived from a revaluation implemented pursuant to section12-62; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_62n__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>“Residential property” means a building containing four or fewer dwelling units used for human habitation, the parcel of land on which such building is situated, and any accessory buildings or other improvements located on such parcel.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_62n__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Notwithstanding any provision of the general statutes or any special act, municipal charter or any home rule ordinance, any municipality in which the provisions of section12-62dare effective for the assessment year commencing October 1, 2005, may, by ordinance, adopt the property tax system described in this section, provided the assessor of such municipality determines that without implementation of such property tax system, implementation of a revaluation for the assessment year commencing October 1, 2006, would result in an increase of twenty per cent in the share of the total grand levy for all property in the year following the base year, for the property classes composed of apartment property and residential property.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_62n__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>In any municipality that adopts the property tax system under this section, the assessor shall determine a rate of assessment for apartment property and residential property for the assessment year in which a revaluation is effective, that will have the effect of increasing the average property tax as a result of revaluation for the property classes composed of apartment property and residential property, by three and one-half per cent over the property tax for said property classes in the base year. Tax increases on apartment property and residential property provided for in this subsection shall be used to reduce, in the amount derived from such increases, the surcharge under section12-62d. The assessor shall recalculate the rate of assessment for apartment property and residential property for each of the four assessment years following the assessment year in which the provisions of this section become effective such that the average property tax for the property classes composed of apartment property and residential property increases as a result of said revaluation by three and one-half per cent over the average property tax provided by this subsection for such property classes in each prior fiscal year. Notwithstanding the provisions of subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_62n__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of section12-62a, the assessor shall establish a rate of assessment for all real property other than apartment property and residential property, to effectuate the provisions of this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_62n__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Subject to the apartment and residential property tax relief described in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_62n__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of this section and concurrent with the assessment year in which a municipality adopts and implements the property tax system under this section, such municipality shall begin to phase out proportionately the impact of the property tax surcharge under section12-62dto the extent necessary to accomplish the purposes of this section. For the assessment year commencing October 1, 2010, such property tax surcharge shall not exceed seven and one-half per cent of the property tax for all property other than apartment property and residential property.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

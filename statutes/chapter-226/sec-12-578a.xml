@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-578a"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-578a"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-578a"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-578a/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-578a/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-578a/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-578a/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_226">
+        <num>226</num>
+        <heading>Prepared Food and Beverage Tax</heading>
+        <section eId="sec_12_578a">
+          <num>12-578a</num>
+          <heading>Regulation of casino gaming facility</heading>
+          <subsection eId="12_578a__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Not later than twelve months after the date any authorization of a casino gaming facility by any provision of the general statutes or a public or special act is effective, the commissioner shall adopt regulations, in accordance with the provisions of chapter 54, for the administration of casino gaming facilities. Such regulations shall include provisions to protect the public interest in the integrity of gaming operations and reduce the dangers of unsuitable, unfair or illegal practices, methods and activities in the conduct of gaming. Such regulations shall include, but need not be limited to:</p>
+            </content>
+            <paragraph eId="12_578a__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>Minimum accounting standards for a casino gaming facility;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_578a__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>Minimum security procedures including the video monitoring of casino gaming facilities;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_578a__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>Approved hours of operation for gaming and nongaming activities at casino gaming facilities;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_578a__subsec_a__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>Procedures governing the manufacture, sale, lease and distribution of gaming devices and equipment for use in casino gaming facilities;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_578a__subsec_a__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>Procedures for the recovery of winnings by patrons of casino gaming facilities;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_578a__subsec_a__subsec_6">
+              <num>(6)</num>
+              <content>
+                <p>Procedures governing how gross gaming revenue is calculated and reported by a casino gaming facility;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_578a__subsec_a__subsec_7">
+              <num>(7)</num>
+              <content>
+                <p>Requirements for regular auditing of the financial statements of a casino gaming facility;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_578a__subsec_a__subsec_8">
+              <num>(8)</num>
+              <content>
+                <p>Procedures to be followed by any casino gaming facility for cash transactions;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_578a__subsec_a__subsec_9">
+              <num>(9)</num>
+              <content>
+                <p>Procedures regarding the maintenance of lists of persons banned from any casino gaming facility and security measures to enforce such bans;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_578a__subsec_a__subsec_10">
+              <num>(10)</num>
+              <content>
+                <p>Standards for the provision of complimentary goods and services to casino gaming facility patrons;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_578a__subsec_a__subsec_11">
+              <num>(11)</num>
+              <content>
+                <p>Minimum standards of training for persons employed in a casino gaming facility;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_578a__subsec_a__subsec_12">
+              <num>(12)</num>
+              <content>
+                <p>Procedures governing the submission of standards of operation and management of gaming operations by casino gaming facilities to the commissioner; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_578a__subsec_a__subsec_13">
+              <num>(13)</num>
+              <content>
+                <p>Requirements for information and reports from casino gaming facilities to enable effective auditing of casino gaming operations.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_578a__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Until such regulations are adopted and in effect, a casino gaming facility may operate pursuant to its standards of operation and management, provided such standards are approved by the commissioner pursuant to section12-578b.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

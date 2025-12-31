@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-39a"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-39a"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-39a"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-39a/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-39a/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-39a/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-39a/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_202">
+        <num>202</num>
+        <heading>Collection of State Taxes</heading>
+        <section eId="sec_12_39a">
+          <num>12-39a</num>
+          <heading>Payment date when last date is a Saturday, Sunday, holiday or date for a permissible delay under the federal Internal Revenue Code</heading>
+          <subsection eId="12_39a__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>When the final day prescribed under authority of the general statutes for performing any act which is required or permitted to be performed, by a taxpayer or by the Department of Revenue Services, in connection with any tax payable to the Commissioner of Revenue Services falls on Saturday, Sunday or a legal holiday, as defined in section1-4, the performance of such act will be considered timely if such act is performed on the next succeeding day which is not a Saturday, Sunday or legal holiday.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_39a__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>For purposes of the timely performance of any act which is required or permitted to be performed, by a taxpayer or by the Department of Revenue Services, in connection with</p>
+            </content>
+            <paragraph eId="12_39a__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>the tax imposed under chapter 229,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_39a__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>the tax imposed on individuals who make purchases of services or tangible personal property, the storage, acceptance, consumption or other use of which is subject to the use tax under chapter 219, who have not paid the use tax due to any retailer required to collect the tax, and who make such purchases for personal use or consumption in this state, and not for use or consumption in carrying on a trade, occupation, business or profession, and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_39a__subsec_b__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>the tax imposed under chapter 228c, “legal holiday” includes any legal holiday, as defined in Section 7503 of the Internal Revenue Code of 1986, or any subsequent corresponding internal revenue code of the United States, as from time to time amended.
+See Sec. 12-169 re payment date for local taxes due on Saturday, Sunday or legal holiday.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

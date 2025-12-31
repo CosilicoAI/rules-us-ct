@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-65h"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-65h"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-65h"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-65h/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-65h/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-65h/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-65h/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_203">
+        <num>203</num>
+        <heading>Property Tax Assessment</heading>
+        <section eId="sec_12_65h">
+          <num>12-65h</num>
+          <heading>Agreements between municipality and owner or lessee of real property or air space containing a manufacturing facility or a wholesale and retail business fixing the assessment of personal property</heading>
+          <content>
+            <p>Sec. 12-65h. Agreements between municipality and owner or lessee of real property or air space containing a manufacturing facility or a wholesale and retail business fixing the assessment of personal property.Any municipality may, by affirmative vote of its legislative body, enter into a written agreement with any party owning or proposing to acquire an interest in real property in such municipality, or with any party owning or proposing to acquire an interest in air space in such municipality, or with any party who is the lessee of, or who proposes to be the lessee of, air space in such municipality in such a manner that the air space leased or proposed to be leased shall be assessed to the lessee pursuant to section12-64, upon which is located or proposed to be located a manufacturing facility, as defined in subdivision (72) of section12-81, or a wholesale and retail business, as defined in subdivision (54) of section12-81, fixing the assessment of the personal property located in the facility that is the subject of the agreement, (1) for a period of not more than seven years, provided the increase in the assessed value of such personal property in such facility or wholesale and retail business is not less than three million dollars, (2) for a period of not more than two years, provided the increase in the assessed value of such personal property in such facility or wholesale and retail business is not less than five hundred thousand dollars, or (3) to the extent of not more than fifty per cent of such increased assessment, for a period of not more than three years, provided the increase in the assessed value of such personal property in such facility or wholesale and retail business is not less than twenty-five thousand dollars.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

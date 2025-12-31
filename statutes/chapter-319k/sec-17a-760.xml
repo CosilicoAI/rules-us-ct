@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-760"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-760"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17a-760"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-760/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-760/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-760/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-760/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319k">
+        <num>319k</num>
+        <heading>Connecticut Home Care Program for Elders</heading>
+        <section eId="sec_17a_760">
+          <num>17a-760</num>
+          <heading>Regional human services coordinating councils</heading>
+          <subsection eId="17a_760__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>On or after January 1, 2015, there shall be established a regional human services coordinating council for each planning region redesignated pursuant to section16a-4cto encourage collaborations that will foster the development and maintenance of a client-focused structure for the health and human services system in the region.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_760__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Membership on the regional human services coordinating councils established under this section shall include the Commissioners of Developmental Services, Social Services, Children and Families, Mental Health and Addiction Services, Correction, Education and Public Health, or said commissioners' designees, and the executive director of the Court Support Services Division of the Judicial Branch, or the executive director's designee. Additional membership shall be determined at the discretion of the executive director of each regional council of governments. Such membership may include, but not be limited to:</p>
+            </content>
+            <paragraph eId="17a_760__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>Municipal elected officials,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_760__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>workforce development boards,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_760__subsec_b__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>nonprofit agencies, and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_760__subsec_b__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>family advocacy groups.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17a_760__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Each regional human services coordinating council established under this section shall meet not less than twice annually to</p>
+            </content>
+            <paragraph eId="17a_760__subsec_c__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>ensure that regional plans and activities are coordinated with the human service needs of each region, and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_760__subsec_c__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>develop approaches to improve service delivery and achieve cost savings in the region.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

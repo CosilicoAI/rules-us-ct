@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-674d"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-674d"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17a-674d"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-674d/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-674d/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-674d/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-674d/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319j">
+        <num>319j</num>
+        <heading>Health Care For Uninsured Children</heading>
+        <section eId="sec_17a_674d">
+          <num>17a-674d</num>
+          <heading>Opioid Settlement Advisory Committee. Membership. Duties</heading>
+          <subsection eId="17a_674d__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>There is established an Opioid Settlement Advisory Committee to ensure</p>
+            </content>
+            <paragraph eId="17a_674d__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>that proceeds received by the state pursuant to section17a-674care allocated and spent on substance use disorder abatement infrastructure, programs, services, supports and resources for prevention, treatment, recovery and harm reduction, and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_674d__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>robust public involvement, accountability and transparency in allocating and accounting for the moneys in the fund.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17a_674d__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The committee shall consist of the following members:</p>
+            </content>
+            <paragraph eId="17a_674d__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>The Secretary of the Office of Policy and Management, or the secretary's designee;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_674d__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>The Attorney General, or the Attorney General's designee;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_674d__subsec_b__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>The Commissioners of Children and Families, Mental Health and Addiction Services and Public Health, or said commissioners' designees, who shall serve as ex-officio members;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_674d__subsec_b__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>The president pro tempore of the Senate, the speaker of the House of Representatives, the majority leaders of the Senate and House of Representatives, the minority leaders of the Senate and House of Representatives, the Senate and House chairpersons and ranking members of the joint standing committees of the General Assembly having cognizance of matters relating to appropriations and the budgets of state agencies and public health, or their designees, provided such persons have experience living with a substance use disorder or are the family member of a person who has experience living with a substance use disorder;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_674d__subsec_b__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>Twenty-three individuals representing municipalities, who shall be appointed by the Governor;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_674d__subsec_b__subsec_6">
+              <num>(6)</num>
+              <content>
+                <p>The executive director of the Commission on Racial Equity in Public Health, or a representative of the commission designated by the executive director; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_674d__subsec_b__subsec_7">
+              <num>(7)</num>
+              <content>
+                <p>Eight individuals appointed by the commissioner as follows: (A) A provider of community-based substance use treatment services for adults, who shall be a nonvoting member; (B) a provider of community-based substance use treatment services for adolescents, who shall be a nonvoting member; (C) an addiction medicine licensed health care professional with prescribing ability, who shall be a nonvoting member; (D) three individuals with experience living with a substance use disorder or family members of an individual with experience living with a substance use disorder; and (E) two individuals with experience supporting infants and children affected by the opioid crisis.</p>
+              </content>
+              <subparagraph eId="17a_674d__subsec_b__subsec_7__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>A provider of community-based substance use treatment services for adults, who shall be a nonvoting member;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17a_674d__subsec_b__subsec_7__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>a provider of community-based substance use treatment services for adolescents, who shall be a nonvoting member;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17a_674d__subsec_b__subsec_7__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>an addiction medicine licensed health care professional with prescribing ability, who shall be a nonvoting member;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17a_674d__subsec_b__subsec_7__subsec_D">
+                <num>(D)</num>
+                <content>
+                  <p>three individuals with experience living with a substance use disorder or family members of an individual with experience living with a substance use disorder; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17a_674d__subsec_b__subsec_7__subsec_E">
+                <num>(E)</num>
+                <content>
+                  <p>two individuals with experience supporting infants and children affected by the opioid crisis.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="17a_674d__subsec_c">
+            <num>(c)</num>
+            <heading>The commissioner shall be co-chairperson of the committee</heading>
+            <content>
+              <p>The speaker of the House of Representatives and the president pro tempore of the Senate shall appoint a co-chairperson from among the individuals representing municipalities appointed pursuant to subdivision</p>
+            </content>
+            <paragraph eId="17a_674d__subsec_c__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17a_674d__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section. The co-chairpersons of the committee shall be nonvoting members.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_674d__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Notwithstanding any other provision of the general statutes, it shall not be a conflict of interest for a trustee, director, officer or employee of an organization, or for any person having a financial interest in such organization, to serve as a member of the committee, provided such trustee, director, officer, employee or person shall disclose such position or interest to all other members of the committee and abstain from deliberation, action and vote by the committee under this section that specifically concerns the organization of which such member is a trustee, director, officer or employee, or in which such member has a financial interest.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_674d__subsec_e">
+            <num>(e)</num>
+            <heading>All initial appointments to the committee shall be made not later than October 1, 2022</heading>
+            <content>
+              <p>Each member of the committee, other than the ex-officio members, shall serve for a term of two years, shall serve no more than two consecutive terms and may serve until a successor is appointed, except that in the event of any vacancy, the appointing authority shall fill such vacancy for the unexpired portion of such term. Any member of the committee may be removed by the appointing authority for misfeasance, malfeasance or wilful neglect of duty.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_674d__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>The committee shall have the following duties and powers:</p>
+            </content>
+            <paragraph eId="17a_674d__subsec_f__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>Recommend and approve policies and procedures for administration of the committee and criteria for the application, awarding and disbursement of moneys from the fund, to be used for the purposes set forth in section17a-674c;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_674d__subsec_f__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>Recommend and approve goals, objectives, rationales for such goals and objectives, sustainability plans and performance indicators relating to: (A) Substance use disorder prevention, treatment, recovery and harm reduction efforts, including, but not limited to, methods of engaging persons who utilize harm reduction services in treatment and recovery; (B) reducing disparities in access to prevention, treatment, recovery and harm reduction programs, services, supports and resources; and (C) improving health outcomes in traditionally underserved populations, including, but not limited to, persons who live in rural or tribal communities, are members of racial or ethnic minorities or were formerly incarcerated; and</p>
+              </content>
+              <subparagraph eId="17a_674d__subsec_f__subsec_2__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>Substance use disorder prevention, treatment, recovery and harm reduction efforts, including, but not limited to, methods of engaging persons who utilize harm reduction services in treatment and recovery;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17a_674d__subsec_f__subsec_2__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>reducing disparities in access to prevention, treatment, recovery and harm reduction programs, services, supports and resources; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17a_674d__subsec_f__subsec_2__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>improving health outcomes in traditionally underserved populations, including, but not limited to, persons who live in rural or tribal communities, are members of racial or ethnic minorities or were formerly incarcerated; and</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="17a_674d__subsec_f__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>Approve the allocation of moneys from the fund.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17a_674d__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>Notwithstanding the provisions of section2-5, the department shall:</p>
+            </content>
+            <paragraph eId="17a_674d__subsec_g__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>Employ a full-time manager of the committee and provide public health research and policy expertise, support staff, facilities, technical assistance and other resources to (A) assist the manager of the committee in planning and supporting the functions of the committee, including ensuring that proceeds received by this state pursuant to section17a-674care allocated and spent on substance use disorder abatement infrastructure, programs, services, supports, and resources for prevention, treatment, recovery and harm reduction, and (B) ensure robust public involvement, accountability and transparency in allocating and accounting for the moneys in the fund;</p>
+              </content>
+              <subparagraph eId="17a_674d__subsec_g__subsec_1__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>assist the manager of the committee in planning and supporting the functions of the committee, including ensuring that proceeds received by this state pursuant to section17a-674care allocated and spent on substance use disorder abatement infrastructure, programs, services, supports, and resources for prevention, treatment, recovery and harm reduction, and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17a_674d__subsec_g__subsec_1__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>ensure robust public involvement, accountability and transparency in allocating and accounting for the moneys in the fund;</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="17a_674d__subsec_g__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>Utilize, where feasible, appropriations from the General Fund and existing infrastructure, programs, services, supports or other resources to address substance use disorders, overdoses and drug-related harms;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_674d__subsec_g__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>Prepare for review and approval by the committee of the department's goals, objectives, rationales for such goals and objectives, sustainability plans and performance indicators relating to (A) substance use disorder prevention, treatment, recovery and harm reduction efforts, including, but not limited to, methods of engaging persons who utilize harm reduction services in treatment and recovery, and (B) reducing disparities in access to prevention, treatment, recovery and harm reduction programs, services, supports and resources;</p>
+              </content>
+              <subparagraph eId="17a_674d__subsec_g__subsec_3__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>substance use disorder prevention, treatment, recovery and harm reduction efforts, including, but not limited to, methods of engaging persons who utilize harm reduction services in treatment and recovery, and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17a_674d__subsec_g__subsec_3__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>reducing disparities in access to prevention, treatment, recovery and harm reduction programs, services, supports and resources;</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="17a_674d__subsec_g__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>Evaluate applications and make recommendations to the committee for the awarding of contracts and disbursements of moneys from the fund exclusively for permissible expenditures set forth in section17a-674c;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_674d__subsec_g__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>Upon receipt of final approval by the committee, disburse moneys from the fund exclusively for permissible expenditures set forth in section17a-674c;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_674d__subsec_g__subsec_6">
+              <num>(6)</num>
+              <content>
+                <p>Approve suspensions of allocations of moneys from the fund to recipients found by the committee or commissioner to (A) be substantially out of compliance with applicable contracts, policies, procedures, rules, regulations or state or federal law, or (B) have used such awards for a purpose other than an approved purpose, provided the committee may resume approval of such allocations once the committee has determined the recipient has adequately remedied the cause of such suspension;</p>
+              </content>
+              <subparagraph eId="17a_674d__subsec_g__subsec_6__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>be substantially out of compliance with applicable contracts, policies, procedures, rules, regulations or state or federal law, or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17a_674d__subsec_g__subsec_6__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>have used such awards for a purpose other than an approved purpose, provided the committee may resume approval of such allocations once the committee has determined the recipient has adequately remedied the cause of such suspension;</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="17a_674d__subsec_g__subsec_7">
+              <num>(7)</num>
+              <content>
+                <p>Maintain oversight over the expenditure of moneys from the fund to ensure moneys are used exclusively for the purposes set forth in section17a-674c, including, but not limited to, implementing procedures for evaluating the effectiveness of the infrastructure, programs, services, supports or resources that are funded pursuant to said section; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_674d__subsec_g__subsec_8">
+              <num>(8)</num>
+              <content>
+                <p>Implement and publish on the department's Internet web site policies and procedures for administration of the committee and for the application, awarding and disbursement of moneys from the fund, to be used for the purposes set forth in section17a-674c.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17a_674d__subsec_h">
+            <num>(h)</num>
+            <content>
+              <p>On or before October 1, 2023, and annually thereafter, recipients of moneys from the fund shall file with the committee an annual report for the prior fiscal year detailing the effectiveness of infrastructure, programs, services, supports or resources that were funded, including, but not limited to, the following:</p>
+            </content>
+            <paragraph eId="17a_674d__subsec_h__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>A description of how the recipient used the moneys for their intended purposes;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_674d__subsec_h__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>The number of individuals served, delineated by race, age, gender and any other relevant demographic factor, which shall be reported in a deidentified manner;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_674d__subsec_h__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>A specific analysis of whether the infrastructure, program, service, support or resources reduced mortality or improved prevention, treatment, harm reduction or recovery outcomes; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_674d__subsec_h__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>If a plan to ensure the sustainability of the infrastructure, program, service, support or resources funded exists, a summary of such plan.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17a_674d__subsec_i">
+            <num>(i)</num>
+            <heading>The committee shall hold quarterly public meetings</heading>
+            <content>
+              <p>A meeting may be called by the chairperson or by a majority of the committee's members. Members may attend meetings in person, remotely by audiovisual means or, upon approval by the chairperson, by audio-only means. For each meeting of the committee, a majority of the voting members shall constitute a quorum for the transaction of business. If there is a quorum, then all actions of the committee shall be taken by an affirmative vote of a majority of the members present at the meeting. Each voting member shall have one vote. The committee shall terminate when all moneys received pursuant to section17a-674chave been received and disbursed unless the Attorney General certifies that additional moneys are anticipated.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_674d__subsec_j">
+            <num>(j)</num>
+            <content>
+              <p>The department shall create and maintain an Internet web site where the committee shall publish</p>
+            </content>
+            <paragraph eId="17a_674d__subsec_j__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>meeting minutes, including, but not limited to, records of all votes to approve expenditures of moneys from the fund,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_674d__subsec_j__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>recipient agreements and reports required under subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17a_674d__subsec_h">
+            <num>(h)</num>
+            <content>
+              <p>of this section,</p>
+            </content>
+            <paragraph eId="17a_674d__subsec_h__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>policies and procedures approved by the committee,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_674d__subsec_h__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>reports received from municipalities pursuant to subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17a_674d__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>of section17a-674c, and</p>
+            </content>
+            <paragraph eId="17a_674d__subsec_e__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>the committee's annual reports.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-281a"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-281a"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17b-281a"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-281a/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-281a/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-281a/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-281a/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319v">
+        <num>319v</num>
+        <heading>Temporary Assistance for Needy Families</heading>
+        <section eId="sec_17b_281a">
+          <num>17b-281a</num>
+          <heading>Procedure for preauthorization of purchase or rental of durable medical equipment</heading>
+          <subsection eId="17b_281a__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The Commissioner of Social Services shall extend the procedure in effect on October 1, 1998, for the preauthorization of the purchase or rental of new durable medical equipment and modification or repair of existing equipment to include services provided to Medicaid recipients who are also recipients of Medicare. The commissioner may enter into any necessary agreements with the Centers for Medicare and Medicaid Services to ensure the coordination of authorization and payment for durable medical equipment for such recipients.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_281a__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Access to such procedure shall not be denied to a recipient on the basis that a Medicare coverage determination has not been made prior to the submission of a request for preauthorization to the commissioner. The commissioner shall not make payment for an item to a supplier of durable medical equipment on behalf of a Medicare recipient until the commissioner has received documentation establishing that a claim has been filed with, and a coverage and reimbursement decision has been rendered under, the Medicare program.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

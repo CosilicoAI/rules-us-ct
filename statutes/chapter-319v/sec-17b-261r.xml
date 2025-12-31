@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-261r"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-261r"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17b-261r"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-261r/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-261r/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-261r/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-261r/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319v">
+        <num>319v</num>
+        <heading>Temporary Assistance for Needy Families</heading>
+        <section eId="sec_17b_261r">
+          <num>17b-261r</num>
+          <heading>Determination of applied income. Notice. Action by nursing home facility to recover applied income</heading>
+          <subsection eId="17b_261r__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>For purposes of this section, “applied income” means the income of a recipient of medical assistance, pursuant to section17b-261, that is required, after the exhaustion of all appeals and in accordance with state and federal law, to be paid to a nursing home facility for the cost of care and services.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_261r__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>In determining the amount of applied income, the Department of Social Services shall take into consideration any modification to the applied income due to revisions in a medical assistance recipient's community spouse minimum monthly needs allowance, as described in Section 1924 of the Social Security Act, and any other modification to applied income allowed by state or federal law.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_261r__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>A nursing home facility shall provide written notice to a recipient of medical assistance and any person authorized under law to be in control of such recipient's applied income</p>
+            </content>
+            <paragraph eId="17b_261r__subsec_c__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>of the amount of applied income due pursuant to subsections</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_261r__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>and</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_261r__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section,</p>
+            </content>
+            <paragraph eId="17b_261r__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>of the recipient's legal obligation to pay such applied income to the nursing home facility, and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_261r__subsec_b__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>that the recipient's failure to pay applied income due to a nursing home facility not later than ninety days after receiving such notice from the nursing home facility may result in a civil action in accordance with this section.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_261r__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Pursuant to the notice provisions of subsections</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_261r__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>and</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_261r__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>of this section, a nursing home facility that is owed applied income may, in addition to all other remedies authorized under statutory and common law, bring a civil action to recover the applied income, provided the nursing home facility shall not commence such action against a recipient of medical assistance who has asserted that the applied income is needed to increase the minimum monthly needs allowance of the recipient's community spouse, pursuant to 42 USC 1396r-5</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_261r__subsec_e">
+            <num>(e)</num>
+            <paragraph eId="17b_261r__subsec_e__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>(B). In such case, the nursing home facility may not commence such action until the recipient, the recipient's community spouse or the legal representative of either has exhausted their appeal rights before the Department of Social Services and in court. A nursing home facility may bring such action against</p>
+              </content>
+              <subparagraph eId="17b_261r__subsec_e__subsec_2__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>. In such case, the nursing home facility may not commence such action until the recipient, the recipient's community spouse or the legal representative of either has exhausted their appeal rights before the Department of Social Services and in court. A nursing home facility may bring such action against</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="17b_261r__subsec_e__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>a medical assistance recipient who owes the applied income, or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_261r__subsec_e__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>a person with legal access to such recipient's applied income who acted with the intent to (A) deprive such recipient of the applied income, or (B) appropriate the applied income for himself, herself or a third person.</p>
+              </content>
+              <subparagraph eId="17b_261r__subsec_e__subsec_2__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>deprive such recipient of the applied income, or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17b_261r__subsec_e__subsec_2__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>appropriate the applied income for himself, herself or a third person.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_261r__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>If a court of competent jurisdiction determines, based upon clear and convincing evidence, that a defendant wilfully failed to pay or withheld applied income due and owing to a nursing home facility for more than ninety days after receiving notice pursuant to subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_261r__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of this section, the court may award the amount of the debt owed, court costs and reasonable attorneys' fees to the nursing home facility. Court costs and reasonable attorneys' fees shall be awarded as a matter of law to a defendant who successfully defends an action or a counterclaim brought pursuant to this section. The provisions of this section shall not apply to a conservator who transfers income or principal with the approval of the Probate Court under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_261r__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>or</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_261r__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>of section45a-655.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_261r__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>A nursing home facility shall not file any action under this section until</p>
+            </content>
+            <paragraph eId="17b_261r__subsec_f__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>thirty days after it has given written notice of such action to any person who received notice pursuant to subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_261r__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of this section, or</p>
+            </content>
+            <paragraph eId="17b_261r__subsec_c__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>ninety-one days after it has given written notice of such action and the information required by subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_261r__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of this section to any person who has not received notice pursuant to subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_261r__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of this section.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-242d"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-242d"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-242d"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-242d/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-242d/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-242d/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-242d/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_208">
+        <num>208</num>
+        <heading>Estate Taxes</heading>
+        <section eId="sec_12_242d">
+          <num>12-242d</num>
+          <heading>Installment payment of estimated tax. Interest on underpayments</heading>
+          <subsection eId="12_242d__subsec_a">
+            <num>(a)</num>
+            <heading>For purposes of this section, there shall be four required installments for each income year</heading>
+            <content>
+              <p>The due date for the first required installment is the fifteenth day of the third month of the income year. The due date for the second required installment is the fifteenth day of the sixth month of the income year. The due date for the third required installment is the fifteenth day of the ninth month of the income year. The due date for the fourth required installment is the fifteenth day of the twelfth month of the income year.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_242d__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The amount of the first required installment shall be thirty per cent of the required annual payment, as defined in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_242d__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>of this section. The amount of the second required installment shall be forty per cent of the required annual payment, as defined in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_242d__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>of this section. The amount of the third required installment shall be ten per cent of the required annual payment, as defined in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_242d__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>of this section. The amount of the fourth required installment shall be twenty per cent of the required annual payment, as defined in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_242d__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>of this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_242d__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Except as otherwise provided in this section, in the case of any underpayment of estimated tax by a company, there shall be added to the tax an amount determined by applying interest</p>
+            </content>
+            <paragraph eId="12_242d__subsec_c__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>at the rate of one per cent per month or fraction thereof,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_242d__subsec_c__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>to the amount of the underpayment,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_242d__subsec_c__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>for the period of the underpayment.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_242d__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>For purposes of this section, the amount of the underpayment shall be the excess of the required installment, over the amount, if any, of the installment paid on or before the due date for the installment. The period of the underpayment shall run from the due date for the installment to whichever of the following dates is earlier:</p>
+            </content>
+            <paragraph eId="12_242d__subsec_d__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>The fifteenth day of the fifth month of the next succeeding income year; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_242d__subsec_d__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>with respect to any portion of the underpayment, the date on which such portion is paid. For purposes of this subsection, a payment of estimated tax shall be credited against unpaid required installments in the order in which such installments are required to be paid.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_242d__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>“Required annual payment” means the lesser of</p>
+            </content>
+            <paragraph eId="12_242d__subsec_e__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>ninety per cent of the tax shown on the return for the income year, or, if no return is filed, ninety per cent of the tax for such year, or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_242d__subsec_e__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>if the preceding income year was an income year of twelve months and if the company filed a return for the preceding income year showing a liability for tax, one hundred per cent of the tax shown on the return for the next preceding income year without regard to any credit under this chapter.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_242d__subsec_f">
+            <num>(f)</num>
+            <paragraph eId="12_242d__subsec_f__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>In the case of any required installment, if the company establishes that the annualized income installment is less than the amount determined under subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_242d__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section, the amount of such required installment shall be the annualized income installment. Any reduction in a required installment resulting from the application of this subsection shall be recaptured by increasing the amount of the next required installment by the amount of such reduction and by increasing subsequent required installments to the extent that the reduction has not previously been recaptured under this subdivision.</p>
+            </content>
+            <paragraph eId="12_242d__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>In the case of any required installment, the annualized income installment is the excess, if any, of (A) an amount equal to the applicable percentage of the tax for the income year computed by placing on an annualized basis its net income for months in the income year ending before the due date for the installment, over (B) the aggregate amount of any prior required installments for the taxable year.</p>
+              </content>
+              <subparagraph eId="12_242d__subsec_b__subsec_2__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>an amount equal to the applicable percentage of the tax for the income year computed by placing on an annualized basis its net income for months in the income year ending before the due date for the installment, over</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_242d__subsec_b__subsec_2__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>the aggregate amount of any prior required installments for the taxable year.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_242d__subsec_b__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>For purposes of this subsection, the applicable percentage for the first required installment is twenty-seven, the applicable percentage for the second required installment is sixty-three, the applicable percentage for the third required installment is seventy-two and the applicable percentage for the fourth required installment is ninety.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_242d__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>The application of this section to income years of less than twelve months shall be in accordance with regulations adopted by the commissioner.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_242d__subsec_h">
+            <num>(h)</num>
+            <content>
+              <p>No addition to tax shall be imposed under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_242d__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of this section for any income year if the tax shown on the return for such income year, or, if no return is filed, the tax, is one thousand dollars or less.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_242d__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>For income years commencing on or after January 1, 2003, and prior to January 1, 2005, no addition to tax shall be imposed under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_242d__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of this section to the extent such underpayment was created or increased by section12-218d.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_242d__subsec_j">
+            <num>(j)</num>
+            <paragraph eId="12_242d__subsec_j__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>The provisions of this section shall apply to taxable members of a combined group required to file a combined unitary tax return pursuant to section12-222.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_242d__subsec_j__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>The designated taxable member of a combined group shall be responsible for paying estimated tax installments, at the times and in the amounts specified in this section, on behalf of the taxable members of the combined group and in the form and manner prescribed by the Commissioner of Revenue Services.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

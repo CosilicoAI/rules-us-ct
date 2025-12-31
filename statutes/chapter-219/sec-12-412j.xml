@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-412j"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-412j"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-412j"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-412j/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-412j/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-412j/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-412j/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_219">
+        <num>219</num>
+        <heading>Motor Vehicle Fuels Tax</heading>
+        <section eId="sec_12_412j">
+          <num>12-412j</num>
+          <heading>Exemption for value of core parts</heading>
+          <content>
+            <p>Sec. 12-412j. Exemption for value of core parts.In any sale at retail of any new or remanufactured part of an item of tangible personal property to a purchaser, which sale is made by a retailer of such parts who will accept in return from such purchaser a core component or core part of such tangible personal property, the sales or use tax with respect to such sale shall be imposed on the difference between the purchase price and the amount allowed by the retailer on the returned core component or core part, provided the retailer shall collect the tax, at the time of sale, on the purchase price and, when the core component or core part is returned, shall refund such tax on the amount allowed by the retailer on the returned core component or core part. When any such core component or core part traded in is subsequently sold to a consumer or user, the taxes imposed under this chapter shall be applicable to such sale.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

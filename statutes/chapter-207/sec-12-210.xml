@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-210"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-210"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-210"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-210/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-210/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-210/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-210/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_207">
+        <num>207</num>
+        <heading>Gift Tax</heading>
+        <section eId="sec_12_210">
+          <num>12-210</num>
+          <heading>Tax on net direct premiums of nonresident and foreign companies</heading>
+          <subsection eId="12_210__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Each newly licensed insurance company incorporated by or organized under the laws of any other state or foreign government shall pay to the Commissioner of Revenue Services, not later than ninety days after the effective date of such company's initial license to transact business in this state, a tax on the net direct premiums received by such company in the next five preceding calendar years from policies written on property or risks located or resident in this state, except ocean marine insurance, at the rate in effect for each such calendar year.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_210__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Each insurance company incorporated by or organized under the laws of any other state or foreign government and doing business in this state shall, annually, on and after January 1, 1995, pay to said commissioner, in addition to any other taxes imposed on such company or its agents, a tax on all net direct premiums received by such company in the calendar year next preceding from policies written on property or risks located or resident in this state, excluding premiums for ocean marine insurance, and, upon ceasing to transact new business in this state, shall continue to pay a tax upon the renewal premiums derived from its business remaining in force in this state at the rate that was applicable when such company ceased to transact new business in this state. The rate of tax on all net direct premiums received</p>
+            </content>
+            <paragraph eId="12_210__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>prior to January 1, 2018, shall be one and three-quarters per cent, and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_210__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>on or after January 1, 2018, shall be one and one-half per cent.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

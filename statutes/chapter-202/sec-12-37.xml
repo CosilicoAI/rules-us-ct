@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-37"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-37"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-37"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-37/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-37/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-37/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-37/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_202">
+        <num>202</num>
+        <heading>Collection of State Taxes</heading>
+        <section eId="sec_12_37">
+          <num>12-37</num>
+          <heading>State suspense tax book</heading>
+          <content>
+            <p>Sec. 12-37. State suspense tax book.Wherever used in this section, “tax” includes not only the principal of any tax but also includes the principal of any license, permit and fee and also all interest, fees, penalties, forfeitures and other charges which may be added by law to the principal of any such tax, license, permit and fee. Each state collection agency may have a suspense tax book. Any state collection agency may, at any time, deliver to the Treasurer and Comptroller a statement showing: (1) The amount of such uncollectible tax shown on the records of the agency; (2) the date when each such tax became due and payable; (3) the name and address of the person against whom each such tax was levied, and (4) the reason why the agency believes each such tax to be uncollectible. At the end of such statement, the agency head shall certify that to the best of his knowledge and belief each tax shown in such statement has not been paid and is uncollectible. Each tax so designated as uncollectible shall thereupon be transferred by such state collection agency to its suspense tax book, and its records shall be written up accordingly. Each tax so transferred shall not thereafter be included as an asset of the state. The amount of each tax so transferred during the last fiscal year and the name and address of the person against whom each such tax was levied shall be available to the public for inspection by any person. Not less than seven years after delivering such a statement to the Treasurer and the Comptroller, the head of the collection agency may request the Abatement Review Committee, as established by section12-3b, to approve the abatement of any tax designated on such statement as uncollectible. Nothing herein contained shall be construed as an abatement of any tax so transferred, but any such tax, as it has been increased by interest, penalties, fees, fines, forfeitures and other charges, may be collected by the state collection agency then or subsequently in office.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

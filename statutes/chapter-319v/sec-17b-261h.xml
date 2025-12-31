@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-261h"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-261h"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17b-261h"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-261h/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-261h/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-261h/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-261h/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319v">
+        <num>319v</num>
+        <heading>Temporary Assistance for Needy Families</heading>
+        <section eId="sec_17b_261h">
+          <num>17b-261h</num>
+          <heading>Enrollment of HUSKY A recipients in available employer-sponsored private health insurance. Waiver from federal law. Regulations</heading>
+          <subsection eId="17b_261h__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The Commissioner of Social Services shall, if required, seek a waiver from federal law for the purpose of enhancing the enrollment of HUSKY A recipients, as defined in subdivision</p>
+            </content>
+            <paragraph eId="17b_261h__subsec_a__subsec_13">
+              <num>(13)</num>
+              <content>
+                <p>of section17b-290, in available employer-sponsored private health insurance. Such a waiver shall include, but shall not be limited to, provisions that:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_261h__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>Require the enrollment of HUSKY A parents, needy caretaker relatives and dependents in any available employer-sponsored health insurance to the maximum extent of available coverage as a condition of eligibility when determined to be cost effective by the Department of Social Services;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_261h__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>require a subsidy to be paid directly to the HUSKY A caretaker relatives in an amount equal to the premium payment requirements of any available employer-sponsored health insurance paid by way of payroll deduction; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_261h__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>assure HUSKY A coverage requirements for medical assistance not covered by any available employer-sponsored health insurance.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_261h__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Notwithstanding any provision of the general statutes or any provision established in a contract between an employer and a health insurance carrier, no HUSKY A recipient, required to enroll in available employer-sponsored health insurance under this section, shall be prohibited from enrollment in employer-sponsored health insurance due to limitations on enrollment of employees in employer-sponsored health insurance to open enrollment periods.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_261h__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The Commissioner of Social Services, pursuant to section17b-10, may implement policies and procedures necessary to administer the provisions of this section while in the process of adopting such policies and procedures as regulation, provided the commissioner publishes notice of the intent to adopt the regulation on the department's Internet web site and the eRegulations System not later than twenty days after the date of implementation. Policies and procedures implemented pursuant to this section shall be valid until the time final regulations are adopted.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-19a"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-19a"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-19a"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-19a/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-19a/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-19a/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-19a/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_201">
+        <num>201</num>
+        <heading>State and Local Revenue Services. Department of Revenue Services</heading>
+        <section eId="sec_12_19a">
+          <num>12-19a</num>
+          <heading>Grants in lieu of taxes on state-owned real property, reservation land held in trust by the state for an Indian tribe, certain airports and land taken into trust by the federal government for the Mashantucket Pequot Tribal Nation and the Mohegan Tribe of Indians of Connecticut. Exclusion of property located at Bradley International Airport</heading>
+          <subsection eId="12_19a__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Until the fiscal year commencing July 1, 2016, on or before January first, annually, the Secretary of the Office of Policy and Management shall determine the amount due, as a state grant in lieu of taxes, to each town in this state wherein state-owned real property, reservation land held in trust by the state for an Indian tribe, a municipally owned airport, or any airport owned by the Connecticut Airport Authority, other than Bradley International Airport, except that which was acquired and used for highways and bridges, but not excepting property acquired and used for highway administration or maintenance purposes, is located. The grant payable to any town under the provisions of this section in the state fiscal year commencing July 1, 1999, and each fiscal year thereafter, shall be equal to the total of</p>
+            </content>
+            <paragraph eId="12_19a__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>(A) one hundred per cent of the property taxes which would have been paid with respect to any facility designated by the Commissioner of Correction, on or before August first of each year, to be a correctional facility administered under the auspices of the Department of Correction or a juvenile residential center under direction of the Court Support Services Division of the Judicial Branch that was used for incarcerative purposes during the preceding fiscal year. If a list containing the name and location of such designated facilities and information concerning their use for purposes of incarceration during the preceding fiscal year is not available from the Secretary of the State on the first day of August of any year, said commissioner shall, on said first day of August, certify to the Secretary of the Office of Policy and Management a list containing such information, (B) one hundred per cent of the property taxes which would have been paid with respect to that portion of the John Dempsey Hospital located at The University of Connecticut Health Center in Farmington that is used as a permanent medical ward for prisoners under the custody of the Department of Correction. Nothing in this section shall be construed as designating any portion of The University of Connecticut Health Center John Dempsey Hospital as a correctional facility, and (C) in the state fiscal year commencing July 1, 2001, and each fiscal year thereafter, one hundred per cent of the property taxes which would have been paid on any land designated within the 1983 Settlement boundary and taken into trust by the federal government for the Mashantucket Pequot Tribal Nation on or after June 8, 1999,</p>
+              </content>
+              <subparagraph eId="12_19a__subsec_a__subsec_1__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>one hundred per cent of the property taxes which would have been paid with respect to any facility designated by the Commissioner of Correction, on or before August first of each year, to be a correctional facility administered under the auspices of the Department of Correction or a juvenile residential center under direction of the Court Support Services Division of the Judicial Branch that was used for incarcerative purposes during the preceding fiscal year. If a list containing the name and location of such designated facilities and information concerning their use for purposes of incarceration during the preceding fiscal year is not available from the Secretary of the State on the first day of August of any year, said commissioner shall, on said first day of August, certify to the Secretary of the Office of Policy and Management a list containing such information,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_19a__subsec_a__subsec_1__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>one hundred per cent of the property taxes which would have been paid with respect to that portion of the John Dempsey Hospital located at The University of Connecticut Health Center in Farmington that is used as a permanent medical ward for prisoners under the custody of the Department of Correction. Nothing in this section shall be construed as designating any portion of The University of Connecticut Health Center John Dempsey Hospital as a correctional facility, and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_19a__subsec_a__subsec_1__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>in the state fiscal year commencing July 1, 2001, and each fiscal year thereafter, one hundred per cent of the property taxes which would have been paid on any land designated within the 1983 Settlement boundary and taken into trust by the federal government for the Mashantucket Pequot Tribal Nation on or after June 8, 1999,</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_19a__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>subject to the provisions of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_19a__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of this section, sixty-five per cent of the property taxes which would have been paid with respect to the buildings and grounds comprising Connecticut Valley Hospital and Whiting Forensic Hospital in Middletown. Such grant shall commence with the fiscal year beginning July 1, 2000, and continuing each year thereafter,</p>
+            </content>
+            <paragraph eId="12_19a__subsec_c__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>notwithstanding the provisions of subsections</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_19a__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>and</p>
+            </content>
+          </subsection>
+          <subsection eId="12_19a__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of this section, with respect to any town in which more than fifty per cent of the property is state-owned real property, one hundred per cent of the property taxes which would have been paid with respect to such state-owned property. Such grant shall commence with the fiscal year beginning July 1, 1997, and continuing each year thereafter,</p>
+            </content>
+            <paragraph eId="12_19a__subsec_c__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>subject to the provisions of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_19a__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of this section, forty-five per cent of the property taxes which would have been paid with respect to all other state-owned real property,</p>
+            </content>
+            <paragraph eId="12_19a__subsec_c__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>forty-five per cent of the property taxes which would have been paid with respect to all municipally owned airports or any airport owned by the Connecticut Airport Authority, other than Bradley International Airport, except for the exemption applicable to such property, on the assessment list in such town for the assessment date two years prior to the commencement of the state fiscal year in which such grant is payable. The grant provided pursuant to this section for any municipally owned airport or any airport owned by the Connecticut Airport Authority, other than Bradley International Airport, shall be paid to any municipality in which the airport is located, except that the grant applicable to Sikorsky Airport shall be paid half to the town of Stratford and half to the city of Bridgeport, and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_19a__subsec_c__subsec_6">
+              <num>(6)</num>
+              <content>
+                <p>forty-five per cent of the property taxes which would have been paid with respect to any land designated within the 1983 Settlement boundary and taken into trust by the federal government for the Mashantucket Pequot Tribal Nation prior to June 8, 1999, or taken into trust by the federal government for the Mohegan Tribe of Indians of Connecticut, provided (A) the real property subject to this subdivision shall be the land only, and shall not include the assessed value of any structures, buildings or other improvements on such land, and (B) said forty-five per cent grant shall be phased in as follows:</p>
+              </content>
+              <subparagraph eId="12_19a__subsec_c__subsec_6__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>the real property subject to this subdivision shall be the land only, and shall not include the assessed value of any structures, buildings or other improvements on such land, and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_19a__subsec_c__subsec_6__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>said forty-five per cent grant shall be phased in as follows:</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_19a__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>In the fiscal year commencing July 1, 2012, an amount equal to ten per cent of said forty-five per cent grant, (ii) in the fiscal year commencing July 1, 2013, thirty-five per cent of said forty-five per cent grant, (iii) in the fiscal year commencing July 1, 2014, sixty per cent of said forty-five per cent grant, (iv) in the fiscal year commencing July 1, 2015, eighty-five per cent of said forty-five per cent grant, and</p>
+            </content>
+          </subsection>
+          <subsection eId="12_19a__subsec_v">
+            <num>(v)</num>
+            <content>
+              <p>in the fiscal year commencing July 1, 2016, one hundred per cent of said forty-five per cent grant.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_19a__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>For the fiscal year ending June 30, 2000, and in each fiscal year thereafter, the amount of the grant payable to each municipality in accordance with this section shall be reduced proportionately in the event that the total of such grants in such year exceeds the amount appropriated for the purposes of this section with respect to such year except that, for the fiscal years commencing July 1, 2012, July 1, 2013, July 1, 2014, and July 1, 2015, the amount of the grant payable in accordance with subdivision</p>
+            </content>
+            <paragraph eId="12_19a__subsec_b__subsec_6">
+              <num>(6)</num>
+              <content>
+                <p>of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_19a__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section shall not be reduced.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_19a__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>As used in this section “total tax levied” means the total real property tax levy in such town for the fiscal year preceding the fiscal year in which a grant in lieu of taxes under this section is made, reduced by the Secretary of the Office of Policy and Management in an amount equal to all reimbursements certified as payable to such town by the secretary for real property exemptions and credits on the taxable grand list or rate bill of such town for the assessment year that corresponds to that for which the assessed valuation of the state-owned land and buildings has been provided. For purposes of this section and section12-19b, any real property which is owned by The University of Connecticut Health Center Finance Corporation established pursuant to the provisions of sections10a-250to10a-263, inclusive, or by one or more subsidiary corporations established pursuant to subdivision</p>
+            </content>
+            <paragraph eId="12_19a__subsec_c__subsec_13">
+              <num>(13)</num>
+              <content>
+                <p>of section10a-254and which is free from taxation pursuant to the provisions of subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_19a__subsec_c__subsec_13">
+              <num>(13)</num>
+              <content>
+                <p>of section10a-259shall be deemed to be state-owned real property. As used in this section and section12-19b, “town” includes borough.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_19a__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>In the fiscal year ending June 30, 1991, and in each fiscal year thereafter, the portion of the grant payable to any town as determined in accordance with subdivisions</p>
+            </content>
+            <paragraph eId="12_19a__subsec_d__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_19a__subsec_d__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_19a__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section, shall not be greater than the following percentage of total tax levied by such town on real property in the preceding calendar year as follows:</p>
+            </content>
+            <paragraph eId="12_19a__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>In the fiscal year ending June 30, 1991, ten per cent,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_19a__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>in the fiscal year ending June 30, 1992, twelve per cent,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_19a__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>in the fiscal year ending June 30, 1993, fourteen per cent,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_19a__subsec_a__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>in the fiscal year ending June 30, 1994, twenty-seven per cent,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_19a__subsec_a__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>in the fiscal year ending June 30, 1995, thirty-five per cent,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_19a__subsec_a__subsec_6">
+              <num>(6)</num>
+              <content>
+                <p>in the fiscal year ending June 30, 1996, forty-two per cent,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_19a__subsec_a__subsec_7">
+              <num>(7)</num>
+              <content>
+                <p>in the fiscal year ending June 30, 1997, forty-nine per cent,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_19a__subsec_a__subsec_8">
+              <num>(8)</num>
+              <content>
+                <p>in the fiscal year ending June 30, 1998, fifty-six per cent,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_19a__subsec_a__subsec_9">
+              <num>(9)</num>
+              <content>
+                <p>in the fiscal year ending June 30, 1999, sixty-three per cent,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_19a__subsec_a__subsec_10">
+              <num>(10)</num>
+              <content>
+                <p>in the fiscal year ending June 30, 2000, seventy per cent,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_19a__subsec_a__subsec_11">
+              <num>(11)</num>
+              <content>
+                <p>in the fiscal year ending June 30, 2001, seventy-seven per cent,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_19a__subsec_a__subsec_12">
+              <num>(12)</num>
+              <content>
+                <p>in the fiscal year ending June 30, 2002, eighty-four per cent,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_19a__subsec_a__subsec_13">
+              <num>(13)</num>
+              <content>
+                <p>in the fiscal year ending June 30, 2003, ninety-two per cent, and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_19a__subsec_a__subsec_14">
+              <num>(14)</num>
+              <content>
+                <p>in the fiscal year ending June 30, 2004, and in each fiscal year thereafter, one hundred per cent.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_19a__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>Notwithstanding the provisions of this section in effect prior to January 1, 1997, any grant in lieu of taxes on state-owned real property made to any town in excess of seven and one-half per cent of the total tax levied on real property by such town is validated.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_19a__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>Notwithstanding the provisions of subsections</p>
+            </content>
+          </subsection>
+          <subsection eId="12_19a__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>to</p>
+            </content>
+          </subsection>
+          <subsection eId="12_19a__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>, inclusive, of this section, for any town receiving payments under section15-120ss, property located in such town at Bradley International Airport shall not be included in the calculation of any state grant in lieu of taxes for state-owned real property and no state grant in lieu of taxes for such property located at Bradley International Airport shall be paid in the fiscal year commencing July 1, 2014, and each fiscal year thereafter.
+See Sec. 12-1c re transfer of certain functions, powers and duties under this chapter to the Secretary of the Office of Policy and Management.
+See Sec. 15-120ss re payments to municipalities representing property tax for property at Bradley International Airport.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-57"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-57"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-57"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-57/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-57/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-57/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-57/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_203">
+        <num>203</num>
+        <heading>Property Tax Assessment</heading>
+        <section eId="sec_12_57">
+          <num>12-57</num>
+          <heading>Certificates of correction. Application for refund</heading>
+          <subsection eId="12_57__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>When it has been determined by the assessors of a municipality that tangible personal property has been assessed when it should not have been, the assessors shall, not later than three years following the tax due date relative to the property, issue a certificate of correction removing such tangible personal property from the list of the person who was assessed in error, whether such error resulted from information furnished by such person or otherwise. If such tangible personal property was subject to taxation on the same grand list by such municipality in the name of some other person and was not so previously assessed in the name of such other person, the assessor shall add such tangible personal property to the list of such other person and, in such event, the tax shall be levied upon, and collected from, such other person. If such tangible personal property should have been subject to taxation for the same taxing period on the grand list of another municipality in this state, the assessors shall promptly notify, in writing, the assessors of the municipality where the tangible personal property should be properly assessed and taxed, and the assessors of such municipality shall assess such tangible personal property and shall thereupon issue a certificate of correction adding such tangible personal property to the list of the person owning such property, and the tax thereon shall be levied and collected by the tax collector. Each such certificate of correction shall be made in duplicate, one copy of which shall be filed with the tax collector of such municipality and the other kept by the assessors in accordance with a records retention schedule issued by the Public Records Administrator.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_57__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>When it has been determined by the assessors of a municipality, at any time, that a motor vehicle registered with the Department of Motor Vehicles has been assessed when it should not have been, the assessors shall issue a certificate of correction removing such vehicle from the list of the person who was assessed in error, and, if such vehicle should have been subject to taxation for the same taxing period on the grand list of another municipality in this state, the assessors shall promptly notify, in writing, the assessors of the municipality where the vehicle should be properly assessed and taxed, and the assessors of such municipality shall assess such vehicle and shall thereupon issue a certificate of correction adding such vehicle to the list of the person owning such vehicle, and the tax thereon shall be levied and collected by the tax collector. Upon the issuance of a certificate of correction, any person taxed in error may make application in writing to the tax collector for the refund of the erroneously collected amount pursuant to section12-129.
+See Sec. 12-126 re abatement or refund of tax on tangible personal property assessed in more than one municipality.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

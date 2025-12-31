@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-717"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-717"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17a-717"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-717/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-717/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-717/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-717/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319j">
+        <num>319j</num>
+        <heading>Health Care For Uninsured Children</heading>
+        <section eId="sec_17a_717">
+          <num>17a-717</num>
+          <heading>State-wide advertising campaign re availability of all mental health, behavioral health and substance use disorder services in the state</heading>
+          <content>
+            <p>Sec. 17a-717. State-wide advertising campaign re availability of all mental health, behavioral health and substance use disorder services in the state.On or before January 1, 2023, the Department of Mental Health and Addiction Services, in collaboration with the Department of Children and Families, shall (1) provide for the design, plan and implementation of a multiyear, state-wide advertising campaign, including, but not limited to, television, radio and Internet web site advertisements, promoting the availability of all of the mental health, behavioral health and substance use disorder services in the state, including, but not limited to, the difference between 9-1-1, 9-8-8 and 2-1-1, and informing residents how to obtain such services, and (2) establish and regularly update an Internet web site connected with such advertising campaign that includes, but is not limited to, a comprehensive listing of providers of mental health, behavioral health and substance use disorder services in the state. The Commissioner of Mental Health and Addiction Services shall solicit cooperation and participation from such providers in such advertising campaign, including, but not limited to, soliciting any available funds. Said commissioner may hire consultants with expertise in advertising to assist in implementing the provisions of this section.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

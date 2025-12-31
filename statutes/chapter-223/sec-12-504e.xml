@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-504e"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-504e"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-504e"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-504e/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-504e/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-504e/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-504e/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_223">
+        <num>223</num>
+        <heading>Miscellaneous Tax Provisions</heading>
+        <section eId="sec_12_504e">
+          <num>12-504e</num>
+          <heading>Conveyance tax applicable on change of use or classification of land</heading>
+          <content>
+            <p>Sec. 12-504e. Conveyance tax applicable on change of use or classification of land.Any land which has been classified by the owner as farm land pursuant to section12-107c, forest land pursuant to section12-107d, open space land pursuant to section12-107eor maritime heritage land pursuant to section12-107g, if changed by him, within a period of ten years of his acquisition of title, to use other than farm land, forest land, open space land or maritime heritage land, shall be subject to said conveyance tax as if there had been an actual conveyance by him, as provided in sections12-504aand12-504b, at the time he makes such change in use. For the purposes of this section: (1) The value of any such property shall be the fair market value thereof as determined by the assessor in conjunction with the most recent revaluation, and (2) the date used for purposes of determining such tax shall be the date on which the use of such property is changed, or the date on which the assessor becomes aware of a change in use of such property, whichever occurs first.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

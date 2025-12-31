@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-875"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-875"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17a-875"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-875/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-875/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-875/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-875/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319l">
+        <num>319l</num>
+        <heading>Nursing Home Financial Assistance</heading>
+        <section eId="sec_17a_875">
+          <num>17a-875</num>
+          <heading>(Formerly Sec. 17a-410). Duties of regional ombudsmen</heading>
+          <content>
+            <p>Sec. 17a-875. (Formerly Sec. 17a-410). Duties of regional ombudsmen.The regional ombudsmen shall, in accordance with the policies and procedures established by the Office of the Long-Term Care Ombudsman:
+(1) Provide services to protect the health, safety, welfare and rights of residents;
+(2) Ensure that residents in service areas have regular timely access to representatives of the office and timely responses to complaints and requests for assistance;
+(3) Identify, investigate and resolve complaints made by or on behalf of residents that relate to action, inaction or decisions that may adversely affect the health, safety, welfare or rights of the residents or by, or on behalf of, applicants in relation to issues concerning applications to long-term care facilities;
+(4) Represent the interests of residents and applicants, in relation to their applications to long-term care facilities, before government agencies and seek administrative, legal and other remedies to protect the health, safety, welfare and rights of the residents;
+(5) (A) Review and, if necessary, comment on any existing and proposed laws, regulations and other government policies and actions that pertain to the rights and well-being of residents and applicants in relation to their applications to long-term care facilities, and (B) facilitate the ability of the public to comment on the laws, regulations, policies and actions;
+(6) Support the development of resident and family councils; and
+(7) Carry out other activities that the State Ombudsman determines to be appropriate, including, but not limited to, activities relating to the Community Ombudsman program established pursuant to section17a-886.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

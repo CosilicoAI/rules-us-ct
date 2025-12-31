@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-80"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-80"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17b-80"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-80/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-80/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-80/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-80/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319s">
+        <num>319s</num>
+        <heading>Connecticut Partnership for Long-Term Care</heading>
+        <section eId="sec_17b_80">
+          <num>17b-80</num>
+          <heading>(Formerly Sec. 17-82d). Investigations. Grant of aid. Income disregard for students. Asset limits</heading>
+          <subsection eId="17b_80__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The commissioner, upon receipt of an application for aid, shall promptly and with due diligence make an investigation, such investigation to be completed within forty-five days after receipt of the application or within sixty days after receipt of the application in the case of an application in which a determination of disability must be made. If an application for an award is not acted on within forty-five days after the filing of an application, or within sixty days in the case of an application in which a determination of disability must be made, the applicant may apply to the commissioner for a hearing in accordance with sections17b-60and17b-61. The commissioner shall grant aid only if he finds the applicant eligible therefor, in which case he shall grant aid in such amount, determined in accordance with levels of payments established by the commissioner, as is needed in order to enable the applicant to support himself, or, in the case of temporary family assistance, to enable the relative to support such dependent child or children and himself, in health and decency, including the costs of such medical care as he deems necessary and reasonable, not in excess of the amounts set forth in the various fee schedules promulgated by the Commissioner of Social Services for medical, dental and allied services and supplies or the charges made for comparable services and supplies to the general public, whichever is less, and the cost of necessary hospitalization as is provided in section17b-239, over and above hospital insurance or other such benefits, including workers' compensation and claims for negligent or wilful injury. The commissioner, subject to the provisions of subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_80__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section, shall in determining need, take into consideration any available income and resources of the individual claiming assistance. The commissioner shall make periodic investigations to determine eligibility and may, at any time, modify, suspend or discontinue an award previously made when such action is necessary to carry out the provisions of the state supplement program, medical assistance program, temporary family assistance program, state-administered general assistance program or supplemental nutrition assistance program. The parent or parents of any child for whom aid is received under the temporary family assistance program and any beneficiary receiving assistance under the state supplement program shall be conclusively presumed to have accepted the provisions of sections17b-93and17b-95.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_80__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The commissioner shall disregard any earned income of a child who is a student in determining the eligibility, standard of need and amount of assistance of a family in the TFA program.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_80__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>No person shall be eligible for the state supplement program whose assets as defined by the commissioner exceed sixteen hundred dollars or, if living with a spouse, whose combined assets exceed twenty-four hundred dollars.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

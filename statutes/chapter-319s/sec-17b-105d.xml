@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-105d"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-105d"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17b-105d"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-105d/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-105d/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-105d/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-105d/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319s">
+        <num>319s</num>
+        <heading>Connecticut Partnership for Long-Term Care</heading>
+        <section eId="sec_17b_105d">
+          <num>17b-105d</num>
+          <heading>Supplemental nutrition assistance program. Outreach. Work-study programs</heading>
+          <subsection eId="17b_105d__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The Department of Social Services, in conjunction with the member agencies of the Child Poverty and Prevention Council, may work with local governments, institutions of higher education, community action agencies and other entities to continue and expand efforts, within available appropriations, to enroll eligible individuals in the supplemental nutrition assistance program and to enroll eligible supplemental nutrition assistance participants in education, employment and training activities.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_105d__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The Commissioner of Social Services, within available appropriations, shall incorporate into existing efforts coordinated outreach to increase awareness and utilization of the supplemental nutrition assistance program by eligible individuals, including, but not limited to, recipients of home-delivered and congregate meals and recipients of public assistance.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_105d__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>For the purpose of determining eligibility for the supplemental nutrition assistance program pursuant to the federal Food and Nutrition Act of 2008, as amended from time to time, the Department of Social Services, to the extent permitted under federal law, shall consider any student enrolled in an institution of higher education in the state to be participating in a state or federally financed work-study program if such student receives approval of work-study as part of a financial aid package to attend such institution of higher education, regardless of whether such student has received his or her work-study program assignment.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-195f"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-195f"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-195f"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-195f/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-195f/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-195f/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-195f/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_205">
+        <num>205</num>
+        <heading>Tax Liens</heading>
+        <section eId="sec_12_195f">
+          <num>12-195f</num>
+          <heading>Validity of liens</heading>
+          <subsection eId="12_195f__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>a commercial transactions financing agreement, or (ii) an obligatory disbursement agreement, and (B) is protected under the laws of the state of Connecticut against a judgment lien arising, as of the time of tax lien filing, out of an unsecured obligation. (C) For purposes of this section,</p>
+            </content>
+          </subsection>
+          <subsection eId="12_195f__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>the term “commercial transactions financing agreement” means an agreement, entered into by a person in the course of such person's trade or business, to make loans to the taxpayer, part or all of the security for repayment of said loans being inventory acquired by the taxpayer in the ordinary course of such taxpayer's trade or business, but such an agreement shall be treated as coming within the term only to the extent that such loan is made before the forty-sixth day after the date of tax lien filing or before the lender had actual notice or knowledge of such tax lien filing, whichever is earlier. (ii) The term “qualified property”, when used with respect to a commercial transactions financing agreement, means inventory acquired by the taxpayer before the forty-sixth day after the date of tax lien filing. (iii) The term “obligatory disbursement agreement” means an agreement, entered into by a person in the course of such person's trade or business, to make disbursements, but such an agreement shall be treated as coming within the term only to the extent of disbursements which are required to be made by reason of the intervention of the rights of a person other than the taxpayer. (iv) The term “qualified property”, when used with respect to an obligatory disbursement agreement, means property subject to the lien imposed by sections12-195ato12-195g, inclusive, at the time of tax lien filing and, to the extent that the acquisition is directly traceable to the disbursements referred to in subparagraph (iii), property acquired by the taxpayer after tax lien filing.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_195f__subsec_v">
+            <num>(v)</num>
+            <content>
+              <p>The term “inventory” when used in this section means inventory as defined in subdivision</p>
+            </content>
+            <paragraph eId="12_195f__subsec_v__subsec_48">
+              <num>(48)</num>
+              <content>
+                <p>of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_195f__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of section42a-9-102;</p>
+            </content>
+            <paragraph eId="12_195f__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>With respect to a security interest which came into existence after tax lien filing by reason of disbursements made before the forty-sixth day after the date of tax lien filing, or before the person making such disbursements had actual notice or knowledge of tax lien filing, whichever is earlier, but only if such security interest (A) is in property</p>
+              </content>
+              <subparagraph eId="12_195f__subsec_a__subsec_2__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>is in property</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_195f__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>subject, at the time of tax lien filing, to the lien imposed by sections12-195ato12-195g, inclusive, and (ii) covered by the terms of a written agreement entered into before tax lien filing, and (B) is protected under the laws of the state of Connecticut against a judgment lien arising, as of the time of tax lien filing, out of an unsecured obligation;</p>
+            </content>
+            <paragraph eId="12_195f__subsec_i__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>With respect to tangible personal property purchased at retail, as against a purchaser in the ordinary course of the seller's trade or business, unless at the time of such purchase such purchaser intends such purchase to, or knows such purchase will, hinder, evade, or defeat the collection of any tax under said sections;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_195f__subsec_i__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>With respect to a purchase money security interest, if said purchase money security interest would be prior to a conflicting security interest in the same collateral under sections42a-9-322and42a-9-324.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

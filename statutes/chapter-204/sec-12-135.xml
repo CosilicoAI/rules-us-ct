@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-135"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-135"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-135"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-135/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-135/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-135/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-135/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_204">
+        <num>204</num>
+        <heading>Local Levy and Collection of Taxes</heading>
+        <section eId="sec_12_135">
+          <num>12-135</num>
+          <heading>Execution of tax warrant. Collection by successor of collector</heading>
+          <subsection eId="12_135__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Any collector of taxes, and any state marshal or constable authorized by such collector, shall, during their respective terms of office, have authority to collect any taxes and any water or sanitation charges due the municipality served by such collector for which a proper warrant and a proper alias tax warrant, in the case of the deputized officer, have been issued. Such alias tax warrant may be executed by any officer above named in any part of the state, and the collector in person may demand and collect taxes or water or sanitation charges in any part of the state on a proper warrant. Any such state marshal or constable so authorized who executes such an alias tax warrant outside of such state marshal's or constable's precinct shall be entitled to collect from the person owing the tax or the water or sanitation charges the fees allowed by law, except that the minimum total fees shall be five dollars and the maximum total fees shall be fifteen dollars for each alias tax warrant so executed. For the purposes of this subsection, “water or sanitation charges” means</p>
+            </content>
+            <paragraph eId="12_135__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>any rates or charges established pursuant to section7-239, or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_135__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>any charges imposed by a municipality for the collection and disposal of garbage, trash, rubbish, waste material and ashes.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_135__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Upon the expiration of the collector's term of office, such collector shall deliver to his or her immediate successor in office the rate bills not fully collected and such successor shall have authority to collect the taxes due thereon. Any person who fails to deliver such rate bills to such person's immediate successor within ten days from the qualification of such successor shall be fined not more than two hundred dollars or imprisoned not more than six months, or both.
+See Sec. 12-162 re alias tax warrants.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-571a"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-571a"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-571a"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-571a/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-571a/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-571a/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-571a/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_226">
+        <num>226</num>
+        <heading>Prepared Food and Beverage Tax</heading>
+        <section eId="sec_12_571a">
+          <num>12-571a</num>
+          <heading>Twenty-four off-track betting branch facilities authorized. Simulcasting and other amenities. Location of facilities. State and municipal approval. Report</heading>
+          <subsection eId="12_571a__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The Department of Consumer Protection shall not operate or authorize the operation of more than twenty-four off-track betting branch facilities, except that the department may operate or authorize the operation of any off-track betting branch facility approved prior to December 31, 1986, by the legislative body of a municipality in accordance with subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_571a__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of section12-572. Any facility approved prior to December 31, 1986, shall be included within the twenty-four facilities authorized by this subsection.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_571a__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The twenty-four off-track betting branch facilities authorized by subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_571a__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section may include facilities which have screens for the simulcasting of off-track betting race programs or jai alai games and other amenities including, but not limited to, restaurants and concessions, and, on and after October 1, 2012, shall be located in the town and city of New Haven, the town of Windsor Locks, the town of East Haven, the town and city of Norwalk, the town and city of Hartford, the town and city of New Britain, the town and city of Bristol, the town and city of Torrington, the town and city of Waterbury, the town and city of Milford, the town and city of New London, the town of Manchester, the town of Windham, the town of Putnam, the town and city of Bridgeport and nine additional locations. The location of each such facility and the addition of simulcasting capability to any existing off-track betting branch facility that did not previously have such capability</p>
+            </content>
+            <paragraph eId="12_571a__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>shall be approved by the commissioner, and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_571a__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>shall be subject to the prior approval of the legislative body of the town in which such facility is located or is proposed to be located. The department shall report annually to the joint standing committee of the General Assembly having cognizance of matters relating to legalized gambling on the status of the establishment or improvement of the off-track betting branch facility pursuant to this subsection.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

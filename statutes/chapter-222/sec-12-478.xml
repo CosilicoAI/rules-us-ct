@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-478"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-478"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-478"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-478/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-478/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-478/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-478/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_222">
+        <num>222</num>
+        <heading>Unrelated Business Income Tax</heading>
+        <section eId="sec_12_478">
+          <num>12-478</num>
+          <heading>Definitions</heading>
+          <content>
+            <p>Sec. 12-478. Definitions.Whenever used in this chapter:
+(1) “Motor carrier” means every person, firm or corporation which operates or causes to be operated on any highway in this state any qualified motor vehicle;
+(2) “Operations” means operations of all such vehicles, whether loaded or empty, whether or not for compensation and whether owned by or leased to the motor carrier which operates them or causes them to be operated;
+(3) “Motor fuel” means “fuels” as defined in section12-455a; and
+(4) “Qualified motor vehicle” means a motor vehicle that is used, designed or maintained for transportation of persons or property and that (A) has two axles and a gross vehicle weight or registered gross vehicle weight exceeding twenty-six thousand pounds; or (B) has three or more axles regardless of weight; or (C) is used in combination and the combined gross vehicle weight or registered gross vehicle weight exceeds twenty-six thousand pounds; but does not include a recreation vehicle that is used exclusively for personal pleasure, and not used in connection with any trade or business, by an individual.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

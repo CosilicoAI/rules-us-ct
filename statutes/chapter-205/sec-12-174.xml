@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-174"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-174"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-174"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-174/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-174/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-174/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-174/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_205">
+        <num>205</num>
+        <heading>Tax Liens</heading>
+        <section eId="sec_12_174">
+          <num>12-174</num>
+          <heading>Deferred collection</heading>
+          <content>
+            <p>Sec. 12-174. Deferred collection.Any person, as owner in whole or in part of, or fiduciary having control of, or interest in, any real estate, may file with the tax collector, at any time within ninety days from the date when the first installment of a tax, or the whole tax in case installments are not authorized, has become due, and within thirty days from the date when the second or any succeeding installment of a tax, all previous installments of which have been paid, has become due, an affidavit showing in detail the existence of unusual financial or other circumstances which justify deferring collection of the tax laid upon such real estate. On receipt of such affidavit, which shall request that the collection of such tax be deferred, the tax collector shall, with the tax collector's recommendations thereon, refer the same to the selectmen if a town not consolidated with a city or borough, to the common council or mayor and board of aldermen if a city, to the warden and burgesses if a borough or to the governing board if any other municipality, for authority to continue the lien securing such tax for a period not exceeding fifteen years. If action granting such authority is taken within sixty days from the receipt thereof, but not otherwise, the tax collector shall make out and file, within the first year after the first installment of the tax, or the whole tax in case installment payments are not authorized, has become due, a certificate containing the information required in section12-173, and the town clerk shall record such certificate; provided, (1) the tax collector shall notify the owner of such real estate of the intent to file a lien by mail not later than fifteen days prior to the filing of such lien, and (2) if such affidavit is approved with respect to any installment, the succeeding installments, if any, shall become due and payable from the due date of such installment, and such certificate shall be made out and recorded to secure payment of all unpaid installments of such tax. Failure to notify such owner of the intent to file a lien shall not affect the validity of the lien. Each tax, the lien for which has been continued by certificate under the provisions of this section, shall not be subject to interest as provided by section12-146. Each lien continued by certificate under the provisions of this section shall be subject to foreclosure at any time, but shall be invalid after the expiration of fifteen years from the date of recording the certificate continuing the same, unless an action of foreclosure has been commenced within such time. After the expiration of such period of fifteen years, if such action has not been commenced, the tax collector then in office shall, upon the request of any interested person, discharge such lien of record by filing a discharge of lien in the office of the town clerk, and the town clerk shall record a discharge of lien in the land records.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-388"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-388"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-388"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-388/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-388/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-388/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-388/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_216">
+        <num>216</num>
+        <heading>Sales and Use Taxes</heading>
+        <section eId="sec_12_388">
+          <num>12-388</num>
+          <heading>Certain refunds to estates subject to additional succession tax</heading>
+          <content>
+            <p>Sec. 12-388. Certain refunds to estates subject to additional succession tax.The transfer to the legatees, devisees or beneficiaries of the will of, or to the heirs of, any transferor, resident of this state at the time of death, of any refund received by the executor or administrator from the United States or from any state or territory on account of any estate, inheritance, succession or transfer tax or tax upon income accrued before the death of the decedent, which tax was deducted by the executor or administrator and by the commissioner in determining the net estate subject to the succession tax of this state, shall be subject to an additional succession tax if the value of such refund exceeds five hundred dollars. The amount of such refund shall be set forth upon a supplemental return by the executor or administrator, copies of which shall be filed with the commissioner and with the Probate Court, respectively, not more than two weeks after the receipt of such refund by the executor or administrator; and a succession tax shall be computed thereon by the commissioner, without interest if such supplemental return is filed within the period limited. The commissioner, within two weeks of his receipt of such return, if such return is found to be correct, shall file copies of the computation of the succession tax thereon with the Court of Probate and with the executor or administrator, respectively, and further proceedings relating to such tax shall be taken in accordance with the provisions of this chapter. Such additional tax shall be computed beginning with the highest rate to which such legatees, devisees or heirs were subject in the original computation of the succession tax and without exemption unless such legatees or devisees are corporations or other institutions, associations or trusts which were exempted from tax in the original computation thereof.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

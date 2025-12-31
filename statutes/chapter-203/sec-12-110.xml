@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-110"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-110"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-110"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-110/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-110/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-110/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-110/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_203">
+        <num>203</num>
+        <heading>Property Tax Assessment</heading>
+        <section eId="sec_12_110">
+          <num>12-110</num>
+          <heading>Sessions of board of assessment appeals</heading>
+          <subsection eId="12_110__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The board of assessment appeals in each town shall meet at least once in the month of September, annually, provided any meeting in the month of September shall be for the sole purpose of hearing appeals related to the assessment of motor vehicles, and shall give notice of the time and place of such meetings by posting it at least ten days before the first meeting in the office of the town clerk, and publishing it in some newspaper published therein or, if no newspaper is published in such town, in a newspaper having a general circulation in such town. Such meetings shall be held on business days, which may be Saturdays, the last not later than the last business day in the month of September, on or before which date such board shall complete the duties imposed upon it.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_110__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The board of assessment appeals in each town shall meet in the month of March to hear appeals related to the assessment of property. Any such meeting shall be held on business days, which may be Saturdays, the last not later than the last business day in the month of March, on or before which date such board shall complete the duties imposed upon it.
+See Sec. 12-117 re time extension for completion of duties of board of tax review.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

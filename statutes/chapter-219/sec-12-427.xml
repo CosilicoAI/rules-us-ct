@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-427"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-427"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-427"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-427/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-427/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-427/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-427/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_219">
+        <num>219</num>
+        <heading>Motor Vehicle Fuels Tax</heading>
+        <section eId="sec_12_427">
+          <num>12-427</num>
+          <heading>Disposition of proceeds</heading>
+          <content>
+            <p>Sec. 12-427. Disposition of proceeds.(1)Settlement with Treasurer.All funds received by the Commissioner of Revenue Services under the provisions of this chapter shall be recorded with the Comptroller and shall be deposited daily with the State Treasurer. The commissioner shall issue his receipt to any taxpayer for any payment upon request.
+(2)Publication and disclosure of information.The Commissioner of Revenue Services shall publish in his report, required under the provisions of section4-60, data showing the amount of taxes and the amount of penalties, assessed under the provisions of this chapter, with such classifications of taxpayers, incomes and deductions and such other facts as he deems pertinent and valuable. Such published figures shall not disclose the operations of any taxpayer in such manner as to permit the identification of such taxpayer by those unassociated with his business. The commissioner shall, at least annually, and more often in his discretion, publish for distribution all regulations prescribed hereunder and such rulings and information as appear to him to be of general interest.
+See Sec. 4-32 re state revenue accounting procedure.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

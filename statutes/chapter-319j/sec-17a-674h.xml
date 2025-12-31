@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-674h"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-674h"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17a-674h"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-674h/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-674h/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-674h/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-674h/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319j">
+        <num>319j</num>
+        <heading>Health Care For Uninsured Children</heading>
+        <section eId="sec_17a_674h">
+          <num>17a-674h</num>
+          <heading>Opioid Antagonist Bulk Purchase Fund. Report</heading>
+          <subsection eId="17a_674h__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>As used in this section:</p>
+            </content>
+            <paragraph eId="17a_674h__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>“Eligible entity” means (A) a municipality, (B) a local or regional board of education, (C) a similar body governing one or more nonpublic schools, (D) a district department of health, (E) a municipal health department, (F) a law enforcement agency, or (G) an emergency medical services organization;</p>
+              </content>
+              <subparagraph eId="17a_674h__subsec_a__subsec_1__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>a municipality,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17a_674h__subsec_a__subsec_1__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>a local or regional board of education,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17a_674h__subsec_a__subsec_1__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>a similar body governing one or more nonpublic schools,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17a_674h__subsec_a__subsec_1__subsec_D">
+                <num>(D)</num>
+                <content>
+                  <p>a district department of health,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17a_674h__subsec_a__subsec_1__subsec_E">
+                <num>(E)</num>
+                <content>
+                  <p>a municipal health department,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17a_674h__subsec_a__subsec_1__subsec_F">
+                <num>(F)</num>
+                <content>
+                  <p>a law enforcement agency, or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17a_674h__subsec_a__subsec_1__subsec_G">
+                <num>(G)</num>
+                <content>
+                  <p>an emergency medical services organization;</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="17a_674h__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>“Emergency medical services personnel” has the same meaning as provided in section19a-175;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_674h__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>“Opioid antagonist” means naloxone hydrochloride or any other similarly acting and equally safe drug approved by the federal Food and Drug Administration for the treatment of a drug overdose;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_674h__subsec_a__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>“Opioid drug” has the same meaning as provided in 42 CFR 8.2, as amended from time to time;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_674h__subsec_a__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>“Opioid use disorder” means a medical condition characterized by a problematic pattern of opioid use and misuse leading to clinically significant impairment or distress;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_674h__subsec_a__subsec_6">
+              <num>(6)</num>
+              <content>
+                <p>“Pharmacist” has the same meaning as provided in section20-609a; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_674h__subsec_a__subsec_7">
+              <num>(7)</num>
+              <content>
+                <p>“Wholesaler” or “distributor” has the same meaning as provided in section21a-70.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17a_674h__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>There is established an Opioid Antagonist Bulk Purchase Fund which shall be a separate nonlapsing account within the General Fund. The account shall contain any</p>
+            </content>
+            <paragraph eId="17a_674h__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>amounts appropriated or otherwise made available by the state for the purposes of this section,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_674h__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>moneys required by law to be deposited in the account, and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_674h__subsec_b__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>gifts, grants, donations or bequests made for the purposes of this section. Investment earnings credited to the assets of the account shall become part of the assets of the account. Any balance remaining in the account at the end of any fiscal year shall be carried forward in the account for the fiscal year next succeeding. The State Treasurer shall administer the account. All moneys deposited in the account shall be used by the Department of Mental Health and Addiction Services for the purposes of this section. The department may deduct and retain from the moneys in the account an amount equal to the costs incurred by the department in administering the provisions of this section, except that said amount shall not exceed two per cent of the moneys deposited in the account in any fiscal year.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17a_674h__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Not later than January 1, 2024, the Department of Mental Health and Addiction Services, in collaboration with the Department of Public Health, shall use the Opioid Antagonist Bulk Purchase Fund for the provision of opioid antagonists to eligible entities and by emergency medical services personnel to certain members of the public. Emergency medical services personnel shall distribute an opioid antagonist kit containing a personal supply of opioid antagonists and the one-page fact sheet developed by the Connecticut Alcohol and Drug Policy Council pursuant to section17a-667aregarding the risks of taking an opioid drug, symptoms of opioid use disorder and services available in the state for persons who experience symptoms of or are otherwise affected by opioid use disorder to a patient who</p>
+            </content>
+            <paragraph eId="17a_674h__subsec_c__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>is treated by such personnel for an overdose of an opioid drug,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_674h__subsec_c__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>displays symptoms to such personnel of opioid use disorder, or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_674h__subsec_c__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>is treated at a location where such personnel observes evidence of illicit use of an opioid drug, or to such patient's family member, caregiver or friend who is present at the location. Emergency medical services personnel shall refer the patient or such patient's family member, caregiver or friend to the written instructions regarding the administration of such opioid antagonist, as deemed appropriate by such personnel.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17a_674h__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>The Department of Mental Health and Addiction Services may, within available appropriations, contract with a wholesaler or distributor for the purchasing and distribution of opioid antagonists in bulk to eligible entities pursuant to subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_674h__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of this section. Each eligible entity shall make such bulk-purchased opioid antagonists available at no charge to a family member, caregiver or friend of a person who has experienced an overdose of an opioid drug or displays symptoms of opioid use disorder.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_674h__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>Emergency medical services organizations may obtain opioid antagonists for dissemination pursuant to subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_674h__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of this section from a pharmacist pursuant to section20-633c,20-633dor21a-286.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_674h__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>Emergency medical services personnel shall document the number of opioid antagonist kits distributed pursuant to subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_674h__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of this section, including, but not limited to, the number of doses of an opioid antagonist included in each kit.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_674h__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>Not later than January 1, 2025, and annually thereafter, the executive director of the Office of Emergency Medical Services shall report to the Department of Mental Health and Addiction Services regarding the implementation of the provisions of subsections</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_674h__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>,</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_674h__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>and</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_674h__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>of this section, including, but not limited to, any information required under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_674h__subsec_h">
+            <num>(h)</num>
+            <content>
+              <p>of this section for inclusion in the state substance use disorder plan developed pursuant to subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_674h__subsec_j">
+            <num>(j)</num>
+            <content>
+              <p>of section17a-451known to the executive director.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_674h__subsec_h">
+            <num>(h)</num>
+            <content>
+              <p>The Commissioner of Mental Health and Addiction Services shall include in the state substance use disorder plan developed pursuant to subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_674h__subsec_j">
+            <num>(j)</num>
+            <content>
+              <p>of section17a-451the following information:</p>
+            </content>
+            <paragraph eId="17a_674h__subsec_j__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>The amount of funds used to purchase and distribute opioid antagonists,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_674h__subsec_j__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>the number of eligible entities that received opioid antagonists under this section,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_674h__subsec_j__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>the amount of opioid antagonists purchased under this section,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_674h__subsec_j__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>the use of the opioid antagonists purchased by each such eligible entity, if known by the commissioner, and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_674h__subsec_j__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>any recommendations regarding the Opioid Antagonist Bulk Purchase Fund, including any proposed legislation to facilitate the purposes of this section.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

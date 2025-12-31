@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-112a"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-112a"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17b-112a"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-112a/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-112a/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-112a/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-112a/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319s">
+        <num>319s</num>
+        <heading>Connecticut Partnership for Long-Term Care</heading>
+        <section eId="sec_17b_112a">
+          <num>17b-112a</num>
+          <heading>Definitions. Notification of referrals to applicants and recipients of temporary family assistance who are victims of domestic violence. Domestic violence training program. Regulations</heading>
+          <subsection eId="17b_112a__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>For purposes of this section and section17b-112b:</p>
+            </content>
+            <paragraph eId="17b_112a__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>“Victim of domestic violence” means a person who has been abused or subjected to extreme cruelty by: (A) Physical acts that resulted in or were threatened to result in physical injury; (B) sexual abuse; (C) sexual activity involving a child in the home; (D) being forced to participate in nonconsensual sexual acts or activities; (E) threats of or attempts at physical or sexual abuse; (F) mental abuse; or (G) neglect or deprivation of medical care; and</p>
+              </content>
+              <subparagraph eId="17b_112a__subsec_a__subsec_1__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>Physical acts that resulted in or were threatened to result in physical injury;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17b_112a__subsec_a__subsec_1__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>sexual abuse;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17b_112a__subsec_a__subsec_1__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>sexual activity involving a child in the home;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17b_112a__subsec_a__subsec_1__subsec_D">
+                <num>(D)</num>
+                <content>
+                  <p>being forced to participate in nonconsensual sexual acts or activities;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17b_112a__subsec_a__subsec_1__subsec_E">
+                <num>(E)</num>
+                <content>
+                  <p>threats of or attempts at physical or sexual abuse;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17b_112a__subsec_a__subsec_1__subsec_F">
+                <num>(F)</num>
+                <content>
+                  <p>mental abuse; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17b_112a__subsec_a__subsec_1__subsec_G">
+                <num>(G)</num>
+                <content>
+                  <p>neglect or deprivation of medical care; and</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="17b_112a__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>“Work activity” means subsidized or unsubsidized employment, job training, education, work placement assistance or community service program.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_112a__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>For purposes of this section, allegations of domestic violence by a victim may be sufficient to establish domestic violence where the Department of Social Services has no independent, reasonable basis to find the applicant or recipient not credible. Upon alleging domestic violence an applicant or recipient may be required to provide a sworn statement or to submit to the department any evidence of such violence available to the applicant or recipient. Evidence of domestic violence may include, but is not limited to:</p>
+            </content>
+            <paragraph eId="17b_112a__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>Police, government agency or court records;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_112a__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>documentation from a shelter worker, legal, medical, clerical or other professional from whom the applicant or recipient has sought assistance in dealing with domestic violence; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_112a__subsec_b__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>a statement from an individual with knowledge of the circumstances which provide the basis for the claim of domestic violence.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_112a__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The Commissioner of Social Services shall notify applicants and recipients of temporary family assistance, who are past or present victims of domestic violence or at risk of further domestic violence, of the following:</p>
+            </content>
+            <paragraph eId="17b_112a__subsec_c__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>Referrals available to counseling and supportive services, including, but not limited to, shelter services, medical services, domestic abuse hotlines, legal counseling and advocacy, mental health care and financial assistance; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_112a__subsec_c__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>Procedures to voluntarily and confidentially identify eligibility for referrals to such counseling and supportive services.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_112a__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>The Commissioner of Social Services shall implement policies and procedures necessary to notify such applicants and recipients of the information specified in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_112a__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of this section while in the process of adopting such policies and procedures in regulation form, provided the commissioner prints notice of intention to adopt the regulations in the Connecticut Law Journal within twenty days of implementing such policies and procedures. Final regulations shall be submitted to the legislative regulation review committee no later than November 15, 1997. Policies and procedures implemented pursuant to this subsection shall be valid until the time final regulations are effective.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_112a__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>The Commissioner of Social Services may adopt regulations, in accordance with the provisions of chapter 54, to establish a domestic violence training program for employees of the Department of Social Services and any contractors with said department who work with applicants or recipients of temporary family assistance.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_112a__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>For the purpose of establishing said training program, the commissioner may consult with domestic violence organizations or experts.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

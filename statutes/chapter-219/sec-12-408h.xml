@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-408h"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-408h"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-408h"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-408h/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-408h/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-408h/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-408h/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_219">
+        <num>219</num>
+        <heading>Motor Vehicle Fuels Tax</heading>
+        <section eId="sec_12_408h">
+          <num>12-408h</num>
+          <heading>Short-term rental facilitators</heading>
+          <subsection eId="12_408h__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>As used in this section:</p>
+            </content>
+            <paragraph eId="12_408h__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>“Short-term rental” means the transfer for a consideration of the occupancy in a furnished residence or similar accommodation for a period of thirty consecutive calendar days or less;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_408h__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>“Short-term rental facilitator” means any person that (A) facilitates retail sales of at least two hundred fifty thousand dollars during the prior twelve-month period by short-term rental operators by providing a short-term rental platform, (B) directly or indirectly through agreements or arrangements with third parties, collects rent for occupancy and remits payments to the short-term rental operators, and (C) receives compensation or other consideration for such services;</p>
+              </content>
+              <subparagraph eId="12_408h__subsec_a__subsec_2__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>facilitates retail sales of at least two hundred fifty thousand dollars during the prior twelve-month period by short-term rental operators by providing a short-term rental platform,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_408h__subsec_a__subsec_2__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>directly or indirectly through agreements or arrangements with third parties, collects rent for occupancy and remits payments to the short-term rental operators, and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_408h__subsec_a__subsec_2__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>receives compensation or other consideration for such services;</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_408h__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>“Short-term rental operator” means any person that has an agreement with a short-term rental facilitator regarding the listing or advertising of a short-term rental in this state; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_408h__subsec_a__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>“Short-term rental platform” means a physical or electronic place, including, but not limited to, a store, a booth, an Internet web site, a catalog or a dedicated software application that allows short-term rental operators to display available accommodations to prospective guests.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_408h__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>A short-term rental facilitator shall be required to obtain a permit to collect the tax set forth in subparagraph (B) of subdivision</p>
+            </content>
+            <paragraph eId="12_408h__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>of section12-408and shall be considered the retailer for each retail sale of a short-term rental that such facilitator facilitates on its platform for a short-term rental operator. Each short-term rental facilitator shall</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_408h__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>be required to collect and remit for each such sale any tax imposed under section12-408,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_408h__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>be responsible for all obligations imposed under this chapter as if such short-term rental facilitator was the operator of such short-term rental and retailer for such sale, and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_408h__subsec_b__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>keep such records and information as may be required by the Commissioner of Revenue Services to ensure proper collection and remittance of such tax.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_408h__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>A short-term rental operator shall not be liable for the collection of the tax set forth in subparagraph (B) of subdivision</p>
+            </content>
+            <paragraph eId="12_408h__subsec_c__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>of section12-408to the extent the short-term rental facilitator collected the tax due on such rent.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

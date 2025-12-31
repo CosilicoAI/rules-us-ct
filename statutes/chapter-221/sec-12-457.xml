@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-457"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-457"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-457"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-457/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-457/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-457/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-457/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_221">
+        <num>221</num>
+        <heading>Real Estate Conveyance Tax</heading>
+        <section eId="sec_12_457">
+          <num>12-457</num>
+          <heading>Records to be kept by distributor. Statement to purchaser</heading>
+          <content>
+            <p>Sec. 12-457. Records to be kept by distributor. Statement to purchaser.Each distributor shall keep an accurate record of the number of gallons of such fuels purchased, manufactured, compounded or received by him, the date of any such purchase and the number of gallons sold or used by him. He shall deliver, with each consignment or delivery of such fuels to any purchaser within this state, a written statement of the names and addresses of the vendor and vendee, the number of gallons sold and the date of sale and delivery. Such written statement shall set forth whether or not the required state tax has been charged thereon. Each such record and such statement shall be preserved by such distributor and such purchaser, respectively, for a period of at least three years and shall be offered for inspection upon demand of the commissioner or any officer or agent designated by him. The commissioner shall cause such records and statements to be regularly audited as he shall prescribe and each distributor shall satisfactorily account for all such fuels as have been sold or used by him. Any such fuels unaccounted for by the distributor for which a satisfactory explanation cannot be submitted shall be construed to have been sold or used.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

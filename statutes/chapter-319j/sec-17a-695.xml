@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-695"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-695"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17a-695"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-695/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-695/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-695/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-695/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319j">
+        <num>319j</num>
+        <heading>Health Care For Uninsured Children</heading>
+        <section eId="sec_17a_695">
+          <num>17a-695</num>
+          <heading>(Formerly Sec. 19a-127d). Motion for suspension of prosecution and treatment for alcohol and drug dependency</heading>
+          <content>
+            <p>Sec. 17a-695. (Formerly Sec. 19a-127d). Motion for suspension of prosecution and treatment for alcohol and drug dependency.After receipt by the court of the examination report, the accused person may make a motion for suspension of prosecution and an order of treatment for alcohol or drug dependency pursuant to the provisions of section17a-696. Unless the opportunity for a hearing is waived by both the accused person and the state's attorney, the court shall hear the motion. The clinical examiner shall not be required to be present to testify on the report unless the presence of the clinical examiner is requested by the court, the accused person or the state's attorney.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

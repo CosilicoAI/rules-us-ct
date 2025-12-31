@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-266"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-266"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17b-266"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-266/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-266/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-266/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-266/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319v">
+        <num>319v</num>
+        <heading>Temporary Assistance for Needy Families</heading>
+        <section eId="sec_17b_266">
+          <num>17b-266</num>
+          <heading>(Formerly Sec. 17-134g). Purchase of insurance. Contracts for comprehensive health care on a prepayment or per capita basis. Certification of providers by commissioner. Payment of capitation claims. Deposit of funds for expenditures for children's health programs and services</heading>
+          <subsection eId="17b_266__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The Commissioner of Social Services may, when the commissioner finds it to be in the public interest, fund part or all of the cost of benefits to any recipient under sections17b-260to17b-262, inclusive,17b-264to17b-285, inclusive,17b-357to17b-361, inclusive,17b-290,17b-292,17b-295,17b-297a,17b-297band17b-300through the purchase of insurance from any organization authorized to do a health insurance business in this state or from any organization specified in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_266__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_266__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The Commissioner of Social Services may require recipients of Medicaid or other public assistance to receive medical care on a prepayment or per capita basis, in accordance with federal law and regulations, if such prepayment is anticipated to result in lower medical assistance costs to the state. The commissioner may enter into contracts for the provision of comprehensive health care on a prepayment or per capita basis in accordance with federal law and regulations, with the following:</p>
+            </content>
+            <paragraph eId="17b_266__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>A health care center subject to the provisions of chapter 698a;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_266__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>a consortium of federally qualified community health centers and other community-based providers of health services which are funded by the state;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_266__subsec_b__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>other consortia of providers of health care services established for the purposes of this subsection; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_266__subsec_b__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>an integrated service network providing care management and comprehensive health care on a prepayment or per capita basis to elderly and disabled recipients of Medicaid who may also be eligible for Medicare.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_266__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Providers of comprehensive health care services as described in subdivisions</p>
+            </content>
+            <paragraph eId="17b_266__subsec_c__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_266__subsec_c__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_266__subsec_c__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_266__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section shall not be subject to the provisions of chapter 698a or, in the case of an integrated service network, sections17b-239to17b-245, inclusive,17b-281,17b-340,17b-342and17b-343. Any such provider shall be certified by the Commissioner of Social Services in accordance with criteria established by the commissioner, including, but not limited to, minimum reserve fund requirements.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_266__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>The commissioner shall pay all capitation claims which would otherwise be reimbursed to the health plans described in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_266__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section in May, 2010, no later than June 30, 2010. Each subsequent payment made by the commissioner to such health plans for capitation claims due shall be made in the second month following the month to which the capitation applies.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_266__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>On or after May 1, 2000, the payment to the Commissioner of Social Services of</p>
+            </content>
+            <paragraph eId="17b_266__subsec_e__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>any monetary sanction imposed by the commissioner on a managed care organization under the provisions of a contract between the commissioner and such organization entered into pursuant to this section or sections17b-290,17b-292,17b-295,17b-297a,17b-297band17b-300, or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_266__subsec_e__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>any sum agreed upon by the commissioner and such an organization as settlement of a claim brought by the commissioner or the state against such an organization for failure to comply with the terms of a contract with the commissioner or fraud affecting the Department of Social Services shall be deposited in an account designated for use by the department for expenditures for children's health programs and services.
+See Sec. 17b-10a re implementation of policies and procedures while in the process of adopting as regulation.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-179"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-179"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-179"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-179/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-179/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-179/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-179/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_205">
+        <num>205</num>
+        <heading>Tax Liens</heading>
+        <section eId="sec_12_179">
+          <num>12-179</num>
+          <heading>Discharge of tax liens</heading>
+          <content>
+            <p>Sec. 12-179. Discharge of tax liens.The selectmen of any town, the mayor of any city, the warden of any borough or the chairman of the governing board of any municipal district may discharge any lien filed to secure payment of any tax, a certificate of which has been recorded in the land records, by causing to be recorded in the office of the town clerk a certificate discharging such lien in such land records, if any tax secured by such lien has been duly abated, or if the tax secured by any such lien has been paid and the collector is without authority of law to discharge such lien, or when counsel for any such municipality delivers an opinion in writing showing that he is satisfied that the tax has been paid, though payment has not been credited to the taxpayer, or when such opinion has been delivered by counsel showing that any lien is illegal because the requirements of the statute respecting the same have not been complied with. In each such opinion, the counsel shall state wherein any lien so filed is illegal. Each such discharge shall be signed by a majority of the board of selectmen, the mayor, the warden or the chairman, as the case may be, and shall recite the fact that counsel for the municipality has rendered an opinion respecting such lien in accordance with the provisions of this section. Each opinion showing that any lien is illegal shall be filed with the town clerk of the town wherein such lien is to be so discharged. For recording any such discharge, the town clerk shall receive from the town, city, borough or other municipal district, if his annual compensation is not fixed by law, a fee of fifty cents.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

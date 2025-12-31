@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-121f"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-121f"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-121f"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-121f/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-121f/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-121f/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-121f/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_203">
+        <num>203</num>
+        <heading>Property Tax Assessment</heading>
+        <section eId="sec_12_121f">
+          <num>12-121f</num>
+          <heading>Validations re assessment lists</heading>
+          <subsection eId="12_121f__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>An assessment list in any town, city or borough is not invalid as to the taxpayers of the taxing district as a whole because the assessor committed any one or more of the errors or omissions listed in subdivisions</p>
+            </content>
+            <paragraph eId="12_121f__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>to</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_121f__subsec_a__subsec_15">
+              <num>(15)</num>
+              <content>
+                <p>, inclusive, of this subsection unless an action contesting the validity of the assessment list is brought within four months after the assessment date and the plaintiff establishes that the assessor's error or omission will produce a substantial injustice to the taxpayers as a whole:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_121f__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>The assessor failed to give the legal notice required by section12-40that all persons liable to pay taxes in the taxing district must, when required by law, bring in written or printed lists of the taxable property belonging to them;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_121f__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>The assessor received a list that is either not sworn to or not signed by the person giving that list as required by section12-49;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_121f__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>The assessor received a list after the deadline specified by section12-41but neglected to fill out a list of the property described and add to the assessment the penalty set by said section for failing to file before the deadline;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_121f__subsec_a__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>The assessor failed to give the notice required by subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_121f__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of section12-53after adding property to the list of any person or corporation making a sworn list;</p>
+            </content>
+            <paragraph eId="12_121f__subsec_c__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>The assessor failed to give the notice required by subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_121f__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of section12-53after making out a list for a person or corporation that was liable to pay taxes and failed to give a required list;</p>
+            </content>
+            <paragraph eId="12_121f__subsec_c__subsec_6">
+              <num>(6)</num>
+              <content>
+                <p>The assessor failed to assess and set house lots separately in lists as land as required by section12-63;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_121f__subsec_c__subsec_7">
+              <num>(7)</num>
+              <content>
+                <p>The assessor failed to sign any assessment list, or did not sign the assessment list of a town, city or borough collectively but signed the assessment list individually for districts in the town, city or borough;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_121f__subsec_c__subsec_8">
+              <num>(8)</num>
+              <content>
+                <p>The assessor failed, as required by subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_121f__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of section12-55, to arrange an assessment list in alphabetical order, or to lodge the list in the required office on or before the day designated by law, or at all;</p>
+            </content>
+            <paragraph eId="12_121f__subsec_a__subsec_9">
+              <num>(9)</num>
+              <content>
+                <p>The assessor decreased valuations after the day on which the assessment list was lodged or was required by law to be lodged in the required office, but before the date on which the abstract of such list was transmitted or was required to be transmitted to the Secretary of the Office of Policy and Management;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_121f__subsec_a__subsec_10">
+              <num>(10)</num>
+              <content>
+                <p>The assessor failed, as required by section12-42, to fill out a list for any person or corporation that failed to return a required list;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_121f__subsec_a__subsec_11">
+              <num>(11)</num>
+              <content>
+                <p>The assessor incorrectly made an assessment list abstract required by subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_121f__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of section12-55;</p>
+            </content>
+            <paragraph eId="12_121f__subsec_a__subsec_12">
+              <num>(12)</num>
+              <content>
+                <p>The assessor failed to compare, sign, return, date or make oath to an abstract of an assessment list of his or her town, as required by law, or omitted from an abstract any part of the list of any person;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_121f__subsec_a__subsec_13">
+              <num>(13)</num>
+              <content>
+                <p>The assessor did not take the oath required by law;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_121f__subsec_a__subsec_14">
+              <num>(14)</num>
+              <content>
+                <p>The assessor failed to return to a district clerk an assessment list of the district assessment; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_121f__subsec_a__subsec_15">
+              <num>(15)</num>
+              <content>
+                <p>The assessor omitted from the assessment list the taxable property of any person or corporation liable to pay taxes.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_121f__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>An assessment list in any town, city or borough is not invalid as to the taxpayers of the taxing district as a whole because the board of assessment appeals or a member or members of the board committed any one or more of the errors or omissions listed in subdivisions</p>
+            </content>
+            <paragraph eId="12_121f__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>to</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_121f__subsec_b__subsec_6">
+              <num>(6)</num>
+              <content>
+                <p>, inclusive, of this subsection unless an action contesting the validity of the assessment list is brought within four months after the assessment date and the plaintiff establishes that the error or omission will produce a substantial injustice to the taxpayers as a whole:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_121f__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>A member or members of the board of assessment appeals did not take the oath required by law;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_121f__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>The board of assessment appeals failed to give notice of the times and places of the meetings as required by section12-110;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_121f__subsec_b__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>The board of assessment appeals held its first meeting on some day other than the day provided by section12-110;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_121f__subsec_b__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>The board of assessment appeals added to the list of any person or corporation any item of taxable property actually owned by the person or corporation without giving the notice required by section12-111or12-115;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_121f__subsec_b__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>The board of assessment appeals increased the list of any person or corporation, or added to the assessment list the name of any person or corporation, without giving such person or corporation the notice required by section12-111or12-115, and the amount of such list is not excessive or unjust; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_121f__subsec_b__subsec_6">
+              <num>(6)</num>
+              <content>
+                <p>Any assessment list or abstract thereof is not signed by a member acting on behalf of the board of assessment appeals after having been examined and corrected by the board of assessment appeals.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_121f__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>A tax laid and imposed in any town, city or borough is not invalid as to the taxpayers of the taxing district as a whole because of any one or more of the errors or omissions listed in subdivisions</p>
+            </content>
+            <paragraph eId="12_121f__subsec_c__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>to</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_121f__subsec_c__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>, inclusive, of this subsection unless an action contesting the validity of the tax is brought within four months after the tax is imposed and the plaintiff establishes that the error or omission will produce a substantial injustice to the taxpayers as a whole:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_121f__subsec_c__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>The abstract of an assessment list was not transmitted to the Secretary of the Office of Policy and Management when required;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_121f__subsec_c__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>The proper authorities voted to levy a tax, but failed to fix the time when such tax should become due, and the tax collector has given notice that the taxes were to become due at a certain time;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_121f__subsec_c__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>A rate bill or a bill for taxes for the collection of any tax was not made under the hands of the proper authority according to law;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_121f__subsec_c__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>The selectmen of any town made their rate bill from an assessment list made and corrected by the assessor and board of assessment appeals and lodged in the town clerk's office and disregarded any illegal alteration in the list made after the list and abstract were completed and lodged in the town clerk's office; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_121f__subsec_c__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>A mistake, irregularity or omission occurred in any of the steps preparatory to the issuance of a rate bill or bill for taxes for any tax, or in the preparation or issuance of such a rate bill or bill for taxes, or in the warrant for collection thereof, provided such mistake, irregularity or omission is not shown by the taxpayer to have made his or her tax materially greater and that notice of the bill has been given to the taxpayer.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

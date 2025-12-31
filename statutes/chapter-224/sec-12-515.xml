@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-515"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-515"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-515"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-515/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-515/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-515/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-515/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_224">
+        <num>224</num>
+        <heading>Community Revitalization and Investment</heading>
+        <section eId="sec_12_515">
+          <num>12-515</num>
+          <heading>Refund claims</heading>
+          <content>
+            <p>Sec. 12-515. Refund claims.Any taxpayer who feels that he has overpaid any taxes due under this chapter may file a claim for refund in writing with the commissioner within three years from the due date for which such overpayment was made stating the specific grounds upon which the claim is founded. Not later than ninety days following receipt of such claim for refund the commissioner shall determine whether such claim is valid and if so, said commissioner shall notify the Comptroller of the amount of such refund and the Comptroller shall draw an order on the Treasurer in the amount thereof for payment to the taxpayer. To the amount of such refund there shall be added interest at the rate of three-fourths of one per cent for each month or fraction thereof which elapses between the ninetieth day following receipt of such claim for refund by the commissioner and the date of notice by the commissioner that such refund is due. Failure to file a claim within the time prescribed in this section constitutes a waiver of any demand against the state on account of overpayment. Within thirty days after disallowing any claim in whole or in part the commissioner shall serve notice of his action on the claimant.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

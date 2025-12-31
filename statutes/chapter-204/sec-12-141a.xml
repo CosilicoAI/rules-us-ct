@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-141a"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-141a"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-141a"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-141a/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-141a/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-141a/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-141a/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_204">
+        <num>204</num>
+        <heading>Local Levy and Collection of Taxes</heading>
+        <section eId="sec_12_141a">
+          <num>12-141a</num>
+          <heading>Payment of municipal taxes by credit card, debit card or electronic payment services</heading>
+          <content>
+            <p>Sec. 12-141a. Payment of municipal taxes by credit card, debit card or electronic payment services.Each municipality may allow the payment of taxes, penalties, interest and fees by means of a credit card, charge card or debit card or an electronic payment service and may charge the taxpayer a service fee for any such payment made by any such card or electronic payment service. Such fee shall not exceed any charge by the card issuer or electronic payment service provider, including any discount rate. Payments by credit card, charge card or debit card or an electronic payment service shall be made at such times and under such conditions as the municipality may prescribe. The debt incurred through the payment of taxes by means of a credit card, charge card or debit card or an electronic payment service shall not be considered a tax collectible pursuant to the provisions of section12-172.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

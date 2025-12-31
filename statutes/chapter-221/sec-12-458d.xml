@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-458d"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-458d"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-458d"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-458d/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-458d/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-458d/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-458d/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_221">
+        <num>221</num>
+        <heading>Real Estate Conveyance Tax</heading>
+        <section eId="sec_12_458d">
+          <num>12-458d</num>
+          <heading>Imposition of fuel excise tax</heading>
+          <subsection eId="12_458d__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>An excise tax per gallon of fuel, as defined in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_458d__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of section12-455a, is hereby imposed in the following amounts on the following dates, upon all persons licensed to sell fuel under the provisions of section14-319: Two cents per gallon on December 31, 1992, one cent per gallon on June 30, 1993, one cent per gallon on December 31, 1993, one cent per gallon on June 30, 1994, one cent per gallon on December 31, 1994, one cent per gallon on June 30, 1995, one cent per gallon on September 30, 1995, one cent per gallon on December 31, 1995, one cent per gallon on March 31, 1996, one cent per gallon on June 30, 1996, one cent per gallon on September 30, 1996, and one cent per gallon on December 31, 1996, provided no excise tax shall be imposed on diesel fuel on and after August 31, 1991.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_458d__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Each such licensee shall, not later than the first business day of the second month next following the date on which such tax is imposed, file with the Commissioner of Revenue Services, on forms prescribed by said commissioner, a report which shall show the number of gallons of fuel in inventory as of the close of business on the date on which such tax is imposed, or at midnight of such date, and at the same time shall pay such tax based upon the total gallonage shown on such report. The Commissioner of Motor Vehicles shall cooperate with the Commissioner of Revenue Services in the enforcement of this tax. Failure to file such report and pay the tax when due shall be sufficient reason to revoke any state license or permit held by such person and interest at the rate of one per cent per month or fraction thereof shall be assessed on the amount of such tax not paid when due, from the date such tax becomes due to the date of payment.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

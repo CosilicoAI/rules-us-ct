@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-511a"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-511a"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-511a"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-511a/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-511a/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-511a/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-511a/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_224">
+        <num>224</num>
+        <heading>Community Revitalization and Investment</heading>
+        <section eId="sec_12_511a">
+          <num>12-511a</num>
+          <heading>Disclosure by taxpayer of relevant changes in federal taxable income</heading>
+          <subsection eId="12_511a__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of section12-511, if, upon examination, the commissioner finds that such taxpayer is liable for the payment of an additional tax, he shall, within a reasonable time from the receipt of an amended return or affidavit, notify such taxpayer of the amount of such additional tax, together with interest thereon computed at the rate of one and one-fourth per cent per month or fraction thereof from the date when the original tax became due and payable. Within thirty days of the mailing of such notice, the taxpayer shall pay to the commissioner the amount of such additional tax and interest. If, upon examination of such amended return or affidavit and related information, the commissioner finds that the taxpayer has overpaid the tax due the state, the commissioner shall certify the amount of such overpayment to the Comptroller, and such amount shall be paid to the taxpayer by the State Treasurer upon order of the Comptroller.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

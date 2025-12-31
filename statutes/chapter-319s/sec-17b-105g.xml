@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-105g"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-105g"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17b-105g"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-105g/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-105g/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-105g/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-105g/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319s">
+        <num>319s</num>
+        <heading>Connecticut Partnership for Long-Term Care</heading>
+        <section eId="sec_17b_105g">
+          <num>17b-105g</num>
+          <heading>Selection of supplemental nutrition assistance employment and training community collaboratives to receive federal matching funds. Establishment and composition of collaborative. Use of funds</heading>
+          <subsection eId="17b_105g__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The Department of Social Services shall select among qualified supplemental nutrition assistance employment and training community collaboratives to receive federal matching funds in accordance with section17b-105h. To be considered for receipt of such funds, each collaborative shall demonstrate its capacity to implement poverty reduction strategies to the department in such form and in such manner as the Commissioner of Social Services prescribes. Each collaborative shall identify</p>
+            </content>
+            <paragraph eId="17b_105g__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>its priorities for reducing child poverty in such municipality or region,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_105g__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>how funds that are received by the collaborative will be utilized,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_105g__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>community partners and resources utilized to support poverty reduction strategies, and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_105g__subsec_a__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>its capacity to collect relevant data and measure outcomes.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_105g__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Each supplemental nutrition assistance employment and training community collaborative shall establish a governance structure, determine membership and identify or establish a fiscal agent. A collaborative shall consist of at least five member entities representing institutions of higher education, regional workforce development boards, social services nonprofit agencies, business associations, philanthropic organizations, municipalities, community action agencies or other community partners. A majority of the membership of each collaborative shall be supplemental nutrition assistance employment and training providers.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_105g__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Funds provided to a supplemental nutrition assistance employment and training community collaborative shall be used to implement poverty reduction strategies in a municipality or region. Such strategies shall be aligned with the recommendations of the Child Poverty and Prevention Council and its plan to reduce child poverty developed pursuant to section4-67x.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

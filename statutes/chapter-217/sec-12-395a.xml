@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-395a"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-395a"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-395a"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-395a/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-395a/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-395a/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-395a/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_217">
+        <num>217</num>
+        <heading>Admissions and Dues Taxes</heading>
+        <section eId="sec_12_395a">
+          <num>12-395a</num>
+          <heading>Written agreements of compromise by the commissioner</heading>
+          <content>
+            <p>Sec. 12-395a. Written agreements of compromise by the commissioner.If the Commissioner of Revenue Services determines that a decedent at the time of his death was a resident of this state and the taxing authorities of another jurisdiction have determined that such decedent at the time of his death was a resident of such other jurisdiction and the estate of such decedent is subject to and has paid an estate tax that is imposed by such other jurisdiction, the commissioner may make a written agreement of compromise with such taxing authorities and the duly authorized executor or administrator of such estate that a certain sum, including any interest or penalties to the date of the signing of the agreement, shall be accepted in full satisfaction of any estate tax imposed by this state on such estate. Such agreement shall also fix the amount to be accepted by such other jurisdiction in full satisfaction of any estate tax imposed by such jurisdiction on such estate. The executor or administrator of such estate is hereby authorized to make such agreement.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

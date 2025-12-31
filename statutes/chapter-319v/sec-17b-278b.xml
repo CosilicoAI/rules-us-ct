@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-278b"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-278b"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17b-278b"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-278b/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-278b/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-278b/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-278b/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319v">
+        <num>319v</num>
+        <heading>Temporary Assistance for Needy Families</heading>
+        <section eId="sec_17b_278b">
+          <num>17b-278b</num>
+          <heading>Medical assistance for breast and cervical cancer</heading>
+          <subsection eId="17b_278b__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The Commissioner of Social Services shall provide coverage under the Medicaid program in accordance with Public Law 106-354 to women diagnosed with breast or cervical cancer. The commissioner shall seek any federal waivers or amend the state Medicaid plan as necessary in order to secure federal reimbursement for the costs of providing coverage under the Medicaid program to such women. Such coverage shall not be dependent on the available income or assets of an applicant.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_278b__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>To qualify for medical assistance under this section, a woman shall:</p>
+            </content>
+            <paragraph eId="17b_278b__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>Have been screened for breast or cervical cancer under the Centers for Disease Control and Prevention's National Breast and Cervical Cancer Early Detection Program and found to be in need of treatment for breast or cervical cancer, including a precancerous condition of the breast or cervix;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_278b__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>not otherwise have creditable coverage, as defined in 42 USC 300gg</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_278b__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>;</p>
+            </content>
+            <paragraph eId="17b_278b__subsec_c__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>not have attained the age of sixty-five years;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_278b__subsec_c__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>not be eligible under any mandatory Medicaid eligibility group; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_278b__subsec_c__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>be a resident of this state and a United States citizen or a qualified alien, as defined in Section 431 of Public Law 104-193.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_278b__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The commissioner shall deem an applicant who has been determined eligible for medical assistance under this section as having been eligible for up to three months prior to the month in which an application was filed if the requirements in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_278b__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section were met during such three-month period. An individual determined eligible for medical assistance under this section shall remain eligible until the individual's course of treatment is completed or until eligibility criteria set forth in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_278b__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section are no longer met. The commissioner shall establish procedures for the granting of presumptive eligibility in order to ensure prompt access to services for applicants.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_278b__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>The Commissioner of Social Services shall implement policies and procedures necessary to carry out the provisions of this section while in the process of adopting such policies and procedures in regulation form in accordance with chapter 54, provided notice of intention to adopt the regulations is published in the Connecticut Law Journal within twenty days of implementation of such policies and procedures. Such policies and procedures shall be valid until the time final regulations are effective.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

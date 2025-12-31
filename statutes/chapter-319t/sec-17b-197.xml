@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-197"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-197"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17b-197"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-197/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-197/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-197/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-197/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319t">
+        <num>319t</num>
+        <heading>State Supplement to Supplemental Security Income</heading>
+        <section eId="sec_17b_197">
+          <num>17b-197</num>
+          <heading>(Formerly Sec. 17b-119). Denial or termination of aid under federal Supplemental Security Income Program. Notice of right to appeal</heading>
+          <content>
+            <p>Sec. 17b-197. (Formerly Sec. 17b-119). Denial or termination of aid under federal Supplemental Security Income Program. Notice of right to appeal.If a recipient of state-administered general assistance or person receiving aid under both the Social Security Disability Income Program and the state supplement to the federal Supplemental Security Income Program has been denied aid under the federal Supplemental Security Income Program, or has been notified by the Social Security Administration that his benefits under such program will be terminated, the Commissioner of Social Services shall advise the recipient of the recipient's right to appeal and the availability of local legal counsel. For legal representation of a recipient that began prior to April 14, 2010, the attorney chosen by the recipient shall be reimbursed by the state for his reasonable fees, on a contingency basis, limited to the amount approved by the Department of Social Services, and limited to the amount approved by the Social Security Administration when such approval is required by federal regulations for such appeals. Such attorney's fees shall not be recoverable from such recipient or his estate. The full amount of any interim assistance reimbursement received by the state shall be applied to reduce any obligation owed to the town by such recipient.
+See Sec. 17b-10a re implementation of policies and procedures while in the process of adopting as regulation.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

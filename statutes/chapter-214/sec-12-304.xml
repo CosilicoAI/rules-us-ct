@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-304"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-304"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-304"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-304/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-304/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-304/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-304/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_214">
+        <num>214</num>
+        <heading>Business Tax Credits</heading>
+        <section eId="sec_12_304">
+          <num>12-304</num>
+          <heading>Sale of unstamped cigarettes prohibited. Penalty</heading>
+          <subsection eId="12_304__subsec_a">
+            <num>(a)</num>
+            <paragraph eId="12_304__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>No person shall sell, offer for sale, display for sale, transport for sale or possess with intent to sell, any cigarettes (A) which do not bear stamps evidencing the payment of the tax imposed by this chapter, or (B) the stamping of which is prohibited by subsection</p>
+              </content>
+              <subparagraph eId="12_304__subsec_a__subsec_1__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>which do not bear stamps evidencing the payment of the tax imposed by this chapter, or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_304__subsec_a__subsec_1__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>the stamping of which is prohibited by subsection</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_304__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of section12-302or subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_304__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of section12-303, provided a licensed dealer may keep on hand, at the location for which such dealer's license is issued, unstamped cigarettes, other than cigarettes, the stamping of which is prohibited by subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_304__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of section12-303, for a period not exceeding twenty-four hours. Any unstamped cigarettes in the possession of a licensed dealer shall be presumed to have been held by such dealer for more than twenty-four hours unless proof is shown to the contrary.</p>
+            </content>
+            <paragraph eId="12_304__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>Except as provided in subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_304__subsec_b__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>of this subsection, any person who knowingly violates any provision of subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_304__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>of this subsection shall be subject to the following penalties: (A) If the violation involves one thousand or fewer unstamped cigarettes, such person shall be fined not more than one thousand dollars or imprisoned for not more than one year, or both; (B) if the violation involves more than one thousand but fewer than twenty thousand unstamped cigarettes, such person shall be fined not more than one dollar per cigarette or imprisoned for not more than one year, or both; and (C) if the violation involves twenty thousand or more unstamped cigarettes, such person shall be fined not more than one dollar fifty cents per cigarette or imprisoned for not more than five years, or both.</p>
+              </content>
+              <subparagraph eId="12_304__subsec_b__subsec_1__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>If the violation involves one thousand or fewer unstamped cigarettes, such person shall be fined not more than one thousand dollars or imprisoned for not more than one year, or both;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_304__subsec_b__subsec_1__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>if the violation involves more than one thousand but fewer than twenty thousand unstamped cigarettes, such person shall be fined not more than one dollar per cigarette or imprisoned for not more than one year, or both; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_304__subsec_b__subsec_1__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>if the violation involves twenty thousand or more unstamped cigarettes, such person shall be fined not more than one dollar fifty cents per cigarette or imprisoned for not more than five years, or both.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_304__subsec_b__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>Any licensed dealer who knowingly violates any provision of subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_304__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>of this subsection shall be fined three hundred fifty dollars, provided (A) the quantity of unstamped cigarettes in the possession of such dealer does not exceed one thousand cigarettes, and (B) it is such dealer's first violation of the provisions of this subsection.</p>
+              </content>
+              <subparagraph eId="12_304__subsec_b__subsec_1__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>the quantity of unstamped cigarettes in the possession of such dealer does not exceed one thousand cigarettes, and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_304__subsec_b__subsec_1__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>it is such dealer's first violation of the provisions of this subsection.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_304__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Any person, whether or not previously convicted of a violation of any provision of this section, who wilfully attempts to evade the taxes imposed by this chapter or the payment thereof on twenty thousand or more cigarettes, shall be guilty of a class C felony.
+See Sec. 12-315 re authorization for sales of unstamped cigarettes among licensed distributors.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

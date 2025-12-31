@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-714a"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-714a"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17a-714a"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-714a/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-714a/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-714a/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-714a/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319j">
+        <num>319j</num>
+        <heading>Health Care For Uninsured Children</heading>
+        <section eId="sec_17a_714a">
+          <num>17a-714a</num>
+          <heading>Immunity and no violation of standard of care for prescribing, dispensing or administering opioid antagonist. Amendment of local emergency medical services plan</heading>
+          <subsection eId="17a_714a__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>For purposes of this section, “opioid antagonist” means naloxone hydrochloride or any other similarly acting and equally safe drug approved by the federal Food and Drug Administration for the treatment of drug overdose.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_714a__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>A licensed health care professional who is permitted by law to prescribe an opioid antagonist may prescribe or dispense an opioid antagonist to any individual to treat or prevent a drug overdose without being liable for damages in a civil action or subject to criminal prosecution for prescribing or dispensing such opioid antagonist or for any subsequent use of such opioid antagonist. A licensed health care professional who prescribes or dispenses an opioid antagonist in accordance with the provisions of this subsection shall be deemed not to have violated the standard of care for such licensed health care professional.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_714a__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>A licensed health care professional may administer an opioid antagonist to any person to treat or prevent an opioid-related drug overdose. Such licensed health care professional who administers an opioid antagonist in accordance with the provisions of this subsection shall not be liable for damages in a civil action or subject to criminal prosecution for administration of such opioid antagonist and shall not be deemed to have violated the standard of care for such licensed health care professional.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_714a__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Any person who in good faith believes that another person is experiencing an opioid-related drug overdose may, if acting with reasonable care, administer an opioid antagonist to such other person. Any person, other than a licensed health care professional acting in the ordinary course of such person's employment, who administers an opioid antagonist in accordance with this subsection shall not be liable for damages in a civil action or subject to criminal prosecution with respect to the administration of such opioid antagonist.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_714a__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>Not later than October 1, 2017, each municipality shall amend its local emergency medical services plan, as described in section19a-181b, to ensure that at least one emergency medical services provider, as defined in the regulations of Connecticut state agencies pertaining to emergency medical services, who is likely to be the first person to arrive on the scene of a medical emergency in the municipality, including, but not limited to, emergency medical services personnel, as defined in section20-206jj, or a resident state trooper, is equipped with an opioid antagonist and such person has received training, approved by the Commissioner of Public Health, in the administration of an opioid antagonist.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

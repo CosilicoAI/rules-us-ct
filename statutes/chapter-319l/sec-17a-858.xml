@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-858"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-858"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17a-858"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-858/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-858/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-858/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-858/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319l">
+        <num>319l</num>
+        <heading>Nursing Home Financial Assistance</heading>
+        <section eId="sec_17a_858">
+          <num>17a-858</num>
+          <heading>(Formerly Sec. 17a-316a). State Aging and Disability Resource Center Program</heading>
+          <subsection eId="17a_858__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The Commissioner of Aging and Disability Services shall develop and administer a program to provide a single, coordinated system of information and access for individuals seeking long-term support, including in-home, community-based and institutional services. The program shall be the state Aging and Disability Resource Center Program in accordance with the federal Older Americans Act Amendments of 2006, P.L. 109-365 and shall be administered as part of the Department of Aging and Disability Services' CHOICES program in accordance with subdivision</p>
+            </content>
+            <paragraph eId="17a_858__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17a_858__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of section17a-857. Consumers served by the program shall include, but not be limited to, those sixty years of age or older and those eighteen years of age or older with disabilities and caregivers.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_858__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The program shall, within available resources, provide</p>
+            </content>
+            <paragraph eId="17a_858__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>information, referral and assistance concerning aging and disability issues and long-term care planning;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_858__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>comprehensive assessments to identify possible consumer needs or desires;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_858__subsec_b__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>counseling for purposes of obtaining (A) employment or employment-related services, (B) screening for public benefits and private resources, and (C) information on long-term care planning;</p>
+              </content>
+              <subparagraph eId="17a_858__subsec_b__subsec_3__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>employment or employment-related services,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17a_858__subsec_b__subsec_3__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>screening for public benefits and private resources, and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17a_858__subsec_b__subsec_3__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>information on long-term care planning;</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="17a_858__subsec_b__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>follow-up to ensure consumer referrals were appropriate and to offer additional assistance and individual advocacy if needed;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_858__subsec_b__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>support to consumers making decisions about current and future supports and services;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_858__subsec_b__subsec_6">
+              <num>(6)</num>
+              <content>
+                <p>coordination of transitions between providers or sites of care;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_858__subsec_b__subsec_7">
+              <num>(7)</num>
+              <content>
+                <p>preparation and distribution of written materials regarding the availability of program services;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_858__subsec_b__subsec_8">
+              <num>(8)</num>
+              <content>
+                <p>maintenance of a toll-free telephone number;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_858__subsec_b__subsec_9">
+              <num>(9)</num>
+              <content>
+                <p>assistance in improving and managing the program, monitoring quality and measuring responsiveness of systems of care;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_858__subsec_b__subsec_10">
+              <num>(10)</num>
+              <content>
+                <p>assistance as necessary to conform to federal and other grant requirements; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_858__subsec_b__subsec_11">
+              <num>(11)</num>
+              <content>
+                <p>other related services.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17a_858__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The commissioner shall establish program requirements and procedures for entering into agreements to operate the program. The commissioner may adopt regulations, in accordance with chapter 54, as necessary to implement the provisions of this section.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

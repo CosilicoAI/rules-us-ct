@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-41"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-41"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-41"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-41/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-41/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-41/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-41/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_203">
+        <num>203</num>
+        <heading>Property Tax Assessment</heading>
+        <section eId="sec_12_41">
+          <num>12-41</num>
+          <heading>Filing of declaration</heading>
+          <subsection eId="12_41__subsec_a">
+            <num>(a)</num>
+            <heading>Definitions</heading>
+            <content>
+              <p>“Municipality”, whenever used in this section, includes each town, consolidated town and city, and consolidated town and borough.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_41__subsec_b">
+            <num>(b)</num>
+            <heading>Motor Vehicles</heading>
+            <content>
+              <p>No person required by law to file an annual declaration of personal property shall include in such declaration motor vehicles that are registered with the Department of Motor Vehicles. With respect to any vehicle subject to taxation in a town other than the town in which such vehicle is registered, pursuant to section12-71, information concerning such vehicle may be included in a declaration filed pursuant to this section or section12-43, or on a report filed pursuant to section12-57a.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_41__subsec_c">
+            <num>(c)</num>
+            <heading>Property included</heading>
+            <content>
+              <p>Confidentiality of commercial and financial information.The annual declaration of the tangible personal property owned by such person on the assessment date, shall include, but is not limited to, the following property: Machinery used in mills and factories, cables, wires, poles, underground mains, conduits, pipes and other fixtures of water, gas, electric and heating companies, leasehold improvements classified as other than real property and furniture and fixtures of stores, offices, hotels, restaurants, taverns, halls, factories and manufacturers. Tangible personal property does not include a sign placed on a property indicating that the property is for sale or lease. On and after October 1, 2024, tangible personal property shall include nonpermanent modifications and attachments to commercial motor vehicles. Commercial or financial information in any declaration filed under this section shall not be open for public inspection but may be disclosed to municipal officers for tax collection purposes.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_41__subsec_d">
+            <num>(d)</num>
+            <heading>Form</heading>
+            <content>
+              <p>For assessment years commencing on or after October 1, 2024, the Office of Policy and Management shall, in consultation with the Connecticut Association of Assessing Officers, prescribe a form for the annual declaration of personal property.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_41__subsec_e">
+            <num>(e)</num>
+            <heading>Electronic filing</heading>
+            <content>
+              <p>Any person required by law to file an annual declaration of personal property may sign and file such declaration electronically, provided the municipality in which such declaration is to be filed</p>
+            </content>
+            <paragraph eId="12_41__subsec_e__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>has the technological ability to accept electronic signatures, and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_41__subsec_e__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>agrees to accept electronic signatures for annual declarations of personal property.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_41__subsec_f">
+            <num>(f)</num>
+            <heading>Penalty</heading>
+            <paragraph eId="12_41__subsec_f__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>Any person who fails to file a declaration of personal property on or before the first day of November, or on or before the extended filing date as granted by the assessor pursuant to section12-42shall be subject to a penalty equal to twenty-five per cent of the assessment of such property;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_41__subsec_f__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>any person who files a declaration of personal property in a timely manner, but has omitted property, as defined in section12-53, shall be subject to a penalty equal to twenty-five per cent of the assessment of such omitted property. The penalty shall be added to the grand list by the assessor of the town in which such property is taxable; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_41__subsec_f__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>any declaration received by the municipality to which it is due that is in an envelope bearing a postmark, as defined in section1-2a, showing a date within the allowed filing period shall not be deemed to be delinquent.
+See Sec. 12-169 re payment date for local taxes due on Saturday, Sunday or legal holiday.
+See Sec. 14-163 re duty of Motor Vehicles Commissioner to furnish lists of motor vehicle and snowmobile owners to town assessors.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

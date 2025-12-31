@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-526"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-526"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17a-526"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-526/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-526/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-526/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-526/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319i">
+        <num>319i</num>
+        <heading>Connecticut HUSKY Plan</heading>
+        <section eId="sec_17a_526">
+          <num>17a-526</num>
+          <heading>(Formerly Sec. 17-203). Commitment suspended on bond for confinement</heading>
+          <content>
+            <p>Sec. 17a-526. (Formerly Sec. 17-203). Commitment suspended on bond for confinement.The Court of Probate, before or pending or in the absence of an appeal, and the Superior Court, after finding on an appeal that such person has psychiatric disabilities, may, in its discretion, suspend the commitment of such person to a hospital for psychiatric disabilities and continue such suspension for such time as it deems advisable, if any suitable person gives a bond to the satisfaction of such court, conditioned for the confinement of such person in a suitable place of detention other than a hospital for psychiatric disabilities and for answering all damages which any person suffers in consequence of such suspension; but, in such case, the court may make the order of commitment whenever reasonable cause therefor is shown. After a person has been committed to a hospital for psychiatric disabilities, the court may suspend his confinement in such hospital upon the giving of bond as above set forth, such suspension to continue until terminated by the court.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

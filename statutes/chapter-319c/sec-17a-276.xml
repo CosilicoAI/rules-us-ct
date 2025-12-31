@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-276"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-276"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17a-276"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-276/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-276/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-276/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-276/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319c">
+        <num>319c</num>
+        <heading>Early Childhood Programs</heading>
+        <section eId="sec_17a_276">
+          <num>17a-276</num>
+          <heading>(Formerly Sec. 19a-450). Director to have custody and control of persons with intellectual disability admitted to facility. Review of placement. Notice of right to annual review hearing</heading>
+          <subsection eId="17a_276__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>All persons admitted to a state training school, regional facility or other facility provided for the care and training of persons with intellectual disability shall, until discharged therefrom either by the commissioner or by operation of law, be under the custody and control of the director of such facility. All costs of care and training shall be provided pursuant to section17b-223. Notice of discharge shall be sent by the Department of Developmental Services to such person or his or her legal representative and the Probate Court.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_276__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Any person with intellectual disability placed with the Department of Developmental Services pursuant to section17a-274may request a review of his or her placement by the Probate Court at any time after issuance of the original order of placement and once a year thereafter. Such request shall be in writing, shall state the reasons for review and shall be made by the person with intellectual disability or any other person acting on his or her behalf. Such request shall be filed with the Probate Court, one copy shall be served on the Commissioner of Developmental Services and one copy shall be served on the person in charge of the facility in which the person with intellectual disability is placed. The hearing on such request shall be held not later than ten days, excluding Saturdays, Sundays and holidays, after the date of the filing of such request.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_276__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>At such hearing the person with intellectual disability shall have the same rights as provided under subsections</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_276__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>,</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_276__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>,</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_276__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>and</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_276__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>of section17a-274. The Department of Developmental Services shall notify each person placed pursuant to section17a-274at least annually that such person has the right to a hearing to review the appropriateness and adequacy of his or her placement. At such hearing, if the court finds that the person is no longer in need of placement, the court shall order the placement terminated. If the court finds that the person's placement does not adequately meet his or her needs in the least restrictive environment available or which can be created within existing resources of the department, the court shall order the department to place such person in such least restrictive environment as the court deems available.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_276__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>If, within five years from the date of placement, any person placed on or after October 1, 1982, has not requested a hearing to review his or her placement, the Department of Developmental Services shall notify the Probate Court which placed such person. The Probate Court, upon such notice, shall proceed in accordance with subsections</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_276__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>and</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_276__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of this section to schedule a hearing to determine if the placement should be continued and whether such placement adequately meets his or her habilitative needs in the least restrictive environment available or which can be created within existing resources of the department.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

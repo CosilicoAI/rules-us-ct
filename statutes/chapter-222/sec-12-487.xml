@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-487"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-487"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-487"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-487/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-487/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-487/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-487/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_222">
+        <num>222</num>
+        <heading>Unrelated Business Income Tax</heading>
+        <section eId="sec_12_487">
+          <num>12-487</num>
+          <heading>Registration of vehicles for purposes of the motor carrier road tax. Use of dyed diesel fuel</heading>
+          <subsection eId="12_487__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Each motor carrier operating or causing to be operated on any highway in this state any qualified motor vehicle, as defined in section12-478, solely and exclusively in intrastate commerce shall register each such vehicle with the Commissioner of Revenue Services, for a fee of ten dollars per vehicle, which registration shall be renewable annually. On the registration of any such vehicle, said commissioner shall provide identification markers for such vehicle to be affixed to the lower rear portion of the exterior side of the vehicle's doors. Such marker shall remain the property of the state and may be recalled for any violation of the provisions of this chapter or of the regulations promulgated hereunder.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_487__subsec_b">
+            <num>(b)</num>
+            <paragraph eId="12_487__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>Each motor carrier operating or causing to be operated on any highway in this state any qualified motor vehicle, as defined in section12-478, in interstate commerce shall, if such carrier's base jurisdiction is this state, for purposes of any agreement entered into by the commissioner under subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_487__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of section12-486, register each such vehicle with the Commissioner of Revenue Services, for a fee of ten dollars per vehicle, which registration shall be renewable annually. On the registration of any such vehicle, the commissioner shall provide identification markers for such vehicle to be affixed as required by such agreement. Such marker shall remain the property of the state and may be recalled for any violation of the provisions of this chapter or of the regulations adopted thereunder.</p>
+            </content>
+            <paragraph eId="12_487__subsec_c__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>Each motor carrier operating or causing to be operated on any highway in this state any qualified motor vehicle, as defined in section12-478, in interstate commerce shall, if such carrier's base jurisdiction is other than this state, for purposes of any agreement entered into by the commissioner under subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_487__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of section12-486, affix, in the manner required by such agreement, identification markers to such vehicle.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_487__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>No person shall operate or cause to be operated any such vehicle in this state unless such vehicle bears the identification markers required by this section, provided the commissioner by letter or telegram may authorize the operation, for a period not to exceed ten days as to any one motor carrier, of a vehicle or vehicles without such identification marker when the enforcement of this section would cause undue delay and hardship in the operation of such vehicle or vehicles and when the enforcement of this chapter will not be adversely affected. Any person operating or causing to be operated in this state any qualified motor vehicle, as defined in section12-478, to which the identification markers required by this section or any regulations adopted in accordance with the provisions of chapter 54 are not properly affixed shall have committed an infraction, the fine for which shall be ninety dollars. Any person who is alleged to have committed such an infraction shall follow the procedures set forth in section51-164nor section51-164o, as applicable.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_487__subsec_d">
+            <num>(d)</num>
+            <paragraph eId="12_487__subsec_d__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>For purposes of this subsection, “dyed diesel fuel” means diesel fuel that has been dyed in compliance with, or in intended compliance with, regulations adopted under Section 4082 of the Internal Revenue Code of 1986, or any subsequent corresponding internal revenue code of the United States, as amended from time to time; “highway” has the same meaning as provided in section14-1; and “motor vehicle” has the same meaning as provided in section14-1, but does not include any passenger motor vehicle, as defined in section14-1, or any passenger and commercial motor vehicle, as defined in section14-1.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_487__subsec_d__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>Any person operating or causing to be operated on any highway any motor vehicle that contains dyed diesel fuel in the fuel supply tank of the propulsion engine of such vehicle, unless permitted to do so under a federal law or regulation relating to the use of dyed diesel fuel on the public highways, shall be fined not more than one thousand dollars.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_487__subsec_d__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>Any person who, upon request by an authorized official of the Department of Revenue Services or another state agency, refuses to allow an inspection of the fuel supply tank of the propulsion engine of a motor vehicle shall be fined not more than one thousand dollars.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_487__subsec_d__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>Any person who is alleged to have violated a provision of this subsection shall follow the procedures set forth in section51-164nor section51-164o, as applicable.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

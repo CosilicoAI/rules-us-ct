@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-420b"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-420b"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-420b"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-420b/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-420b/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-420b/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-420b/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_219">
+        <num>219</num>
+        <heading>Motor Vehicle Fuels Tax</heading>
+        <section eId="sec_12_420b">
+          <num>12-420b</num>
+          <heading>Managed compliance agreements, generally</heading>
+          <subsection eId="12_420b__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The commissioner may, in the commissioner's sole discretion, enter into a managed compliance agreement with an eligible taxpayer. Such agreement may provide for</p>
+            </content>
+            <paragraph eId="12_420b__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>one or more effective use tax rates for purchases subject to tax under this chapter,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_420b__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>a method to reconcile the effective use tax rate with the eligible taxpayer's actual liability,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_420b__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>a term not to exceed three years, provided nothing shall preclude the commissioner from entering into a subsequent agreement with the same taxpayer,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_420b__subsec_a__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>the conditions under which the agreement may require modification or termination,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_420b__subsec_a__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>a procedure to resolve disputes concerning the agreement, and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_420b__subsec_a__subsec_6">
+              <num>(6)</num>
+              <content>
+                <p>any such other provisions as the commissioner and the eligible taxpayer mutually agree upon to carry out the purposes of this section.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_420b__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>In performing a reconciliation of a managed compliance agreement the commissioner and the eligible taxpayer may agree to waive amounts either due the commissioner or due the eligible taxpayer, provided such amounts fall within a range that the commissioner determines shall apply to all eligible taxpayers entering into managed compliance agreements. Such range, which may be either a monetary amount or a percentage, shall be announced by the commissioner in accordance with the provisions of subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_420b__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of section12-2and may be changed in accordance with said subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_420b__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>,</p>
+            </content>
+            <paragraph eId="12_420b__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>on a prospective basis for agreements entered into after the effective date of such announced change, or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_420b__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>on a retroactive basis for agreements existing on the effective date of such announced change upon agreement by the commissioner and the eligible taxpayer.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_420b__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The commissioner may, in the commissioner's sole discretion, terminate a managed compliance agreement and conduct an audit of an eligible taxpayer under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_420b__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of section12-415, if the eligible taxpayer fails to fulfill any of the terms of a managed compliance agreement and such failure is materially adverse to the commissioner and the taxpayer fails to cure such failure not later than thirty days after the mailing of written notice of such failure by the commissioner, provided no such notice need be given in the event such failure is not capable of being cured or the commissioner believes that the collection of any tax required to be collected and paid to the state or of any assessment or reassessment will be jeopardized by delay. Any such termination shall be effective on the first day of the fourth month following the month in which notice of such termination is given by the commissioner to the taxpayer, except that such termination shall take effect immediately if such failure is not capable of being cured or if the commissioner believes that the collection of any tax required to be collected and paid to the state or of any assessment or reassessment will be jeopardized by delay.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_420b__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Nothing in this section shall abridge or alter any other requirements, rights or obligations of an eligible taxpayer or the commissioner granted or imposed by statute or regulation, including, but not limited to, penalties for negligence or intentional disregard of the provisions of this chapter, except as provided in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_420b__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of this section; penalties for failure to file returns or for fraud or intent to evade the provisions of this chapter; limitation periods and waivers of limitation periods; the right of an eligible taxpayer to file a written protest under section12-418; the right of an eligible taxpayer to appeal an assessment or a reassessment under section12-422; or the right of an eligible taxpayer to claim a refund under section12-425.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

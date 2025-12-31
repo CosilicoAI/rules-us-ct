@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-53a"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-53a"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-53a"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-53a/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-53a/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-53a/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-53a/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_203">
+        <num>203</num>
+        <heading>Property Tax Assessment</heading>
+        <section eId="sec_12_53a">
+          <num>12-53a</num>
+          <heading>Assessment and taxation of new real estate construction</heading>
+          <subsection eId="12_53a__subsec_a">
+            <num>(a)</num>
+            <paragraph eId="12_53a__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>Completed new construction of real estate completed after any assessment date shall be liable for the payment of municipal taxes based on the assessed value of such completed new construction from the date the certificate of occupancy is issued or the date on which such new construction is first used for the purpose for which same was constructed, whichever is the earlier, prorated for the assessment year in which the new construction is completed. Said prorated tax shall be computed on the basis of the rate of tax applicable with respect to such property, including the applicable rate of tax in any tax district in which such property is subject to tax following completion of such new construction, on the date such property becomes liable for such prorated tax in accordance with this section.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_53a__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>Partially completed new construction of real estate shall be liable for the payment of municipal taxes based on the assessed value of such partially completed new construction as of October first of the assessment year.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_53a__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The building inspector issuing the certificate shall, within ten days after issuing the same, notify, in writing, the assessor of the town in which the property is situated.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_53a__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Not later than ninety days after receipt by the assessor of such notice from the building inspector or from a determination by the assessor that such new construction is being used for the purpose for which same was constructed, the assessor shall determine the increment by which assessment for the completed construction exceeds the assessment on the taxable grand list for the immediately preceding assessment date. He shall prorate such amount from the date of issuance of the certificate of occupancy or the date on which such new construction was first used for the purpose for which same was constructed, as the case may be, to the assessment date immediately following and shall add said increment as so prorated to the taxable grand list for the immediately preceding assessment date and shall within five days notify the record owner as appearing on such grand list and the tax collector of the municipality of such additional assessment. Such notice shall include information describing the manner in which an appeal may be filed with the board of assessment appeals. Notwithstanding the provisions of this subsection, for new construction completed after October first but before February first in any assessment year, the assessor shall, not later than ninety days after completion of the duties of the board of assessment appeals, determine the increment in accordance with this subsection.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_53a__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Any person claiming to be aggrieved by the action of the assessor hereunder may appeal the doings of the assessor to the board of assessment appeals and the Superior Court as otherwise provided in this chapter; provided such appeal shall be extended in time to the next succeeding board of assessment appeals, if the statutory period for the meeting of such board has passed. Any person, intending to so appeal, may indicate that taxes paid by him upon the prorated increment herein specified during the pendency of such appeal are paid “Under Protest” and thereupon he shall not be liable for any interest on the taxes based upon such prorated increment, provided he shall have paid not less than seventy-five per cent of the amount of such taxes within the time specified.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_53a__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>Upon receipt of such notice from the assessor, the tax collector of the town shall, if such notice is received after the normal billing date, within thirty days thereafter mail or hand a bill to the owner based upon an amount prorated by the assessor. Such tax shall be due and payable and collectible as other municipal taxes and subject to the same liens and processes of collection; provided such tax shall be due and payable in an initial or single installment due and payable not sooner than thirty days after the date such bill is mailed or handed to the owner, and in any remaining, regular installments, as the same are due and payable, and the several installments of a tax so due and payable shall be equal.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_53a__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>Nothing herein shall be deemed to authorize the collection of taxes twice in respect of the land upon which the new construction is located.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

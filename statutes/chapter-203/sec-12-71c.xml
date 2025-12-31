@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-71c"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-71c"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-71c"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-71c/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-71c/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-71c/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-71c/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_203">
+        <num>203</num>
+        <heading>Property Tax Assessment</heading>
+        <section eId="sec_12_71c">
+          <num>12-71c</num>
+          <heading>Pro rata credit for property tax on motor vehicle when sold, totally damaged, stolen or registered in another state; time limit for claim</heading>
+          <subsection eId="12_71c__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Any person who is liable for property tax in any assessment year in respect to a motor vehicle which in such assessment year is</p>
+            </content>
+            <paragraph eId="12_71c__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>sold by such person with ownership thereof transferred to the purchaser,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_71c__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>totally damaged,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_71c__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>stolen from such person and not recovered or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_71c__subsec_a__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>removed from this state and registered in another state by such person who concurrently ceases to be a resident of this state, shall be entitled to a property tax credit in the town in which such person is liable for property tax in respect to such motor vehicle to be applied against any property tax for which such person is liable in such town in the assessment year in which such motor vehicle is sold, damaged, stolen or removed and registered as provided in this section, or in the assessment year next following. Such property tax credit shall be a pro rata portion of the tax payable in respect to such motor vehicle for the assessment year in which it is so sold, damaged, stolen or removed and registered to be determined by a ratio, the numerator of which shall be the number of full months from the date such motor vehicle is so sold, damaged, stolen or removed and registered, to the first day of October next succeeding and the denominator of which shall be twelve, provided</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_71c__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>such credit shall not be allowed in such assessment year next following if property tax paid in respect to such motor vehicle, for the assessment year in which such motor vehicle is so sold, damaged, stolen or removed and registered, is allowed in reduction of property tax due in respect to another motor vehicle replacing such motor vehicle as provided under subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_71c__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of section12-71bor</p>
+            </content>
+            <paragraph eId="12_71c__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>in the event such credit is allowed in the assessment year in which such motor vehicle is so sold, damaged, stolen or removed and registered, the property tax paid in respect to such motor vehicle for such assessment year shall not be allowed in reduction of property tax due in respect to another motor vehicle replacing such motor vehicle as provided under subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_71c__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of section12-71b.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_71c__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Any person claiming a property tax credit with respect to a motor vehicle in accordance with subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_71c__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section shall file with the assessor in the town in which such person is entitled to such property tax credit, documentation satisfactory to the assessor concerning the sale, total damage, theft or removal and registration of such motor vehicle. Such documentation shall be filed not later than the thirty-first day of December immediately following the end of the assessment year which next follows the assessment year in which such motor vehicle was sold, damaged, stolen or removed and registered. Failure to file such claim and documentation as prescribed herein shall constitute a waiver of the right to such property tax credit.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

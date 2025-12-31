@@ -1,0 +1,562 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-391"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-391"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-391"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-391/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-391/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-391/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-391/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_217">
+        <num>217</num>
+        <heading>Admissions and Dues Taxes</heading>
+        <section eId="sec_12_391">
+          <num>12-391</num>
+          <heading>Transfer of resident and nonresident estates. Definitions. Rate of tax. Determination of domicile. Limit on tax payable. Reduction of tax for investment in private investment fund</heading>
+          <subsection eId="12_391__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>With respect to estates of decedents who die prior to January 1, 2005, and except as otherwise provided in section 59 of public act 03-1 of the June 30 special session*, a tax is imposed upon the transfer of the estate of each person who at the time of death was a resident of this state. The amount of the tax shall be the amount of the federal credit allowable for estate, inheritance, legacy and succession taxes paid to any state or the District of Columbia under the provisions of the federal internal revenue code in force at the date of such decedent's death in respect to any property owned by such decedent or subject to such taxes as part of or in connection with the estate of such decedent. If real or tangible personal property of such decedent is located outside this state and is subject to estate, inheritance, legacy, or succession taxes by any state or states, other than the state of Connecticut, or by the District of Columbia for which such federal credit is allowable, the amount of tax due under this section shall be reduced by the lesser of:</p>
+            </content>
+            <paragraph eId="12_391__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>The amount of any such taxes paid to such other state or states or said district and allowed as a credit against the federal estate tax; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_391__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>an amount computed by multiplying such federal credit by a fraction, (A) the numerator of which is the value of that part of the decedent's gross estate over which such other state or states or said district have jurisdiction for estate tax purposes to the same extent to which this state would assert jurisdiction for estate tax purposes under this chapter with respect to the residents of such other state or states or said district, and (B) the denominator of which is the value of the decedent's gross estate. Property of a resident estate over which this state has jurisdiction for estate tax purposes includes real property situated in this state, tangible personal property having an actual situs in this state, and intangible personal property owned by the decedent, regardless of where it is located. The amount of any estate tax imposed under this subsection shall also be reduced, but not below zero, by the amount of any tax that is imposed under chapter 216 and that is actually paid to this state.</p>
+              </content>
+              <subparagraph eId="12_391__subsec_a__subsec_2__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>the numerator of which is the value of that part of the decedent's gross estate over which such other state or states or said district have jurisdiction for estate tax purposes to the same extent to which this state would assert jurisdiction for estate tax purposes under this chapter with respect to the residents of such other state or states or said district, and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_391__subsec_a__subsec_2__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>the denominator of which is the value of the decedent's gross estate. Property of a resident estate over which this state has jurisdiction for estate tax purposes includes real property situated in this state, tangible personal property having an actual situs in this state, and intangible personal property owned by the decedent, regardless of where it is located. The amount of any estate tax imposed under this subsection shall also be reduced, but not below zero, by the amount of any tax that is imposed under chapter 216 and that is actually paid to this state.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_391__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>With respect to the estates of decedents who die prior to January 1, 2005, and except as otherwise provided in section 59 of public act 03-1 of the June 30 special session*, a tax is imposed upon the transfer of the estate of each person who at the time of death was a nonresident of this state, the amount of which shall be computed by multiplying</p>
+            </content>
+            <paragraph eId="12_391__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>the federal credit allowable for estate, inheritance, legacy, and succession taxes paid to any state or states or the District of Columbia under the provisions of the federal internal revenue code in force at the date of such decedent's death in respect to any property owned by such decedent or subject to such taxes as a part of or in connection with the estate of such decedent by</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_391__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>a fraction, (A) the numerator of which is the value of that part of the decedent's gross estate over which this state has jurisdiction for estate tax purposes and (B) the denominator of which is the value of the decedent's gross estate. Property of a nonresident estate over which this state has jurisdiction for estate tax purposes includes real property situated in this state and tangible personal property having an actual situs in this state. The amount of any estate tax imposed under this subsection shall also be reduced, but not below zero, by the amount of any tax that is imposed under chapter 216 and that is actually paid to this state.</p>
+              </content>
+              <subparagraph eId="12_391__subsec_b__subsec_2__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>the numerator of which is the value of that part of the decedent's gross estate over which this state has jurisdiction for estate tax purposes and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_391__subsec_b__subsec_2__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>the denominator of which is the value of the decedent's gross estate. Property of a nonresident estate over which this state has jurisdiction for estate tax purposes includes real property situated in this state and tangible personal property having an actual situs in this state. The amount of any estate tax imposed under this subsection shall also be reduced, but not below zero, by the amount of any tax that is imposed under chapter 216 and that is actually paid to this state.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_391__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>For purposes of this section and section12-392:</p>
+            </content>
+            <paragraph eId="12_391__subsec_c__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>(A) “Connecticut taxable estate” means, with respect to the estates of decedents dying on or after January 1, 2005, but prior to January 1, 2010,</p>
+              </content>
+              <subparagraph eId="12_391__subsec_c__subsec_1__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>“Connecticut taxable estate” means, with respect to the estates of decedents dying on or after January 1, 2005, but prior to January 1, 2010,</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_391__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>the gross estate less allowable deductions, as determined under Chapter 11 of the Internal Revenue Code, plus (ii) the aggregate amount of all Connecticut taxable gifts, as defined in section12-643, made by the decedent for all calendar years beginning on or after January 1, 2005, but prior to January 1, 2010. The deduction for state death taxes paid under Section 2058 of said code shall be disregarded.
+(B) “Connecticut taxable estate” means, with respect to the estates of decedents dying on or after January 1, 2010, but prior to January 1, 2015,</p>
+            </content>
+          </subsection>
+          <subsection eId="12_391__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>the gross estate less allowable deductions, as determined under Chapter 11 of the Internal Revenue Code, plus (ii) the aggregate amount of all Connecticut taxable gifts, as defined in section12-643, made by the decedent for all calendar years beginning on or after January 1, 2005. The deduction for state death taxes paid under Section 2058 of said code shall be disregarded.
+(C) “Connecticut taxable estate” means, with respect to the estates of decedents dying on or after January 1, 2015,</p>
+            </content>
+          </subsection>
+          <subsection eId="12_391__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>the gross estate less allowable deductions, as determined under Chapter 11 of the Internal Revenue Code, plus (ii) the aggregate amount of all Connecticut taxable gifts, as defined in section12-643, made by the decedent for all calendar years beginning on or after January 1, 2005, other than Connecticut taxable gifts that are includable in the gross estate for federal estate tax purposes of the decedent, plus (iii) the amount of any tax paid to this state pursuant to section12-642by the decedent or the decedent's estate on any gift made by the decedent or the decedent's spouse during the three-year period preceding the date of the decedent's death. The deduction for state death taxes paid under Section 2058 of the Internal Revenue Code shall be disregarded.</p>
+            </content>
+            <paragraph eId="12_391__subsec_i__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>“Internal Revenue Code” means the Internal Revenue Code of 1986, or any subsequent corresponding internal revenue code of the United States, as amended from time to time, except in the event of repeal of the federal estate tax, then all references to the Internal Revenue Code in this section shall mean the Internal Revenue Code as in force on the day prior to the effective date of such repeal.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_391__subsec_i__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>“Gross estate” means the gross estate, for federal estate tax purposes.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_391__subsec_i__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>“Federal basic exclusion amount” means the dollar amount published annually by the Internal Revenue Service at which a decedent would be required to file a federal estate tax return based on the value of the decedent's gross estate and federally taxable gifts.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_391__subsec_d">
+            <num>(d)</num>
+            <paragraph eId="12_391__subsec_d__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>(A) With respect to the estates of decedents who die on or after January 1, 2005, but prior to January 1, 2010, a tax is imposed upon the transfer of the estate of each person who at the time of death was a resident of this state. The amount of the tax shall be determined using the schedule in subsection</p>
+              </content>
+              <subparagraph eId="12_391__subsec_d__subsec_1__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>With respect to the estates of decedents who die on or after January 1, 2005, but prior to January 1, 2010, a tax is imposed upon the transfer of the estate of each person who at the time of death was a resident of this state. The amount of the tax shall be determined using the schedule in subsection</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_391__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>of this section. A credit shall be allowed against such tax for any taxes paid to this state pursuant to section12-642for Connecticut taxable gifts made on or after January 1, 2005, but prior to January 1, 2010.
+(B) With respect to the estates of decedents who die on or after January 1, 2010, but prior to January 1, 2015, a tax is imposed upon the transfer of the estate of each person who at the time of death was a resident of this state. The amount of the tax shall be determined using the schedule in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_391__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>of this section. A credit shall be allowed against such tax for any taxes paid to this state pursuant to section12-642for Connecticut taxable gifts made on or after January 1, 2005, provided such credit shall not exceed the amount of tax imposed by this section.
+(C) With respect to the estates of decedents who die on or after January 1, 2015, but prior to January 1, 2016, a tax is imposed upon the transfer of the estate of each person who at the time of death was a resident of this state. The amount of the tax shall be determined using the schedule in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_391__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>of this section. A credit shall be allowed against such tax for</p>
+            </content>
+          </subsection>
+          <subsection eId="12_391__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>any taxes paid to this state pursuant to section12-642by the decedent or the decedent's estate for Connecticut taxable gifts made on or after January 1, 2005, and (ii) any taxes paid by the decedent's spouse to this state pursuant to section12-642for Connecticut taxable gifts made by the decedent on or after January 1, 2005, that are includable in the gross estate of the decedent, provided such credit shall not exceed the amount of tax imposed by this section.
+(D) With respect to the estates of decedents who die on or after January 1, 2016, but prior to January 1, 2019, a tax is imposed upon the transfer of the estate of each person who at the time of death was a resident of this state. The amount of the tax shall be determined using the schedule in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_391__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>of this section. A credit shall be allowed against such tax for</p>
+            </content>
+          </subsection>
+          <subsection eId="12_391__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>any taxes paid to this state pursuant to section12-642by the decedent or the decedent's estate for Connecticut taxable gifts made on or after January 1, 2005, and (ii) any taxes paid by the decedent's spouse to this state pursuant to section12-642for Connecticut taxable gifts made by the decedent on or after January 1, 2005, that are includable in the gross estate of the decedent, provided such credit shall not exceed the amount of tax imposed by this section. In no event shall the amount of tax payable under this section exceed twenty million dollars. Such twenty-million-dollar limit shall be reduced by the amount of (I) any taxes paid to this state pursuant to section12-642by the decedent or the decedent's estate for Connecticut taxable gifts made on or after January 1, 2016, and (II) any taxes paid by the decedent's spouse to this state pursuant to section12-642for Connecticut taxable gifts made by the decedent on or after January 1, 2016, that are includable in the gross estate of the decedent, but in no event shall the amount be reduced below zero.
+(E) With respect to the estates of decedents who die on or after January 1, 2019, a tax is imposed upon the transfer of the estate of each person who at the time of death was a resident of this state. The amount of the tax shall be determined using the schedule in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_391__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>of this section. A credit shall be allowed against such tax for</p>
+            </content>
+          </subsection>
+          <subsection eId="12_391__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>any taxes paid to this state pursuant to section12-642by the decedent or the decedent's estate for Connecticut taxable gifts made on or after January 1, 2005, and (ii) any taxes paid by the decedent's spouse to this state pursuant to section12-642for Connecticut taxable gifts made by the decedent on or after January 1, 2005, that are includable in the gross estate of the decedent, provided such credit shall not exceed the amount of tax imposed by this section. In no event shall the amount of tax payable under this section exceed fifteen million dollars. Such fifteen-million-dollar limit shall be reduced by the amount of (I) any taxes paid to this state pursuant to section12-642by the decedent or the decedent's estate for Connecticut taxable gifts made on or after January 1, 2016, and (II) any taxes paid by the decedent's spouse to this state pursuant to section12-642for Connecticut taxable gifts made by the decedent on or after January 1, 2016, that are includable in the gross estate of the decedent, but in no event shall the amount be reduced below zero.</p>
+            </content>
+            <paragraph eId="12_391__subsec_i__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>If real or tangible personal property of such decedent is located outside this state, the amount of tax due under this section shall be reduced by an amount computed by multiplying the tax otherwise due pursuant to subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_391__subsec_i__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>of this subsection, without regard to the credit allowed for any taxes paid to this state pursuant to section12-642, by a fraction, (A) the numerator of which is the value of that part of the decedent's gross estate attributable to real or tangible personal property located outside of the state, and (B) the denominator of which is the value of the decedent's gross estate.</p>
+              </content>
+              <subparagraph eId="12_391__subsec_i__subsec_1__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>the numerator of which is the value of that part of the decedent's gross estate attributable to real or tangible personal property located outside of the state, and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_391__subsec_i__subsec_1__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>the denominator of which is the value of the decedent's gross estate.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_391__subsec_i__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>For a resident estate, the state shall have the power to levy the estate tax upon real property situated in this state, tangible personal property having an actual situs in this state and intangible personal property included in the gross estate of the decedent, regardless of where it is located. The state is permitted to calculate the estate tax and levy said tax to the fullest extent permitted by the Constitution of the United States.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_391__subsec_e">
+            <num>(e)</num>
+            <paragraph eId="12_391__subsec_e__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>(A) With respect to the estates of decedents who die on or after January 1, 2005, but prior to January 1, 2010, a tax is imposed upon the transfer of the estate of each person who at the time of death was a nonresident of this state. The amount of such tax shall be computed by multiplying</p>
+              </content>
+              <subparagraph eId="12_391__subsec_e__subsec_1__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>With respect to the estates of decedents who die on or after January 1, 2005, but prior to January 1, 2010, a tax is imposed upon the transfer of the estate of each person who at the time of death was a nonresident of this state. The amount of such tax shall be computed by multiplying</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_391__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>the amount of tax determined using the schedule in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_391__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>of this section by (ii) a fraction, the numerator of which is the value of that part of the decedent's gross estate over which this state has jurisdiction for estate tax purposes, and the denominator of which is the value of the decedent's gross estate. A credit shall be allowed against such tax for any taxes paid to this state pursuant to section12-642, for Connecticut taxable gifts made on or after January 1, 2005, but prior to January 1, 2010.
+(B) With respect to the estates of decedents who die on or after January 1, 2010, but prior to January 1, 2016, a tax is imposed upon the transfer of the estate of each person who at the time of death was a nonresident of this state. The amount of such tax shall be computed by multiplying</p>
+            </content>
+          </subsection>
+          <subsection eId="12_391__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>the amount of tax determined using the schedule in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_391__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>of this section by (ii) a fraction, the numerator of which is the value of that part of the decedent's gross estate over which this state has jurisdiction for estate tax purposes, and the denominator of which is the value of the decedent's gross estate. A credit shall be allowed against such tax for any taxes paid to this state pursuant to section12-642, for Connecticut taxable gifts made on or after January 1, 2005, provided such credit shall not exceed the amount of tax imposed by this section.
+(C) With respect to the estates of decedents who die on or after January 1, 2016, but prior to January 1, 2019, a tax is imposed upon the transfer of the estate of each person who at the time of death was a nonresident of this state. The amount of such tax shall be computed by multiplying</p>
+            </content>
+          </subsection>
+          <subsection eId="12_391__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>the amount of tax determined using the schedule in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_391__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>of this section by (ii) a fraction, the numerator of which is the value of that part of the decedent's gross estate over which this state has jurisdiction for estate tax purposes, and the denominator of which is the value of the decedent's gross estate. A credit shall be allowed against such tax for any taxes paid to this state pursuant to section12-642for Connecticut taxable gifts made on or after January 1, 2005, provided such credit shall not exceed the amount of tax imposed by this section. In no event shall the amount of tax payable under this section exceed twenty million dollars. Such twenty-million-dollar limit shall be reduced by the amount of (I) any taxes paid to this state pursuant to section12-642by the decedent or the decedent's estate for Connecticut taxable gifts made on or after January 1, 2016, and (II) any taxes paid by the decedent's spouse to this state pursuant to section12-642for Connecticut taxable gifts made by the decedent on or after January 1, 2016, that are includable in the gross estate of the decedent, but in no event shall the amount be reduced below zero.
+(D) With respect to the estates of decedents who die on or after January 1, 2019, a tax is imposed upon the transfer of the estate of each person who at the time of death was a nonresident of this state. The amount of such tax shall be computed by multiplying the amount of tax determined using the schedule in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_391__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>of this section by a fraction, the numerator of which is the value of that part of the decedent's gross estate over which this state has jurisdiction for estate tax purposes, and the denominator of which is the value of the decedent's gross estate. A credit shall be allowed against such tax for</p>
+            </content>
+          </subsection>
+          <subsection eId="12_391__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>any taxes paid to this state pursuant to section12-642by the decedent or the decedent's estate for Connecticut taxable gifts made on or after January 1, 2005, and (ii) any taxes paid by the decedent's spouse to this state pursuant to section12-642for Connecticut taxable gifts made by the decedent on or after January 1, 2005, that are includable in the gross estate of the decedent, provided such credit shall not exceed the amount of tax imposed by this section. In no event shall the amount of tax payable under this section exceed fifteen million dollars. Such fifteen-million-dollar limit shall be reduced by the amount of (I) any taxes paid to this state pursuant to section12-642by the decedent or the decedent's estate for Connecticut taxable gifts made on or after January 1, 2016, and (II) any taxes paid by the decedent's spouse to this state pursuant to section12-642for Connecticut taxable gifts made by the decedent on or after January 1, 2016, that are includable in the gross estate of the decedent, but in no event shall the amount be reduced below zero.</p>
+            </content>
+            <paragraph eId="12_391__subsec_i__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>(A) For a nonresident estate, the state shall have the power to levy the estate tax upon all real property situated in this state and tangible personal property having an actual situs in this state.
+(B) For real property and tangible personal property owned by a pass-through entity, the entity shall be disregarded for estate tax purposes and such property shall be treated as personally owned by the decedent in proportion to the nonresident decedent's constructive ownership in the pass-through entity if</p>
+              </content>
+              <subparagraph eId="12_391__subsec_i__subsec_2__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>For a nonresident estate, the state shall have the power to levy the estate tax upon all real property situated in this state and tangible personal property having an actual situs in this state.</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_391__subsec_i__subsec_2__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>For real property and tangible personal property owned by a pass-through entity, the entity shall be disregarded for estate tax purposes and such property shall be treated as personally owned by the decedent in proportion to the nonresident decedent's constructive ownership in the pass-through entity if</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_391__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>the entity does not carry on a business for the purpose of profit and gain, (ii) the ownership of the property by the entity was not for a valid business purpose, or (iii) the property was acquired by other than a bona fide sale for full and adequate consideration and the decedent retained any power with respect to or interest in the property that would bring the real property situated in this state or the tangible personal property having an actual situs in the state within the decedent's federal gross estate. Nothing in this subparagraph shall be deemed to impose a lien in favor of the state of Connecticut under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_391__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>of section12-398or section45a-107bagainst any real property included in the nonresident decedent's estate under this subparagraph to any greater extent than if the nonresident decedent was a resident decedent owning an interest in a pass-through entity owning real property located in this state. For purposes of this subparagraph, “pass-through entity” means a partnership or an S corporation, as those terms are defined in section12-699, or a single member limited liability company that is disregarded for federal income tax purposes.
+(C) The state is permitted to calculate the estate tax and levy said tax to the fullest extent permitted by the Constitution of the United States.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_391__subsec_f">
+            <num>(f)</num>
+            <paragraph eId="12_391__subsec_f__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>For purposes of the tax imposed under this section, the value of the Connecticut taxable estate shall be determined taking into account all of the deductions available under the Internal Revenue Code of 1986, specifically including, but not limited to, the deduction available under Section 2056</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_391__subsec_b">
+            <num>(b)</num>
+            <paragraph eId="12_391__subsec_b__subsec_7">
+              <num>(7)</num>
+              <content>
+                <p>of said code for a qualifying income interest for life in a surviving spouse.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_391__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>An election under said Section 2056</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_391__subsec_b">
+            <num>(b)</num>
+            <paragraph eId="12_391__subsec_b__subsec_7">
+              <num>(7)</num>
+              <content>
+                <p>may be made for state estate tax purposes regardless of whether any such election is made for federal estate tax purposes. The value of the gross estate shall include the value of any property in which the decedent had a qualifying income interest for life for which an election was made under this subsection.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_391__subsec_g">
+            <num>(g)</num>
+            <paragraph eId="12_391__subsec_g__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>With respect to the estates of decedents dying on or after January 1, 2005, but prior to January 1, 2010, the tax based on the Connecticut taxable estate shall be as provided in the following schedule:
+Amount of ConnecticutTaxable EstateRate of TaxNot over $2,000,000NoneOver $2,000,000but not over $2,100,0005.085% of the excess over $0Over $2,100,000$106,800 plus 8% of the excessbut not over $2,600,000over $2,100,000Over $2,600,000$146,800 plus 8.8% of the excessbut not over $3,100,000over $2,600,000Over $3,100,000$190,800 plus 9.6% of the excessbut not over $3,600,000over $3,100,000Over $3,600,000$238,800 plus 10.4% of the excessbut not over $4,100,000over $3,600,000Over $4,100,000$290,800 plus 11.2% of the excessbut not over $5,100,000over $4,100,000Over $5,100,000$402,800 plus 12% of the excessbut not over $6,100,000over $5,100,000Over $6,100,000$522,800 plus 12.8% of the excessbut not over $7,100,000over $6,100,000Over $7,100,000$650,800 plus 13.6% of the excessbut not over $8,100,000over $7,100,000Over $8,100,000$786,800 plus 14.4% of the excessbut not over $9,100,000over $8,100,000Over $9,100,000$930,800 plus 15.2% of the excessbut not over $10,100,000over $9,100,000Over $10,100,000$1,082,800 plus 16% of the excessover $10,100,000</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_391__subsec_g__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>With respect to the estates of decedents dying on or after January 1, 2010, but prior to January 1, 2011, the tax based on the Connecticut taxable estate shall be as provided in the following schedule:
+Amount of ConnecticutTaxable EstateRate of TaxNot over $3,500,000NoneOver $3,500,0007.2% of the excessbut not over $3,600,000over $3,500,000Over $3,600,000$7,200 plus 7.8% of the excessbut not over $4,100,000over $3,600,000Over $4,100,000$46,200 plus 8.4% of the excessbut not over $5,100,000over $4,100,000Over $5,100,000$130,200 plus 9.0% of the excessbut not over $6,100,000over $5,100,000Over $6,100,000$220,200 plus 9.6% of the excessbut not over $7,100,000over $6,100,000Over $7,100,000$316,200 plus 10.2% of the excessbut not over $8,100,000over $7,100,000Over $8,100,000$418,200 plus 10.8% of the excessbut not over $9,100,000over $8,100,000Over $9,100,000$526,200 plus 11.4% of the excessbut not over $10,100,000over $9,100,000Over $10,100,000$640,200 plus 12% of the excessover $10,100,000</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_391__subsec_g__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>With respect to the estates of decedents dying on or after January 1, 2011, but prior to January 1, 2018, the tax based on the Connecticut taxable estate shall be as provided in the following schedule:
+Amount of ConnecticutTaxable EstateRate of TaxNot over $2,000,000NoneOver $2,000,0007.2% of the excessbut not over $3,600,000over $2,000,000Over $3,600,000$115,200 plus 7.8% of the excessbut not over $4,100,000over $3,600,000Over $4,100,000$154,200 plus 8.4% of the excessbut not over $5,100,000over $4,100,000Over $5,100,000$238,200 plus 9.0% of the excessbut not over $6,100,000over $5,100,000Over $6,100,000$328,200 plus 9.6% of the excessbut not over $7,100,000over $6,100,000Over $7,100,000$424,200 plus 10.2% of the excessbut not over $8,100,000over $7,100,000Over $8,100,000$526,200 plus 10.8% of the excessbut not over $9,100,000over $8,100,000Over $9,100,000$634,200 plus 11.4% of the excessbut not over $10,100,000over $9,100,000Over $10,100,000$748,200 plus 12% of the excessover $10,100,000</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_391__subsec_g__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>With respect to the estates of decedents dying on or after January 1, 2018, but prior to January 1, 2019, the tax based on the Connecticut taxable estate shall be as provided in the following schedule:
+Amount of ConnecticutTaxable EstateRate of TaxNot over $2,600,000NoneOver $2,600,0007.2% of the excessbut not over $3,600,000over $2,600,000Over $3,600,000$72,000 plus 7.8% of the excessbut not over $4,100,000over $3,600,000Over $4,100,000$111,000 plus 8.4% of the excessbut not over $5,100,000over $4,100,000Over $5,100,000$195,000 plus 10% of the excessbut not over $6,100,000over $5,100,000Over $6,100,000$295,000 plus 10.4% of the excessbut not over $7,100,000over $6,100,000Over $7,100,000$399,000 plus 10.8% of the excessbut not over $8,100,000over $7,100,000Over $8,100,000$507,000 plus 11.2% of the excessbut not over $9,100,000over $8,100,000Over $9,100,000$619,000 plus 11.6% of the excessbut not over $10,100,000over $9,100,000Over $10,100,000$735,000 plus 12% of the excessover $10,100,000</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_391__subsec_g__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>With respect to the estates of decedents dying on or after January 1, 2019, but prior to January 1, 2020, the tax based on the Connecticut taxable estate shall be as provided in the following schedule:
+Amount of ConnecticutTaxable EstateRate of TaxNot over $3,600,000NoneOver $3,600,0007.8% of the excessbut not over $4,100,000over $3,600,000Over $4,100,000$39,000 plus 8.4% of the excessbut not over $5,100,000over $4,100,000Over $5,100,000$123,000 plus 10% of the excessbut not over $6,100,000over $5,100,000Over $6,100,000$223,000 plus 10.4% of the excessbut not over $7,100,000over $6,100,000Over $7,100,000$327,000 plus 10.8% of the excessbut not over $8,100,000over $7,100,000Over $8,100,000$435,000 plus 11.2% of the excessbut not over $9,100,000over $8,100,000Over $9,100,000$547,000 plus 11.6% of the excessbut not over $10,100,000over $9,100,000Over $10,100,000$663,000 plus 12% of the excessover $10,100,000</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_391__subsec_g__subsec_6">
+              <num>(6)</num>
+              <content>
+                <p>With respect to the estates of decedents dying on or after January 1, 2020, but prior to January 1, 2021, the tax based on the Connecticut taxable estate shall be as provided in the following schedule:
+Amount of ConnecticutTaxable EstateRate of TaxNot over $5,100,000NoneOver $5,100,00010% of the excessbut not over $6,100,000over $5,100,000Over $6,100,000$100,000 plus 10.4% of the excessbut not over $7,100,000over $6,100,000Over $7,100,000$204,000 plus 10.8% of the excessbut not over $8,100,000over $7,100,000Over $8,100,000$312,000 plus 11.2% of the excessbut not over $9,100,000over $8,100,000Over $9,100,000$424,000 plus 11.6% of the excessbut not over $10,100,000over $9,100,000Over $10,100,000$540,000 plus 12% of the excessover $10,100,000</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_391__subsec_g__subsec_7">
+              <num>(7)</num>
+              <content>
+                <p>With respect to the estates of decedents dying on or after January 1, 2021, but prior to January 1, 2022, the tax based on the Connecticut taxable estate shall be as provided in the following schedule:
+Amount of ConnecticutTaxable EstateRate of TaxNot over $7,100,000NoneOver $7,100,00010.8% of the excessbut not over $8,100,000over $7,100,000Over $8,100,000$108,000 plus 11.2% of the excessbut not over $9,100,000over $8,100,000Over $9,100,000$220,000 plus 11.6% of the excessbut not over $10,100,000over $9,100,000Over $10,100,000$336,000 plus 12% of the excessover $10,100,000</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_391__subsec_g__subsec_8">
+              <num>(8)</num>
+              <content>
+                <p>With respect to the estates of decedents dying on or after January 1, 2022, but prior to January 1, 2023, the tax based on the Connecticut taxable estate shall be as provided in the following schedule:
+Amount of ConnecticutTaxable EstateRate of TaxNot over $9,100,000NoneOver $9,100,00011.6% of the excessbut not over $10,100,000over $9,100,000Over $10,100,000$116,000 plus 12% of the excessover $10,100,000</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_391__subsec_g__subsec_9">
+              <num>(9)</num>
+              <content>
+                <p>With respect to the estates of decedents dying on or after January 1, 2023, the tax based on the Connecticut taxable estate shall be as provided in the following schedule:
+Amount of ConnecticutTaxable EstateRate of TaxNot over theNonefederal basic exclusion amountOver the12% of the excess over thefederal basic exclusion amountfederal basic exclusion amount</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_391__subsec_h">
+            <num>(h)</num>
+            <paragraph eId="12_391__subsec_h__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>For the purposes of this chapter, each decedent shall be presumed to have died a resident of this state. The burden of proof in an estate tax proceeding shall be upon any decedent's estate claiming exemption by reason of the decedent's alleged nonresidency.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_391__subsec_h__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>Any person required to make and file a tax return under this chapter, believing that the decedent died a nonresident of this state, may file a request for determination of domicile in writing with the Commissioner of Revenue Services, stating the specific grounds upon which the request is founded provided (A) such person has filed such return, (B) at least two hundred seventy days, but no more than three years, has elapsed since the due date of such return or, if an application for extension of time to file such return has been granted, the extended due date of such return, (C) such person has not been notified, in writing, by said commissioner that a written agreement of compromise with the taxing authorities of another jurisdiction, under section12-395a, is being negotiated, and (D) the commissioner has not previously determined whether the decedent died a resident of this state. Not later than one hundred eighty days following receipt of such request for determination, the commissioner shall determine whether such decedent died a resident or a nonresident of this state. If the commissioner commences negotiations over a written agreement of compromise with the taxing authorities of another jurisdiction after a request for determination of domicile is filed, the one-hundred-eighty-day period shall be tolled for the duration of such negotiations. When, before the expiration of such one-hundred-eighty-day period, both the commissioner and the person required to make and file a tax return under this chapter have consented in writing to the making of such determination after such time, the determination may be made at any time prior to the expiration of the period agreed upon. The period so agreed upon may be extended by subsequent agreements in writing made before the expiration of the period previously agreed upon. The commissioner shall mail notice of his proposed determination to the person required to make and file a tax return under this chapter. Such notice shal</p>
+              </content>
+              <subparagraph eId="12_391__subsec_h__subsec_2__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>such person has filed such return,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_391__subsec_h__subsec_2__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>at least two hundred seventy days, but no more than three years, has elapsed since the due date of such return or, if an application for extension of time to file such return has been granted, the extended due date of such return,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_391__subsec_h__subsec_2__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>such person has not been notified, in writing, by said commissioner that a written agreement of compromise with the taxing authorities of another jurisdiction, under section12-395a, is being negotiated, and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_391__subsec_h__subsec_2__subsec_D">
+                <num>(D)</num>
+                <content>
+                  <p>the commissioner has not previously determined whether the decedent died a resident of this state. Not later than one hundred eighty days following receipt of such request for determination, the commissioner shall determine whether such decedent died a resident or a nonresident of this state. If the commissioner commences negotiations over a written agreement of compromise with the taxing authorities of another jurisdiction after a request for determination of domicile is filed, the one-hundred-eighty-day period shall be tolled for the duration of such negotiations. When, before the expiration of such one-hundred-eighty-day period, both the commissioner and the person required to make and file a tax return under this chapter have consented in writing to the making of such determination after such time, the determination may be made at any time prior to the expiration of the period agreed upon. The period so agreed upon may be extended by subsequent agreements in writing made before the</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_391__subsec_h__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>of this subsection, a written protest with the Commissioner of Revenue Services.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_391__subsec_h__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>On or before the sixtieth day after mailing of the proposed determination, the person required to make and file a tax return under this chapter may file with the commissioner a written protest against the proposed determination in which such person shall set forth the grounds on which the protest is based. If such a protest is filed, the commissioner shall reconsider the proposed determination and, if the person required to make and file a tax return under this chapter has so requested, may grant or deny such person or the authorized representatives of such person an oral hearing.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_391__subsec_h__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>Notice of the commissioner's determination shall be mailed to the person required to make and file a tax return under this chapter and such notice shall set forth briefly the commissioner's findings of fact and the basis of decision in each case decided adversely to such person.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_391__subsec_h__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>The action of the commissioner on a written protest shall be final upon the expiration of one month from the date on which he mails notice of his action to the person required to make and file a tax return under this chapter unless within such period such person seeks review of the commissioner's determination pursuant to subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_391__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of section12-395.</p>
+            </content>
+            <paragraph eId="12_391__subsec_b__subsec_6">
+              <num>(6)</num>
+              <content>
+                <p>Nothing in this subsection shall be construed to relieve any person filing a request for determination of domicile of the obligation to pay the correct amount of tax on or before the due date of the tax.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_391__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>The tax calculated pursuant to the provisions of this section shall be reduced in an amount equal to half of the amount invested by a decedent in a private investment fund or fund of funds pursuant to subdivision</p>
+            </content>
+            <paragraph eId="12_391__subsec_i__subsec_40">
+              <num>(40)</num>
+              <content>
+                <p>of section32-39, provided</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_391__subsec_i__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>any such reduction shall not exceed five million dollars for any such decedent,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_391__subsec_i__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>any such amount invested by the decedent shall have been invested in such fund or fund of funds for ten years or more, and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_391__subsec_i__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>the aggregate amount of all taxes reduced under this subsection shall not exceed thirty million dollars.
+See Sec. 12-642 re gift tax.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

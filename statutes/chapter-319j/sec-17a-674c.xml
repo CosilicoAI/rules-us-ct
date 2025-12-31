@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-674c"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-674c"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17a-674c"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-674c/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-674c/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-674c/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-674c/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319j">
+        <num>319j</num>
+        <heading>Health Care For Uninsured Children</heading>
+        <section eId="sec_17a_674c">
+          <num>17a-674c</num>
+          <heading>Opioid Settlement Fund. Establishment. Report. Spending of funds</heading>
+          <subsection eId="17a_674c__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>There is established an Opioid Settlement Fund which shall be a separate nonlapsing fund administered by the committee.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_674c__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Any moneys intended to address opioid use, related disorders or the impact of the opioid epidemic that are received by the state from any judgment, consent decree or settlement paid by any defendant, which is finalized on or after July 1, 2021, related to the production, distribution, dispensing and other activities related to opioids shall be deposited into the fund. Moneys remaining in the fund at the end of a fiscal year shall not revert to the General Fund.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_674c__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Notwithstanding any provision of subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_674c__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section, if the commissioner and the Attorney General certify that the purposes of such judgment, consent decree or settlement are inconsistent with the intent of the provisions of this section and sections17a-674dto17a-674f, inclusive, the commissioner and Attorney General</p>
+            </content>
+            <paragraph eId="17a_674c__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>shall report in writing to the committee such certification, including any identification by the commissioner and Attorney General of an alternate fund or account and explanation of the reasons for depositing such moneys in such alternate fund or account, and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_674c__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>may deposit such moneys into such alternate fund or account. The commissioner and Attorney General shall jointly report, in accordance with the provisions of section11-4a, to the joint standing committee of the General Assembly having cognizance of matters relating to public health regarding the intended use of such moneys in such alternate fund or account prior to allocating such moneys for other purposes.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17a_674c__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Beginning on December 31, 2022, and annually thereafter, the State Treasurer shall report the following to the committee:</p>
+            </content>
+            <paragraph eId="17a_674c__subsec_d__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>An inventory of fund investments as of the most recent fiscal year; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_674c__subsec_d__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>The net income earned by the fund in the most recent fiscal year.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17a_674c__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>Any municipality that receives moneys directly from a settlement administrator pursuant to a judgment, consent decree or settlement related to opioid litigation shall submit an annual report to the committee detailing its expenditures for the preceding fiscal year on a form prescribed by the committee. Each such municipality shall submit such report to the committee on or before October 1, 2023, and annually thereafter, until the total amount of such moneys received by the municipality has been expended.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_674c__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>Moneys in the fund shall be spent only for the following substance use disorder abatement purposes, in accordance with the controlling judgment, consent decree or settlement, as confirmed by the Attorney General's review of such judgment, consent decree or settlement and upon the approval of the committee and the Secretary of the Office of Policy and Management:</p>
+            </content>
+            <paragraph eId="17a_674c__subsec_f__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>State-wide, regional or community substance use disorder needs assessments to identify structural gaps and needs to inform expenditures from the fund;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_674c__subsec_f__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>Infrastructure required for evidence-based substance use disorder prevention, treatment, recovery or harm reduction programs, services and supports;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_674c__subsec_f__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>Programs, services, supports and resources for evidence-based substance use disorder prevention, treatment, recovery or harm reduction;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_674c__subsec_f__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>Evidence-informed substance use disorder prevention, treatment, recovery or harm reduction pilot programs or demonstration studies that are not evidence-based, but are approved by the committee as an appropriate use of moneys for a limited period of time as specified by the committee, provided the committee shall assess whether the evidence supports funding such programs or studies or whether it provides a basis for funding such programs or studies with an expectation of creating an evidence base for such programs and studies;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_674c__subsec_f__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>Evaluation of effectiveness and outcomes reporting for substance use disorder abatement infrastructure, programs, services, supports and resources for which moneys from the fund have been disbursed, including, but not limited to, impact on access to harm reduction services or treatment for substance use disorders or reduction in drug-related mortality;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_674c__subsec_f__subsec_6">
+              <num>(6)</num>
+              <content>
+                <p>One or more publicly available data interfaces managed by the commissioner to aggregate, track and report data on (A) substance use disorders, overdoses and drug-related harms, (B) spending recommendations, plans and reports, and (C) outcomes of programs, services, supports and resources for which moneys from the fund were disbursed;</p>
+              </content>
+              <subparagraph eId="17a_674c__subsec_f__subsec_6__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>substance use disorders, overdoses and drug-related harms,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17a_674c__subsec_f__subsec_6__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>spending recommendations, plans and reports, and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17a_674c__subsec_f__subsec_6__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>outcomes of programs, services, supports and resources for which moneys from the fund were disbursed;</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="17a_674c__subsec_f__subsec_7">
+              <num>(7)</num>
+              <content>
+                <p>Research on opioid abatement, including, but not limited to, development of evidence-based treatment, barriers to treatment, nonopioid treatment of chronic pain and harm reduction, supply-side enforcement;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_674c__subsec_f__subsec_8">
+              <num>(8)</num>
+              <content>
+                <p>Documented expenses incurred in administering and staffing the fund and the committee, and expenses, including, but not limited to, legal fees, incurred by the state or any municipality in securing settlement proceeds, deposited in the fund as permitted by the controlling judgment, consent decree or settlement;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_674c__subsec_f__subsec_9">
+              <num>(9)</num>
+              <content>
+                <p>Documented expenses associated with managing, investing and disbursing moneys in the fund;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_674c__subsec_f__subsec_10">
+              <num>(10)</num>
+              <content>
+                <p>Documented expenses, including legal fees, incurred by the state or any municipality in securing settlement proceeds deposited in the fund to the extent such expenses are not otherwise reimbursed pursuant to a fee agreement provided for by the controlling judgment, consent decree or settlement; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_674c__subsec_f__subsec_11">
+              <num>(11)</num>
+              <content>
+                <p>Provision of funds to municipal police departments for the purpose of equipping police officers with opioid antagonists, with priority given to departments that do not currently have a supply of opioid antagonists.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17a_674c__subsec_g">
+            <num>(g)</num>
+            <paragraph eId="17a_674c__subsec_g__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>For purposes of this section, the fund balance shall be determined by the State Treasurer as of July first, annually.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_674c__subsec_g__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>Except as permitted by subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_674c__subsec_g__subsec_8">
+              <num>(8)</num>
+              <content>
+                <p>of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17a_674c__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>of this section, or unless otherwise required by court order to refund to the federal government a portion of the proceeds, moneys in the fund shall be used for prospective purposes and shall not be used to reimburse expenditures incurred prior to July 1, 2022.</p>
+            </content>
+            <paragraph eId="17a_674c__subsec_f__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>Proceeds derived from any state settlement of claims against a defendant shall be allocated and disbursed only to those municipalities that execute an agreement to participate in such settlement and adhere to the terms of such agreement, provided the allocation or disbursement of such settlement proceeds for the benefit of persons within municipalities that do not execute an agreement to participate in such settlement or do not adhere to the terms of such agreement shall not be precluded or limited.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_674c__subsec_f__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>Governmental and nonprofit nongovernmental entities shall be eligible to receive moneys from the fund for programs, services, supports and resources for prevention, treatment, recovery and harm reduction.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_674c__subsec_f__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>Subject to the provisions of subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_674c__subsec_f__subsec_6">
+              <num>(6)</num>
+              <content>
+                <p>of this subsection, fund disbursements shall be made by the commissioner upon approval of the committee. The commissioner shall not make or refuse to make any disbursement allowable under this subsection without the approval of the committee. The commissioner shall adhere to the committee's decisions regarding disbursement of moneys from the fund, provided such disbursement is a permissible expenditure under this section. The commissioner's role in the distribution of moneys after the distribution has been approved by the committee and after the review and approval required under subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17a_674c__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>of this section shall be ministerial and shall not be discretionary.</p>
+            </content>
+            <paragraph eId="17a_674c__subsec_f__subsec_6">
+              <num>(6)</num>
+              <content>
+                <p>Moneys expended from the fund for the purposes set forth in subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17a_674c__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>of this section shall be supplemental to, and shall not supplant or take the place of, any other funds, including, but not limited to, insurance benefits or local, state or federal funding, that would otherwise have been expended for such purposes. The commissioner shall not disburse moneys from the fund during any fiscal year unless the Secretary of the Office of Policy and Management transmits to the committee a letter verifying that funds appropriated and allocated in such fiscal year's budget for substance use disorder abatement infrastructure, programs, services, supports and resources for prevention, treatment, recovery and harm reduction are in an amount not less than the sum of the funds for such purposes appropriated and allocated in the previous fiscal year's budget. As used in this subdivision, “supplemental” means additional funding, consistent with the provisions of this section, for substance use disorder abatement infrastructure or a substance use disorder abatement program, service, support or resource to ensure that funding in the current fiscal year exceeds the sum of federal, state, and local funds allocated in the previous fiscal year for such substance use disorder abatement infrastructure, program, service, support or resource.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

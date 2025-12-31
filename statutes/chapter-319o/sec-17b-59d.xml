@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-59d"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-59d"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17b-59d"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-59d/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-59d/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-59d/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-59d/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319o">
+        <num>319o</num>
+        <heading>Personal Care Assistance</heading>
+        <section eId="sec_17b_59d">
+          <num>17b-59d</num>
+          <heading>State-wide Health Information Exchange. Established</heading>
+          <subsection eId="17b_59d__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>There shall be established a State-wide Health Information Exchange to empower consumers to make effective health care decisions, promote patient-centered care, improve the quality, safety and value of health care, reduce waste and duplication of services, support clinical decision-making, keep confidential health information secure and make progress toward the state's public health goals.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_59d__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>It shall be the goal of the State-wide Health Information Exchange to:</p>
+            </content>
+            <paragraph eId="17b_59d__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>Allow real-time, secure access to patient health information and complete medical records across all health care provider settings;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_59d__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>provide patients with secure electronic access to their health information in accordance with 45 CFR 171;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_59d__subsec_b__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>allow voluntary participation by patients to access their health information at no cost;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_59d__subsec_b__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>support care coordination through real-time alerts and timely access to clinical information;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_59d__subsec_b__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>reduce costs associated with preventable readmissions, duplicative testing and medical errors;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_59d__subsec_b__subsec_6">
+              <num>(6)</num>
+              <content>
+                <p>promote the highest level of interoperability;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_59d__subsec_b__subsec_7">
+              <num>(7)</num>
+              <content>
+                <p>meet all state and federal privacy and security requirements;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_59d__subsec_b__subsec_8">
+              <num>(8)</num>
+              <content>
+                <p>support public health reporting, quality improvement, academic research and health care delivery and payment reform through data aggregation and analytics;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_59d__subsec_b__subsec_9">
+              <num>(9)</num>
+              <content>
+                <p>support population health analytics;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_59d__subsec_b__subsec_10">
+              <num>(10)</num>
+              <content>
+                <p>be standards-based; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_59d__subsec_b__subsec_11">
+              <num>(11)</num>
+              <content>
+                <p>provide for broad local governance that (A) includes stakeholders, including, but not limited to, representatives of the Department of Social Services, hospitals, physicians, behavioral health care providers, long-term care providers, health insurers, employers, patients and academic or medical research institutions, and (B) is committed to the successful development and implementation of the State-wide Health Information Exchange.</p>
+              </content>
+              <subparagraph eId="17b_59d__subsec_b__subsec_11__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>includes stakeholders, including, but not limited to, representatives of the Department of Social Services, hospitals, physicians, behavioral health care providers, long-term care providers, health insurers, employers, patients and academic or medical research institutions, and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17b_59d__subsec_b__subsec_11__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>is committed to the successful development and implementation of the State-wide Health Information Exchange.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_59d__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>All contracts or agreements entered into by or on behalf of the state relating to health information technology or the exchange of health information shall be consistent with the goals articulated in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_59d__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section and shall utilize contractors, vendors and other partners with a demonstrated commitment to such goals.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_59d__subsec_d">
+            <num>(d)</num>
+            <paragraph eId="17b_59d__subsec_d__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>The Commissioner of Health Strategy, in consultation with the Secretary of the Office of Policy and Management and the State Health Information Technology Advisory Council, established pursuant to section17b-59f, shall, upon the approval by the State Bond Commission of bond funds authorized by the General Assembly for the purposes of establishing a State-wide Health Information Exchange, develop and issue a request for proposals for the development, management and operation of the State-wide Health Information Exchange. Such request shall promote the reuse of any and all enterprise health information technology assets, such as the existing Provider Directory, Enterprise Master Person Index, Direct Secure Messaging Health Information Service provider infrastructure, analytic capabilities and tools that exist in the state or are in the process of being deployed. Any enterprise health information exchange technology assets purchased after June 2, 2016, and prior to the implementation of the State-wide Health Information Exchange shall be capable of interoperability with a State-wide Health Information Exchange.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_59d__subsec_d__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>Such request for proposals may require an eligible organization responding to the request to: (A) Have not less than three years of experience operating either a state-wide health information exchange in any state or a regional exchange serving a population of not less than one million that</p>
+              </content>
+              <subparagraph eId="17b_59d__subsec_d__subsec_2__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>Have not less than three years of experience operating either a state-wide health information exchange in any state or a regional exchange serving a population of not less than one million that</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_59d__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>enables the exchange of patient health information among health care providers, patients and other authorized users without regard to location, source of payment or technology, (ii) includes, with proper consent, behavioral health and substance abuse treatment information, (iii) supports transitions of care and care coordination through real-time health care provider alerts and access to clinical information, (iv) allows health information to follow each patient,</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_59d__subsec_v">
+            <num>(v)</num>
+            <content>
+              <p>allows patients to access and manage their health data, and (vi) has demonstrated success in reducing costs associated with preventable readmissions, duplicative testing or medical errors; (B) be committed to, and demonstrate, a high level of transparency in its governance, decision-making and operations; (C) be capable of providing consulting to ensure effective governance; (D) be regulated or administratively overseen by a state government agency; and (E) have sufficient staff and appropriate expertise and experience to carry out the administrative, operational and financial responsibilities of the State-wide Health Information Exchange.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_59d__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>Notwithstanding the provisions of subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_59d__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>of this section, if, on or before January 1, 2016, the Commissioner of Social Services, in consultation with the State Health Information Technology Advisory Council, established pursuant to section17b-59f, submits a plan to the Secretary of the Office of Policy and Management for the establishment of a State-wide Health Information Exchange consistent with subsections</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_59d__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>,</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_59d__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>and</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_59d__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of this section, and such plan is approved by the secretary, the commissioner may implement such plan and enter into any contracts or agreements to implement such plan.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_59d__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>The Commissioner of Health Strategy shall have administrative authority over the State-wide Health Information Exchange. The commissioner shall be responsible for designating, and posting on its Internet web site, the list of systems, technologies, entities and programs that shall constitute the State-wide Health Information Exchange. Systems, technologies, entities, and programs that have not been so designated shall not be considered part of said exchange.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_59d__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>The Commissioner of Health Strategy shall adopt regulations in accordance with the provisions of chapter 54 that set forth requirements necessary to implement the provisions of this section. The commissioner may implement policies and procedures necessary to administer the provisions of this section while in the process of adopting such policies and procedures in regulation form, provided the commissioner holds a public hearing at least thirty days prior to implementing such policies and procedures and publishes notice of intention to adopt the regulations on the Office of Health Strategy's Internet web site and the eRegulations System not later than twenty days after implementing such policies and procedures. Policies and procedures implemented pursuant to this subsection shall be valid until the time such regulations are effective.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

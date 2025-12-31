@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-245b"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-245b"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17b-245b"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-245b/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-245b/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-245b/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-245b/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319v">
+        <num>319v</num>
+        <heading>Temporary Assistance for Needy Families</heading>
+        <section eId="sec_17b_245b">
+          <num>17b-245b</num>
+          <heading>Federally qualified health centers. Reimbursement methodology in the Medicaid program</heading>
+          <subsection eId="17b_245b__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The Commissioner of Social Services shall, consistent with federal law, reimburse federally qualified health centers on an all-inclusive encounter rate per client encounter based on the prospective payment system required by 42 USC 1396a(bb). Any patient encounter with more than one health professional for the same type of service and multiple interactions with the same health professional that occur on the same day shall constitute a single encounter for purposes of reimbursement, except when the patient, after the first encounter, suffers illness or injury requiring additional diagnosis and treatment. A federally qualified health center shall be reimbursed in accordance with the requirements prescribed in section 17b-262-1002 of the regulations of Connecticut state agencies.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_245b__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>A federally qualified health center may not provide nonemergency periodic dental services on different dates of service for the purpose of billing for separate encounters. Any nonemergency periodic dental service, including, but not limited to,</p>
+            </content>
+            <paragraph eId="17b_245b__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>an examination,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_245b__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>prophylaxis, and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_245b__subsec_b__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>radiographs, including bitewings, complete series and periapical imaging, if warranted, shall be completed in one visit. A second visit to complete any service normally included during the course of a nonemergency periodic dental visit shall not be eligible for reimbursement unless (A) medically necessary, and (B) such medical necessity is clearly documented in the patient's dental record.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+              </content>
+              <subparagraph eId="17b_245b__subsec_b__subsec_3__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>medically necessary, and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17b_245b__subsec_b__subsec_3__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>such medical necessity is clearly documented in the patient's dental record.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-147"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-147"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-147"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-147/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-147/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-147/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-147/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_204">
+        <num>204</num>
+        <heading>Local Levy and Collection of Taxes</heading>
+        <section eId="sec_12_147">
+          <num>12-147</num>
+          <heading>Payment and deposit of moneys collected by collector. Treasurer to examine books</heading>
+          <content>
+            <p>Sec. 12-147. Payment and deposit of moneys collected by collector. Treasurer to examine books.Except as otherwise provided by law, each tax collector shall, on or before the tenth day of each month, pay to the treasurer of the municipality all moneys collected by him previous to the first day of that month in taxes, interest, penalties and lien fees thereon. All moneys collected by the collector or his duly appointed agent in taxes and interest, penalties, fees and charges and lien fees thereon, during the period in which they are held by the collector or his duly appointed agent, shall be deposited at least weekly, as provided in section7-402, in the name of the municipality for which they were collected. The treasurer of each municipality shall examine monthly the books of the tax collector. If the collector of any municipality retains any of such moneys or fails to pay any of such moneys as required herein, he shall thereupon forfeit all compensation for collecting such moneys and the treasurer shall forthwith inform the selectmen if a town not consolidated with a city or borough, the common council or board of aldermen if a city, the warden and burgesses if a borough or the governing board if any other municipality, in writing, of such retention or neglect, and such authority shall enforce such forfeiture.
+See Sec. 12-150 re penalty for violation of provisions of this section.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

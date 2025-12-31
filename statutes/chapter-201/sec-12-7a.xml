@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-7a"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-7a"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-7a"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-7a/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-7a/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-7a/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-7a/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_201">
+        <num>201</num>
+        <heading>State and Local Revenue Services. Department of Revenue Services</heading>
+        <section eId="sec_12_7a">
+          <num>12-7a</num>
+          <heading>List of state taxes levied and delinquent taxpayers</heading>
+          <subsection eId="12_7a__subsec_a">
+            <num>(a)</num>
+            <paragraph eId="12_7a__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>The annual report prepared by the Commissioner of Revenue Services for submission to the Governor and publication as provided in section4-60shall not be required to include the name of any person liable for payment of any tax which is unpaid. The commissioner shall prepare and maintain a list related to each type of tax levied by the state, containing the name and address of any person or corporation liable for payment of any such tax and the amount thereof, including any applicable interest or penalties, which tax, as of the end of the fiscal year with respect to which such report is prepared, is unpaid and a period in excess of ninety days has elapsed following the date on which such tax was due, exclusive of any tax determined to be uncollectible in accordance with section12-37, any tax on which an appeal is pending and any tax which has been abated by said commissioner as provided in section12-39. Such lists shall be available to the public for inspection by any person.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_7a__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>The commissioner shall, prior to eliminating any person or corporation from the list prepared and maintained as provided in subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_7a__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>of this subsection, indicate on such list whether such person or corporation is being eliminated from such list due to (A) payment in full of the tax, including applicable interest or penalties, (B) a negotiated settlement of the amount of tax due, or (C) a determination by the commissioner that such tax is uncollectible.</p>
+              </content>
+              <subparagraph eId="12_7a__subsec_a__subsec_1__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>payment in full of the tax, including applicable interest or penalties,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_7a__subsec_a__subsec_1__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>a negotiated settlement of the amount of tax due, or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_7a__subsec_a__subsec_1__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>a determination by the commissioner that such tax is uncollectible.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_7a__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>If requested by the Secretary of the Office of Policy and Management, the commissioner shall prepare, from the list prepared pursuant to subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_7a__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section, a list of taxpayers who are delinquent in the payment of the corporation business tax under chapter 208. The list may also include taxpayer identification numbers assigned by the commissioner.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_7a__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The commissioner may make available for public inspection a list of those persons who have applied to the commissioner for a license, permit or certificate and whose application has been denied, and those persons who were issued a license, permit or certificate by the commissioner and whose license, permit or certificate has been revoked, suspended or not renewed by the commissioner. The list shall be arranged by tax type and may include the date on which an application was denied or the date on which the license, permit or certificate was revoked, suspended or not renewed, and may include the reason for each such action.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

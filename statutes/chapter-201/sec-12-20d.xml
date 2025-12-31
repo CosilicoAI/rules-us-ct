@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-20d"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-20d"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-20d"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-20d/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-20d/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-20d/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-20d/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_201">
+        <num>201</num>
+        <heading>State and Local Revenue Services. Department of Revenue Services</heading>
+        <section eId="sec_12_20d">
+          <num>12-20d</num>
+          <heading>Withholding of grant in lieu of taxes to member municipality of The Metropolitan District. Failure of member municipality to pay amount assessed for sewer use</heading>
+          <subsection eId="12_20d__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>A grant in lieu of taxes, payable pursuant to section12-18b, to a member municipality of The Metropolitan District that fails to pay an amount assessed by said district for sewer use shall be withheld, in whole or in part, as follows: If any amount assessed by said district to such municipality on or after January first of a calendar year and due on or before September first of such year remains unpaid on September first of such year, a withholding of such grant equal to the sum of such unpaid amount, plus the amount due in October of such year and a surcharge equal to five per cent of the sum of such amounts. If, on or by December first of such year, such municipality remits payment for such unpaid assessment amounts, any amount withheld from such grant payment pursuant to this subsection shall be paid to such municipality. If, on or by December first of such year, such municipality fails to remit payment for such unpaid assessment amounts, the Secretary of the Office of Policy and Management shall remit to said district, on behalf of such municipality, an amount equal to such unpaid assessment amounts, and to such municipality, by December thirty-first of such year, an amount equal to the amount withheld from such grant payment pursuant to this subsection. The secretary may retain an amount equal to the five per cent surcharge withheld pursuant to this subsection.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_20d__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Any member municipality of The Metropolitan District that fails to timely pay an amount assessed by said district for sewer use during the current or prior fiscal year shall be ineligible for early disbursement of any grant from the municipal revenue sharing account such municipality may be entitled to pursuant to section4-66l.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

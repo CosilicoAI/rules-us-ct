@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-307a"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-307a"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17b-307a"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-307a/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-307a/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-307a/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-307a/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319v">
+        <num>319v</num>
+        <heading>Temporary Assistance for Needy Families</heading>
+        <section eId="sec_17b_307a">
+          <num>17b-307a</num>
+          <heading>Medicaid reimbursement system incentivizing collaboration between primary care providers and behavioral and mental health care providers for HUSKY Health program members</heading>
+          <subsection eId="17b_307a__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>As used in this section:</p>
+            </content>
+            <paragraph eId="17b_307a__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>“Collaborative Care Model” or “CoCM” means the integrated delivery of behavioral health and primary care services by a primary care team that includes a primary care provider, a behavioral care manager, a psychiatric consultant and a database used by the behavioral care manager to track patient progress;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_307a__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>“CoCM codes” means a billing system developed by the Centers for Medicare and Medicaid Services that provide Medicare rates for services provided in the Collaborative Care Model; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_307a__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>“HUSKY Health” has the same meaning as provided in section17b-290.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_307a__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>To the extent permissible under federal law, the Commissioner of Social Services shall implement a Medicaid reimbursement system that incentivizes collaboration between primary care providers and behavioral and mental health care providers on an integrated care plan for a HUSKY Health program member. Such reimbursement system shall recognize that multiple providers may be involved in providing care. The commissioner may adopt the Collaborative Care Model to expand access to behavioral and mental health services for HUSKY Health program members and utilize the CoCM codes approved by the Centers for Medicare and Medicaid Services to provide reimbursement to participating providers. The commissioner may take into consideration the potential impact on federal reimbursement when implementing such system.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

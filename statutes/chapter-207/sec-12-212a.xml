@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-212a"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-212a"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-212a"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-212a/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-212a/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-212a/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-212a/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_207">
+        <num>207</num>
+        <heading>Gift Tax</heading>
+        <section eId="sec_12_212a">
+          <num>12-212a</num>
+          <heading>Annual state charge applicable to hospital service corporations and medical service corporations. Such corporations not subject to tax under this chapter</heading>
+          <content>
+            <p>Sec. 12-212a. Annual state charge applicable to hospital service corporations and medical service corporations. Such corporations not subject to tax under this chapter.All corporations organized under sections38a-199to38a-209, inclusive, and38a-214to38a-225, inclusive, shall pay to the Commissioner of Revenue Services on or before March first, annually, a charge at the rate of two per cent of the total net direct subscriber charges received by such corporation during the next preceding calendar year, which shall be in addition to any other payment required under section38a-48. The charge required under this section and any other payment required under said section38a-48shall be in compensation for the costs and expenses of regulation by the Insurance Department and all other governmental services. The provisions of this chapter pertaining to the filing of returns, declarations, assessment and collection of taxes, and penalties imposed on domestic insurance companies shall apply with respect to the charge imposed under this section, provided corporations subject to the charge imposed under this section shall not be subject to any tax imposed under this chapter.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

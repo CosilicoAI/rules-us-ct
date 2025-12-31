@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-446"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-446"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-446"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-446/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-446/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-446/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-446/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_220">
+        <num>220</num>
+        <heading>Controlled Substances Tax</heading>
+        <section eId="sec_12_446">
+          <num>12-446</num>
+          <heading>Taxpayer to file security</heading>
+          <content>
+            <p>Sec. 12-446. Taxpayer to file security.The commissioner, before issuing any license to a distributor under section12-436, shall require such distributor annually to file with, and to the satisfaction of, the commissioner and to maintain for the year a bond issued by a surety company authorized to do business in this state or other security acceptable to the commissioner, in such amount as he may fix, to secure the payment of any sums due from such distributor pursuant to the provisions of this chapter. The bond or other security shall be in full force and effect for a period of three years and one month following the end of such year, unless a certificate is issued by the commissioner to the effect that all taxes due the state have been paid. The commissioner shall not require a bond for any distributor who has complied with the provisions of this chapter for a period of not less than twenty years without the commissioner having to resort to any security maintained pursuant to this section for payment of any sum required by this chapter, unless the commissioner determines that good cause exists for the continued requirements of a bond or surety for such distributor.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-506"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-506"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-506"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-506/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-506/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-506/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-506/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_224">
+        <num>224</num>
+        <heading>Community Revitalization and Investment</heading>
+        <section eId="sec_12_506">
+          <num>12-506</num>
+          <heading>Imposition of tax on dividends, interest income and capital gains</heading>
+          <subsection eId="12_506__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>A tax is hereby imposed on</p>
+            </content>
+            <paragraph eId="12_506__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>all dividends and interest income earned, received in fact or constructively, accrued or credited to the taxpayer during his taxable year except that no such tax shall be imposed unless the taxpayer's adjusted gross income in such year equals or exceeds fifty-four thousand dollars, in accordance with the following schedule:
+Adjusted Gross IncomeIn Taxable YearRate of TaxOn All DividendsAnd Interest IncomeAt least $54,000but less than $56,000.75%At least $56,000but less than $58,0001.5%At least $58,000but less than $60,0002%At least $60,000but less than $62,0002.75%At least $62,000but less than $66,0003.5%At least $66,000but less than $70,0004%At least $70,000but less than $74,0004.75%At least $74,000but less than $78,0005.5%At least $78,000but less than $82,0006%At least $82,000but less than $86,0006.75%At least $86,000but less than $90,0007.5%At least $90,000but less than $100,0008.75%$100,000 and over9.75%
+and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_506__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>at the rate of four and three-fourths per cent on all gains from the sale or exchange of capital assets which have been earned, received in fact or constructively, accrued or credited to the taxpayer during his taxable year subject to the exemptions allowed in section12-506c, and section12-506f, when applicable, provided the amount of tax payable by any taxpayer under this subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_506__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>with respect to such gains for any taxable year may not exceed an amount equal to three and four-tenths per cent of the adjusted gross income of such taxpayer for such taxable year, as determined for purposes of the federal income tax.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_506__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Any taxpayer whose adjusted gross income in any taxable year is less than fifty-four thousand dollars and whose net gains from the sale or exchange of capital assets in such year do not exceed</p>
+            </content>
+            <paragraph eId="12_506__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>two hundred dollars in the case of a husband and wife and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_506__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>one hundred dollars in all other cases or any taxpayer whose total tax liability as determined under subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_506__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section in respect to any taxable year would be less than ten dollars and any taxpayer who is sixty-five years of age or older and whose adjusted gross income in any taxable year, less any gains from the sale or exchange of capital assets, is less than ten thousand dollars and any taxpayer whose adjusted gross income in any taxable year is below the level at which such taxpayer would be required to file an income tax return under the Internal Revenue Code of 1986 or any subsequent corresponding internal revenue code of the United States, as from time to time amended, shall not be subject to the tax imposed by subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_506__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section, and shall not be required to file any return under the provisions of section12-508, for such year. For purposes of this subsection, in the case of a husband and wife both of whom are residents of this state and who file for the taxable year a single federal income tax return jointly, they shall be considered a taxpayer who is sixty-five years of age or older if either of them is sixty-five years of age or older.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

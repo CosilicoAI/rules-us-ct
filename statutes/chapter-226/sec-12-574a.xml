@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-574a"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-574a"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-574a"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-574a/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-574a/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-574a/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-574a/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_226">
+        <num>226</num>
+        <heading>Prepared Food and Beverage Tax</heading>
+        <section eId="sec_12_574a">
+          <num>12-574a</num>
+          <heading>Town referendum on racing and fronton. Sunday operation for racing and jai alai events and off-track pari-mutuel betting on racing programs</heading>
+          <subsection eId="12_574a__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Whenever a person or business organization files an application with the department for a license to conduct an activity regulated by section12-574, exclusive of renewal license applications, the department shall forward within five days to the town clerk of the town within which such activity is proposed to be carried on a statement specifying the prospective applicant, the proposed activity, the site on which such activity is proposed to be conducted and the fact that an application has been filed with the department. Within ten days after such statement has been filed, such town clerk shall cause notice of such filing to be published in a newspaper having a circulation in the town wherein the activity is to be conducted. The question of the approval of the conducting of such activity shall be submitted to the electors of such town at a special election called for the purpose to be held not less than thirty nor more than sixty days after such publication, in conformity with the provisions of section9-369, or at a regular town election if such election is to be held more than sixty but not more than one hundred twenty days after such publication, such question shall be so submitted and the vote shall be taken in the manner prescribed by said section9-369. The town clerk shall notify the department of the results of such election. The disapproval of the conducting of such activity by a majority of those voting on the question shall be a bar to the granting of a license to such applicant to conduct such activity at such location. All costs incurred by a municipality in connection with such referendum shall be paid to said municipality by the person or business organization filing such application for such license. The provisions of this subsection shall not apply to any licensee authorized to operate the off-track betting system with respect to any off-track betting facility approved prior to June 25, 1993.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_574a__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>No licensee may conduct any horse racing or jai alai event on any Sunday without the prior approval of the legislative body of the town in which the event is scheduled to take place.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_574a__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>No licensee authorized to operate the off-track betting system may conduct any off-track pari-mutuel wagering on any racing program on any Sunday without the prior approval of the legislative body of the town in which such off-track betting facility is located.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

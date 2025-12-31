@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-597"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-597"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17a-597"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-597/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-597/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-597/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-597/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319i">
+        <num>319i</num>
+        <heading>Connecticut HUSKY Plan</heading>
+        <section eId="sec_17a_597">
+          <num>17a-597</num>
+          <heading>(Formerly Sec. 17-257r). Appeal of board orders and decisions</heading>
+          <subsection eId="17a_597__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Any order of the board entered pursuant to subdivision</p>
+            </content>
+            <paragraph eId="17a_597__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_597__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>of section17a-584or pursuant to section17a-587may be appealed to the Superior Court pursuant to section4-183. The board shall give notice of the right to judicial review to the acquittee, counsel for the acquittee and the state's attorney.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17a_597__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>A decision by the board that the acquittee is a person who should be discharged made pursuant to subdivision</p>
+            </content>
+            <paragraph eId="17a_597__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>of section17a-584, section17a-592or subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17a_597__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>of section17a-593shall not be subject to judicial review pursuant to section4-183.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

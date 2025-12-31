@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-170w"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-170w"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-170w"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-170w/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-170w/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-170w/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-170w/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_204a">
+        <num>204a</num>
+        <heading>Property Tax Relief for Elderly Homeowners and Renters and Persons with Permanent Total Disability</heading>
+        <section eId="sec_12_170w">
+          <num>12-170w</num>
+          <heading>Application for real property tax relief to certain elderly homeowners. Biennial requirements. Penalty for false application or false statement. Lien</heading>
+          <subsection eId="12_170w__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>No claim shall be accepted under section12-170vunless the taxpayer or authorized agent of such taxpayer files an application with the assessor of the municipality in which the property is located, during the period from February first to and including May fifteenth of any year in which benefits are first claimed. Such application shall be made in writing or electronically in a manner prescribed by the assessor, and shall include such information as is necessary to substantiate such claim in accordance with requirements in such application. A taxpayer may make application to the assessor in writing or electronically in a manner prescribed by the assessor prior to August fifteenth of the claim year for an extension of the application period. The assessor may grant such extension in the case of extenuating circumstance due to illness or incapacitation as evidenced by a certificate signed by a physician, physician assistant or an advanced practice registered nurse to that extent, or if the assessor determines there is good cause for doing so. The taxpayer shall present to the assessor a paper or electronic copy of such taxpayer's federal income tax return and the federal income tax return of such taxpayer's spouse, if filed separately, for such taxpayer's taxable year ending immediately prior to the submission of the taxpayer's application, or if not required to file a federal income tax return, such other evidence of qualifying income in respect to such taxable year as the assessor may require. Each such application, together with the federal income tax return and any other information submitted in relation thereto, shall be examined by the assessor and a determination shall be made as to whether the application is approved. Upon determination by the assessor that the applying homeowner is entitled to tax relief in accordance with the provisions of section12-170vand this section, the assessor shall notify the homeowner and the municipal tax collector of the approval of</p>
+            </content>
+          </subsection>
+          <subsection eId="12_170w__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Any person knowingly making a false application for the purpose of claiming property tax relief under section12-170vand this section shall be fined not more than five hundred dollars. Any person who fails to disclose all matters relating thereto or with intent to defraud makes a false statement shall refund to the municipality all tax relief improperly taken.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_170w__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Any municipality providing property tax relief under section12-170vand this section may establish a lien on such property in the amount of the total tax relief granted, plus interest applicable to the total of unpaid taxes represented by such tax relief, at a rate to be determined by such municipality. Any such lien shall have a priority in the settlement of such person's estate.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_170w__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Any such property tax relief granted to any such resident in accordance with the provisions of section12-170vand this section shall not disqualify such resident with respect to any benefits for which such resident shall be eligible under the provisions of sections12-129bto12-129d, inclusive,12-129nand12-170aaand any such property tax relief provided under this section shall be in addition to any such benefits for which such resident shall be eligible under sections12-129bto12-129d, inclusive,12-129nand12-170aa.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

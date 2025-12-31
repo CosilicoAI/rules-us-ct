@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-63"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-63"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-63"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-63/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-63/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-63/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-63/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_203">
+        <num>203</num>
+        <heading>Property Tax Assessment</heading>
+        <section eId="sec_12_63">
+          <num>12-63</num>
+          <heading>Rule of valuation. Depreciation schedules</heading>
+          <subsection eId="12_63__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The present true and actual value of land classified as farm land pursuant to section12-107c, as forest land pursuant to section12-107d, as open space land pursuant to section12-107e, or as maritime heritage land pursuant to section12-107gshall be based upon its current use without regard to neighborhood land use of a more intensive nature, provided in no event shall the present true and actual value of open space land be less than it would be if such open space land comprised a part of a tract or tracts of land classified as farm land pursuant to section12-107c. The present true and actual value of all other property shall be deemed by all assessors and boards of assessment appeals to be the fair market value thereof and not its value at a forced or auction sale.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_63__subsec_b">
+            <num>(b)</num>
+            <paragraph eId="12_63__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>For the purposes of this subsection, (A) “electronic data processing equipment” means computers, printers, peripheral computer equipment, bundled software and any computer-based equipment acting as a computer, as defined in Section 168 of the Internal Revenue Code of 1986, or any subsequent corresponding internal revenue code of the United States, as from time to time amended; (B) “leased personal property” means tangible personal property which is the subject of a written or oral lease or loan on the assessment date, or any such property which has been so leased or loaned by the then current owner of such property for three or more of the twelve months preceding such assessment date; and (C) “original selling price” means the price at which tangible personal property is most frequently sold in the year that it was manufactured.</p>
+              </content>
+              <subparagraph eId="12_63__subsec_b__subsec_1__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>“electronic data processing equipment” means computers, printers, peripheral computer equipment, bundled software and any computer-based equipment acting as a computer, as defined in Section 168 of the Internal Revenue Code of 1986, or any subsequent corresponding internal revenue code of the United States, as from time to time amended;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_63__subsec_b__subsec_1__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>“leased personal property” means tangible personal property which is the subject of a written or oral lease or loan on the assessment date, or any such property which has been so leased or loaned by the then current owner of such property for three or more of the twelve months preceding such assessment date; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_63__subsec_b__subsec_1__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>“original selling price” means the price at which tangible personal property is most frequently sold in the year that it was manufactured.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_63__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>Any municipality may, by ordinance, adopt the provisions of this subsection to be applicable for the assessment year commencing October first of the assessment year in which a revaluation of all real property required pursuant to section12-62is performed in such municipality, and for each assessment year thereafter. If so adopted, the present true and actual value of tangible personal property, other than motor vehicles, shall be determined in accordance with the provisions of this subsection. If such property is purchased, its true and actual value shall be established in relation to the cost of its acquisition, including transportation and installation, and shall reflect depreciation in accordance with the schedules set forth in subdivisions</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_63__subsec_b__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>to</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_63__subsec_b__subsec_6">
+              <num>(6)</num>
+              <content>
+                <p>, inclusive, of this subsection. If such property is developed and produced by the owner of such property for a purpose other than wholesale or retail sale or lease, its true and actual value shall be established in relation to its cost of development, production and installation and shall reflect depreciation in accordance with the schedules provided in subdivisions</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_63__subsec_b__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>to</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_63__subsec_b__subsec_6">
+              <num>(6)</num>
+              <content>
+                <p>, inclusive, of this subsection. The provisions of this subsection shall not apply to property owned by a public service company, as defined in section16-1.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_63__subsec_b__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>The following schedule of depreciation shall be applicable with respect to electronic data processing equipment:
+(A) Group I: Computer and peripheral hardware, including, but not limited to, personal computers, workstations, terminals, storage devices, printers, scanners, computer peripherals and networking equipment:
+Assessment YearFollowing AcquisitionDepreciated ValueAs PercentageOf AcquisitionCost BasisFirst yearSeventy per centSecond yearForty per centThird yearTwenty per centFourth year and thereafterTen per cent
+(B) Group II: Other hardware, including, but not limited to, mini-frame and main-frame systems with an acquisition cost of more than twenty-five thousand dollars:
+Assessment YearFollowing AcquisitionDepreciated ValueAs PercentageOf AcquisitionCost BasisFirst yearNinety per centSecond yearSixty per centThird yearForty per centFourth yearTwenty per centFifth year and thereafterTen per cent</p>
+              </content>
+              <subparagraph eId="12_63__subsec_b__subsec_3__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>Group I: Computer and peripheral hardware, including, but not limited to, personal computers, workstations, terminals, storage devices, printers, scanners, computer peripherals and networking equipment:
+Assessment YearFollowing AcquisitionDepreciated ValueAs PercentageOf AcquisitionCost BasisFirst yearSeventy per centSecond yearForty per centThird yearTwenty per centFourth year and thereafterTen per cent</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_63__subsec_b__subsec_3__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>Group II: Other hardware, including, but not limited to, mini-frame and main-frame systems with an acquisition cost of more than twenty-five thousand dollars:
+Assessment YearFollowing AcquisitionDepreciated ValueAs PercentageOf AcquisitionCost BasisFirst yearNinety per centSecond yearSixty per centThird yearForty per centFourth yearTwenty per centFifth year and thereafterTen per cent</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_63__subsec_b__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>The following schedule of depreciation shall be applicable with respect to copiers, facsimile machines, medical testing equipment, and any similar type of equipment that is not specifically defined as electronic data processing equipment, but is considered by the assessor to be technologically advanced:
+Assessment YearFollowing AcquisitionDepreciated ValueAs PercentageOf AcquisitionCost BasisFirst yearNinety-five per centSecond yearEighty per centThird yearSixty per centFourth yearForty per centFifth year and thereafterTwenty per cent</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_63__subsec_b__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>The following schedule of depreciation shall be applicable with respect to machinery and equipment used in the manufacturing process:
+Assessment YearFollowing AcquisitionDepreciated ValueAs PercentageOf AcquisitionCost BasisFirst yearNinety per centSecond yearEighty per centThird yearSeventy per centFourth yearSixty per centFifth yearFifty per centSixth yearForty per centSeventh yearThirty per centEighth year and thereafterTwenty per cent</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_63__subsec_b__subsec_6">
+              <num>(6)</num>
+              <content>
+                <p>The following schedule of depreciation shall be applicable with respect to all tangible personal property other than that described in subdivisions</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_63__subsec_b__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>to</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_63__subsec_b__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>, inclusive, and subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_63__subsec_b__subsec_7">
+              <num>(7)</num>
+              <content>
+                <p>of this subsection:
+Assessment YearFollowing AcquisitionDepreciated ValueAs PercentageOf AcquisitionCost BasisFirst yearNinety-five per centSecond yearNinety per centThird yearEighty per centFourth yearSeventy per centFifth yearSixty per centSixth yearFifty per centSeventh yearForty per centEighth year and thereafterThirty per cent</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_63__subsec_b__subsec_7">
+              <num>(7)</num>
+              <content>
+                <p>For assessment years commencing on or after October 1, 2024, the following schedule of depreciation shall be applicable with respect to motor vehicles based on the manufacturer's suggested retail price of such motor vehicles, provided no motor vehicle shall be assessed at an amount less than five hundred dollars:
+Age of VehiclePercentage ofManufacturer's SuggestedRetail PriceUp to year oneEighty-five per centYear twoEighty per centYear threeSeventy-five per centYear fourSeventy per centYear fiveSixty-five per centYear sixSixty per centYear sevenFifty-five per centYear eightFifty per centYear nineForty-five per centYear tenForty per centYear elevenThirty-five per centYear twelveThirty per centYear thirteenTwenty-five per centYear fourteenTwenty per centYears fifteen to nineteenFifteen per centYears twenty and beyondNot less thanfive hundred dollars</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_63__subsec_b__subsec_8">
+              <num>(8)</num>
+              <content>
+                <p>The present true and actual value of leased personal property other than motor vehicles shall be determined in accordance with the provisions of this subdivision. Such value for any assessment year shall be established in relation to the original selling price for self-manufactured property or acquisition cost for acquired property and shall reflect depreciation in accordance with the schedules provided in subdivisions</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_63__subsec_b__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>to</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_63__subsec_b__subsec_6">
+              <num>(6)</num>
+              <content>
+                <p>, inclusive, of this subsection. If the assessor is unable to determine the original selling price of leased personal property other than a motor vehicle, the present true and actual value thereof shall be its current selling price.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_63__subsec_b__subsec_9">
+              <num>(9)</num>
+              <content>
+                <p>With respect to any personal property which is prohibited by law from being sold, the present true and actual value of such property shall be established with respect to such property's original manufactured cost increased by a ratio the numerator of which is the total proceeds from the manufacturer's salable equipment sold and the denominator of which is the total cost of the manufacturer's salable equipment sold. Such value shall then be depreciated in accordance with the appropriate schedule in this subsection.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_63__subsec_b__subsec_10">
+              <num>(10)</num>
+              <content>
+                <p>The schedules of depreciation set forth in subdivisions</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_63__subsec_b__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>to</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_63__subsec_b__subsec_6">
+              <num>(6)</num>
+              <content>
+                <p>, inclusive, of this subsection shall not be used with respect to motor vehicles, videotapes, horses or other taxable livestock or electric cogenerating equipment.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_63__subsec_b__subsec_11">
+              <num>(11)</num>
+              <content>
+                <p>If the assessor determines that the value of any item of personal property, other than a motor vehicle valued pursuant to subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_63__subsec_b__subsec_7">
+              <num>(7)</num>
+              <content>
+                <p>of this subsection, produced by the application of the schedules set forth in this subsection does not accurately reflect the present true and actual value of such item, the assessor shall adjust such value to reflect the present true and actual value of such item.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_63__subsec_b__subsec_12">
+              <num>(12)</num>
+              <content>
+                <p>For assessment years commencing on or after October 1, 2024, for any commercial motor vehicle (A) that is modified, or (B) to which is affixed an attachment designed, manufactured or modified to be affixed to such motor vehicle, the assessor shall determine whether to value such motor vehicle and any such modifications or attachments to such motor vehicle pursuant to subdivision</p>
+              </content>
+              <subparagraph eId="12_63__subsec_b__subsec_12__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>that is modified, or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_63__subsec_b__subsec_12__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>to which is affixed an attachment designed, manufactured or modified to be affixed to such motor vehicle, the assessor shall determine whether to value such motor vehicle and any such modifications or attachments to such motor vehicle pursuant to subdivision</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_63__subsec_b__subsec_7">
+              <num>(7)</num>
+              <content>
+                <p>of this subsection or section12-41. The assessor shall determine valuation of any modifications or attachments to such motor vehicle based on whether such modifications or attachments are intended to be permanently affixed to such motor vehicle.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_63__subsec_b__subsec_13">
+              <num>(13)</num>
+              <content>
+                <p>Nothing in this subsection shall prevent any taxpayer from appealing any (A) assessment made pursuant to this subsection if such assessment does not accurately reflect the present true and actual value of any item of such taxpayer's personal property, or (B) determination of the manufacturer's suggested retail price used to value a motor vehicle pursuant to this subsection.</p>
+              </content>
+              <subparagraph eId="12_63__subsec_b__subsec_13__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>assessment made pursuant to this subsection if such assessment does not accurately reflect the present true and actual value of any item of such taxpayer's personal property, or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_63__subsec_b__subsec_13__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>determination of the manufacturer's suggested retail price used to value a motor vehicle pursuant to this subsection.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_63__subsec_b__subsec_12">
+              <num>(12)</num>
+              <content>
+                <p>Nothing in this subsection shall prevent any taxpayer from appealing any assessment made pursuant to this subsection if such assessment does not accurately reflect the present true and actual value of any item of such taxpayer's personal property.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

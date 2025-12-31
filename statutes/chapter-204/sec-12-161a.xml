@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-161a"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-161a"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-161a"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-161a/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-161a/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-161a/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-161a/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_204">
+        <num>204</num>
+        <heading>Local Levy and Collection of Taxes</heading>
+        <section eId="sec_12_161a">
+          <num>12-161a</num>
+          <heading>In proceedings by municipality to collect delinquent taxes on personal property, owner shall pay court costs, appraiser's fees and attorneys' fees incurred</heading>
+          <content>
+            <p>Sec. 12-161a. In proceedings by municipality to collect delinquent taxes on personal property, owner shall pay court costs, appraiser's fees and attorneys' fees incurred.In the institution of proceedings by any municipality to enforce collection of any delinquent tax on personal property from the owner of such property, through (1) levy and sale with respect to any goods or chattels owned by such person, (2) enforcement of a lien, established and perfected in accordance with sections12-195ato12-195g, inclusive, upon any such goods or chattels or (3) any other proceeding in law in the name of the municipality for purposes of enforcing such collection, such person shall be required to pay any court costs, reasonable appraiser's fees or reasonable attorney's fees incurred by such municipality as a result of and directly related to such levy and sale, enforcement of lien or other collection proceedings.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

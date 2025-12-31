@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-81mm"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-81mm"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-81mm"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-81mm/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-81mm/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-81mm/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-81mm/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_203">
+        <num>203</num>
+        <heading>Property Tax Assessment</heading>
+        <section eId="sec_12_81mm">
+          <num>12-81mm</num>
+          <heading>Municipal option to abate property taxes on recreational trails</heading>
+          <subsection eId="12_81mm__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>For the purposes of this section,</p>
+            </content>
+            <paragraph eId="12_81mm__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>“nonprofit land conservation organization” means a nonprofit land conservation organization that is tax exempt under Section 501</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_81mm__subsec_c">
+            <num>(c)</num>
+            <paragraph eId="12_81mm__subsec_c__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>of the Internal Revenue Code of 1986, or any subsequent corresponding internal revenue code of the United States, as amended from time to time,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_81mm__subsec_c__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>“greenway” has the same meaning as provided in section23-100, and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_81mm__subsec_c__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>“conservation restriction” has the same meaning as provided in section47-42a.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_81mm__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Each municipality may establish by ordinance a program to provide for the abatement of real property taxes due on any portion of land that</p>
+            </content>
+            <paragraph eId="12_81mm__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>meets the criteria for designation as a greenway established under subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_81mm__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of section23-102,</p>
+            </content>
+            <paragraph eId="12_81mm__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>is a terrestrial recreational trail with a clearly defined trail corridor that does not exceed one hundred feet in width at its widest point, and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_81mm__subsec_b__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>is subject to a recorded permanent conservation restriction conveyed by the owner of the land, or such owner's predecessor in title, to the municipality, the state or a nonprofit land conservation organization, provided such conservation easement or any other encumbrance on the land shall not prohibit the public use of any such terrestrial recreational trail for compatible recreation.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_81mm__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Whenever any municipality enacts an ordinance required by subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_81mm__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section, an owner of land may apply for its abatement under such ordinance by filing a written application for such abatement with the assessor of such municipality. Any application filed under this subsection shall be made upon a form prescribed by the assessor and shall include</p>
+            </content>
+            <paragraph eId="12_81mm__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>a description of the land,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_81mm__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>a copy of the recorded permanent conservation restriction concerning the land,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_81mm__subsec_b__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>a copy of the deed that establishes such owner's ownership interest in the land,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_81mm__subsec_b__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>a certified land survey that depicts the boundaries of the terrestrial recreational trail on the land of such owner, and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_81mm__subsec_b__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>such other information as the assessor may require to aid in determining whether such land qualifies for such tax abatement pursuant to such ordinance. Any certification of a survey required by this subsection shall be made by a licensed surveyor and such certification shall be made in accordance with chapter 390.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_81mm__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Not later than thirty days after receipt of a written application under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_81mm__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of this section, the assessor shall submit such written application with the assessor's recommendation to either approve or deny the tax abatement based on the criteria set forth in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_81mm__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section to the legislative body of the municipality or, in a municipality where the legislative body is a town meeting, to the board of selectmen.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_81mm__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>The abatement of any real property taxes under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_81mm__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section shall be approved by vote of the legislative body of the municipality or, in a municipality where the legislative body is a town meeting, by vote of the board of selectmen.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_81mm__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>Any abatement under this section shall continue upon the sale or transfer of the land unless the legislative body of the municipality, or in a municipality where the legislative body is a town meeting, the board of selectmen, votes to discontinue such abatement.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

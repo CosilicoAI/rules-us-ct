@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-193"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-193"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-193"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-193/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-193/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-193/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-193/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_205">
+        <num>205</num>
+        <heading>Tax Liens</heading>
+        <section eId="sec_12_193">
+          <num>12-193</num>
+          <heading>Costs and fees to be taxed. Reimbursement to taxpayer where error by tax assessor or tax collector</heading>
+          <content>
+            <p>Sec. 12-193. Costs and fees to be taxed. Reimbursement to taxpayer where error by tax assessor or tax collector.Court costs, reasonable appraiser's fees, and reasonable attorney's fees incurred by a municipality as a result of any foreclosure action brought pursuant to section12-181or12-182and directly related thereto shall be taxed in any such proceeding against any person or persons having title to any property so foreclosed and may be collected by the municipality once a foreclosure action has been brought pursuant to section12-181or12-182. A municipality shall reimburse a taxpayer for the costs of state marshal fees or any property seized if the court finds that such costs were incurred because of an error by the tax assessor or tax collector and not as the result of any action or failure on the part of the taxpayer.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

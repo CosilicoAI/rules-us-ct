@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-112"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-112"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17b-112"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-112/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-112/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-112/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-112/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319s">
+        <num>319s</num>
+        <heading>Connecticut Partnership for Long-Term Care</heading>
+        <section eId="sec_17b_112">
+          <num>17b-112</num>
+          <heading>Temporary family assistance program</heading>
+          <subsection eId="17b_112__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The Department of Social Services shall administer a temporary family assistance program under which cash assistance shall be provided to eligible families in accordance with the temporary assistance for needy families program, established pursuant to the Personal Responsibility and Work Opportunity Reconciliation Act of 1996. The Commissioner of Social Services may operate portions of the temporary family assistance program as a solely state-funded program, separate from the federal temporary assistance for needy families program, if the commissioner determines that doing so will enable the state to avoid fiscal penalties under the temporary assistance for needy families program. Families receiving assistance under the solely state-funded portion of the temporary family assistance program shall be subject to the same conditions of eligibility as those receiving assistance under the federal temporary assistance for needy families program. Under the temporary family assistance program, benefits shall be provided to a family for not longer than thirty-six months, except as provided in subsections</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_112__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>and</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_112__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of this section. For the purpose of calculating said thirty-six-month time limit, months of assistance received on and after January 1, 1996, pursuant to time limits under the aid to families with dependent children program, shall be included. For purposes of this section, “family” means one or more individuals who apply for or receive assistance together under the temporary family assistance program. If the commissioner determines that federal law allows individuals not otherwise in an eligible covered group for the temporary family assistance program to become covered, such family may also, at the discretion of the commissioner, be composed of</p>
+            </content>
+            <paragraph eId="17b_112__subsec_c__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>a pregnant woman, or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_112__subsec_c__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>a parent, both parents or other caretaker relative and at least one child who is under the age of eighteen, or who is under the age of nineteen and a full-time student in a secondary school or its equivalent. A caretaker relative shall be related to the child or children by blood, marriage or adoption or shall be the legal guardian of such a child or pursuing legal proceedings necessary to achieve guardianship. If the commissioner elects to allow state eligibility consistent with any change in federal law, the commissioner may administratively transfer any qualifying family cases under the cash assistance portion of the state-administered general assistance program to the temporary family assistance program without regard to usual eligibility and enrollment procedures. If such families become an ineligible coverage group under the federal law, the commissioner shall administratively transfer such families back to the cash assistance portion of the state-administered general assistance program without regard to usual eligibility and enrollment procedures to the degree that such families are eligible for the state program.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_112__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The Commissioner of Social Services shall exempt a family from such time-limited benefits for circumstances including, but not limited to:</p>
+            </content>
+            <paragraph eId="17b_112__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>A family with a needy caretaker relative who is incapacitated or of an advanced age, as defined by the commissioner, if there is no other nonexempt caretaker relative in the household;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_112__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>a family with a needy caretaker relative who is needed in the home because of the incapacity of another member of the household, if there is no other nonexempt caretaker relative in the household;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_112__subsec_b__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>a family with a caretaker relative who is not legally responsible for the dependent children in the household if such relative's needs are not considered in calculating the amount of the benefit and there is no other nonexempt caretaker relative in the household;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_112__subsec_b__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>a family with a caretaker relative caring for a child who is under one year of age if there is no other nonexempt caretaker relative in the household;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_112__subsec_b__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>a family with a pregnant or postpartum caretaker relative if a physician has indicated that such relative is unable to work and there is no other nonexempt caretaker relative in the household;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_112__subsec_b__subsec_6">
+              <num>(6)</num>
+              <content>
+                <p>a family with a caretaker relative determined by the commissioner to be unemployable and there is no other nonexempt caretaker relative in the household; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_112__subsec_b__subsec_7">
+              <num>(7)</num>
+              <content>
+                <p>minor parents attending and satisfactorily completing high school or high school equivalency programs.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_112__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>A family who is subject to time-limited benefits may petition the Commissioner of Social Services for six-month extensions of such benefits. The commissioner shall grant not more than two extensions to such family who has made a good faith effort to comply with the requirements of the program and despite such effort has a total family income below one hundred per cent of the federal poverty level, or has encountered circumstances preventing employment including, but not limited to:</p>
+            </content>
+            <paragraph eId="17b_112__subsec_c__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>Domestic violence or physical harm to such family's children; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_112__subsec_c__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>other circumstances beyond such family's control. The commissioner shall disregard ninety dollars of earned income in determining applicable family income. The commissioner may grant a subsequent six-month extension if each adult in the family meets one or more of the following criteria: (A) The adult is precluded from engaging in employment activities due to domestic violence or another reason beyond the adult's control; (B) the adult has two or more substantiated barriers to employment including, but not limited to, the lack of available child care, substance abuse or addiction, severe mental or physical health problems, one or more severe learning disabilities, domestic violence or a child who has a serious physical or behavioral health problem; or (C) the adult is employed and works less than thirty-five hours per week due to</p>
+              </content>
+              <subparagraph eId="17b_112__subsec_c__subsec_2__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>The adult is precluded from engaging in employment activities due to domestic violence or another reason beyond the adult's control;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17b_112__subsec_c__subsec_2__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>the adult has two or more substantiated barriers to employment including, but not limited to, the lack of available child care, substance abuse or addiction, severe mental or physical health problems, one or more severe learning disabilities, domestic violence or a child who has a serious physical or behavioral health problem; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17b_112__subsec_c__subsec_2__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>the adult is employed and works less than thirty-five hours per week due to</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_112__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>a documented medical impairment that limits the adult's hours of employment, provided the adult works the maximum number of hours that the medical condition permits, or (ii) the need to care for a disabled member of the adult's household, provided the adult works the maximum number of hours the adult's caregiving responsibilities permit. Families receiving temporary family assistance shall be notified by the department of the right to petition for such extensions. Notwithstanding the provisions of this section, the commissioner shall not provide benefits under the state's temporary family assistance program to a family that is subject to the thirty-six-month benefit limit and has received benefits beginning on or after October 1, 1996, if such benefits result in that family's receiving more than sixty months of time-limited benefits unless that family experiences domestic violence, as defined in Section 402</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_112__subsec_a">
+            <num>(a)</num>
+            <paragraph eId="17b_112__subsec_a__subsec_7">
+              <num>(7)</num>
+              <content>
+                <p>(B), P.L. 104-193. For the purpose of calculating said sixty-month limit: (I) A month shall count toward the limit if the family receives assistance for any day of the month, provided any months of temporary family assistance received during the public health emergency declared by Governor Ned Lamont related to the COVID-19 pandemic shall not be included, and (II) a month in which a family receives temporary assistance for needy families benefits that are issued from a jurisdiction other than Connecticut shall count toward the limit.</p>
+              </content>
+              <subparagraph eId="17b_112__subsec_a__subsec_7__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>, P.L. 104-193. For the purpose of calculating said sixty-month limit:</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17b_112__subsec_a__subsec_7__subsec_I">
+                <num>(I)</num>
+                <content>
+                  <p>A month shall count toward the limit if the family receives assistance for any day of the month, provided any months of temporary family assistance received during the public health emergency declared by Governor Ned Lamont related to the COVID-19 pandemic shall not be included, and (II) a month in which a family receives temporary assistance for needy families benefits that are issued from a jurisdiction other than Connecticut shall count toward the limit.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_112__subsec_d">
+            <num>(d)</num>
+            <paragraph eId="17b_112__subsec_d__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>Under said program, no family shall be eligible that has total gross earnings exceeding the federal poverty level, however, in the calculation of the benefit amount for eligible families and previously eligible families that become ineligible temporarily because of receipt of workers' compensation benefits by a family member who subsequently returns to work immediately after the period of receipt of such benefits, earned income shall be disregarded up to the federal poverty level. On and after October 1, 2023, the commissioner shall not deny a family assistance under said program on the basis of such family's assets unless such assets exceed six thousand dollars. Except when determining eligibility for a six-month extension of benefits pursuant to subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_112__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of this section, the commissioner shall disregard the first fifty dollars per month of income attributable to current child support that a family receives in determining eligibility and benefit levels for temporary family assistance. Any current child support in excess of fifty dollars per month collected by the department on behalf of an eligible child shall be considered in determining eligibility but shall not be considered when calculating benefits and shall be taken as reimbursement for assistance paid under this section, except that when the current child support collected exceeds the family's monthly award of temporary family assistance benefits plus fifty dollars, the current child support shall be paid to the family and shall be considered when calculating benefits.</p>
+            </content>
+            <paragraph eId="17b_112__subsec_c__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>Notwithstanding the provisions of subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_112__subsec_c__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>of this subsection, on and after January 1, 2024, in the first month in which a family's total gross earnings exceed one hundred per cent of the federal poverty level and for a period not to exceed six consecutive months, the department shall disregard, for purposes of eligibility, a family's total gross earnings in an amount not to exceed two hundred thirty per cent of the federal poverty level. If a family's total gross earnings are an amount between one hundred seventy-one per cent and two hundred thirty per cent of the federal poverty level, the department shall reduce the household's benefit by twenty per cent for the months in which earnings are between one hundred seventy-one per cent and two hundred thirty per cent of the federal poverty level.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_112__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>A family receiving assistance under said program shall cooperate with child support enforcement, under title IV-D of the Social Security Act. A family shall be ineligible for benefits for failure to cooperate with child support enforcement.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_112__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>A family leaving assistance at the end of</p>
+            </content>
+            <paragraph eId="17b_112__subsec_f__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>said thirty-six-month time limit, or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_112__subsec_f__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>the sixty-month limit shall have an interview for the purpose of being informed of services that may continue to be available to such family, including employment services available through the Labor Department. Such interview shall include (A) a determination of benefits available to the family provided by the Department of Social Services; and (B) a determination of whether such family is eligible for supplemental nutrition assistance or Medicaid. Information and referrals shall be made to such a family for services and benefits including, but not limited to, the earned income tax credit, rental subsidies emergency housing, employment services and energy assistance.</p>
+              </content>
+              <subparagraph eId="17b_112__subsec_f__subsec_2__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>a determination of benefits available to the family provided by the Department of Social Services; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17b_112__subsec_f__subsec_2__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>a determination of whether such family is eligible for supplemental nutrition assistance or Medicaid. Information and referrals shall be made to such a family for services and benefits including, but not limited to, the earned income tax credit, rental subsidies emergency housing, employment services and energy assistance.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_112__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>Notwithstanding section17b-104, commencing on July 1, 2023, the Commissioner of Social Services shall provide an annual cost-of-living adjustment in temporary family assistance benefits equal to the most recent percentage increase in the consumer price index for urban consumers whenever funds appropriated for temporary family assistance lapse at the close of any fiscal year and such adjustment has not otherwise been included in the budget for the assistance program, provided the increase would not create a budget deficiency in succeeding years. The commissioner shall provide a prorated benefit increase from such available lapsed funds in any fiscal year when such funds are not sufficient to cover a cost-of-living adjustment in accordance with this subsection.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_112__subsec_h">
+            <num>(h)</num>
+            <content>
+              <p>An applicant or recipient of temporary family assistance who is adversely affected by a decision of the Commissioner of Social Services may request and shall be provided a hearing in accordance with section17b-60.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

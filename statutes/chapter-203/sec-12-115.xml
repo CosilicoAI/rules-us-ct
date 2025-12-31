@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-115"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-115"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-115"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-115/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-115/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-115/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-115/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_203">
+        <num>203</num>
+        <heading>Property Tax Assessment</heading>
+        <section eId="sec_12_115">
+          <num>12-115</num>
+          <heading>Addition to grand list by board of assessment appeals</heading>
+          <content>
+            <p>Sec. 12-115. Addition to grand list by board of assessment appeals.The board of assessment appeals in any town or city may, within three months from the date prescribed by law for the completion of its duties, as set forth in section12-111, add to the grand list of a town any taxable property which has been omitted by the assessor or board of assessors or the board of assessment appeals, which shall reflect for each owner of such property, an assessment at seventy per cent of the present true and actual value of such owner's taxable property from the best information that it can obtain, and if the owner failed to file the declaration as prescribed by law, shall add thereto twenty-five per cent of such assessment. Such board of assessment appeals shall mail to such owner at the last-known address of the owner, postage paid, within one week after the completion of such supplemental additions to the grand list, a written or printed notice to appear before such board at a stated time and place and show cause why such property should not be added to such grand list. Any person aggrieved by the action of such board may, within two months from the time of such action, have the same right of appeal to the Superior Court as provided by section12-117a. The authority designated by section12-130shall make and sign a rate bill for such supplemental additions to the grand list and a warrant with respect to such additions which shall be forwarded by the tax collector to such person, and such collector shall have the same powers for the collection of the tax based on such supplemental additions to such list as for the collection of other taxes.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

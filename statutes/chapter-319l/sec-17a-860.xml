@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-860"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-860"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17a-860"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-860/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-860/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-860/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-860/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319l">
+        <num>319l</num>
+        <heading>Nursing Home Financial Assistance</heading>
+        <section eId="sec_17a_860">
+          <num>17a-860</num>
+          <heading>(Formerly Sec. 17b-349e). Respite care services for caretakers of Alzheimer's patients. Definitions. Requirements. Regulations</heading>
+          <subsection eId="17a_860__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>As used in this section:</p>
+            </content>
+            <paragraph eId="17a_860__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>“Respite care services” means support services which provide short-term relief from the demands of ongoing care for an individual with Alzheimer's disease.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_860__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>“Caretaker” means a person who has the responsibility for the care of an individual with Alzheimer's disease or has assumed the responsibility for such individual voluntarily, by contract or by order of a court of competent jurisdiction.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_860__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>“Copayment” means a payment made by or on behalf of an individual with Alzheimer's disease for respite care services.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_860__subsec_a__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>“Individual with Alzheimer's disease” means an individual with Alzheimer's disease or related disorders.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17a_860__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The Commissioner of Aging and Disability Services shall operate a program, within available appropriations, to provide respite care services for caretakers of individuals with Alzheimer's disease, provided such individuals with Alzheimer's disease meet the requirements set forth in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_860__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of this section. Such respite care services may include, but need not be limited to</p>
+            </content>
+            <paragraph eId="17a_860__subsec_c__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>homemaker services;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_860__subsec_c__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>adult day care;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_860__subsec_c__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>temporary care in a licensed medical facility;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_860__subsec_c__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>home-health care;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_860__subsec_c__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>companion services; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_860__subsec_c__subsec_6">
+              <num>(6)</num>
+              <content>
+                <p>personal care assistant services. Such respite care services may be administered directly by the Department of Aging and Disability Services, or through contracts for services with providers of such services, or by means of direct subsidy to caretakers of individuals with Alzheimer's disease to purchase such services.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17a_860__subsec_c">
+            <num>(c)</num>
+            <paragraph eId="17a_860__subsec_c__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>No individual with Alzheimer's disease may participate in the program if such individual (A) has an annual income of more than forty-one thousand dollars or liquid assets of more than one hundred nine thousand dollars, or (B) is receiving services under the Connecticut home-care program for the elderly. On July 1, 2009, and annually thereafter, the commissioner shall increase such income and asset eligibility criteria over that of the previous fiscal year to reflect the annual cost of living adjustment in Social Security income, if any.</p>
+              </content>
+              <subparagraph eId="17a_860__subsec_c__subsec_1__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>has an annual income of more than forty-one thousand dollars or liquid assets of more than one hundred nine thousand dollars, or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17a_860__subsec_c__subsec_1__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>is receiving services under the Connecticut home-care program for the elderly. On July 1, 2009, and annually thereafter, the commissioner shall increase such income and asset eligibility criteria over that of the previous fiscal year to reflect the annual cost of living adjustment in Social Security income, if any.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="17a_860__subsec_c__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>No individual with Alzheimer's disease who participates in the program may receive more than three thousand five hundred dollars for services under the program in any fiscal year or receive more than thirty days of out-of-home respite care services other than adult day care services under the program in any fiscal year, except that the commissioner shall adopt regulations pursuant to subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17a_860__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>of this section to provide up to seven thousand five hundred dollars for services to a participant in the program who demonstrates a need for additional services.</p>
+            </content>
+            <paragraph eId="17a_860__subsec_d__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>The commissioner may require an individual with Alzheimer's disease who participates in the program to pay a copayment for respite care services under the program, except the commissioner may waive such copayment upon demonstration of financial hardship by such individual.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17a_860__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>The commissioner shall adopt regulations in accordance with the provisions of chapter 54 to implement the provisions of this section. Such regulations shall include, but need not be limited to</p>
+            </content>
+            <paragraph eId="17a_860__subsec_d__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>standards for eligibility for respite care services;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_860__subsec_d__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>the basis for priority in receiving services;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_860__subsec_d__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>qualifications and requirements of providers, which shall include specialized training in Alzheimer's disease, dementia and related disorders;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_860__subsec_d__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>a requirement that providers accredited by the Joint Commission on the Accreditation of Healthcare Organizations, when available, receive preference in contracting for services;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_860__subsec_d__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>provider reimbursement levels;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_860__subsec_d__subsec_6">
+              <num>(6)</num>
+              <content>
+                <p>limits on services and cost of services; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_860__subsec_d__subsec_7">
+              <num>(7)</num>
+              <content>
+                <p>a fee schedule for copayments.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17a_860__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>The commissioner may allocate any funds appropriated in excess of five hundred thousand dollars for the program among the five area agencies on aging according to need, as determined by the commissioner.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

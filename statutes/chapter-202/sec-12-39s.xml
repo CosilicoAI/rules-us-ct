@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-39s"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-39s"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-39s"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-39s/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-39s/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-39s/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-39s/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_202">
+        <num>202</num>
+        <heading>Collection of State Taxes</heading>
+        <section eId="sec_12_39s">
+          <num>12-39s</num>
+          <heading>Cancellation of unpaid portion of erroneously or illegally assessed taxes and credit or refund of erroneously or illegally collected taxes</heading>
+          <subsection eId="12_39s__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The Commissioner of Revenue Services, of his own motion, is authorized, where any tax, penalty or interest has been erroneously or illegally assessed against any person by said commissioner, to cancel the unpaid portion of such tax, penalty or interest.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_39s__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The Commissioner of Revenue Services, of his own motion, is authorized, if the commissioner determines that any tax, penalty or interest has been paid more than once or has been erroneously or illegally collected or computed, to credit such amount against any amounts then due and payable from such person to said commissioner and to refund, upon order of the Comptroller, the balance, if any, to such person. If such person is required by law to collect such tax or reimbursement for such tax from another person and has collected such tax or reimbursement for such tax from such other person, any amount credited or refunded under this subsection shall be credited or refunded to such other person.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_39s__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The provisions of this section shall not be construed as authorizing suit against the state by a person against whom any tax, penalty or interest has been erroneously or illegally assessed or from whom any tax, penalty or interest has been erroneously or illegally collected and shall not be construed as a waiver of sovereign immunity.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_39s__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>The record of any cancellation under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_39s__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section or of any credit or refund under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_39s__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section shall be open to public inspection in accordance with section1-210.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-217"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-217"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-217"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-217/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-217/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-217/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-217/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_208">
+        <num>208</num>
+        <heading>Estate Taxes</heading>
+        <section eId="sec_12_217">
+          <num>12-217</num>
+          <heading>Deductions from gross income. Net income and operating loss carry-over of S corporations and combined groups</heading>
+          <subsection eId="12_217__subsec_a">
+            <num>(a)</num>
+            <paragraph eId="12_217__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>In arriving at net income as defined in section12-213, whether or not the taxpayer is taxable under the federal corporation net income tax, there shall be deducted from gross income:
+(A) All items deductible under the Internal Revenue Code effective and in force on the last day of the income year, except</p>
+              </content>
+              <subparagraph eId="12_217__subsec_a__subsec_1__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>All items deductible under the Internal Revenue Code effective and in force on the last day of the income year, except</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_217__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>any taxes imposed under the provisions of this chapter that are paid or accrued in the income year and in the income year commencing January 1, 1989, and thereafter, any taxes in any state of the United States or any political subdivision of such state, or the District of Columbia, imposed on or measured by the income or profits of a corporation that are paid or accrued in the income year, (ii) deductions for depreciation, which shall be allowed as provided in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_217__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section, (iii) deductions for qualified domestic production activities income, as provided in Section 199 of the Internal Revenue Code, and (iv) in the case of any captive real estate investment trust, the deduction for dividends paid provided under Section 857</p>
+            </content>
+          </subsection>
+          <subsection eId="12_217__subsec_b">
+            <num>(b)</num>
+            <paragraph eId="12_217__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>of the Internal Revenue Code; and
+(B) Additionally, in the case of a regulated investment company, the sum of</p>
+              </content>
+              <subparagraph eId="12_217__subsec_b__subsec_2__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>Additionally, in the case of a regulated investment company, the sum of</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_217__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>the exempt-interest dividends, as defined in the Internal Revenue Code, and (ii) expenses, bond premium, and interest related to tax-exempt income that are disallowed as deductions under the Internal Revenue Code; and
+(C) In the case of a taxpayer maintaining an international banking facility as defined in the laws of the United States or the regulations of the Board of Governors of the Federal Reserve System, as either may be amended from time to time, the gross income attributable to the international banking facility, provided no expense or loss attributable to the international banking facility shall be a deduction under any provision of this section; and
+(D) Additionally, in the case of all taxpayers, all dividends as defined in the Internal Revenue Code effective and in force on the last day of the income year not otherwise deducted from gross income, including dividends received from a DISC or former DISC as defined in Section 992 of the Internal Revenue Code and dividends deemed to have been distributed by a DISC or former DISC as provided in Section 995 of said Internal Revenue Code, other than thirty per cent of dividends received from a domestic corporation in which the taxpayer owns less than twenty per cent of the total voting power and value of the stock of such corporation; and
+(E) Additionally, in the case of all taxpayers, the value of any capital gain realized from the sale of any land, or interest in land, to the state, any political subdivision of the state, or to any nonprofit land conservation organization where such land is to be permanently preserved as protected open space or to a water company, as defined in section25-32a, where such land is to be permanently preserved as protected open space or as Class I or Class II water company land; and
+(F) In the case of a manufacturer, the amount of any contribution to a manufacturing reinvestment account established pursuant to section32-9zzin the income year that such contribution is made to the ex</p>
+            </content>
+          </subsection>
+          <subsection eId="12_217__subsec_b">
+            <num>(b)</num>
+            <paragraph eId="12_217__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>of the Internal Revenue Code; and
+(H) In the case of a taxpayer licensed under the provisions of chapter 420f or 420h, the amount of ordinary and necessary expenses that would be eligible to be claimed as a deduction for federal income tax purposes under Section 162</p>
+              </content>
+              <subparagraph eId="12_217__subsec_b__subsec_2__subsec_H">
+                <num>(H)</num>
+                <content>
+                  <p>In the case of a taxpayer licensed under the provisions of chapter 420f or 420h, the amount of ordinary and necessary expenses that would be eligible to be claimed as a deduction for federal income tax purposes under Section 162</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_217__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of the Internal Revenue Code but that are disallowed under Section 280E of the Internal Revenue Code because marijuana is a controlled substance under the federal Controlled Substance Act.</p>
+            </content>
+            <paragraph eId="12_217__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>(A) No deduction shall be allowed for</p>
+              </content>
+              <subparagraph eId="12_217__subsec_a__subsec_2__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>No deduction shall be allowed for</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_217__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>expenses related to dividends that are allowable as a deduction or credit under the Internal Revenue Code, and (ii) federal taxes on income or profits, losses of other calendar or fiscal years, retroactive to include all calendar or fiscal years beginning after January 1, 1935, interest received from federal, state and local government securities, if any such deductions are allowed by the federal government.
+(B) For purposes of this subdivision, expenses related to dividends shall equal five per cent of all dividends received by a company during an income year. The net income associated with the disallowance of expenses related to dividends shall be apportioned, if the company conducts business within and without the state or is required to apportion its income under section12-218b, in accordance with this chapter.</p>
+            </content>
+            <paragraph eId="12_217__subsec_i__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>Notwithstanding any provision of this section to the contrary, no dividend received from a real estate investment trust shall be deductible under this section by the recipient unless the dividend is: (A) Deductible under Section 243 of the Internal Revenue Code; (B) received by a qualified dividend recipient from a qualified real estate investment trust and, as of the last day of the period for which such dividend is paid, persons, not including the qualified dividend recipient or any person that is either a related person to, or an employee or director of, the qualified dividend recipient, have outstanding cash capital contributions to the qualified real estate investment trust that, in the aggregate, exceed five per cent of the fair market value of the aggregate real estate assets, valued as of the last day of the period for which such dividend is paid, then held by the qualified real estate investment trust; or (C) received from a captive real estate investment trust that is subject to the tax imposed under this chapter. For purposes of this section, “related person” has the same meaning as provided in section12-217ii, “real estate assets” has the same meaning as provided in Section 856 of the Internal Revenue Code, “qualified dividend recipient” means a dividend recipient who has invested in a qualified real estate investment trust prior to April 1, 1997, and “qualified real estate investment trust” means an entity that both was incorporated and had contributed to it a minimum of five hundred million dollars' worth of real estate assets prior to April 1, 1997, and that elects to be a real estate investment trust under Section 856 of the Internal Revenue Code prior to April 1, 1998.</p>
+              </content>
+              <subparagraph eId="12_217__subsec_i__subsec_3__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>Deductible under Section 243 of the Internal Revenue Code;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_217__subsec_i__subsec_3__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>received by a qualified dividend recipient from a qualified real estate investment trust and, as of the last day of the period for which such dividend is paid, persons, not including the qualified dividend recipient or any person that is either a related person to, or an employee or director of, the qualified dividend recipient, have outstanding cash capital contributions to the qualified real estate investment trust that, in the aggregate, exceed five per cent of the fair market value of the aggregate real estate assets, valued as of the last day of the period for which such dividend is paid, then held by the qualified real estate investment trust; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_217__subsec_i__subsec_3__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>received from a captive real estate investment trust that is subject to the tax imposed under this chapter. For purposes of this section, “related person” has the same meaning as provided in section12-217ii, “real estate assets” has the same meaning as provided in Section 856 of the Internal Revenue Code, “qualified dividend recipient” means a dividend recipient who has invested in a qualified real estate investment trust prior to April 1, 1997, and “qualified real estate investment trust” means an entity that both was incorporated and had contributed to it a minimum of five hundred million dollars' worth of real estate assets prior to April 1, 1997, and that elects to be a real estate investment trust under Section 856 of the Internal Revenue Code prior to April 1, 1998.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_217__subsec_i__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>Notwithstanding any provision of this section:
+(A) Any excess of the deductions provided in this section for any income year commencing on or after January 1, 1973, over the gross income for such year or the amount of such excess apportioned to this state under the provisions of this chapter, shall be an operating loss of such income year and shall be deductible as an operating loss carry-over for operating losses incurred prior to income years commencing January 1, 2000, in each of the five income years following such loss year; for operating losses incurred in income years commencing on or after January 1, 2000, and prior to January 1, 2025, in each of the twenty income years following such loss year; and for operating losses incurred in income years commencing on or after January 1, 2025, in each of the thirty income years following such loss year; except that:</p>
+              </content>
+              <subparagraph eId="12_217__subsec_i__subsec_4__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>Any excess of the deductions provided in this section for any income year commencing on or after January 1, 1973, over the gross income for such year or the amount of such excess apportioned to this state under the provisions of this chapter, shall be an operating loss of such income year and shall be deductible as an operating loss carry-over for operating losses incurred prior to income years commencing January 1, 2000, in each of the five income years following such loss year; for operating losses incurred in income years commencing on or after January 1, 2000, and prior to January 1, 2025, in each of the twenty income years following such loss year; and for operating losses incurred in income years commencing on or after January 1, 2025, in each of the thirty income years following such loss year; except that:</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_217__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>For income years commencing prior to January 1, 2015, the portion of such operating loss that may be deducted as an operating loss carry-over in any income year following such loss year shall be limited to the lesser of (I) any net income greater than zero of such income year following such loss year, or in the case of a company entitled to apportion its net income under the provisions of this chapter, the amount of such net income that is apportioned to this state pursuant thereto, or (II) the excess, if any, of such operating loss over the total of such net income for each of any prior income years following such loss year, such net income of each of such prior income years following such loss year for such purposes being computed without regard to any operating loss carry-over from such loss year allowed under this subparagraph and being regarded as not less than zero, and provided further the operating loss of any income year shall be deducted in any subsequent year, to the extent available for such deduction, before the operating loss of any subsequent income year is deducted;
+(ii) For income years commencing on or after January 1, 2015, the portion of such operating loss that may be deducted as an operating loss carry-over in any income year following such loss year shall be limited to the lesser of (I) fifty per cent of net income of such income year following such loss year, or in the case of a company entitled to apportion its net income under the provisions of this chapter, fifty per cent of such net income that is apportioned to this state pursuant thereto, or (II) the excess, if any, of such operating loss over the operating loss deductions allowable with respect to such operating loss under this subparagraph for each of any prior income years following such loss year, such net income of each of such prior income years following such loss year for such purposes being computed without regard to any operating loss carry-over from such loss year allowed und</p>
+            </content>
+            <paragraph eId="12_217__subsec_i__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>This section shall not apply to a life insurance company as defined in the Internal Revenue Code effective and in force on the last day of the income year. For purposes of this section, the unpaid loss reserve adjustment required for nonlife insurance companies under the provisions of Section 832</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_217__subsec_b">
+            <num>(b)</num>
+            <paragraph eId="12_217__subsec_b__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>of the Internal Revenue Code of 1986, or any subsequent corresponding internal revenue code of the United States, as from time to time amended, shall be applied without making the adjustment in Subparagraph (B) of said Section 832</p>
+              </content>
+              <subparagraph eId="12_217__subsec_b__subsec_5__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>of said Section 832</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_217__subsec_b">
+            <num>(b)</num>
+            <paragraph eId="12_217__subsec_b__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_217__subsec_b__subsec_6">
+              <num>(6)</num>
+              <content>
+                <p>For purposes of determining net income under this section for income years commencing on or after January 1, 2018, the deduction allowed for business interest paid or accrued shall be determined as provided under the Internal Revenue Code, except that in making such determination, the provisions of Section 163</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_217__subsec_j">
+            <num>(j)</num>
+            <content>
+              <p>shall not apply.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_217__subsec_b">
+            <num>(b)</num>
+            <paragraph eId="12_217__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>For purposes of determining net income under this section, the deduction allowed for depreciation shall be determined as provided under the Internal Revenue Code of 1986, or any subsequent corresponding internal revenue code of the United States, as from time to time amended, provided in making such determination, the provisions of Section 168</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_217__subsec_k">
+            <num>(k)</num>
+            <content>
+              <p>of said code shall not apply.</p>
+            </content>
+            <paragraph eId="12_217__subsec_k__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>(A) For purposes of determining net income under this section for taxable years ending after December 31, 2008, and to the extent any income from the discharge of indebtedness, under Section 108 of the Internal Revenue Code, as amended by Section 1231 of the American Recovery and Reinvestment Act of 2009, in connection with any reacquisition, after December 31, 2008, and before January 1, 2011, of an applicable debt instrument or instruments, as those terms are defined in said Section 108, as amended by said Section 1231, is not properly includable in gross income for federal income tax purposes for the taxable year, any deferral of the recognition of any such income shall not be allowed.
+(B) To the extent that any income from the discharge of indebtedness in connection with any reacquisition, after December 31, 2008, and before January 1, 2011, of an applicable debt instrument or instruments, as those terms are defined in Section 108 of the Internal Revenue Code, as amended by Section 1231 of the American Recovery and Reinvestment Act of 2009, is properly includable in gross income for federal income tax purposes for the taxable year, any such income shall be deductible in computing net income under this section for a taxable year ending after December 31, 2008, to the extent that the deferral of recognition of such income from such discharge was not allowed pursuant to subparagraph (A) of this subdivision in computing net income for a preceding taxable year.
+(C) For income years commencing on or after January 1, 2018, eighty per cent of any deduction claimed under Section 179 of the Internal Revenue Code for federal income tax purposes shall be disallowed. To the extent such a deduction is disallowed for purposes of computing the tax under this chapter, twenty-five per cent of the disallowed portion of the deduction shall be allowed as a deduction in each of the four succeeding income years.</p>
+              </content>
+              <subparagraph eId="12_217__subsec_k__subsec_2__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>For purposes of determining net income under this section for taxable years ending after December 31, 2008, and to the extent any income from the discharge of indebtedness, under Section 108 of the Internal Revenue Code, as amended by Section 1231 of the American Recovery and Reinvestment Act of 2009, in connection with any reacquisition, after December 31, 2008, and before January 1, 2011, of an applicable debt instrument or instruments, as those terms are defined in said Section 108, as amended by said Section 1231, is not properly includable in gross income for federal income tax purposes for the taxable year, any deferral of the recognition of any such income shall not be allowed.</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_217__subsec_k__subsec_2__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>To the extent that any income from the discharge of indebtedness in connection with any reacquisition, after December 31, 2008, and before January 1, 2011, of an applicable debt instrument or instruments, as those terms are defined in Section 108 of the Internal Revenue Code, as amended by Section 1231 of the American Recovery and Reinvestment Act of 2009, is properly includable in gross income for federal income tax purposes for the taxable year, any such income shall be deductible in computing net income under this section for a taxable year ending after December 31, 2008, to the extent that the deferral of recognition of such income from such discharge was not allowed pursuant to subparagraph</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_217__subsec_k__subsec_2__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>of this subdivision in computing net income for a preceding taxable year.</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_217__subsec_k__subsec_2__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>For income years commencing on or after January 1, 2018, eighty per cent of any deduction claimed under Section 179 of the Internal Revenue Code for federal income tax purposes shall be disallowed. To the extent such a deduction is disallowed for purposes of computing the tax under this chapter, twenty-five per cent of the disallowed portion of the deduction shall be allowed as a deduction in each of the four succeeding income years.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_217__subsec_c">
+            <num>(c)</num>
+            <paragraph eId="12_217__subsec_c__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>Notwithstanding the provisions of subsections</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_217__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>and</p>
+            </content>
+          </subsection>
+          <subsection eId="12_217__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section, “net income”, in the case of an S corporation, means the percentage of the nonseparately computed income or loss, as defined in Section 1366</p>
+            </content>
+          </subsection>
+          <subsection eId="12_217__subsec_a">
+            <num>(a)</num>
+            <paragraph eId="12_217__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>of the Internal Revenue Code, of such S corporation, without separate state adjustment pursuant to section12-233or12-226afor the compensation of any officer or employee, to which shall be added (A) any taxes imposed under the provisions of this chapter that are paid or accrued in the income year, and (B) any taxes in any state of the United States or any political subdivision of such state, or the District of Columbia, imposed on or measured by the income or profits of a corporation that are paid or accrued in the income year as provided in subdivision</p>
+              </content>
+              <subparagraph eId="12_217__subsec_a__subsec_2__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>any taxes imposed under the provisions of this chapter that are paid or accrued in the income year, and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_217__subsec_a__subsec_2__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>any taxes in any state of the United States or any political subdivision of such state, or the District of Columbia, imposed on or measured by the income or profits of a corporation that are paid or accrued in the income year as provided in subdivision</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_217__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>of this subsection.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_217__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>For income years commencing prior to January 1, 1997, “net income” means one hundred per cent of the amount computed under subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_217__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>of this subsection; for income years commencing on or after January 1, 1997, and prior to January 1, 1998, “net income” means ninety per cent of the amount computed under subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_217__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>of this subsection; for income years commencing on or after January 1, 1998, and prior to January 1, 1999, “net income” means seventy-five per cent of the amount computed under subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_217__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>of this subsection; for income years commencing on or after January 1, 1999, and prior to January 1, 2000, “net income” means fifty-five per cent of the amount computed under subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_217__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>of this subsection; for income years commencing on or after January 1, 2000, and prior to January 1, 2001, “net income” means thirty per cent of the amount computed under subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_217__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>of this subsection; for income years commencing on or after January 1, 2001, net income of S corporations as computed under subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_217__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>of this subsection shall not be subject to the tax under this chapter. Any S corporation subject to the tax on net income as provided in this section shall be eligible for any credit against the tax otherwise available to taxpayers under this chapter only to the extent and in the same percentage as net income of such S corporation is subject to taxation under this chapter, except that any S corporation with an income year commencing on or after January 1, 1999, but before December 31, 2000, shall be eligible for the entire credit available under sections8-395,12-633,12-634,12-635and12-635a.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_217__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>The commissioner may adopt regulations in accordance with chapter 54, relating to mergers or consolidations of corporations providing for the deduction, by the surviving or new corporation provided for in the plan of consolidation, of operating losses that were incurred by a merging or consolidating corporation, respectively, before the merger or consolidation, respectively. Such regulations may follow the provisions of the Internal Revenue Code of 1986, or any subsequent corresponding internal revenue code of the United States, as from time to time amended, or the regulations thereunder.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_217__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>Where a combined group is required to file a combined unitary tax return pursuant to section12-222, the combined group's net income shall be computed as provided in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_217__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of section12-218e.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_217__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>Where a combined group is required to file a combined unitary tax return pursuant to section12-222, a taxable member's net operating loss apportioned to this state shall be deducted and carried over by the taxable member as provided in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_217__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>of section12-218e.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

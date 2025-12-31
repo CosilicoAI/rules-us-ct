@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-30"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-30"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-30"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-30/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-30/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-30/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-30/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_201">
+        <num>201</num>
+        <heading>State and Local Revenue Services. Department of Revenue Services</heading>
+        <section eId="sec_12_30">
+          <num>12-30</num>
+          <heading>Penalty for failure to file return within time allowed in relation to an extension of time for filing</heading>
+          <content>
+            <p>Sec. 12-30. Penalty for failure to file return within time allowed in relation to an extension of time for filing.If the Commissioner of Revenue Services determines that any statute or regulation the commissioner is charged with enforcing is being adversely affected, the commissioner may impose a penalty of fifty dollars in case of a failure to file any return or report that is required by law or regulation to be filed with the commissioner on or before the date prescribed therefor, which failure is determined with regard to any extension of time for filing. The commissioner may, upon application, if it is proven to the commissioner's satisfaction that such failure is due to reasonable cause and is not due to negligence or intentional disregard of any provision of law or regulation, waive all or any part of such penalty. No taxpayer shall be subject to such penalty in relation to any tax period for which such taxpayer is subject to a penalty for late payment of a tax or to an additional amount being added to the tax imposed based on a failure to file. If the commissioner does not, upon application, waive all or any part of such penalty, any person aggrieved by such action of the commissioner may, not later than thirty days after notice of such action is mailed or delivered to such person, appeal therefrom to the superior court for the judicial district of Hartford. The appeal shall be accompanied by a citation to the commissioner to appear before said court. Such citation shall be signed by the same authority, and such appeal shall be returnable at the same time and served and returned in the same manner as is required in case of a summons in a civil action. The authority issuing the citation shall take from the appellant a bond or recognizance to the state of Connecticut with surety to prosecute the appeal to effect and to comply with the orders and decrees of the court in the premises. Such appeals shall be preferred cases, to be heard, unless cause appears to the contrary, at the first session, by the court or by a committee appointed by it. Said court may grant such relief as may be equitable. If the appeal is without probable cause, the court may tax double or triple costs, as the case demands; and, upon all such appeals which may be denied, costs may be taxed against the appellant at the discretion of the court, but no costs shall be taxed against the state.
+See Sec. 12-268d re penalty assessed against certain public service companies and utilities for failure to pay taxes when due.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

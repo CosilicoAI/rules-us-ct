@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-137a"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-137a"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17b-137a"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-137a/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-137a/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-137a/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-137a/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319s">
+        <num>319s</num>
+        <heading>Connecticut Partnership for Long-Term Care</heading>
+        <section eId="sec_17b_137a">
+          <num>17b-137a</num>
+          <heading>Social Security number to be recorded on license applications, certain documents and death certificate. Confidentiality</heading>
+          <subsection eId="17b_137a__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The Social Security number of the applicant shall be recorded on each</p>
+            </content>
+            <paragraph eId="17b_137a__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>application for a license, certification or permit to engage in a profession or occupation regulated pursuant to the provisions of title 19a, 20 or 21;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_137a__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>application for a commercial driver's license or commercial learner's permit completed pursuant to subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_137a__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of section14-44c; and</p>
+            </content>
+            <paragraph eId="17b_137a__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>application for a marriage license made under section46b-25.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_137a__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The Social Security number of any individual who is subject to a dissolution of marriage decree, dissolution of civil union decree, support order or parentage determination or acknowledgment shall be placed in the records relating to the matter.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_137a__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The Social Security number of the deceased person shall be recorded on each death certificate completed in accordance with subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_137a__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of section7-62b.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_137a__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Any Social Security number of any individual on any record or document required pursuant to this section shall not be disclosed except as provided under section17b-137.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

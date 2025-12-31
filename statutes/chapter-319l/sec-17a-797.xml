@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-797"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-797"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17a-797"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-797/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-797/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-797/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-797/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319l">
+        <num>319l</num>
+        <heading>Nursing Home Financial Assistance</heading>
+        <section eId="sec_17a_797">
+          <num>17a-797</num>
+          <heading>(Formerly Sec. 17b-657). Duties of Department of Aging and Disability Services regarding medical, diagnostic, physical restoration training and other rehabilitation services</heading>
+          <content>
+            <p>Sec. 17a-797. (Formerly Sec. 17b-657). Duties of Department of Aging and Disability Services regarding medical, diagnostic, physical restoration training and other rehabilitation services.The Department of Aging and Disability Services is authorized to provide such medical, diagnostic, physical restoration, training and other rehabilitation services as may be needed to enable persons with disabilities to attain the maximum degree of self care. The powers herein delegated and authorized to the Department of Aging and Disability Services shall be in addition to those authorized by any other law and shall become effective upon authorization of federal grant-in-aid funds for participation in the cost of independent living rehabilitation services for persons with disabilities. The Department of Aging and Disability Services shall be authorized to cooperate with whatever federal agency is directed to administer the federal aspects of such program and to comply with such requirements and conditions as may be established for the receipt and disbursement of federal grant-in-aid funds which may be made available to the state of Connecticut in carrying out such program.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

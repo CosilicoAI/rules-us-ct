@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-29"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-29"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17b-29"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-29/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-29/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-29/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-29/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319o">
+        <num>319o</num>
+        <heading>Personal Care Assistance</heading>
+        <section eId="sec_17b_29">
+          <num>17b-29</num>
+          <heading>Council to monitor implementation of temporary family assistance program and the employment services program. Appointments. Reports</heading>
+          <subsection eId="17b_29__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>There is established a council to monitor the implementation of the temporary family assistance program and the employment services program. The council shall be composed of the chairmen and ranking members of the joint standing committee of the General Assembly having cognizance of matters relating to human services, or their designees, the chairmen and ranking members of the joint standing committee of the General Assembly having cognizance of matters relating to labor, or their designees, one child care provider and one expert on child support enforcement, to be appointed by the president pro tempore of the Senate; one representative of advocacy groups, to be appointed by the majority leader of the Senate; two education and training specialists, one experienced in job training and one experienced in basic adult education, one to be appointed by the minority leader of the Senate and one to be appointed by the minority leader of the House of Representatives; one member of the public who is a current recipient of benefits under the temporary family assistance program, to be appointed by speaker of the House of Representatives; and two members, one experienced in higher education programs and one experienced in teenage pregnancy issues, to be appointed by the majority leader of the House of Representatives. The council shall elect a chairperson from among its members. The council shall convene its first meeting not later than September 1, 1997.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_29__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Beginning September 1, 1997, at meetings scheduled by the council, the Commissioner of Social Services and the Labor Commissioner shall update the council on the implementation of the temporary family assistance program and the employment services program. The council shall submit recommendations to the department regarding, but not limited to, the availability of quality child care and the provision of seamless child care services, procedures for informing parents and teenagers about family planning and pregnancy prevention, client education regarding their rights and responsibilities, the effectiveness of child support enforcement, the effect of reduced exemptions, time limits and increased sanctions, the coordination with Medicaid and health care reform measures and the fiscal impact of these program changes.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_29__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>On January 1, 1998, and quarterly thereafter, the council shall submit a report to the General Assembly on the implementation of the temporary family assistance program and the employment services program.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-59a"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-59a"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17b-59a"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-59a/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-59a/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-59a/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-59a/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319o">
+        <num>319o</num>
+        <heading>Personal Care Assistance</heading>
+        <section eId="sec_17b_59a">
+          <num>17b-59a</num>
+          <heading>(Formerly Sec. 4-60i). Development of uniform information and technology standards. Health information technology plan. Electronic data standards. State-wide Health Information Exchange. Report</heading>
+          <subsection eId="17b_59a__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>As used in this section:</p>
+            </content>
+            <paragraph eId="17b_59a__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>“Electronic health information system” means an information processing system, involving both computer hardware and software that deals with the storage, retrieval, sharing and use of health care information, data and knowledge for communication and decision making, and includes: (A) An electronic health record that provides access in real time to a patient's complete medical record; (B) a personal health record through which an individual, and anyone authorized by such individual, can maintain and manage such individual's health information; (C) computerized order entry technology that permits a health care provider to order diagnostic and treatment services, including prescription drugs electronically; (D) electronic alerts and reminders to health care providers to improve compliance with best practices, promote regular screenings and other preventive practices, and facilitate diagnoses and treatments; (E) error notification procedures that generate a warning if an order is entered that is likely to lead to a significant adverse outcome for a patient; and (F) tools to allow for the collection, analysis and reporting of data on adverse events, near misses, the quality and efficiency of care, patient satisfaction and other healthcare-related performance measures.</p>
+              </content>
+              <subparagraph eId="17b_59a__subsec_a__subsec_1__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>An electronic health record that provides access in real time to a patient's complete medical record;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17b_59a__subsec_a__subsec_1__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>a personal health record through which an individual, and anyone authorized by such individual, can maintain and manage such individual's health information;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17b_59a__subsec_a__subsec_1__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>computerized order entry technology that permits a health care provider to order diagnostic and treatment services, including prescription drugs electronically;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17b_59a__subsec_a__subsec_1__subsec_D">
+                <num>(D)</num>
+                <content>
+                  <p>electronic alerts and reminders to health care providers to improve compliance with best practices, promote regular screenings and other preventive practices, and facilitate diagnoses and treatments;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17b_59a__subsec_a__subsec_1__subsec_E">
+                <num>(E)</num>
+                <content>
+                  <p>error notification procedures that generate a warning if an order is entered that is likely to lead to a significant adverse outcome for a patient; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17b_59a__subsec_a__subsec_1__subsec_F">
+                <num>(F)</num>
+                <content>
+                  <p>tools to allow for the collection, analysis and reporting of data on adverse events, near misses, the quality and efficiency of care, patient satisfaction and other healthcare-related performance measures.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="17b_59a__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>“Interoperability” means the ability of two or more systems or components to exchange information and to use the information that has been exchanged and includes: (A) The capacity to physically connect to a network for the purpose of exchanging data with other users; and (B) the capacity of a connected user to access, transmit, receive and exchange usable information with other users.</p>
+              </content>
+              <subparagraph eId="17b_59a__subsec_a__subsec_2__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>The capacity to physically connect to a network for the purpose of exchanging data with other users; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17b_59a__subsec_a__subsec_2__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>the capacity of a connected user to access, transmit, receive and exchange usable information with other users.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="17b_59a__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>“Standard electronic format” means a format using open electronic standards that: (A) Enable health information technology to be used for the collection of clinically specific data; (B) promote the interoperability of health care information across health care settings, including reporting to local, state and federal agencies; and (C) facilitate clinical decision support.</p>
+              </content>
+              <subparagraph eId="17b_59a__subsec_a__subsec_3__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>Enable health information technology to be used for the collection of clinically specific data;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17b_59a__subsec_a__subsec_3__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>promote the interoperability of health care information across health care settings, including reporting to local, state and federal agencies; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17b_59a__subsec_a__subsec_3__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>facilitate clinical decision support.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_59a__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The Commissioner of Social Services, in consultation with the Commissioner of Health Strategy, shall</p>
+            </content>
+            <paragraph eId="17b_59a__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>develop, throughout the Departments of Developmental Services, Public Health, Correction, Children and Families, Veterans Affairs and Mental Health and Addiction Services, uniform management information, uniform statistical information, uniform terminology for similar facilities, and uniform electronic health information technology standards,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_59a__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>plan for increased participation of the private sector in the delivery of human services, and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_59a__subsec_b__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>provide direction and coordination to federally funded programs in the human services agencies and recommend uniform system improvements and reallocation of physical resources and designation of a single responsibility across human services agencies lines to facilitate shared services and eliminate duplication.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_59a__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The Commissioner of Health Strategy shall, in consultation with the Commissioner of Social Services and the State Health Information Technology Advisory Council, established pursuant to section17b-59f, implement and periodically revise the state-wide health information technology plan established pursuant to this section and shall establish electronic data standards to facilitate the development of integrated electronic health information systems for use by health care providers and institutions that receive state funding. Such electronic data standards shall:</p>
+            </content>
+            <paragraph eId="17b_59a__subsec_c__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>Include provisions relating to security, privacy, data content, structures and format, vocabulary and transmission protocols;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_59a__subsec_c__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>limit the use and dissemination of an individual's Social Security number and require the encryption of any Social Security number provided by an individual;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_59a__subsec_c__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>require privacy standards no less stringent than the “Standards for Privacy of Individually Identifiable Health Information” established under the Health Insurance Portability and Accountability Act of 1996, P.L. 104-191, as amended from time to time, and contained in 45 CFR 160, 164;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_59a__subsec_c__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>require that individually identifiable health information be secure and that access to such information be traceable by an electronic audit trail;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_59a__subsec_c__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>be compatible with any national data standards in order to allow for interstate interoperability;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_59a__subsec_c__subsec_6">
+              <num>(6)</num>
+              <content>
+                <p>permit the collection of health information in a standard electronic format; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_59a__subsec_c__subsec_7">
+              <num>(7)</num>
+              <content>
+                <p>be compatible with the requirements for an electronic health information system.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_59a__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>The Commissioner of Health Strategy shall, within existing resources and in consultation with the State Health Information Technology Advisory Council:</p>
+            </content>
+            <paragraph eId="17b_59a__subsec_d__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>Oversee the development and implementation of the State-wide Health Information Exchange in conformance with section17b-59d;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_59a__subsec_d__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>coordinate the state's health information technology and health information exchange efforts to ensure consistent and collaborative cross-agency planning and implementation; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_59a__subsec_d__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>serve as the state liaison to, and work collaboratively with, the State-wide Health Information Exchange established pursuant to section17b-59dto ensure consistency between the state-wide health information technology plan and the State-wide Health Information Exchange and to support the state's health information technology and exchange goals.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_59a__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>The state-wide health information technology plan, implemented and periodically revised pursuant to subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_59a__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of this section, shall enhance interoperability to support optimal health outcomes and include, but not be limited to</p>
+            </content>
+            <paragraph eId="17b_59a__subsec_c__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>general standards and protocols for health information exchange, and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_59a__subsec_c__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>national data standards to support secure data exchange data standards to facilitate the development of a state-wide, integrated electronic health information system for use by health care providers and institutions that are licensed by the state. Such electronic data standards shall (A) include provisions relating to security, privacy, data content, structures and format, vocabulary and transmission protocols, (B) be compatible with any national data standards in order to allow for interstate interoperability, (C) permit the collection of health information in a standard electronic format, and (D) be compatible with the requirements for an electronic health information system.</p>
+              </content>
+              <subparagraph eId="17b_59a__subsec_c__subsec_2__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>include provisions relating to security, privacy, data content, structures and format, vocabulary and transmission protocols,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17b_59a__subsec_c__subsec_2__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>be compatible with any national data standards in order to allow for interstate interoperability,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17b_59a__subsec_c__subsec_2__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>permit the collection of health information in a standard electronic format, and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17b_59a__subsec_c__subsec_2__subsec_D">
+                <num>(D)</num>
+                <content>
+                  <p>be compatible with the requirements for an electronic health information system.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_59a__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>Not later than February 1, 2017, and annually thereafter, the Commissioner of Health Strategy, in consultation with the State Health Information Technology Advisory Council, shall report in accordance with the provisions of section11-4ato the joint standing committees of the General Assembly having cognizance of matters relating to human services and public health concerning:</p>
+            </content>
+            <paragraph eId="17b_59a__subsec_f__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>The development and implementation of the state-wide health information technology plan and data standards, established and implemented by the Commissioner of Health Strategy pursuant to this section;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_59a__subsec_f__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>the establishment of the State-wide Health Information Exchange; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_59a__subsec_f__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>recommendations for policy, regulatory and legislative changes and other initiatives to promote the state's health information technology and exchange goals.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

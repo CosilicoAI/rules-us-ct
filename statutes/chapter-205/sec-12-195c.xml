@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-195c"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-195c"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-195c"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-195c/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-195c/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-195c/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-195c/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_205">
+        <num>205</num>
+        <heading>Tax Liens</heading>
+        <section eId="sec_12_195c">
+          <num>12-195c</num>
+          <heading>Notice of lien</heading>
+          <subsection eId="12_195c__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>the owner of the property upon which the lien is claimed,</p>
+            </content>
+          </subsection>
+          <subsection eId="12_195c__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>the residence or business address of such owner,</p>
+            </content>
+          </subsection>
+          <subsection eId="12_195c__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>the specific property claimed to be subject to such lien,</p>
+            </content>
+          </subsection>
+          <subsection eId="12_195c__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>the location of such property,</p>
+            </content>
+          </subsection>
+          <subsection eId="12_195c__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>the amount of tax and accrued interest claimed due the municipality by said lien,</p>
+            </content>
+          </subsection>
+          <subsection eId="12_195c__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>the tax year or years for which such lien is claimed, and</p>
+            </content>
+          </subsection>
+          <subsection eId="12_195c__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>the municipality claiming the lien.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

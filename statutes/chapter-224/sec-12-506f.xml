@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-506f"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-506f"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-506f"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-506f/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-506f/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-506f/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-506f/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_224">
+        <num>224</num>
+        <heading>Community Revitalization and Investment</heading>
+        <section eId="sec_12_506f">
+          <num>12-506f</num>
+          <heading>Exemption of capital gain from sale of residence by persons sixty-five years of age or over</heading>
+          <subsection eId="12_506f__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>either of such spouses or both, or said other person, had attained the age of sixty-five years on the date of such sale and had owned and used such residence as principal residence for at least five years of the eight years immediately preceding the date of such sale and,</p>
+            </content>
+          </subsection>
+          <subsection eId="12_506f__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>said gain is the first such gain for such taxpayer with respect to the sale of such a residence on or after January 1, 1974. If the exemption provided for in this section is availed of by a taxpayer in or for any taxable year, no such exemption shall be allowed with respect to such taxpayer or a spouse thereof in any subsequent taxable year. For the purposes of this section, the word “sale” means a “sale”, “exchange”, “transaction” or “event” through which the taxpayer is divested of all interest in his residence.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

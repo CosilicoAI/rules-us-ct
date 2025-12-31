@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-673b"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-673b"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17a-673b"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-673b/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-673b/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-673b/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-673b/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319j">
+        <num>319j</num>
+        <heading>Health Care For Uninsured Children</heading>
+        <section eId="sec_17a_673b">
+          <num>17a-673b</num>
+          <heading>Peer navigator pilot program serving persons with opioid use disorder. Requirements. Report</heading>
+          <subsection eId="17a_673b__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>As used in this section:</p>
+            </content>
+            <paragraph eId="17a_673b__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>“Commissioner” means the Commissioner of Mental Health and Addiction Services;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_673b__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>“Department” means the Department of Mental Health and Addiction Services;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_673b__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>“Opioid use disorder” means a medical condition characterized by a problematic pattern of opioid use and misuse leading to clinically significant impairment or distress; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_673b__subsec_a__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>“Peer navigator” means a person who (A) has experience working with persons with substance use disorder, as defined in section20-74, (B) provides nonmedical mental health care and substance use services to such persons, and (C) has a collaborative relationship with a health care professional authorized to prescribe medications to treat opioid use disorder.</p>
+              </content>
+              <subparagraph eId="17a_673b__subsec_a__subsec_4__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>has experience working with persons with substance use disorder, as defined in section20-74,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17a_673b__subsec_a__subsec_4__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>provides nonmedical mental health care and substance use services to such persons, and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17a_673b__subsec_a__subsec_4__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>has a collaborative relationship with a health care professional authorized to prescribe medications to treat opioid use disorder.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="17a_673b__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>On or before January 1, 2023, the department shall establish, within available appropriations, a pilot program in urban, suburban and rural communities to serve persons with opioid use disorder in such communities. The department shall establish the pilot program in up to five such communities in accordance with such terms and conditions as the commissioner may prescribe.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_673b__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Each community in which the pilot program is established under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_673b__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section shall form a team of at least two peer navigators. The team shall work in the community to</p>
+            </content>
+            <paragraph eId="17a_673b__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>increase engagement between providers of treatment services, health care and social services and persons with opioid use disorder,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_673b__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>improve the retention of such persons in treatment for opioid use disorder by addressing social determinants of health of such persons and emerging local conditions that affect such social determinants of health, and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_673b__subsec_b__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>increase the capacity of the community to support such persons by identifying and addressing systemic barriers to treatment services, health care, social services and social support of such persons. The team shall (A) travel throughout the community to address, in person, the health care and social needs of persons with opioid use disorder, and (B) be accessible to such persons through</p>
+              </content>
+              <subparagraph eId="17a_673b__subsec_b__subsec_3__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>travel throughout the community to address, in person, the health care and social needs of persons with opioid use disorder, and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17a_673b__subsec_b__subsec_3__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>be accessible to such persons through</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="17a_673b__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>a telephone number that has texting capabilities, and (ii) social media. Each peer navigator that participates in the pilot program shall receive regularly updated training, as determined by the commissioner, on noncoercive and nonstigmatizing methods for engaging those with opioid use disorder.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_673b__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>On or before January 1, 2024, the commissioner shall report, in accordance with the provisions of section11-4a, to the joint standing committee of the General Assembly having cognizance of matters relating to public health regarding the success of the pilot program in serving persons with opioid use disorder and any recommendations for continuing the pilot program or expanding the pilot program into other communities in the state.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

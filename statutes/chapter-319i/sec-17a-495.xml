@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-495"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-495"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17a-495"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-495/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-495/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-495/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-495/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319i">
+        <num>319i</num>
+        <heading>Connecticut HUSKY Plan</heading>
+        <section eId="sec_17a_495">
+          <num>17a-495</num>
+          <heading>(Formerly Sec. 17-176). Definitions</heading>
+          <subsection eId="17a_495__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>For the purposes of sections17a-75to17a-83, inclusive, and17a-615to17a-618, inclusive, the following terms shall have the following meanings: “Business day” means Monday to Friday, inclusive, except when a legal holiday falls on any such day; “hospital for psychiatric disabilities” means any public or private hospital, retreat, institution, house or place in which any mentally ill person is received or detained as a patient, but shall not include any correctional institution of this state; “mentally ill person” means any person who has a mental or emotional condition which has substantial adverse effects on his or her ability to function and who requires care and treatment, and specifically excludes a person who is an alcohol-dependent person or a drug-dependent person, as defined in section17a-680; “patient” means any person detained and taken care of as a mentally ill person; “keeper of a hospital for psychiatric disabilities” means any person, body of persons or corporation which has the immediate superintendence, management and control of a hospital for psychiatric disabilities and the patients therein; “support” includes all necessary food, clothing and medicine and all general expenses of maintaining state hospitals for persons with psychiatric disabilities; “indigent person” means any person who has an estate insufficient, in the judgment of the Court of Probate, to provide for his or her support and has no person or persons legally liable who are able to support him or her; “dangerous to himself or herself or others” means there is a substantial risk that physical harm will be inflicted by an individual upon his or her own person or upon another person, and “gravely disabled” means that a person, as a result of mental or emotional impairment, is in danger of serious harm as a result of an inability or failure to provide for his or her own basic human needs such as essential food, clothing, shelter or safety and that hospital treatment is necessary and availa</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_495__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>For the purposes of this section, sections17a-450to17a-483, inclusive,17a-496to17a-528, inclusive,17a-540to17a-550, inclusive, and17a-560to17a-575, inclusive, the following terms shall have the following meanings: “Business day” means Monday to Friday, inclusive, except when a legal holiday falls on any such day; “hospital for persons with psychiatric disabilities” means any public or private hospital, retreat, institution, house or place in which any person with psychiatric disabilities is received or detained as a patient, but shall not include any correctional institution of this state; “patient” means any person detained and taken care of as a person with psychiatric disabilities; “keeper of a hospital for persons with psychiatric disabilities” means any person, body of persons or corporation which has the immediate superintendence, management and control of a hospital for persons with psychiatric disabilities and the patients therein; “support” includes all necessary food, clothing and medicine and all general expenses of maintaining state hospitals for persons with psychiatric disabilities; “indigent person” means any person who has an estate insufficient, in the judgment of the Court of Probate, to provide for his or her support and has no person or persons legally liable who are able to support him or her; “dangerous to himself or herself or others” means there is a substantial risk that physical harm will be inflicted by an individual upon his or her own person or upon another person; “gravely disabled” means that a person, as a result of mental or emotional impairment, is in danger of serious harm as a result of an inability or failure to provide for his or her own basic human needs such as essential food, clothing, shelter or safety and that hospital treatment is necessary and available and that such person is mentally incapable of determining whether or not to accept such treatment because his judgment is impaired by his psychiatric disabilities; “respon</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_495__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>For the purposes of this section and sections17a-496to17a-528, inclusive, “person with psychiatric disabilities” means any person who has a mental or emotional condition which has substantial adverse effects on his or her ability to function and who requires care and treatment, and specifically excludes a person who is an alcohol-dependent person or a drug-dependent person, as defined in section17a-680.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_495__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>For the purposes of sections17a-453,17a-454,17a-456,17a-458to17a-464, inclusive,17a-466to17a-469, inclusive,17a-471,17a-474,17a-476to17a-483, inclusive,17a-540to17a-550, inclusive,17a-560to17a-575, inclusive, and17a-615to17a-618, inclusive, “person with psychiatric disabilities” means any person who has a mental or emotional condition which has substantial adverse effects on his or her ability to function and who requires care and treatment, and specifically includes a person who is an alcohol-dependent person or a drug-dependent person, as defined in section17a-680.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

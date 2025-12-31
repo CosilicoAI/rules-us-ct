@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-314a"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-314a"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-314a"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-314a/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-314a/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-314a/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-314a/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_214">
+        <num>214</num>
+        <heading>Business Tax Credits</heading>
+        <section eId="sec_12_314a">
+          <num>12-314a</num>
+          <heading>Certain promotional samples authorized</heading>
+          <content>
+            <p>Sec. 12-314a. Certain promotional samples authorized.The Commissioner of Revenue Services may authorize a dealer or distributor to give or deliver a cigarette, as defined in section12-285, or tobacco product, as defined in section12-330a, in connection with the promotion or advertisement of such cigarette or tobacco product without receiving monetary consideration from the person receiving the cigarette or tobacco product, provided (1) such giving or delivery is on the premises of a licensed dealer, as defined in said section, or at any event or establishment with an area the access to which is limited to patrons twenty-one years of age or older, provided such giving or delivery is restricted to such area, (2) the sample of cigarettes, if applicable, contains no less than two cigarettes, (3) the taxes on such cigarettes have been previously paid, and (4) the giving or delivery of the sample is done in accordance with federal laws and regulations governing the giving or delivery of samples of cigarettes and tobacco products. The licensed dealer or distributor shall be liable for any gift or delivery of cigarettes or tobacco products to a person under twenty-one years of age on the premises by any person conducting a promotion or advertisement of such cigarette or tobacco product in accordance with this section. This section shall not apply to the gift or delivery of a cigarette package in connection with a sale of similar package of cigarettes.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

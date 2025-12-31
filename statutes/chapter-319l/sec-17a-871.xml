@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-871"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-871"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17a-871"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-871/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-871/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-871/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-871/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319l">
+        <num>319l</num>
+        <heading>Nursing Home Financial Assistance</heading>
+        <section eId="sec_17a_871">
+          <num>17a-871</num>
+          <heading>(Formerly Sec. 17a-406). Residents' advocates. Appointment, expenses, removal. Use of trained volunteers</heading>
+          <subsection eId="17a_871__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Residents' advocates shall be appointed by the State Ombudsman, in consultation with the regional ombudsmen, for each region in sufficient number to serve the long-term care facilities within such region. Such residents' advocates shall, if possible, be residents of the region in which they will serve, and shall have demonstrated an interest in the care of individuals who reside in long-term care facilities. Residents' advocates shall serve without compensation but may be reimbursed for reasonable expenses incurred in the performance of their duties, within available appropriations.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_871__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The residents' advocates shall be appointed after submission of recommendations from at least two former employers or other nonrelated persons.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_871__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The residents' advocates shall serve for a term of years specified by the State Ombudsman provided a residents' advocate may be removed by the State Ombudsman whenever the State Ombudsman finds such residents' advocate guilty of misconduct, material neglect of duty or incompetence in the conduct of the office or noncompliance with specified requirements of the position.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_871__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Nothing in sections17a-412,17a-413,17a-870to17a-880, inclusive,19a-523,19a-524,19a-530,19a-531,19a-532and19a-554shall be construed to preclude the use of additional trained volunteers when it is deemed necessary to assist the State Ombudsman, regional ombudsmen or the residents' advocates.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_871__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>Until such time as residents' advocates are appointed in accordance with the provisions of sections17a-412,17a-413,17a-870to17a-880, inclusive,19a-523,19a-524,19a-530,19a-531,19a-532and19a-554, those residents' advocates previously appointed shall continue to perform their assigned duties and responsibilities.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

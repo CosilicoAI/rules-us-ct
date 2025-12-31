@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-107c"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-107c"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-107c"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-107c/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-107c/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-107c/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-107c/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_203">
+        <num>203</num>
+        <heading>Property Tax Assessment</heading>
+        <section eId="sec_12_107c">
+          <num>12-107c</num>
+          <heading>Classification of land as farm land</heading>
+          <subsection eId="12_107c__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>An owner of land may apply for its classification as farm land on any grand list of a municipality by filing a written application for such classification with the assessor thereof not earlier than thirty days before or later than thirty days after the assessment date, provided in a year in which a revaluation of all real property in accordance with section12-62becomes effective such application may be filed not later than ninety days after such assessment date. The assessor shall determine whether such land is farm land and, if such assessor determines that it is farm land, he or she shall classify and include it as such on the grand list. In determining whether such land is farm land, such assessor shall take into account, among other things, the acreage of such land, the portion thereof in actual use for farming or agricultural operations, the productivity of such land, the gross income derived therefrom, the nature and value of the equipment used in connection therewith, and the extent to which the tracts comprising such land are contiguous, provided any advisory opinion issued by the Commissioner of Agriculture pursuant to section22-4c, stating that such land constitutes farm land, shall be prima facie evidence that such land is classified as farm land for purposes of this section. The assessor shall not deny the application of an owner of land for classification of such land as farm land if such land meets the criteria for classification as farm land pursuant to this subsection. The assessor shall not deny the application for any portion of such land on account of any minimum acreage requirement for residential parcels or agricultural use established under municipal zoning regulations.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_107c__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>An application for classification of land as farm land shall be made upon a form prescribed by the Commissioner of Agriculture and shall set forth a description of the land, a general description of the use to which it is being put, a statement of the potential liability for tax under the provisions of sections12-504ato12-504f, inclusive, and such other information as the assessor may require to aid the assessor in determining whether such land qualifies for such classification.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_107c__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Failure to file an application for classification of land as farm land within the time limit prescribed in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_107c__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>and in the manner and form prescribed in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_107c__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>shall be considered a waiver of the right to such classification on such assessment list.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_107c__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Any person aggrieved by the denial of any application for the classification of land as farm land shall have the same rights and remedies for appeal and relief as are provided in the general statutes for taxpayers claiming to be aggrieved by the doings of assessors or boards of assessment appeals.
+See Sec. 12-63 re rule of valuation.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

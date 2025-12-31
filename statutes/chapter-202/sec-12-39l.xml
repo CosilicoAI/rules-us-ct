@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-39l"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-39l"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-39l"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-39l/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-39l/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-39l/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-39l/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_202">
+        <num>202</num>
+        <heading>Collection of State Taxes</heading>
+        <section eId="sec_12_39l">
+          <num>12-39l</num>
+          <heading>Tax appeals. Definition. Appointment of judges to hear tax appeals by Chief Court Administrator</heading>
+          <subsection eId="12_39l__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Except as otherwise provided by statute, “tax appeal” means an appeal from an order, decision, determination or disallowance of the Commissioner of Revenue Services; an appeal that may be taken from a decree of a court of probate under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_39l__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of section12-359, subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_39l__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of section12-367or under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_39l__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of section12-395; an appeal from any order, decision, determination or disallowance of the Secretary of the Office of Policy and Management pursuant to sections12-242ggto12-242nn, inclusive; and an appeal that may be taken from a decision of the Penalty Review Committee under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_39l__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>of section12-3a.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_39l__subsec_b">
+            <num>(b)</num>
+            <heading>The Chief Court Administrator shall appoint two judges of the Superior Court to hear tax appeals</heading>
+            <content>
+              <p>If practicable, the judges shall hear the appeals for not less than eighteen months. The appeals may be heard at the judicial district that the Chief Court Administrator deems appropriate.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_39l__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The Chief Court Administrator shall adopt the policies and procedures necessary to implement the provisions of this section.
+See Sec. 8-132 re referral of application re statement of compensation to a judge appointed to hear tax appeals.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-221a"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-221a"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-221a"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-221a/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-221a/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-221a/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-221a/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_208">
+        <num>208</num>
+        <heading>Estate Taxes</heading>
+        <section eId="sec_12_221a">
+          <num>12-221a</num>
+          <heading>Petition for alternative method of apportionment. Regulations</heading>
+          <subsection eId="12_221a__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>If the method of apportionment prescribed in sections12-218,12-218aand12-219a, as administered by the Commissioner of Revenue Services and applied to the business of any company, unfairly attributes to this state an undue proportion of its net income or minimum tax base, such company may petition for an alternate method of apportionment by filing with its return to the commissioner a statement of its objections and of such other proposed method of apportionment as it believes proper and equitable under the circumstances, accompanied by supporting details and proofs. The commissioner, within a reasonable time thereafter, shall notify the company whether the proposed method is accepted as reasonable and equitable and, if so accepted, shall adjust the return and tax accordingly.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_221a__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>With respect to any company subject to the tax imposed under this chapter, the commissioner, at any time within three years after the due date for the filing of such return, or in the case of a completed return filed after such due date, within three years after the date on which such return was received by the commissioner, which return is based on the method of apportionment provided for in said sections12-218,12-218aand12-219a, may change such method if, in his opinion, such method has operated or will operate so as to subject the company to taxation on a lesser portion of its net income or minimum tax base than is equitably attributable to this state and shall thereupon proceed to assess and collect taxes in accordance with such method as so changed by him. On and after January 1, 1995, the commissioner may change such method only in accordance with regulations establishing standards for such action, which the commissioner may adopt in accordance with the provisions of chapter 54.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_221a__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The provisions of this section shall also apply to a combined group required to file a combined unitary tax return pursuant to section12-222.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

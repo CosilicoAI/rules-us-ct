@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-94"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-94"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-94"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-94/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-94/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-94/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-94/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_203">
+        <num>203</num>
+        <heading>Property Tax Assessment</heading>
+        <section eId="sec_12_94">
+          <num>12-94</num>
+          <heading>Exemptions of servicemen, veterans and their relatives, blind and totally disabled persons, where made. List, exemptions</heading>
+          <content>
+            <p>Sec. 12-94. Exemptions of servicemen, veterans and their relatives, blind and totally disabled persons, where made. List, exemptions.The exemptions granted in sections12-81and12-82to soldiers, sailors, marines and members of the Coast Guard, Air Force and Space Force, and their spouses, widows, widowers, fathers and mothers, and to blind or totally disabled persons and their spouses shall first be made in the town in which the person entitled thereto resides, and any person asking such exemption in any other town shall annually make oath before, or forward his or her affidavit to, the assessors of such town, deposing that such exemptions, except the exemption provided in subdivision (55) of section12-81, if allowed, will not, together with any other exemptions granted under sections12-81and12-82, exceed the amount of exemption thereby allowed to such person. Such affidavit shall be filed with the assessors within the period the assessors have to complete their duties in the town where the exemption is claimed. The assessors of each town shall annually make a certified list of all persons who are found to be entitled to exemption under the provisions of said sections, which list shall be filed in the town clerk's office, and shall be prima facie evidence that the persons whose names appear thereon and who are not required by law to give annual proof are entitled to such exemption as long as they continue to reside in such town; but such assessors may, at any time, require any such person to appear before them for the purpose of furnishing additional evidence, provided, any person who by reason of such person's disability is unable to so appear may furnish such assessors a statement from such person's attending physician, physician assistant or an advanced practice registered nurse certifying that such person is totally disabled and is unable to make a personal appearance and such other evidence of total disability as such assessors may deem appropriate.
+See Sec. 12-81j re additional exemption for blind persons.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

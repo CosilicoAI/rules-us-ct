@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-158"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-158"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-158"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-158/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-158/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-158/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-158/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_204">
+        <num>204</num>
+        <heading>Local Levy and Collection of Taxes</heading>
+        <section eId="sec_12_158">
+          <num>12-158</num>
+          <heading>Form of collector's deed. Liability of municipalities for breach of warranty</heading>
+          <subsection eId="12_158__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The deed given by any collector for real estate sold by him for taxes shall be in substance in the form following:
+Know all men by these presents, that, whereas the (here insert the name of the taxing authority) did on the .... day of ...., 20.., lay a tax on its grand list next to be (or last) perfected, a rate bill for which and for a personal tax (if such be the fact), in all respects made out according to law with a warrant thereto attached, was placed in my hands, I being the duly appointed and qualified collector thereof, for collection, which tax became due on the .... day of ...., 20..; and, whereas A.B., upon demand made, neglected and refused to pay the tax set opposite his name in said rate bill, and thereupon, on the .... day of ...., 20.., I levied upon the parcel of real estate hereinafter described for that portion of said tax which was assessed thereon, to wit: $.... and accrued interest (or if the levy was for the whole tax, for the amount of said tax, to wit: $.... and accrued interest) and gave due notice thereof to said taxpayer and to .... as by law provided, which real estate so levied upon is situated in .... and bounded ...., and on the .... day of ...., 20.., no one having previously tendered me said tax with interest and my fees, in pursuance of said levy, and in accordance with the terms of said notice, I sold at public auction the whole of (or the following portion of) said real estate of .... (to wit) to C.D., for the sum of $..... Now, therefore, in consideration of the premises, and of said sum of money, received to my full satisfaction, of said C.D., I hereby bargain and sell unto him the premises last above described, with the appurtenances, to have and to hold the same to him and his heirs forever, subject only to taxes laid by such municipality which were not yet due and payable when I first published notice of levy and sale and any other liens in favor of such municipality, easements, covenants and restrictions in favor of other p</p>
+            </content>
+          </subsection>
+          <subsection eId="12_158__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The liability of any municipality for breach of the warranties contained in a collector's deed shall be limited to the amount paid to the collector by the grantee and amounts reasonably expended after its recording to improve and operate the property conveyed by the deed to the extent such amounts are not recoverable from the person found to be the true owner of the property.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

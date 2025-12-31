@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-580"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-580"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17a-580"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-580/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-580/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-580/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-580/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319i">
+        <num>319i</num>
+        <heading>Connecticut HUSKY Plan</heading>
+        <section eId="sec_17a_580">
+          <num>17a-580</num>
+          <heading>(Formerly Sec. 17-257a). Definitions</heading>
+          <content>
+            <p>Sec. 17a-580. (Formerly Sec. 17-257a). Definitions.As used in sections17a-581to17a-603, inclusive, and this section:
+(1) “Acquittee” means any person found not guilty by reason of mental disease or defect pursuant to section53a-13;
+(2) “Board” means the Psychiatric Security Review Board established pursuant to section17a-581;
+(3) “Conditional release” means release of the acquittee from a hospital for psychiatric disabilities to the jurisdiction of the board for supervision and treatment and includes, but is not limited to, the monitoring of mental and physical health treatment;
+(4) “Court” means the Superior Court;
+(5) “Danger to himself or others” includes danger to the property of others;
+(6) “Hospital for psychiatric disabilities” means any public or private hospital, retreat, institution, house or place in which a person with psychiatric disabilities or drug-dependent person is received or detained as a patient, but does not include any correctional institution of the state;
+(7) “Psychiatric disability” includes any mental illness in a state of remission when the illness may, with reasonable medical probability, become active. “Psychiatric disability” does not include an abnormality manifested only by repeated criminal or otherwise antisocial conduct;
+(8) “Intellectual disability” has the same meaning as provided in section1-1g;
+(9) “Person who should be conditionally released” means an acquittee who has psychiatric disabilities or has intellectual disability to the extent that his final discharge would constitute a danger to himself or others but who can be adequately controlled with available supervision and treatment on conditional release;
+(10) “Person who should be confined” means an acquittee who has psychiatric disabilities or has intellectual disability to the extent that such acquittee's discharge or conditional release would constitute a danger to the acquittee or others and who cannot be adequately controlled with available supervision and treatment on conditional release;
+(11) “Person who should be discharged” means an acquittee who does not have psychiatric disabilities or does not have intellectual disability to the extent that such acquittee's discharge would constitute a danger to the acquittee or others;
+(12) “Psychiatrist” means a physician specializing in psychiatry and licensed under the provisions of sections20-9to20-12, inclusive;
+(13) “Psychologist” means a clinical psychologist licensed under the provisions of sections20-186to20-195, inclusive;
+(14) “State's attorney” means the state's attorney for the judicial district wherein the acquittee was found not guilty by reason of mental disease or defect pursuant to section53a-13; and
+(15) “Superintendent” means any person, body of persons or corporation, or the designee of any such person, body of persons or corporation, which has the immediate supervision, management and control of a hospital for psychiatric disabilities and the patients therein.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

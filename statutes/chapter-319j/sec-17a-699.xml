@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-699"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-699"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17a-699"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-699/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-699/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-699/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-699/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319j">
+        <num>319j</num>
+        <heading>Health Care For Uninsured Children</heading>
+        <section eId="sec_17a_699">
+          <num>17a-699</num>
+          <heading>(Formerly Sec. 19a-127h). Order of treatment for alcohol or drug dependency of convicted person</heading>
+          <subsection eId="17a_699__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The provisions of this section shall not apply to any person convicted of murder, attempt to commit murder, kidnapping, robbery in the first degree or any felony involving serious physical injury or to any person who has been previously ordered to be treated under this section or section19a-387or21a-285of the general statutes, revised to 1989.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_699__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Before sentencing a convicted person, the court may consider any information before it concerning the alcohol or drug dependency of the person, including an examination report made pursuant to section17a-694. The court may impose a sentence and order treatment as provided in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_699__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of this section if the court finds that</p>
+            </content>
+            <paragraph eId="17a_699__subsec_c__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>the convicted person was an alcohol-dependent or drug-dependent person at the time of the crime for which he was convicted,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_699__subsec_c__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>there was a relationship between the dependency and the crime,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_699__subsec_c__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>the person presently needs and is likely to benefit from treatment for the dependency,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_699__subsec_c__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>the person is not ineligible under subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17a_699__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section and</p>
+            </content>
+            <paragraph eId="17a_699__subsec_a__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>the person meets the criteria for probation under subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17a_699__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of section53a-29.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_699__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The court may, after imposing sentence,</p>
+            </content>
+            <paragraph eId="17a_699__subsec_c__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>suspend execution of a sentence of imprisonment, either entirely or after a period set by the court,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_699__subsec_c__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>impose a period of probation as provided in this section and subsections</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17a_699__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>and</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_699__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of section53a-28, and</p>
+            </content>
+            <paragraph eId="17a_699__subsec_c__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>as a condition of probation, order the Court Support Services Division to place the person in an appropriate treatment program for alcohol or drug dependency. The court may require that a probation officer have at least one contact per week with the treatment program in which the person is participating and at least one contact per week with the person when such person is not participating in an inpatient program. Placement in a treatment program shall be no earlier than the date that space is available in a treatment program as reported by the clinical examiner under section17a-694.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17a_699__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>The court may order that the person be transferred immediately to a treatment program provided space is available as provided in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_699__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of this section. If the court orders an immediate transfer, it shall issue a mittimus directing the judicial marshal to convey the person to the treatment program.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_699__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>Time spent in a treatment program by a person pursuant to the provisions of this section shall not be credited against any sentence, the execution of which was suspended because of such treatment.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_699__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>Any violation of conditions set under this section shall be a violation of probation under section53a-32.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_699__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>The provisions of this section shall not be construed to limit the application of any provision of the general statutes requiring mandatory minimum sentences and prohibiting probation for certain offenses.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

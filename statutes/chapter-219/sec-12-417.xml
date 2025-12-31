@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-417"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-417"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-417"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-417/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-417/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-417/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-417/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_219">
+        <num>219</num>
+        <heading>Motor Vehicle Fuels Tax</heading>
+        <section eId="sec_12_417">
+          <num>12-417</num>
+          <heading>Jeopardy assessment or reassessment</heading>
+          <subsection eId="12_417__subsec_a">
+            <num>(a)</num>
+            <heading>Notice</heading>
+            <content>
+              <p>If the commissioner believes that the collection of any tax or any amount of tax required to be collected and paid to the state or of any assessment will be jeopardized by delay, the commissioner shall make an assessment or reassessment of the tax or amount of tax required to be collected, noting that fact upon the assessment or reassessment and serving written notice thereof, personally or by mail, in the manner prescribed for service of notice of a deficiency assessment or reassessment, on the person against whom the jeopardy assessment or reassessment is made. Ten days after the date on which such notice is served on such person, such notice shall constitute a final assessment or reassessment except only for such amounts as to which such person has filed a written protest with the commissioner, as provided in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_417__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_417__subsec_b">
+            <num>(b)</num>
+            <heading>Due date</heading>
+            <content>
+              <p>Collection. Interest and penalty.The amount assessed or reassessed is due and payable no later than the tenth day after service of the notice of assessment or reassessment, unless on or before such tenth day the person against whom such assessment or reassessment is made has obtained a stay of collection, as provided in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_417__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of this section. To the extent that collection has not been stayed, the commissioner may enforce collection of such tax by using the method provided in section 1235 or by using any other method provided for in the general statutes relating to the enforced collection of taxes, provided, if the amount of such tax has been definitely fixed, the amount so fixed shall be assessed and collected, and if the amount of such tax has not been definitely fixed, the commissioner shall assess and collect such amount as, in the commissioner's opinion, from the facts available to the commissioner, is sufficient. If the amount specified in the notice of jeopardy assessment or reassessment is not paid on or before the tenth day after service of notice thereof upon the person against whom the jeopardy assessment or reassessment is made, the delinquency penalty and the interest provided in section 12419 shall attach to the amount of the tax or the amount of the tax required to be collected.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_417__subsec_c">
+            <num>(c)</num>
+            <heading>Written protest</heading>
+            <content>
+              <p>Stay of collection. Security.The person against whom a jeopardy assessment or reassessment is made may file a written protest thereof, pursuant to section 12418, with the commissioner on or before the tenth day after the service upon such person of notice of the jeopardy assessment or reassessment. Such person may obtain a stay of collection of the whole or any part of the amount of such jeopardy assessment or reassessment by filing with the commissioner, on or before such tenth day, a bond of a surety company authorized to do business in this state or other security acceptable to the commissioner in such an amount not exceeding double the amount as to which the stay is desired, as the commissioner deems necessary to ensure compliance with this chapter, conditioned upon payment of as much of the amount, the collection of which is stayed by the bond, as is found to be due from such person. The security may be sold by the commissioner in the manner prescribed by section 12430. At any time thereafter in respect to the whole or any part of the amount covered by the bond, such person may waive the stay, and if as the result of such waiver, any part of the amount covered by the bond is paid, the bond shall, at the request of such person, be proportionately reduced.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

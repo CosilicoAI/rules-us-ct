@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-130"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-130"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-130"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-130/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-130/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-130/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-130/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_204">
+        <num>204</num>
+        <heading>Local Levy and Collection of Taxes</heading>
+        <section eId="sec_12_130">
+          <num>12-130</num>
+          <heading>Collectors; rate bills and warrants. Statements of state aid</heading>
+          <subsection eId="12_130__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>When any community, authorized to raise money by taxation, lays a tax, it shall appoint a collector thereof; and the selectmen of towns, and the committees of other communities, except as otherwise specially provided by law, shall make out and sign rate bills containing the proportion which each individual is to pay according to the assessment list; and any judge of the Superior Court or any justice of the peace, on their application or that of their successors in office, shall issue a warrant for the collection of any sums due on such rate bills. Each collector shall mail or hand to each individual from whom taxes are due a bill for the amount of taxes for which such individual is liable. In addition, the collector shall include with such bill, using one of the following methods</p>
+            </content>
+            <paragraph eId="12_130__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>attachment,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_130__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>enclosure, or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_130__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>printed matter upon the face of the bill, a statement of:
+(A) State aid to municipalities which shall be in the following form:
+“The (fiscal year) budget for the (city or town) estimates that .... Dollars will be received from the state of Connecticut for various state financed programs. Without this assistance your (fiscal year) property tax would be (herein insert the amount computed in accordance with subsection</p>
+              </content>
+              <subparagraph eId="12_130__subsec_a__subsec_3__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>State aid to municipalities which shall be in the following form:
+“The (fiscal year) budget for the (city or town) estimates that .... Dollars will be received from the state of Connecticut for various state financed programs. Without this assistance your (fiscal year) property tax would be (herein insert the amount computed in accordance with subsection</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_130__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section) mills”; and
+(B) State aid reduction to municipalities that overspend, which shall be in the following form:
+“The state will reduce grants to your town if local spending increases by more than 2.5 per cent from the previous fiscal year.”
+Failure to send out or receive any such bill or statement shall not invalidate the tax. For purposes of this subsection, “mail” includes to send by electronic mail, provided an individual from whom taxes are due consents in writing to receive a bill and statement electronically. Prior to sending any such bill or statement by electronic mail, a community shall provide the public with the appropriate electronic mail address of the community on the community's Internet web site and shall establish procedures to ensure that any individual who consents to receive a bill or statement electronically</p>
+            </content>
+          </subsection>
+          <subsection eId="12_130__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>receives such bill or statement, and (ii) is provided the proper return electronic mail address of the community sending the bill or statement.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_130__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The mill rate to be inserted in the statement of state aid to municipalities required by subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_130__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section shall be computed on the total estimated revenues required to fund the estimated expenditures of the municipality exclusive of assistance received or anticipated from the state.
+See Sec. 9-185 re election or appointment of tax collectors.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

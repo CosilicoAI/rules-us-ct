@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-474"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-474"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17a-474"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-474/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-474/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-474/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-474/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319i">
+        <num>319i</num>
+        <heading>Connecticut HUSKY Plan</heading>
+        <section eId="sec_17a_474">
+          <num>17a-474</num>
+          <heading>(Formerly Sec. 17-229a). Commitment to state hospital for persons with psychiatric disabilities or to child care facility. Procedures for revoking or modifying commitment</heading>
+          <content>
+            <p>Sec. 17a-474. (Formerly Sec. 17-229a). Commitment to state hospital for persons with psychiatric disabilities or to child care facility. Procedures for revoking or modifying commitment.Whenever any person has been committed by any court to any state hospital for persons with psychiatric disabilities, or child care facility, the Commissioner of Mental Health and Addiction Services, the Commissioner of Children and Families, as appropriate, or any person interested may, at any time thereafter, make application to the court making the order of commitment for a revocation or modification of such order or of the terms and conditions thereof. Such court shall thereupon order such notice of the time and place of hearing thereon as it deems advisable, shall hear and determine such application and may thereupon revoke, modify or affirm such order, and the action of the court thereon shall be subject to appeal as in other cases. Any individual receiving care in a hospital for persons with psychiatric disabilities may be transferred to any other state hospital for persons with psychiatric disabilities by order of the court making the original commitment of such individual, upon application in writing by the superintendent of the hospital from which such transfer is to be made. Such court shall transmit copies of such order forthwith to the Commissioner of Mental Health and Addiction Services or the Commissioner of Children and Families, as appropriate, and the hospital from which transfer is made shall pay all costs of such order and transfer. Said commissioners may at any time cause an individual receiving care in a state hospital for persons with psychiatric disabilities to be removed to another state hospital for persons with psychiatric disabilities, as the circumstances or necessities of the case may require.
+See Sec. 17a-451 re duties of Commissioner of Mental Health and Addiction Services.
+See Sec. 17a-510 re procedure for release or transfer of patient in a hospital for the mentally ill.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

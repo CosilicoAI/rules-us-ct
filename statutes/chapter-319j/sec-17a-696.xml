@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-696"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-696"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17a-696"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-696/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-696/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-696/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-696/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319j">
+        <num>319j</num>
+        <heading>Health Care For Uninsured Children</heading>
+        <section eId="sec_17a_696">
+          <num>17a-696</num>
+          <heading>(Formerly Sec. 19a-127e). Order for suspension of prosecution and treatment for alcohol or drug dependency</heading>
+          <subsection eId="17a_696__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The provisions of this section shall not apply to any person charged with a violation of section14-227a,14-227gor14-227m, subdivision</p>
+            </content>
+            <paragraph eId="17a_696__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_696__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17a_696__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of section14-227nor section53a-56bor53a-60dor with a class A, B or C felony or to any person who was twice previously ordered treated under this section, subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_696__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>of section17-155y, section19a-386or section21a-284of the general statutes revised to 1989, or any combination thereof. The court may waive the ineligibility provisions of this subsection for any person, except that the court shall not waive the ineligibility provisions of this subsection for any person charged with a violation of section14-227a,14-227g,53a-56bor53a-60dif, at the time of the offense, such person was operating a commercial vehicle, as defined in section14-1, or held a commercial driver's license or a commercial learner's permit.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_696__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The court may order suspension of prosecution and order treatment for alcohol or drug dependency as provided in this section and sections17a-697and17a-698if it, after considering information before it concerning the alcohol or drug dependency of the person, including the examination report made pursuant to the provisions of section17a-694, finds that</p>
+            </content>
+            <paragraph eId="17a_696__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>the accused person was an alcohol-dependent or drug-dependent person at the time of the crime,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_696__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>the person presently needs and is likely to benefit from treatment for the dependency, and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_696__subsec_b__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>suspension of prosecution will advance the interests of justice. Treatment may begin no earlier than the date the clinical examiner reports under the provisions of section17a-694that space is available in a treatment program. Upon application by any such person for participation in a treatment program, the court shall, but only as to the public, order the court file sealed.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17a_696__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>A suspension of prosecution ordered under the provisions of subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_696__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section may be for a period not exceeding two years. During the period of suspension, an accused person shall be placed under the supervision of the Court Support Services Division for treatment for alcohol or drug dependency. The court or the Court Support Services Division may require that the person</p>
+            </content>
+            <paragraph eId="17a_696__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>comply with any of the conditions specified in subsections</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17a_696__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>and</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_696__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of section53a-30, and</p>
+            </content>
+            <paragraph eId="17a_696__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>be tested for use of alcohol or drugs during the period of suspension. The accused person shall, unless indigent, pay the cost of treatment ordered under this section.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17a_696__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>If prosecution is suspended under the provisions of subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_696__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section,</p>
+            </content>
+            <paragraph eId="17a_696__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>the statute of limitations applicable to the crime charged shall be tolled during the period of suspension, and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_696__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>the accused person shall be deemed to have waived such accused person's right to a speedy trial for the crime charged.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17a_696__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>The court shall not suspend prosecution under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_696__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section unless</p>
+            </content>
+            <paragraph eId="17a_696__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>the accused person has acknowledged that he or she understands the consequences of the suspension of prosecution,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_696__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>the accused person has given notice, by registered or certified mail on a form prescribed by the Chief Court Administrator, to the victim, if any, of the crime of which the person is accused and of the pending motion for suspension of prosecution,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_696__subsec_b__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>such victim, if any, has been given an opportunity to be heard on the motion for suspension of prosecution, and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_696__subsec_b__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>the accused person, unless such accused person is indigent, has paid to the clerk of the court an administration fee of twenty-five dollars.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17a_696__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>If the prosecution is suspended, the person shall be released on a written promise to appear or on a bond and any other bond posted in any criminal proceeding concerning such person shall be terminated.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_696__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>If the court denies the motion for suspension of prosecution, the state's attorney may proceed with prosecution of the crime.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_696__subsec_h">
+            <num>(h)</num>
+            <content>
+              <p>A person shall be deemed to be indigent for the purposes of this section if the court determines the person</p>
+            </content>
+            <paragraph eId="17a_696__subsec_h__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>has an estate insufficient to provide for the person's support or there is no other person legally liable or able to support the person, or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_696__subsec_h__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>the person has been determined indigent and eligible for representation by a public defender who has been appointed on behalf of such person pursuant to section51-296. The court shall not require a person to perform community service in lieu of payment of any cost or fee, if a cost or fee is waived due to indigency.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

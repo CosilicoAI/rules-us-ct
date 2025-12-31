@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-307b"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-307b"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17b-307b"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-307b/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-307b/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-307b/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-307b/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319v">
+        <num>319v</num>
+        <heading>Temporary Assistance for Needy Families</heading>
+        <section eId="sec_17b_307b">
+          <num>17b-307b</num>
+          <heading>Medicaid reimbursement for suicide risk assessments and other mental health evaluations and services provided at school-based health centers or public schools</heading>
+          <subsection eId="17b_307b__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The Commissioner of Social Services shall provide Medicaid reimbursement, to the extent permissible under federal law, for suicide risk assessments and other mental health evaluations and services provided at a school-based health center or public school.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_307b__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The Commissioner of Social Services shall</p>
+            </content>
+            <paragraph eId="17b_307b__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>amend the Medicaid state plan, if necessary, to provide reimbursement for the suicide risk assessments and mental health evaluations and services described in subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_307b__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section, and</p>
+            </content>
+            <paragraph eId="17b_307b__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>set reimbursement at a level that ensures an adequate pool of providers for such suicide risk assessments and mental health evaluations and services.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

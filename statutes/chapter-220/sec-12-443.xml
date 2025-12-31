@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-443"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-443"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-443"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-443/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-443/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-443/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-443/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_220">
+        <num>220</num>
+        <heading>Controlled Substances Tax</heading>
+        <section eId="sec_12_443">
+          <num>12-443</num>
+          <heading>Records to be kept</heading>
+          <content>
+            <p>Sec. 12-443. Records to be kept.Each person who manufactures, distributes, transports, stores, warehouses or sells alcoholic beverages or imports the same for sale shall keep complete and accurate records of all alcoholic beverages purchased, sold, manufactured, improved, brewed, fermented, distilled, produced, stored, warehoused, imported or transported within this state. Such records shall be of such kind and in such form as the commissioner may prescribe and shall be safely preserved for three years in such a manner as to insure permanency and accessibility for inspection by the commissioner or by his authorized employee. If any taxpayer fails to keep books of account or other documentary evidence from which a proper determination of the tax due may be made, the commissioner may fix the amount of tax for any period from the best information obtainable by him, and the amount so fixed shall be paid as though it had been computed on a return filed by the taxpayer under the provisions of this chapter and shall be presumed to be the correct amount due the state unless amended or corrected under the provisions of this chapter.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

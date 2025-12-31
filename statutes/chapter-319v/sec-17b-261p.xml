@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-261p"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-261p"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17b-261p"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-261p/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-261p/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-261p/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-261p/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319v">
+        <num>319v</num>
+        <heading>Temporary Assistance for Needy Families</heading>
+        <section eId="sec_17b_261p">
+          <num>17b-261p</num>
+          <heading>Notice re determination of penalty period. Filing claim of undue hardship. Nursing home involvement</heading>
+          <subsection eId="17b_261p__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>As used in this section and section17b-261o, “applicant” means an applicant for or recipient of medical assistance pursuant to section17b-261.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_261p__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>If the Commissioner of Social Services, in determining an applicant's eligibility for medical assistance pursuant to section17b-261, intends to impose a penalty period as a result of a transfer or assignment of assets pursuant to section17b-261or section17b-261a, the commissioner shall provide a preliminary notice to the applicant. Such notice shall include a statement that the applicant may contest the imposition of a penalty period by</p>
+            </content>
+            <paragraph eId="17b_261p__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>filing a claim of undue hardship, as defined in section17b-261o, or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_261p__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>providing evidence to rebut the presumption resulting in the imposition of a penalty period pursuant to subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_261p__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of section17b-261a. The applicant shall have fifteen days after the date on which the preliminary notice is postmarked to contest the imposition of a penalty period indicated in such preliminary notice. The commissioner shall grant one extension of time to file such claim or provide such evidence if requested by the applicant and shall grant additional extensions of time if reasonable. Failure to file a claim of undue hardship under this subsection shall not prohibit an applicant from making a claim of undue hardship at an administrative hearing.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_261p__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>If the applicant contests the imposition of a penalty period pursuant to subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_261p__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section, the commissioner shall provide an interim decision notice to the applicant not later than ten days after the applicant files a claim or provides evidence pursuant to subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_261p__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section. The interim decision notice shall denote the commissioner's decision to either reverse or uphold the imposition of a penalty period indicated in the preliminary notice. If the commissioner decides to uphold the imposition of a penalty period, the interim decision notice shall specify the projected commencement and expiration dates of such penalty period.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_261p__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>When the commissioner determines the eligibility of an applicant for medical assistance under section17b-261, the commissioner shall provide a final decision notice to the applicant. Such final decision notice shall include</p>
+            </content>
+            <paragraph eId="17b_261p__subsec_d__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>a statement confirming any determination the commissioner made with regard to the imposition of a penalty period pursuant to this section, and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_261p__subsec_d__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>a description of the applicant's appeal rights.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_261p__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>If, during the course of a penalty period, an applicant receives notice from a provider of long-term care services that the provider intends to</p>
+            </content>
+            <paragraph eId="17b_261p__subsec_e__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>discharge the applicant,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_261p__subsec_e__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>discontinue providing long-term care services to the applicant, or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_261p__subsec_e__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>refuse to provide long-term care services to the applicant because of the imposition of a penalty period against the applicant pursuant to subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_261p__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of section17b-261or subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_261p__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of section17b-261a, the applicant shall have not more than sixty days after receiving such notice to file a claim of undue hardship with the commissioner. Not later than ten days after receiving such claim, the commissioner shall provide a final decision notice to the applicant. Such final decision notice shall inform the applicant whether or not (A) the commissioner has determined that undue hardship exists, and (B) the penalty period shall be waived.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_261p__subsec_f">
+            <num>(f)</num>
+            <paragraph eId="17b_261p__subsec_f__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>A nursing home, on behalf of an applicant, may request an extension of time to claim undue hardship pursuant to subsections</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_261p__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>and</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_261p__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>of this section if (A) the applicant is receiving long-term care services in such nursing home, (B) the applicant has no legal representative, and (C) the nursing home provides certification from a physician, a physician assistant or an advanced practice registered nurse that the applicant is incapable of caring for himself or herself, as defined in section45a-644, or incapable of managing his or her affairs, as defined in section45a-644. The commissioner shall grant such request to allow a legal representative to be appointed to act on behalf of the applicant.</p>
+            </content>
+            <paragraph eId="17b_261p__subsec_e__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>The commissioner shall accept any claim filed pursuant to subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_261p__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section by a nursing home and allow the nursing home to represent the applicant with regard to such claim if the applicant or the legal representative of the applicant gives permission to the nursing home to file a claim pursuant to subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_261p__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

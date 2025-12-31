@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-275"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-275"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17b-275"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-275/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-275/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-275/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-275/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319v">
+        <num>319v</num>
+        <heading>Temporary Assistance for Needy Families</heading>
+        <section eId="sec_17b_275">
+          <num>17b-275</num>
+          <heading>(Formerly Sec. 17-134r). Physician and pharmacy lock-in procedure</heading>
+          <content>
+            <p>Sec. 17b-275. (Formerly Sec. 17-134r). Physician and pharmacy lock-in procedure.The Commissioner of Social Services shall implement, not later than October 1, 1984, a physician and pharmacy lock-in procedure to restrict the use of the health care delivery system by medical assistance recipients who are determined by the commissioner to have utilized medical services or items at a frequency or amount that is not medically necessary. The commissioner shall establish criteria and a case review system in order to make such determination. The commissioner shall require such recipients for a reasonable period of time to obtain medical services or items only from designated providers provided (1) the department gives the recipient notice and an opportunity for a hearing, in accordance with procedures established by the department, before such restrictions are imposed and (2) the department assures that the recipient has reasonable access, taking into account geographic location and reasonable travel time, to medical services of adequate quality.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

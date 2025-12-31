@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-257b"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-257b"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17b-257b"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-257b/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-257b/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-257b/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-257b/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319v">
+        <num>319v</num>
+        <heading>Temporary Assistance for Needy Families</heading>
+        <section eId="sec_17b_257b">
+          <num>17b-257b</num>
+          <heading>Alien eligibility for state medical assistance. Regulations</heading>
+          <subsection eId="17b_257b__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Qualified aliens, as defined in Section 431 of Public Law 104-193, admitted into the United States on or after August 22, 1996, other lawfully residing immigrant aliens or aliens who formerly held the status of permanently residing under color of law who are</p>
+            </content>
+            <paragraph eId="17b_257b__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>receiving home and community-based services that are equivalent to the services provided under the Medicaid waiver portion of the Connecticut home-care program for the elderly, established pursuant to section17b-342,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_257b__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>receiving nursing facility care under the state-funded medical assistance program on June 30, 2011, shall continue to receive coverage for such services or care for as long as the individual meets Medicaid eligibility requirements for such services or care except for alien status, or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_257b__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>are receiving nursing facility care and have applied for state-funded medical assistance before June 1, 2011, and would otherwise be eligible for such assistance, shall be provided such assistance for as long as the individual meets Medicaid eligibility requirements for nursing facility care except for alien status, except such aliens who are (A) children and pregnant women, and (B) whose date of admission is less than five years before the date services are provided shall receive coverage until such time as the state plan amendment concerning federal funding for the provision of services to such aliens is approved.</p>
+              </content>
+              <subparagraph eId="17b_257b__subsec_a__subsec_3__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>children and pregnant women, and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17b_257b__subsec_a__subsec_3__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>whose date of admission is less than five years before the date services are provided shall receive coverage until such time as the state plan amendment concerning federal funding for the provision of services to such aliens is approved.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_257b__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The Commissioner of Social Services may implement policies and procedures necessary to administer the provisions of this section while in the process of adopting such policies and procedures as regulation, provided the commissioner prints notice of intent to adopt regulations in the Connecticut Law Journal not later than twenty days after the date of implementation. Policies and procedures implemented pursuant to this section shall be valid until the time final regulations are adopted.
+See Sec. 17b-257d re notice of terminating alien's state medical assistance.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

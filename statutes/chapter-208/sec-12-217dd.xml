@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-217dd"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-217dd"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-217dd"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-217dd/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-217dd/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-217dd/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-217dd/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_208">
+        <num>208</num>
+        <heading>Estate Taxes</heading>
+        <section eId="sec_12_217dd">
+          <num>12-217dd</num>
+          <heading>Tax credit for donation of land for open space or educational use</heading>
+          <subsection eId="12_217dd__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>For purposes of this section:</p>
+            </content>
+            <paragraph eId="12_217dd__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>“Donation of open space land” means the value of any land or interest in land conveyed without financial consideration, or the value of any discount of the sale price in any sale of land or interest in land, to the state, a political subdivision of the state, a water company, as defined in section25-32a, or to any nonprofit land conservation organization where such land is to be permanently preserved as protected open space or used as a public water supply source.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_217dd__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>“Donation of land for educational use” means the value of any land or interest in land conveyed without financial consideration, or the value of any discount of the sale price in any sale of land or interest in land, to any town, city or borough, whether consolidated or unconsolidated, or any school district or regional school district for educational use, as defined in section16-43b.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_217dd__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>There shall be allowed a credit for all taxpayers against the tax imposed under this chapter, in an amount equal to fifty per cent of any donation of open space land and fifty per cent of any donation of land for educational use. For purposes of calculating the credit under this section, the amount of donation shall be based on the use value of the donated land and the amount received for such land. For purposes of this subsection, “use value” means the fair market value of land at its highest and best use, as determined by a certified real estate appraiser.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_217dd__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>A credit for the donation of open space land that is allowed under this section with respect to any taxable year commencing on or after January 1, 2000, but is not used by a taxpayer, may be carried forward to each of the successive income years until such credit is fully taken, but in no case shall a credit that is not used be carried forward for a period of more than twenty-five years. A credit for the donation of land for educational use that is allowed under this section with respect to any taxable year commencing on or after January 1, 2013, but is not used by a taxpayer, may be carried forward to each of the successive income years until such credit is fully taken, but in no case shall a credit that is not used be carried forward for a period of more than twenty-five years.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

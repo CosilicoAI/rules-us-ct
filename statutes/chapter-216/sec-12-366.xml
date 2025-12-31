@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-366"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-366"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-366"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-366/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-366/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-366/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-366/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_216">
+        <num>216</num>
+        <heading>Sales and Use Taxes</heading>
+        <section eId="sec_12_366">
+          <num>12-366</num>
+          <heading>Lien for taxes. Regulations</heading>
+          <content>
+            <p>Sec. 12-366. Lien for taxes. Regulations.The tax herein imposed shall be a lien in favor of the state of Connecticut upon the real property so passing from the due date until paid, with the interest and costs that may accrue in addition thereto; provided such lien shall not be valid as against any lienor, mortgagee, judgment creditor or bona fide purchaser provided they have no notice, unless and until notice of such lien is filed or recorded in the town clerk's office or place where mortgages, liens and conveyances of such property are required by statute to be filed or recorded. The lien upon any real property transferred, or a portion thereof, may be discharged by the payment of such amount as tax thereon as the Commissioner of Revenue Services may specify or by the giving to the commissioner of a bond for such amount; or the commissioner, upon application by the fiduciary, may make an order transferring such lien to other real property of the estate or of the transferee, which order of transfer shall be recorded as above. Any person shall be entitled to a certificate that the tax upon the transfer of any real property has been paid, and such certificate may be recorded in the office of the town clerk of the town within which such real property is situated, and it shall be conclusive proof that the tax on the transfer of such real property has been paid and such lien discharged. The commissioner may adopt regulations in accordance with the provisions of chapter 54 that prescribe the circumstances under which a judge of the probate court having jurisdiction of an estate is permitted to discharge a lien by the payment of such amount as tax on such real property as the judge may specify. The provisions of this section shall not apply to estates of decedents dying on or after January 1, 2005.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

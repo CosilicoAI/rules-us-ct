@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-58"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-58"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-58"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-58/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-58/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-58/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-58/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_203">
+        <num>203</num>
+        <heading>Property Tax Assessment</heading>
+        <section eId="sec_12_58">
+          <num>12-58</num>
+          <heading>Declaration of property of manufacturers and traders</heading>
+          <content>
+            <p>Sec. 12-58. Declaration of property of manufacturers and traders.The property of any trading, mercantile, manufacturing or mechanical business shall be assessed in the name of the owner or owners on the first day of October or such other assessment date as is specially provided by law in the town where the business is carried on; and the personal property declaration of any such owner or owners shall be given in by the person having charge of such business residing in such town, when the owner or owners do not reside therein. The amount of goods on hand for consumption in any such business, including finished and partly finished goods and raw materials and supplies, so assessed shall be the monthly average quantity of goods or supplies on hand during the year ending on the first day of October if such owner or owners has or have owned such business during the whole of such year or the monthly average quantity of goods on hand during the portion of the year ending on such date as such owner or owners has or have owned such business if such owner or owners has or have owned such business during only a portion or portions of such year, but this rule shall not apply to furniture, fixtures and machinery which are not for sale in the regular course of any such business. Furniture, fixtures and machinery on hand on the assessment date but not for sale in the regular course of business shall be listed for taxation under such of the other provisions of the general statutes and of special acts as are applicable. This section shall apply to the property of all persons, whether residents of this state or not, and to the property of all corporations, whether domestic or foreign. The word “town” as used herein includes a consolidated town and city and a consolidated town and borough.
+See Sec. 12-24b re repeal of inconsistent special acts.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

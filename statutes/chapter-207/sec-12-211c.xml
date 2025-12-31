@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-211c"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-211c"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-211c"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-211c/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-211c/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-211c/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-211c/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_207">
+        <num>207</num>
+        <heading>Gift Tax</heading>
+        <section eId="sec_12_211c">
+          <num>12-211c</num>
+          <heading>Transfer of credit to affiliate</heading>
+          <content>
+            <p>Sec. 12-211c. Transfer of credit to affiliate.An insurance company or health care center, as defined in section38a-175, may transfer any credit allowed against the tax imposed by this chapter to an affiliate, as defined in section38a-1, of the insurance company or health care center. Such credit may be taken by any such affiliate only against the affiliate's tax liability imposed under this chapter. The Commissioner of Revenue Services shall not allow any credit to an affiliate against such tax liability unless the insurance company or health care center and affiliate have filed such information as may be required on forms provided by the commissioner with respect to any such transfer on or before the due date of the tax return on which such credit would have been taken by the insurance company or health care center if no transfer had been made by such insurance company or health care center.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

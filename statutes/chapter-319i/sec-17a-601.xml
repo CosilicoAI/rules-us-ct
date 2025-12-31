@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-601"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-601"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17a-601"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-601/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-601/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-601/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-601/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319i">
+        <num>319i</num>
+        <heading>Connecticut HUSKY Plan</heading>
+        <section eId="sec_17a_601">
+          <num>17a-601</num>
+          <heading>(Formerly Sec. 17-257v). Notice to victims of court and board hearings</heading>
+          <subsection eId="17a_601__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>For the purposes of this section, “victim” means a person who is a victim of a crime, the legal representative of such person or a member of a deceased victim's immediate family.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_601__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Any court rendering a judgment of acquittal pursuant to section53a-13shall make a specific finding as to whether there is a victim of the act committed by the acquittee and, if so, whether the victim desires notice pursuant to this section. If the court finds that a victim desires notice, it shall notify the victim of any hearing held by the court pursuant to section17a-582or17a-593. The court shall, on committing an acquittee to the jurisdiction of the board, identify the victim to the board and the board shall thereafter make a reasonable effort to notify the victim of any board hearings or orders or of any escape of the acquittee. The victim may appear at any court or board hearing concerning the acquittee to make a statement.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-62l"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-62l"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-62l"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-62l/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-62l/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-62l/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-62l/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_203">
+        <num>203</num>
+        <heading>Property Tax Assessment</heading>
+        <section eId="sec_12_62l">
+          <num>12-62l</num>
+          <heading>Option to not implement revaluation for 2003, 2004 and 2005 assessment years</heading>
+          <subsection eId="12_62l__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Notwithstanding any provision of the general statutes, any municipal charter, any special act or any home rule ordinance, any municipality required to effect a revaluation of real property under section12-62for the 2003, 2004 or 2005 assessment year shall not be required to effect a revaluation prior to the 2006 assessment year provided any decision not to implement a revaluation pursuant to this subsection shall be approved by the legislative body of such town or, in any town where the legislative body is a town meeting, by the board of selectmen. Any required revaluation subsequent to any delayed revaluation effected pursuant to this subsection shall be effected in accordance with the provisions of said section12-62. The rate maker, as defined in section12-131, in any municipality that elects, pursuant to this subsection, not to implement a revaluation may prepare new rate bills under the provisions of chapter 204 in order to carry out the provisions of this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_62l__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The assessor or board of assessors of any municipality that elects, pursuant to subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_62l__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section, not to implement a revaluation of real property for the 2003 assessment year shall prepare a revised grand list for said assessment year, which shall reflect the assessments of real estate according to the grand list in effect for the assessment year commencing October 1, 2002, subject only to transfers of ownership, additions for new construction and reductions for demolitions. Such assessor shall send notice of any increase in the valuation of real estate over the valuation of such real estate as of October 1, 2002, or notice of the valuation of any real estate which is on the grand list to be effective for the October 1, 2003, assessment year but was not on such list in the prior assessment year, to the last-known address of the person whose valuation is so affected, and such person shall have the right to appeal such increase or valuation during the next regular session of the board of assessment appeals at which real estate appeals may be heard.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

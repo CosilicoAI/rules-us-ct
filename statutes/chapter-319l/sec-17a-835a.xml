@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-835a"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-835a"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17a-835a"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-835a/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-835a/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-835a/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-835a/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319l">
+        <num>319l</num>
+        <heading>Nursing Home Financial Assistance</heading>
+        <section eId="sec_17a_835a">
+          <num>17a-835a</num>
+          <heading>Bureau of Services for Persons Who are Deaf, Deafblind or Hard of Hearing. Director. Duties</heading>
+          <subsection eId="17a_835a__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>There is established a Bureau of Services for Persons Who are Deaf, Deafblind or Hard of Hearing which shall be within the Department of Aging and Disability Services.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_835a__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The Commissioner of Aging and Disability Services, in consultation with the Advisory Board for Persons Who are Deaf, Deafblind or Hard of Hearing established pursuant to section17a-836shall, not later than October 1, 2024, hire a director of the bureau. The director shall</p>
+            </content>
+            <paragraph eId="17a_835a__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>have professional experience in serving the needs of deaf, deafblind or hard of hearing persons, and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_835a__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>be (A) able to communicate in American Sign Language, and (B) familiar with effective interpretation methods to assist deafblind persons. The commissioner shall also hire an administrative assistant for the director.</p>
+              </content>
+              <subparagraph eId="17a_835a__subsec_b__subsec_2__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>able to communicate in American Sign Language, and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17a_835a__subsec_b__subsec_2__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>familiar with effective interpretation methods to assist deafblind persons. The commissioner shall also hire an administrative assistant for the director.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="17a_835a__subsec_c">
+            <num>(c)</num>
+            <heading>The director shall report to the commissioner</heading>
+            <content>
+              <p>The director's duties shall include, but need not be limited to:</p>
+            </content>
+            <paragraph eId="17a_835a__subsec_c__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>Assisting in overseeing department employees who provide counseling, interpreting and other assistance to persons who are deaf, deafblind or hard of hearing, except for federally funded vocational rehabilitation employees;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_835a__subsec_c__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>Annually updating and publishing on the department's Internet web site and the Internet web page of the bureau established pursuant to subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_835a__subsec_c__subsec_6">
+              <num>(6)</num>
+              <content>
+                <p>of this subsection a resource guide for persons who are deaf, deafblind or hard of hearing;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_835a__subsec_c__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>Assisting in the registration of state-registered interpreters, including maintaining and publishing on the Internet web page of the bureau and the department's Internet web site a list of such interpreters categorized by the settings in which they are qualified to interpret, in accordance with section17a-838;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_835a__subsec_c__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>Assisting each state agency, as defined in section1-79, in appointing an employee of each such agency to serve as a point of contact for concerns related to persons who are deaf, deafblind or hard of hearing, pursuant to section4-61pp, and coordinating efforts to resolve such concerns with such employees serving as a point of contact;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_835a__subsec_c__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>Coordinating efforts of the Department of Aging and Disability Services to provide information and referral services to deaf, deafblind or hard of hearing persons on resources available to such persons;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_835a__subsec_c__subsec_6">
+              <num>(6)</num>
+              <content>
+                <p>Establishing a separate Internet web page on the department's Internet web site for the bureau and including on such web page (A) the meeting schedule, agendas, minutes and other resources of the Advisory Board for Persons Who are Deaf, Deafblind or Hard of Hearing established pursuant to section17a-836, (B) an instructional video with audio and captions on the home page on how persons who are deaf, deafblind or hard of hearing can navigate the web page, resources and tools, and (C) other material pursuant to this section;</p>
+              </content>
+              <subparagraph eId="17a_835a__subsec_c__subsec_6__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>the meeting schedule, agendas, minutes and other resources of the Advisory Board for Persons Who are Deaf, Deafblind or Hard of Hearing established pursuant to section17a-836,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17a_835a__subsec_c__subsec_6__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>an instructional video with audio and captions on the home page on how persons who are deaf, deafblind or hard of hearing can navigate the web page, resources and tools, and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17a_835a__subsec_c__subsec_6__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>other material pursuant to this section;</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="17a_835a__subsec_c__subsec_7">
+              <num>(7)</num>
+              <content>
+                <p>Coordinating responses to consumer concerns, requests for assistance and referrals to resources, including from state agencies;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_835a__subsec_c__subsec_8">
+              <num>(8)</num>
+              <content>
+                <p>Coordinating education and training initiatives, including, but not limited to, working with (A) local and state public safety and public health officials and first responders on best practices for serving and communicating with deaf, deafblind or hard of hearing persons, and (B) sign language interpreters, oral interpreters and interpreters who are trained to interpret for deaf, deafblind or hard of hearing persons to maintain or enhance the skills of such interpreters in a variety of settings;</p>
+              </content>
+              <subparagraph eId="17a_835a__subsec_c__subsec_8__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>local and state public safety and public health officials and first responders on best practices for serving and communicating with deaf, deafblind or hard of hearing persons, and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17a_835a__subsec_c__subsec_8__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>sign language interpreters, oral interpreters and interpreters who are trained to interpret for deaf, deafblind or hard of hearing persons to maintain or enhance the skills of such interpreters in a variety of settings;</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="17a_835a__subsec_c__subsec_9">
+              <num>(9)</num>
+              <content>
+                <p>Collaborating with interpreting services providers and training organizations to increase opportunities for mentorships, internships, apprenticeships and specialized training in interpreting services for deaf, deafblind or hard of hearing persons;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_835a__subsec_c__subsec_10">
+              <num>(10)</num>
+              <content>
+                <p>Partnering with civic and community organizations serving deaf, deafblind or hard of hearing persons on workshops and information sessions regarding new laws, regulations or developments regarding services, programs or health care needs of such persons;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_835a__subsec_c__subsec_11">
+              <num>(11)</num>
+              <content>
+                <p>Raising public awareness of programs and services available to deaf, deafblind or hard of hearing persons;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_835a__subsec_c__subsec_12">
+              <num>(12)</num>
+              <content>
+                <p>Assisting the Public Utilities Regulatory Authority in implementing telecommunication relay service programs for deaf, deafblind or hard of hearing persons. In awarding any contract for such relay service programs, the authority shall consult with the Commissioner of Aging and Disability Services and the director of the bureau;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_835a__subsec_c__subsec_13">
+              <num>(13)</num>
+              <content>
+                <p>Working with the Governor and Connecticut television stations on ways to make television broadcasts more accessible to persons who are deaf, deafblind or hard of hearing; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_835a__subsec_c__subsec_14">
+              <num>(14)</num>
+              <content>
+                <p>In consultation with the Advisory Board for Persons Who are Deaf, Deafblind or Hard of Hearing established pursuant to section17a-836identifying the needs of deaf, deafblind or hard of hearing persons and addressing policy changes that may be necessary to better serve such persons.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

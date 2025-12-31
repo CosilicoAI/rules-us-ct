@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-578b"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-578b"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-578b"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-578b/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-578b/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-578b/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-578b/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_226">
+        <num>226</num>
+        <heading>Prepared Food and Beverage Tax</heading>
+        <section eId="sec_12_578b">
+          <num>12-578b</num>
+          <heading>Standards of operation and management for casino gaming facility</heading>
+          <subsection eId="12_578b__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Each casino gaming facility shall submit to the commissioner a description of its standards of operation and management of all gaming operations. The description shall include:</p>
+            </content>
+            <paragraph eId="12_578b__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>Accounting controls to be used in casino gaming operations;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_578b__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>job descriptions for all positions involved in casino gaming operations;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_578b__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>procedures for the security of chips, cash and other cash equivalents used in authorized games;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_578b__subsec_a__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>procedures for the safety and security of patrons of the casino gaming facility;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_578b__subsec_a__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>procedures and rules governing the conduct of any authorized games conducted at the casino gaming facility;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_578b__subsec_a__subsec_6">
+              <num>(6)</num>
+              <content>
+                <p>a certification by the attorney of the casino gaming facility that the submitted standards of operation and management conform to state law and regulations governing casino gaming operations;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_578b__subsec_a__subsec_7">
+              <num>(7)</num>
+              <content>
+                <p>a certification by the chief financial officer of the casino gaming facility or an independent auditor that the submitted standards of operation and management provide adequate and effective controls, establish a consistent overall system of procedures and administrative and accounting controls and conform to generally accepted accounting principles; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_578b__subsec_a__subsec_8">
+              <num>(8)</num>
+              <content>
+                <p>any other standards required by the commissioner.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_578b__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The commissioner shall approve or reject a submission of standards of operation and management required under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_578b__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section not later than sixty days after the date on which the commissioner received such standards. If the commissioner fails to approve or reject a submission of standards of operation and management not later than sixty days after the date on which the commissioner received such standards of operation and management, such standards of operation and management shall be deemed approved. No casino gaming facility may commence casino gaming operations unless such standards of operation and management are approved by the commissioner or deemed approved.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_578b__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>No casino gaming facility shall revise any standards of operation and management that have been approved by the commissioner or deemed approved pursuant to subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_578b__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section unless the revision has been approved by the commissioner. If the commissioner fails to approve or reject a submitted revision not later than sixty days after the date on which the commissioner received such revision, such revision shall be deemed approved.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_578b__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>A casino gaming facility aggrieved by an action of the commissioner under the provisions of this section may request a hearing before the commissioner. The commissioner shall hold such hearing in accordance with the provisions of chapter 54.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_578b__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>The commissioner shall periodically review a casino gaming facility's compliance with state law and regulations governing casino gaming facilities.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

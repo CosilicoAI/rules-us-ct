@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-593"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-593"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17a-593"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-593/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-593/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-593/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-593/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319i">
+        <num>319i</num>
+        <heading>Connecticut HUSKY Plan</heading>
+        <section eId="sec_17a_593">
+          <num>17a-593</num>
+          <heading>(Formerly Sec. 17-257n). Court order to discharge acquittee from custody</heading>
+          <subsection eId="17a_593__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The board, pursuant to section17a-584or17a-592, may recommend to the court the discharge of the acquittee from custody or the acquittee may apply directly to the court for discharge from custody. The court shall send copies of the recommendation or application to the state's attorney and to counsel for the acquittee. An acquittee may apply for discharge not more than once every six months and no sooner than six months after the initial board hearing held pursuant to section17a-583.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_593__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The recommendation or application shall contain the dates on which any prior recommendations or applications for discharge had been filed with the court, the dates on which decisions thereon were rendered, and a statement of facts, including any change in circumstances since the determination on the most recent recommendation or application, sufficient to qualify the acquittee as a person who should be discharged. A recommendation by the board shall contain findings and conclusions to support the recommendation.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_593__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>If reasonable cause exists to believe that the acquittee remains a person with psychiatric disabilities or a person with intellectual disability to the extent that his discharge at the expiration of his maximum term of commitment would constitute a danger to himself or others, the state's attorney, at least one hundred thirty-five days prior to such expiration, may petition the court for an order of continued commitment of the acquittee.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_593__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>The court shall forward any application for discharge received from the acquittee and any petition for continued commitment of the acquittee to the board. The board shall, within ninety days of its receipt of the application or petition, file a report with the court, and send a copy thereof to the state's attorney and counsel for the acquittee, setting forth its findings and conclusions as to whether the acquittee is a person who should be discharged. The board may hold a hearing or take other action appropriate to assist it in preparing its report.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_593__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>Within ten days of receipt of a recommendation for discharge filed by the board under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_593__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section or receipt of the board's report filed under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_593__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>of this section, either the state's attorney or counsel for the acquittee may file notice of intent to perform a separate examination of the acquittee. An examination conducted on behalf of the acquittee may be performed by a psychiatrist or psychologist of the acquittee's own choice and shall be performed at the expense of the acquittee unless he is indigent. If the acquittee is indigent, the court shall provide him with the services of a psychiatrist or psychologist to perform the examination at the expense of the state. Any such separate examination report shall be filed with the court within thirty days of the notice of intent to perform the examination. To facilitate examinations of the acquittee, the court may order him placed in the temporary custody of any hospital for psychiatric disabilities or other suitable facility or placed with the Commissioner of Developmental Services.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_593__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>After receipt of the board's report and any separate examination reports, the court shall promptly commence a hearing on the recommendation or application for discharge or petition for continued commitment. At the hearing, the acquittee shall have the burden of proving by a preponderance of the evidence that the acquittee is a person who should be discharged.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_593__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>The court shall make a finding as to the mental condition of the acquittee and, considering that its primary concern is the protection of society and its secondary concern is the safety and well-being of the acquittee, make one of the following orders:</p>
+            </content>
+            <paragraph eId="17a_593__subsec_g__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>If the court finds that the acquittee is not a person who should be discharged, the court shall order the recommendation or application for discharge be dismissed; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_593__subsec_g__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>if the court finds that the acquittee is a person who should be discharged, the court shall order the acquittee discharged from custody. The court shall send a copy of such finding and order to the board.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

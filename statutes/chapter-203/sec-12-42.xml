@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-42"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-42"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-42"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-42/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-42/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-42/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-42/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_203">
+        <num>203</num>
+        <heading>Property Tax Assessment</heading>
+        <section eId="sec_12_42">
+          <num>12-42</num>
+          <heading>Extension for filing declaration. Assessor preparation of declaration when none filed</heading>
+          <subsection eId="12_42__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Any person required by law to file an annual declaration of personal property may request a filing extension with the assessor of the municipality. Such request shall be made on or before the first day of November in writing, including by electronic filing if the municipality is able to and agrees to accept electronic filing under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_42__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>of section12-41. When the first day of November is a Saturday or Sunday, the declaration or extension request may be filed or postmarked the next business day following. The assessor may grant an extension of not more than forty-five days to file the declaration required pursuant to section12-41upon determination that there is good cause.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_42__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>If no declaration is filed, the assessor shall fill out a declaration including all property that the assessor has reason to believe is owned by the person for whom such declaration is prepared, liable to taxation, at the percentage of its actual valuation, as determined by the assessor in accordance with the provisions of sections12-63and12-71, from the best information the assessor can obtain, and add thereto twenty-five per cent of such assessment.
+See Sec. 12-54 re assessors' examination of persons failing to return list of taxable property.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

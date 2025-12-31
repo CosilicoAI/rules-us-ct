@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-701"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-701"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17a-701"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-701/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-701/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-701/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-701/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319j">
+        <num>319j</num>
+        <heading>Health Care For Uninsured Children</heading>
+        <section eId="sec_17a_701">
+          <num>17a-701</num>
+          <heading>(Formerly Sec. 19a-127j). Modification of sentence or terms of probation prior to completion of treatment program by convicted person</heading>
+          <subsection eId="17a_701__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The court shall conduct a hearing to determine if the sentence or terms of probation should be modified if the Court Support Services Division, after a report from the director of the treatment program, notifies the clerk of the court that a person being treated pursuant to section17a-699</p>
+            </content>
+            <paragraph eId="17a_701__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>has committed a violent act against another person at the treatment program facility or a violent act that damages property at the treatment program facility,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_701__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>has threatened to commit such a violent act,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_701__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>has committed a serious violation of rules of the treatment program,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_701__subsec_a__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>has repeatedly committed violations of program rules that inhibit the person's ability to function in the program,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_701__subsec_a__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>has continually refused to participate in the program,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_701__subsec_a__subsec_6">
+              <num>(6)</num>
+              <content>
+                <p>has asked to be removed from the program, or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_701__subsec_a__subsec_7">
+              <num>(7)</num>
+              <content>
+                <p>is unable to participate in the treatment program because of a medical or psychosocial condition that is not appropriately treated by the program operated by the facility. The director of the treatment program has the burden of establishing facts to support his report to the Court Support Services Division.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17a_701__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>A person who has not completed treatment may not be discharged sooner than four days after the Court Support Services Division is notified of the proposed discharge, except that if immediate discharge from treatment is necessary to protect the health or safety of persons in the program or staff of the program, the person may be discharged less than four days after notification with the agreement of the Court Support Services Division.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

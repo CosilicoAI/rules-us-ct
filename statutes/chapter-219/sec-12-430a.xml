@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-430a"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-430a"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-430a"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-430a/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-430a/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-430a/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-430a/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_219">
+        <num>219</num>
+        <heading>Motor Vehicle Fuels Tax</heading>
+        <section eId="sec_12_430a">
+          <num>12-430a</num>
+          <heading>Determination of sales tax on certain construction equipment or machinery when such equipment or machinery is traded in on purchase</heading>
+          <content>
+            <p>Sec. 12-430a. Determination of sales tax on certain construction equipment or machinery when such equipment or machinery is traded in on purchase.In any sale at retail of construction equipment or machinery, the source of power for which is an integral part of any individual unit of such equipment or machinery, which sale is made by a retailer of such equipment or machinery who accepts a trade-in of such equipment or machinery in such sale, the sales tax with respect to such sale shall not be applicable to the entire purchase price of such equipment or machinery but shall be imposed on the difference between such purchase price and the amount allowed by the retailer on such equipment or machinery traded in as a credit against the entire purchase price of such equipment or machinery purchased. When any such equipment or machinery traded in is subsequently sold to a consumer or user, the tax imposed under this chapter shall be applicable to such sale.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

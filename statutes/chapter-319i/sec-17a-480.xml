@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-480"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-480"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17a-480"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-480/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-480/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-480/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-480/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319i">
+        <num>319i</num>
+        <heading>Connecticut HUSKY Plan</heading>
+        <section eId="sec_17a_480">
+          <num>17a-480</num>
+          <heading>(Formerly Sec. 17-226g). Regional mental health directors</heading>
+          <content>
+            <p>Sec. 17a-480. (Formerly Sec. 17-226g). Regional mental health directors.The Department of Mental Health and Addiction Services, in consultation with regional behavioral health action organizations, established pursuant to section17a-484f, (1) may purchase services from other public agencies and from municipal and private agencies, (2) shall supervise, plan and coordinate mental health services with the goal of improving and expanding existing services and providing new ones, (3) shall develop joint programs in conformity with Department of Mental Health and Addiction Services standards, (4) shall make recommendations concerning all requests for grants and all contract proposals emanating from the regions, (5) shall evaluate mental health service delivery and monitor such services to ensure that they are in conformity with the plans and policies of the Department of Mental Health and Addiction Services, and (6) shall report annually to the Board of Mental Health and Addiction Services on the status of programs and needs of the regions.
+See Sec. 17a-478 re establishment of mental health regions.
+See Sec. 17a-482 for applicable definitions.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

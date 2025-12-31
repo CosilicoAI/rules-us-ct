@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-119a"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-119a"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-119a"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-119a/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-119a/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-119a/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-119a/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_203">
+        <num>203</num>
+        <heading>Property Tax Assessment</heading>
+        <section eId="sec_12_119a">
+          <num>12-119a</num>
+          <heading>Waiver of addition to assessments. Municipal option to reduce addition to assessments</heading>
+          <subsection eId="12_119a__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Any municipality may, by ordinance, provide that the assessor or board of assessors, in the case of any amount added to an assessment pursuant to section12-42,12-43or12-53, or the board of assessment appeals, in the case of any amount added to an assessment pursuant to section12-111or12-115, may waive the addition to any assessment of the twenty-five per cent additional amount. Any such ordinance shall delineate the reasons for which such waiver may be granted and shall provide for the publication of a list of all such waivers granted.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_119a__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Any municipality may, by ordinance, provide that the additional amount added to any assessment pursuant to section12-42,12-43,12-53,12-111or12-115shall equal ten per cent of a taxpayer's assessment rather than the twenty-five per cent additional amount as required by said sections. Such ordinance shall specify that a ten per cent addition to any assessment shall be allowed only if</p>
+            </content>
+            <paragraph eId="12_119a__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>a taxpayer filed a personal property declaration within the time period designated in section12-41, and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_119a__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>the declaration as filed included complete and accurate information as to the total number and types of items of property subject to taxation in the taxpayer's name. A taxpayer shall be required to establish to the satisfaction of the assessor, board of assessors or board of assessment appeals, as the case may be, that the conditions set forth in the ordinance have been met.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

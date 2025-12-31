@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-516"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-516"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-516"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-516/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-516/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-516/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-516/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_224">
+        <num>224</num>
+        <heading>Community Revitalization and Investment</heading>
+        <section eId="sec_12_516">
+          <num>12-516</num>
+          <heading>Forms</heading>
+          <content>
+            <p>Sec. 12-516. Forms.The commissioner shall design a form of return and forms for such additional statements or schedules as he may require to be filed therewith. Such forms shall provide for the setting forth of such facts as the commissioner may deem necessary for the proper enforcement of this chapter. He shall cause a supply thereof to be printed and shall furnish appropriate blank forms to each taxpayer upon application or otherwise as he may deem necessary. Failure to receive a form shall not relieve any taxpayer from the obligation to file a return under the provisions of this chapter. Each such return shall be signed by the taxpayer, or by a guardian, receiver, referee, trustee, assignee or other fiduciary or any officer or agent appointed by any court to conduct the business or conserve the assets of any taxpayer.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

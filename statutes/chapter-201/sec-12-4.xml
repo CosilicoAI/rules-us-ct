@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-4"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-4"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-4"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-4/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-4/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-4/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-4/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_201">
+        <num>201</num>
+        <heading>State and Local Revenue Services. Department of Revenue Services</heading>
+        <section eId="sec_12_4">
+          <num>12-4</num>
+          <heading>Proceedings against delinquent tax officers</heading>
+          <content>
+            <p>Sec. 12-4. Proceedings against delinquent tax officers.If the Secretary of the Office of Policy and Management ascertains that the assessors or board of assessment appeals or any official charged with any of the duties imposed on assessors or boards of assessment appeals, or the tax collector, treasurer or any official authorized to fix a rate of tax in any town, city or borough or other taxing district, fails to discharge his or its administrative duty according to law, said secretary may in writing call such failure to the attention of each such board or member thereof or official failing to perform its or his duties. If such board or official fails to comply thereafter with the law with respect to which attention has been so called in writing, the secretary may apply to the superior court in the judicial district wherein such board or official has jurisdiction or, in case the Superior Court is not in session, to a judge thereof, setting forth such failure, and the judge or court, as the case may be, upon ascertaining the facts stated in such application to be true, shall issue an order in the nature of a mandamus requiring compliance with the provisions of the statute particularly mentioned in such application, and shall render judgment against any official, board or person who has so failed, with costs, as in mandamus proceedings. Any person who fails to comply with any order so issued shall be in contempt and said court or such judge may punish him therefor as in mandamus proceedings. Any person claiming to be aggrieved by any order issued by authority of the provisions of section12-2and of this section shall have the same right of appeal to the Appellate Court as in mandamus cases.
+See Sec. 12-1c re transfer of certain functions, powers and duties under this chapter to the Secretary of the Office of Policy and Management.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

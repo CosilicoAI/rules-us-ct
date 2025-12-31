@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-39cc"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-39cc"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-39cc"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-39cc/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-39cc/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-39cc/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-39cc/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_202">
+        <num>202</num>
+        <heading>Collection of State Taxes</heading>
+        <section eId="sec_12_39cc">
+          <num>12-39cc</num>
+          <heading>Data match system with financial institutions</heading>
+          <subsection eId="12_39cc__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The Commissioner of Revenue Services and financial institutions, as defined in Section 469A</p>
+            </content>
+          </subsection>
+          <subsection eId="12_39cc__subsec_d">
+            <num>(d)</num>
+            <paragraph eId="12_39cc__subsec_d__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>of the Social Security Act, as amended from time to time, doing business in this state, shall develop and operate a data match system using automated data exchanges to the maximum extent feasible and enter into agreements regarding the administration of such system. The commissioner may waive, for any financial institution, the requirement to enter into such agreement. Notwithstanding the provisions of section12-15, the commissioner or the commissioner's designee shall provide to each financial institution a list of taxpayers who owe taxes to the state, which taxes are finally due and payable and with respect to which every administrative or judicial remedy, or both, has been exhausted or has lapsed. Such list shall include each taxpayer's address, Social Security number or other taxpayer identification number and such other information as may be necessary or convenient for the administration of the data match system. Not later than ninety days after receipt of such list from the commissioner, each financial institution shall provide the commissioner with account information for those taxpayers who appear on the commissioner's list and who maintain an account with such financial institution, including the taxpayer's name, the address and Social Security number or other taxpayer identification number associated with each such account, the account number and balance in each such account and such other information as may be required by the commissioner for the purposes of administering the data match system. For the purposes of this section, “account” means a demand deposit account, checking or negotiable order of withdrawal account, savings account, time deposit account or money market mutual fund account.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_39cc__subsec_b">
+            <num>(b)</num>
+            <paragraph eId="12_39cc__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>A financial institution shall not be liable to any person for (A) disclosing information to the commissioner or the commissioner's designee pursuant to this section, or (B) any other action taken in good faith to comply with the requirements of subsection</p>
+              </content>
+              <subparagraph eId="12_39cc__subsec_b__subsec_1__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>disclosing information to the commissioner or the commissioner's designee pursuant to this section, or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_39cc__subsec_b__subsec_1__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>any other action taken in good faith to comply with the requirements of subsection</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_39cc__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section.</p>
+            </content>
+            <paragraph eId="12_39cc__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>Notwithstanding the provisions of section12-15, a financial institution may provide return information received pursuant to the data match system to (A) a service provider engaged by the financial institution to carry out the data processing and data receipt and transmission functions, to the extent necessary for the financial institution to comply with the requirements of subsection</p>
+              </content>
+              <subparagraph eId="12_39cc__subsec_a__subsec_2__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>a service provider engaged by the financial institution to carry out the data processing and data receipt and transmission functions, to the extent necessary for the financial institution to comply with the requirements of subsection</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_39cc__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section, and (B) an authorized representative of a government regulatory authority having jurisdiction over the financial institution, to the extent required by such representative in the course of such representative's duties. No person receiving return information pursuant to this subdivision shall further disclose such return information.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

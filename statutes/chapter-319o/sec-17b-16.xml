@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-16"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-16"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17b-16"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-16/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-16/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-16/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-16/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319o">
+        <num>319o</num>
+        <heading>Personal Care Assistance</heading>
+        <section eId="sec_17b_16">
+          <num>17b-16</num>
+          <heading>(Formerly Sec. 17-12t). Information and assistance to be provided re federal earned income credit. Promotion of greater utilization of federal earned income credit</heading>
+          <content>
+            <p>Sec. 17b-16. (Formerly Sec. 17-12t). Information and assistance to be provided re federal earned income credit. Promotion of greater utilization of federal earned income credit.The Labor Department, in cooperation with the Department of Social Services, shall provide information and assistance in obtaining, within available appropriations, the federal earned income credit established pursuant to 26 USC 32, to each applicant for or recipient of assistance from the department. The Labor Department, in cooperation with the Department of Revenue Services, shall promote the earned income credit program to recipients of benefits pursuant to section17b-112. The Department of Social Services, in consultation with the Child Poverty and Prevention Council established in section4-67x, shall, within available appropriations, promote greater utilization of the federal earned income credit to municipalities, public and private employers, community-based organizations and other entities that have frequent contact with low-income families and shall enhance financial literacy and self-sufficiency programs. School and business partnership funds, private funds and other available funds may be used for purposes of this section.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

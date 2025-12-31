@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-563a"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-563a"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-563a"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-563a/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-563a/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-563a/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-563a/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_226">
+        <num>226</num>
+        <heading>Prepared Food and Beverage Tax</heading>
+        <section eId="sec_12_563a">
+          <num>12-563a</num>
+          <heading>Informational materials re programs for prevention, treatment and rehabilitation of chronic gamblers</heading>
+          <content>
+            <p>Sec. 12-563a. Informational materials re programs for prevention, treatment and rehabilitation of chronic gamblers.The Commissioner of Consumer Protection shall, within available resources, prepare and distribute informational materials designed to inform the public of the programs available for the prevention, treatment and rehabilitation of compulsive gamblers in this state. The commissioner shall require any casino gaming facility and any person or business organization which is licensed to sell lottery tickets, operate an off-track betting system or conduct wagering on racing events or jai alai games or conduct retail sports wagering, to display such informational materials at the casino gaming facility and each licensed premise or retail sports wagering facility, respectively.
+See Sec. 12-818 re Connecticut Lottery Corporation funding mechanism for educational, prevention and treatment programs for chronic gamblers.
+See Sec. 17a-713 re chronic gamblers program operated by Department of Mental Health and Addiction Services.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

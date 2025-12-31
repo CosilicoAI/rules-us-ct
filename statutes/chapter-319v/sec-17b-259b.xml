@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-259b"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-259b"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17b-259b"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-259b/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-259b/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-259b/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-259b/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319v">
+        <num>319v</num>
+        <heading>Temporary Assistance for Needy Families</heading>
+        <section eId="sec_17b_259b">
+          <num>17b-259b</num>
+          <heading>“Medically necessary” and “medical necessity” defined. Notice of denial of services. Regulations</heading>
+          <subsection eId="17b_259b__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>For purposes of the administration of the medical assistance programs by the Department of Social Services, “medically necessary” and “medical necessity” mean those health services required to prevent, identify, diagnose, treat, rehabilitate or ameliorate an individual's medical condition, including mental illness, or its effects, in order to attain or maintain the individual's achievable health and independent functioning provided such services are:</p>
+            </content>
+            <paragraph eId="17b_259b__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>Consistent with generally-accepted standards of medical practice that are defined as standards that are based on (A) credible scientific evidence published in peer-reviewed medical literature that is generally recognized by the relevant medical community, (B) recommendations of a physician-specialty society, (C) the views of physicians practicing in relevant clinical areas, and (D) any other relevant factors;</p>
+              </content>
+              <subparagraph eId="17b_259b__subsec_a__subsec_1__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>credible scientific evidence published in peer-reviewed medical literature that is generally recognized by the relevant medical community,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17b_259b__subsec_a__subsec_1__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>recommendations of a physician-specialty society,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17b_259b__subsec_a__subsec_1__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>the views of physicians practicing in relevant clinical areas, and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17b_259b__subsec_a__subsec_1__subsec_D">
+                <num>(D)</num>
+                <content>
+                  <p>any other relevant factors;</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="17b_259b__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>clinically appropriate in terms of type, frequency, timing, site, extent and duration and considered effective for the individual's illness, injury or disease;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_259b__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>not primarily for the convenience of the individual, the individual's health care provider or other health care providers;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_259b__subsec_a__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>not more costly than an alternative service or sequence of services at least as likely to produce equivalent therapeutic or diagnostic results as to the diagnosis or treatment of the individual's illness, injury or disease; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_259b__subsec_a__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>based on an assessment of the individual and his or her medical condition.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_259b__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Clinical policies, medical policies, clinical criteria or any other generally accepted clinical practice guidelines used to assist in evaluating the medical necessity of a requested health service shall be used solely as guidelines and shall not be the basis for a final determination of medical necessity.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_259b__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Upon denial of a request for authorization of services based on medical necessity, the individual shall be notified that, upon request, the Department of Social Services shall provide a copy of the specific guideline or criteria, or portion thereof, other than the medical necessity definition provided in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_259b__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section, that was considered by the department or an entity acting on behalf of the department in making the determination of medical necessity.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_259b__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>The Department of Social Services shall amend or repeal any definitions in the regulations of Connecticut state agencies that are inconsistent with the definition of medical necessity provided in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_259b__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section, including the definitions of medical appropriateness and medically appropriate, that are used in administering the department's medical assistance program. The commissioner shall implement policies and procedures to carry out the provisions of this section while in the process of adopting such policies and procedures in regulation form, provided notice of intent to adopt the regulations is published in the Connecticut Law Journal not later than twenty days after implementation. Such policies and procedures shall be valid until the time the final regulations are adopted.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

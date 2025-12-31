@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-267"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-267"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17b-267"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-267/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-267/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-267/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-267/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319v">
+        <num>319v</num>
+        <heading>Temporary Assistance for Needy Families</heading>
+        <section eId="sec_17b_267">
+          <num>17b-267</num>
+          <heading>(Formerly Sec. 17-134h). Use of fiscal intermediaries in connection with medical assistance</heading>
+          <subsection eId="17b_267__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>If any group or association of providers of medical assistance services wishes to have payments as provided for under sections17b-260to17b-262, inclusive,17b-264to17b-285, inclusive, and17b-357to17b-361, inclusive, to such providers made through a national, state or other public or private agency or organization and nominates such agency or organization for this purpose, the Commissioner of Social Services is authorized to enter into an agreement with such agency or organization providing for the determination by such agency or organization, subject to such review by the Commissioner of Social Services as may be provided for by the agreement, of the payments required to be made to such providers at the rates set by the hospital cost commission, and for the making of such payments by such agency or organization to such providers. Such agreement may also include provision for the agency or organization to do all or any part of the following: With respect to the providers of services which are to receive payments through it,</p>
+            </content>
+            <paragraph eId="17b_267__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>to serve as a center for, and to communicate to providers, any information or instructions furnished to it by the Commissioner of Social Services, and to serve as a channel of communication from providers to the Commissioner of Social Services;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_267__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>to make such audits of the records of providers as may be necessary to insure that proper payments are made under this section; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_267__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>to perform such other functions as are necessary to carry out the provisions of sections17b-267to17b-271, inclusive.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_267__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The Commissioner of Social Services shall not enter into an agreement with any agency or organization under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_267__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section unless</p>
+            </content>
+            <paragraph eId="17b_267__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>he finds (A) that to do so is consistent with the effective and efficient administration of the medical assistance program, and (B) that such agency or organization is willing and able to assist the providers to which payments are made through it in the application of safeguards against unnecessary utilization of services furnished by them to individuals entitled to hospital insurance benefits under section17b-261and the agreement provides for such assistance, and</p>
+              </content>
+              <subparagraph eId="17b_267__subsec_a__subsec_1__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>that to do so is consistent with the effective and efficient administration of the medical assistance program, and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17b_267__subsec_a__subsec_1__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>that such agency or organization is willing and able to assist the providers to which payments are made through it in the application of safeguards against unnecessary utilization of services furnished by them to individuals entitled to hospital insurance benefits under section17b-261and the agreement provides for such assistance, and</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="17b_267__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>such agency or organization agrees to furnish to the Commissioner of Social Services such of the information acquired by it in carrying out its agreement under sections17b-267to17b-271, inclusive, as the Commissioner of Social Services may find necessary in performing his functions under said sections.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_267__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>An agreement with any agency or organization under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_267__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section may contain such terms and conditions as the Commissioner of Social Services finds necessary or appropriate, may provide for advances of funds to the agency or organization for the making of payments by it under said subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_267__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>, and shall provide for payment by the Commissioner of Social Services of so much of the cost of administration of the agency or organization as is determined by the Commissioner of Social Services to be necessary and proper for carrying out the functions covered by the agreement.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

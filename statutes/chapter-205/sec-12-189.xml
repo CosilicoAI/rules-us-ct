@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-189"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-189"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-189"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-189/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-189/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-189/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-189/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_205">
+        <num>205</num>
+        <heading>Tax Liens</heading>
+        <section eId="sec_12_189">
+          <num>12-189</num>
+          <heading>Right of redemption. Title to vest upon failure to redeem. Certificate of redemption</heading>
+          <content>
+            <p>Sec. 12-189. Right of redemption. Title to vest upon failure to redeem. Certificate of redemption.Any person, including the state or a municipality, other than the one foreclosing, having any title to or interest in any property described in such list, may redeem such parcel by the payment of the amounts due upon tax liens thereon as stated in the list, with the addition of such interest, lien fees and other charges thereon as have accrued since the filing of the petition, before the expiration of the period fixed for redemption. In the event of a failure to redeem the property within the period allowed, the owner of any piece of land not marked “Withdrawn”, as hereinbefore provided, and all parties and their respective heirs, successors, assigns, executors, administrators, guardians, conservators, representatives, trustees and successors in title, including any municipality not joined in the proceeding, having any interest therein shall be barred and forever foreclosed of their rights, title and interest in and to such property. Upon the redemption of any such parcel of property, the person redeeming shall be entitled to a certificate, in triplicate, that it has been redeemed, signed by the tax collector of the municipality to which the taxes are due, describing the property in the same manner in which it is described in the list, and reciting his name, together with the names of any other parties having an interest in such parcel, with the date and the amount of the payment made by him to effect such redemption. Such certificate shall be filed for record with the town clerk and with the clerk of the court and, upon the filing of such certificate with the latter, he shall note such redemption, stating the name of the person redeeming and the amount and date of such payment opposite the description of the property on the list.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

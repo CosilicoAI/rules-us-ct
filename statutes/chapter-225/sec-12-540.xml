@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-540"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-540"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-540"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-540/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-540/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-540/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-540/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_225">
+        <num>225</num>
+        <heading>Room Occupancy Tax</heading>
+        <section eId="sec_12_540">
+          <num>12-540</num>
+          <heading>Definitions</heading>
+          <content>
+            <p>Sec. 12-540. Definitions.Whenever used in this chapter:
+(1) “Person” means and includes any individual, firm, copartnership, joint venture, association of persons however formed, social club, fraternal organization, corporation, limited liability company, estate, trust, fiduciary, receiver, trustee, syndicate, the United States, this state or any political subdivision thereof or any group or combination acting as a unit, and any other individual or officer acting under the authority of any court in this state;
+(2) “Taxpayer” means any person as defined in subdivision (1) of this section who is subject to any tax imposed by this chapter;
+(3) “Admission charge” means the amount paid, whether in the form of a ticket price, license fee, skybox, luxury suite or club seat rental charge or purchase price, or otherwise, for the right or privilege to have access to a place or location where amusement, entertainment or recreation is provided, exclusive of any charges for instruction, and including any preferred seat license fee or any other payment required in order to have the right to purchase seats or secure admission to any such place or location. Places of amusement, entertainment or recreation include, but are not limited to, theaters, motion picture shows, auditoriums where lectures and concerts are given, amusement parks, fairgrounds, race tracks, dance halls, ball parks, stadiums, amphitheaters, convention centers, golf courses, miniature golf courses, tennis courts, skating rinks, swimming pools, bathing beaches, gymnasiums, auto shows, boat shows, camping shows, home shows, dog shows and antique shows;
+(4) “Dues” shall include assessment charges to members irrespective of the purpose for which made and any charges for social, athletic or sporting privileges or facilities for any period of more than six days but not including charges made for instruction, charges for locker rental or charges for special assessments made (A) for the construction or reconstruction of any social, athletic or sporting facility or any increase in charges made after June 29, 1999, which increase is to be used for the acquisition of land provided such land is “farm land”, “open space land” or “forest land”, as defined in section12-107b, and further provided that an application or applications pursuant to section12-107c,12-107dor12-107eare made for the assessment list next following the acquisition of such land, or (B) for the construction or reconstruction of any capital addition to any such facility, or (C) furnishings or fixtures, including installation charges, for any such facility, to the extent that such furnishings or fixtures are required, by reason of the construction or reconstruction described in subparagraph (A) or (B) of this subdivision, for the use of such facility upon completion of such construction or reconstruction; except that, in the case of any such amount which is not expended for such construction, reconstruction, furnishings or fixtures, including installation charges, within three years after the date of payment of such amount, the exemption provided by this subdivision shall cease to apply upon the expiration of such three-year period, and the club shall be liable for any tax imposed by section12-543in respect of such payment, as if such payment had been made on the first day following the expiration of such three-year period;
+(5) “Initiation fees” shall include any payment, contribution or loan required as a condition precedent to membership whether or not any such payment, contribution or loan is evidenced by a certificate of interest or indebtedness or share of stock;
+(6) “Operating under a lodge system” means carrying on activities under a form of organization that comprises local branches, chartered by a parent organization and largely selfgoverning, called “lodges”, “chapters” or any similar title;
+(7) “Club” means any organization which is either owned or operated by its members, or both.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

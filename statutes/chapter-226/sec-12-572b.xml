@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-572b"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-572b"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-572b"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-572b/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-572b/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-572b/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-572b/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_226">
+        <num>226</num>
+        <heading>Prepared Food and Beverage Tax</heading>
+        <section eId="sec_12_572b">
+          <num>12-572b</num>
+          <heading>Advance deposit wagers. Penalties</heading>
+          <subsection eId="12_572b__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>For the purposes of this section, “advance deposit wager” means an off-track betting wager on racing events by means of telephone or other electronic means. Any advance deposit wager that originates or is placed from within the boundaries of the state shall be considered to be a wager made exclusively in the state.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_572b__subsec_b">
+            <num>(b)</num>
+            <paragraph eId="12_572b__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>No person or business organization, other than the authorized operator of the off-track betting system, shall conduct off-track betting in the state or accept off-track betting wagers or advance deposit wagers originating or placed from within the boundaries of the state.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_572b__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>A violation of subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_572b__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>of this subsection shall be an unfair trade practice pursuant to subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_572b__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of section42-110band any person or business organization that violates the provisions of said subdivision shall be further subject to the penalty for professional gambling, as provided in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_572b__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of section53-278b, and for transmission of gambling information, as provided in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_572b__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of section53-278d.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

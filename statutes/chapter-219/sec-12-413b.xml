@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-413b"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-413b"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-413b"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-413b/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-413b/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-413b/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-413b/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_219">
+        <num>219</num>
+        <heading>Motor Vehicle Fuels Tax</heading>
+        <section eId="sec_12_413b">
+          <num>12-413b</num>
+          <heading>Credit for capital resources provided to institutions of higher education for electronic commerce studies or work force development programs</heading>
+          <subsection eId="12_413b__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The chancellor of the Connecticut State Colleges and Universities may select a direct payment permit holder, as described in section12-409a, for a pilot program in accordance with the provisions of this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_413b__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>There shall be allowed a credit to such direct payment permit holder in an amount equal to the amount of a qualified investment, as defined in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_413b__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of this section, that is made on or after July 1, 2000, against the use tax liability that is incurred under this chapter by such holder in making purchases on or after July 1, 2000, of computer equipment to be used in this state in electronic commerce. The total amount of such credits allowed under this section shall not exceed four million dollars in the aggregate. No credit shall be allowed under this section unless the chancellor of the Connecticut State Colleges and Universities certifies, in a manner satisfactory to the Commissioner of Revenue Services, that a qualified investment has been made by the direct payment permit holder and that projects related to such investment have been completed. The Commissioner of Revenue Services may adopt regulations, in accordance with the provisions of chapter 54, which prescribe the procedures for the direct payment permit holder to claim the credit allowed under this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_413b__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>For purposes of this section, “qualified investment” means resources, including, but not limited to, cash, property or services provided by a direct payment permit holder to a public or private college or university in this state, for the design, planning, construction or renovation of buildings or classrooms, the acquisition of computer equipment or the acquisition of other property or licenses necessary for operation of computer programs which will be used in the instruction of students in business studies related to electronic commerce or in work force development programs.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-476c"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-476c"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-476c"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-476c/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-476c/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-476c/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-476c/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_221">
+        <num>221</num>
+        <heading>Real Estate Conveyance Tax</heading>
+        <section eId="sec_12_476c">
+          <num>12-476c</num>
+          <heading>Duties of master of barge or tanker. Invoice or bill of sale</heading>
+          <content>
+            <p>Sec. 12-476c. Duties of master of barge or tanker. Invoice or bill of sale.The commissioner or his authorized agent may at any time during normal business hours inspect the books of any carrier to determine if the requirements of this section are being complied with properly. The master or other person in charge of any barge, tanker or other vessel in which fuel is being transported, other than the fuel being transported for use in operating the engine which propels such vessel, shall have in his possession an invoice, bill of sale or other evidence showing the name and address of the consignor or person from which such fuel was received by him, and the name and address of the consignee or person to whom he is to make delivery of the same, together with the number of gallons to be delivered to each such person, and shall upon the request of any agent of the commissioner produce such invoice, bill of sale or other record evidence for inspection. Any person who violates this section shall be fined five hundred dollars for each offense.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-226"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-226"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-226"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-226/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-226/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-226/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-226/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_208">
+        <num>208</num>
+        <heading>Estate Taxes</heading>
+        <section eId="sec_12_226">
+          <num>12-226</num>
+          <heading>Correction of returns; additional tax; refunds</heading>
+          <subsection eId="12_226__subsec_a">
+            <num>(a)</num>
+            <paragraph eId="12_226__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>Any company whose income, profits or earnings are changed, adjusted or corrected for any income year by any official of the United States government, or any agency thereof, in any respect affecting the tax imposed by this part, shall provide notice of such change, adjustment or correction to the commissioner by filing, on or before the date that is ninety days after the final determination of such change, adjustment or correction, or as otherwise required by the commissioner, an amended return under this chapter, and shall concede the accuracy of such determination or state wherein it is erroneous, and thereafter promptly furnish to the commissioner any information, schedules, records, documents or papers relating to such change, adjustment or correction as the commissioner requires. The time for filing such return may be extended by the commissioner upon due cause shown. If, upon examination, the commissioner finds that the company is liable for the payment of an additional tax, the commissioner shall, within a reasonable time from the receipt of such return, notify the company of the amount of such additional tax, together with interest thereon computed at the rate of one per cent per month or fraction thereof from the date when the original tax became due and payable. Within thirty days of the mailing of such notice, the company shall pay to the commissioner, in cash or by check, draft or money order, drawn to the order of the Commissioner of Revenue Services, the amount of such additional tax and interest. If, upon examination of such return and related information, the commissioner finds that the company has overpaid the tax due the state and has not received from or been allowed by the United States government, or any agency thereof, a credit or a benefit as a deduction or otherwise, for or by reason of such overpayment, the State Treasurer shall pay the company, upon order of the State Comptroller, the amount of such overpayment. If the commissioner determine</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_226__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>of this subsection.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_226__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>On or before the sixtieth day after the mailing of the proposed disallowance, the company may file with the commissioner a written protest against the proposed disallowance in which it sets forth the grounds on which the protest is based. If a protest is filed, the commissioner shall reconsider the proposed disallowance and, if the company has so requested, may grant or deny the company or its authorized representatives an oral hearing.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_226__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>The commissioner shall mail notice of his determination to the company, which notice shall set forth briefly the commissioner's findings of fact and the basis of decision in each case decided in whole or in part adversely to the company.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_226__subsec_a__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>The action of the commissioner on the company's protest shall be final upon the expiration of one month from the date on which he mails notice of his action to the company unless within such period the company seeks judicial review of the commissioner's determination pursuant to section12-237.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_226__subsec_b">
+            <num>(b)</num>
+            <paragraph eId="12_226__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>Any company filing an amended return with any official of the United States government, or any agency thereof, shall make an amended return to the commissioner on or before the date that is ninety days after the final determination is made on the amended return by such federal official or agency. The commissioner shall treat any such amended return reporting a tax overpayment as filed in processible form, as described in subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_226__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of section12-227, after proof of such final determination on such amended federal return by such federal official or agency is submitted to the commissioner. The time for filing such amended return may be extended by the commissioner upon due cause shown. If, upon examination, the commissioner finds that the company is liable for the payment of an additional tax, the commissioner shall, within a reasonable time from the receipt of such amended return, notify the company of the amount of such additional tax, together with interest thereon computed at the rate of one per cent per month or fraction thereof from the date when the original tax became due and payable. Within thirty days of the mailing of such notice, the company shall pay to the commissioner, in cash or by check, draft or money order, drawn to the order of the Commissioner of Revenue Services, the amount of such additional tax and interest. If, upon examination of such amended return and related information, the commissioner finds that the company has overpaid the tax due the state and has not received from or been allowed by the United States government, or any agency thereof, a credit or a benefit, as a deduction or otherwise, for or by reason of such overpayment, the company shall be paid by the State Treasurer, upon order of the Comptroller, the amount of such overpayment. If the commissioner determines that the company's claim of overpayment is not valid, either in whole or in part, the commissioner shall mail notice of the proposed disallowance in whole or in part of the claim to the company, which notice shall set forth briefly the commissioner's findings of fact and the basis of disallowance in each case decided in whole or in part adversely to the claimant. Sixty days after the date on which it is mailed, a notice of proposed disallowance shall constitute a final disallowance except only for such amounts as to which the company has filed, as provided in subdivision</p>
+            </content>
+            <paragraph eId="12_226__subsec_c__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>of this subsection, a written protest with the commissioner.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_226__subsec_c__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>On or before the sixtieth day after the mailing of the proposed disallowance, the company may file with the commissioner a written protest against the proposed disallowance in which it sets forth the grounds on which the protest is based. If a protest is filed, the commissioner shall reconsider the proposed disallowance and, if the company has so requested, may grant or deny the company or its authorized representatives an oral hearing.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_226__subsec_c__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>The commissioner shall mail notice of his determination to the company, which notice shall set forth briefly the commissioner's findings of fact and the basis of decision in each case decided in whole or in part adversely to the company.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_226__subsec_c__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>The action of the commissioner on the company's protest shall be final upon the expiration of one month from the date on which he mails notice of his action to the company unless within such period the company seeks judicial review of the commissioner's determination pursuant to section12-237.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

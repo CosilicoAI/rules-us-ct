@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-470"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-470"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17a-470"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-470/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-470/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-470/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-470/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319i">
+        <num>319i</num>
+        <heading>Connecticut HUSKY Plan</heading>
+        <section eId="sec_17a_470">
+          <num>17a-470</num>
+          <heading>(Formerly Sec. 17-213a). Advisory boards for state-operated facilities</heading>
+          <content>
+            <p>Sec. 17a-470. (Formerly Sec. 17-213a). Advisory boards for state-operated facilities.Each state-operated facility for the treatment of persons with psychiatric disabilities or persons with substance use disorders, or both, shall have an advisory board appointed by the superintendent or director of the facility for terms to be decided by such superintendent or director. The superintendent or director shall appoint at least two persons with lived experience with a behavioral health disorder to the advisory board. In any case where the present number of members of an advisory board is less than the number of members designated by the superintendent or director of the facility, the superintendent or director shall appoint additional members to such board in accordance with this section in such manner that the terms of an approximately equal number of members shall expire in each odd-numbered year. The superintendent or director shall fill any vacancy that may occur for the unexpired portion of any term. No member shall serve more than two successive terms plus the balance of any unexpired term to which the member had been appointed. The superintendent or director of the facility shall be an ex-officio member of the advisory board. Each member of an advisory board of a state-operated facility within the Department of Mental Health and Addiction Services assigned a geographical territory shall be a resident of the assigned geographical territory. Members of said advisory boards shall receive no compensation for their services but shall be reimbursed for necessary expenses involved in the performance of their duties. At least one-third of such members shall be from regional behavioral health action organizations, established pursuant to section17a-484f, and at least one-third shall be members of the catchment area councils, as provided in section17a-483, for the catchment areas served by such facility, except that members serving as of October 1, 1977, shall serve out their terms.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

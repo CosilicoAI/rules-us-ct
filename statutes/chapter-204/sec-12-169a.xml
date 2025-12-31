@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-169a"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-169a"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-169a"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-169a/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-169a/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-169a/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-169a/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_204">
+        <num>204</num>
+        <heading>Local Levy and Collection of Taxes</heading>
+        <section eId="sec_12_169a">
+          <num>12-169a</num>
+          <heading>Motor vehicle property tax check-off for local scholarship fund</heading>
+          <subsection eId="12_169a__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>A municipality, by ordinance adopted by its legislative body, may establish a local scholarship fund to provide financial assistance for postsecondary education for residents of the municipality.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_169a__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Any municipality which establishes a local scholarship fund pursuant to subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_169a__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section shall establish a scholarship committee or designate an existing committee in the municipality to select, annually, the scholarship recipients.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_169a__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>A municipality may redesign and designate a place on its municipal motor vehicle property tax bill for taxpayers to check off amounts to donate to the local scholarship fund. The redesign of such tax bill shall be done so as to allow a taxpayer to voluntarily check off and donate an amount of at least one dollar. The donated amount shall not reduce the tax liability but shall be in addition to the amount otherwise due and payable. The redesign of the motor vehicle property tax bill shall be approved by the Office of Policy and Management prior to its use. The municipality may include an insert with its motor vehicle property tax bills which explains the scholarship fund and the check-off provision to the taxpayer. The town treasurer shall deposit all moneys collected as a result of the check-off in the fund and the treasurer may accept donations from other sources for purposes of the fund.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

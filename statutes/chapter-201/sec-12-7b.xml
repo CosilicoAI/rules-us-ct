@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-7b"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-7b"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-7b"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-7b/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-7b/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-7b/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-7b/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_201">
+        <num>201</num>
+        <heading>State and Local Revenue Services. Department of Revenue Services</heading>
+        <section eId="sec_12_7b">
+          <num>12-7b</num>
+          <heading>Reports of certain tax data by the commissioner to the Office of Fiscal Analysis. Tax expenditure report by the Office of Fiscal Analysis</heading>
+          <subsection eId="12_7b__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The Commissioner of Revenue Services shall, annually on or before the thirty-first day of December, submit to the legislative Office of Fiscal Analysis a report concerning certain state tax data, applicable with respect to the state fiscal year ending on the thirtieth day of June immediately preceding, as follows:</p>
+            </content>
+            <paragraph eId="12_7b__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>Sales and use tax data, including (A) gross receipts subject to sales tax, stated separately in relation to sales of</p>
+              </content>
+              <subparagraph eId="12_7b__subsec_a__subsec_1__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>gross receipts subject to sales tax, stated separately in relation to sales of</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_7b__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>any tangible personal property, (ii) the leasing or rental of tangible personal property, and (iii) the rendering of any services subject to said tax, (B) total revenue loss related to each of the separate provisions for exemption under chapter 219, and (C) total amount of tax collected with respect to each of the industrial classifications included in the Standard Industrial Classification Code in current use for purposes of certain statistical data by the Commissioner of Revenue Services;</p>
+            </content>
+            <paragraph eId="12_7b__subsec_i__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>Corporation business tax data, including (A) total net income and total net income apportioned to Connecticut for the most current income years with respect to which final data is available at the time of each such report, (B) amount of depreciation not allowed as a deduction in determining net income for purposes of said tax, (C) operating loss carry-overs, (D) credits and refunds, separately stated, for overpayments of taxes due in prior years and to be applicable to the most current income years with respect to which final data is available at the time of each such report, (E) number of accounts and total corporation tax attributable to determination in accordance with</p>
+              </content>
+              <subparagraph eId="12_7b__subsec_i__subsec_2__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>total net income and total net income apportioned to Connecticut for the most current income years with respect to which final data is available at the time of each such report,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_7b__subsec_i__subsec_2__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>amount of depreciation not allowed as a deduction in determining net income for purposes of said tax,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_7b__subsec_i__subsec_2__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>operating loss carry-overs,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_7b__subsec_i__subsec_2__subsec_D">
+                <num>(D)</num>
+                <content>
+                  <p>credits and refunds, separately stated, for overpayments of taxes due in prior years and to be applicable to the most current income years with respect to which final data is available at the time of each such report,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_7b__subsec_i__subsec_2__subsec_E">
+                <num>(E)</num>
+                <content>
+                  <p>number of accounts and total corporation tax attributable to determination in accordance with</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_7b__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>net income tax base, and (ii) the minimum tax base provisions under section12-219, and (F) total corporation tax attributable to each of the industrial classifications included in the Standard Industrial Classification Code in current use for purposes of certain statistical data by the Commissioner of Revenue Services;</p>
+            </content>
+            <paragraph eId="12_7b__subsec_i__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>Estate and gift tax data, including total taxes collected and the number of taxpayers, separately stated with respect to the estate tax and the gift tax;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_7b__subsec_i__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>Personal income tax data, including (A) all components of and adjustments to federal gross income, federal adjusted gross income and federal taxable income, separately stated, of Connecticut taxpayers, sorted into ten-thousand-dollar increments of federal adjusted gross income up to and including one hundred thousand dollars, into twenty-five-thousand-dollar increments of federal adjusted gross income from over one hundred thousand dollars up to and including two hundred thousand dollars and into one increment over two hundred thousand dollars of federal adjusted gross income, as derived from federal income tax returns, and (B) all components of and adjustments to Connecticut adjusted gross income and Connecticut taxable income, separately stated, of Connecticut taxpayers, sorted into ten-thousand-dollar increments of Connecticut adjusted gross income up to and including one hundred thousand dollars, into twenty-five-thousand-dollar increments of Connecticut adjusted gross income from over one hundred thousand dollars up to and including two hundred thousand dollars and into one increment over two hundred thousand dollars of Connecticut adjusted gross income, as derived from state personal income tax returns;</p>
+              </content>
+              <subparagraph eId="12_7b__subsec_i__subsec_4__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>all components of and adjustments to federal gross income, federal adjusted gross income and federal taxable income, separately stated, of Connecticut taxpayers, sorted into ten-thousand-dollar increments of federal adjusted gross income up to and including one hundred thousand dollars, into twenty-five-thousand-dollar increments of federal adjusted gross income from over one hundred thousand dollars up to and including two hundred thousand dollars and into one increment over two hundred thousand dollars of federal adjusted gross income, as derived from federal income tax returns, and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_7b__subsec_i__subsec_4__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>all components of and adjustments to Connecticut adjusted gross income and Connecticut taxable income, separately stated, of Connecticut taxpayers, sorted into ten-thousand-dollar increments of Connecticut adjusted gross income up to and including one hundred thousand dollars, into twenty-five-thousand-dollar increments of Connecticut adjusted gross income from over one hundred thousand dollars up to and including two hundred thousand dollars and into one increment over two hundred thousand dollars of Connecticut adjusted gross income, as derived from state personal income tax returns;</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_7b__subsec_i__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>Admissions and dues tax data, including the number of taxpayers and the total amount of tax collected, stated separately with respect to each of the taxes imposed under chapter 225;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_7b__subsec_i__subsec_6">
+              <num>(6)</num>
+              <content>
+                <p>Real estate conveyance tax data, including (A) the number of taxable transfers and the total amount of revenue, and (B) the amount of revenue attributable to categories of purchase price for such transfers of real estate, as follows:</p>
+              </content>
+              <subparagraph eId="12_7b__subsec_i__subsec_6__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>the number of taxable transfers and the total amount of revenue, and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_7b__subsec_i__subsec_6__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>the amount of revenue attributable to categories of purchase price for such transfers of real estate, as follows:</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_7b__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Under thirty thousand dollars, (ii) brackets of ten thousand dollars each from thirty thousand dollars up to two hundred thousand dollars, and (iii) two hundred thousand dollars and over; and</p>
+            </content>
+            <paragraph eId="12_7b__subsec_i__subsec_7">
+              <num>(7)</num>
+              <content>
+                <p>Data applicable to any state tax not included in subdivisions</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_7b__subsec_i__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>to</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_7b__subsec_i__subsec_6">
+              <num>(6)</num>
+              <content>
+                <p>, inclusive, of this subsection, including totals applicable to each such tax for (A) number of taxpayers, (B) payments in accordance with applicable penalty provisions for delinquency, and (C) taxes collected which became due in the preceding fiscal year.</p>
+              </content>
+              <subparagraph eId="12_7b__subsec_i__subsec_6__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>number of taxpayers,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_7b__subsec_i__subsec_6__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>payments in accordance with applicable penalty provisions for delinquency, and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_7b__subsec_i__subsec_6__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>taxes collected which became due in the preceding fiscal year.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_7b__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>In addition to the tax data to be included in the annual report submitted by the Commissioner of Revenue Services in accordance with subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_7b__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section, such report shall include data related to state taxes as follows:</p>
+            </content>
+            <paragraph eId="12_7b__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>The portion of sales and use tax receipts attributable to (A) sales of goods, (B) sales of services, (C) leases and (D) the use tax and</p>
+              </content>
+              <subparagraph eId="12_7b__subsec_a__subsec_1__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>sales of goods,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_7b__subsec_a__subsec_1__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>sales of services,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_7b__subsec_a__subsec_1__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>leases and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_7b__subsec_a__subsec_1__subsec_D">
+                <num>(D)</num>
+                <content>
+                  <p>the use tax and</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_7b__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>data showing annual corporation business tax liability in relation to certain characteristics of corporation business taxpayers. Such information concerning corporation business tax returns shall include data related to (A) schedules A, B, C, D and H and payments, refunds and assessments from such returns, to the extent that such information is included in such returns and (B) all corporations included on any list, for any income year commencing in 1989 and thereafter, which the department shall compile by beginning with the largest corporation business taxpayer for such year and continually adding the next largest taxpayer for such year until forty per cent of the total liability for said tax in such year is represented. Any data reported in accordance with this subsection shall be reported to the Office of Fiscal Analysis on compatible magnetic media, as determined by said office in consultation with the commissioner.</p>
+              </content>
+              <subparagraph eId="12_7b__subsec_a__subsec_2__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>schedules A, B, C, D and H and payments, refunds and assessments from such returns, to the extent that such information is included in such returns and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_7b__subsec_a__subsec_2__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>all corporations included on any list, for any income year commencing in 1989 and thereafter, which the department shall compile by beginning with the largest corporation business taxpayer for such year and continually adding the next largest taxpayer for such year until forty per cent of the total liability for said tax in such year is represented. Any data reported in accordance with this subsection shall be reported to the Office of Fiscal Analysis on compatible magnetic media, as determined by said office in consultation with the commissioner.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_7b__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The Commissioner of Revenue Services shall include in the annual report prepared in accordance with subsections</p>
+            </content>
+          </subsection>
+          <subsection eId="12_7b__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>and</p>
+            </content>
+          </subsection>
+          <subsection eId="12_7b__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section any data that would be useful in assessing the impact of a change in any state tax base resulting in an increase or decrease equal to ten per cent of the tax from such tax base or ten million dollars, whichever amount is less.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_7b__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>The Commissioner of Revenue Services shall submit to the legislative Office of Fiscal Analysis a monthly report concerning the sales and use taxes, including</p>
+            </content>
+            <paragraph eId="12_7b__subsec_d__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>gross receipts subject to sales tax, stated separately in respect to each category of sales, from sales of any tangible personal property, the leasing or rental of tangible personal property and the rendering of any services subject to said tax,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_7b__subsec_d__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>total consideration for purchases subject to the use tax, stated separately for each category, in respect to any tangible personal property, the leasing or rental of tangible personal property and the rendering of any services,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_7b__subsec_d__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>total amount of deductions related to each of the separate provisions for exemption under chapter 219 and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_7b__subsec_d__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>total amount of tax collected with respect to each of the industrial classifications included in the Standard Industrial Classification Code in current use for purposes of certain statistical data by the Commissioner of Revenue Services, provided the data required in this subdivision may, at the discretion of said commissioner be submitted, in lieu of the monthly submission as otherwise required in this section, within thirty days following the end of each calendar quarter commencing with the calendar quarter ending June 30, 1992.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_7b__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>On or before February 1, 2016, and biennially thereafter, the legislative Office of Fiscal Analysis shall, within available appropriations, prepare and submit a tax expenditure report to the joint standing committee of the General Assembly having cognizance of all matters relating to finance, revenue and bonding. For the purposes of this subsection, “tax expenditure” means a tax exemption, exclusion, deduction or credit created under the general statutes or a public act and resulting in less tax revenue to the state or municipalities than they would otherwise receive. Each such report shall provide the following information for each tax expenditure:</p>
+            </content>
+            <paragraph eId="12_7b__subsec_e__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>A description of the tax expenditure;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_7b__subsec_e__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>the year in which the tax expenditure was enacted, the purpose for its enactment and a summary of any amendments to the tax expenditure since its enactment;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_7b__subsec_e__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>the estimated state and municipal fiscal impact of the tax expenditure during each fiscal year of the then current biennium, and an estimate of the revenue that would result from repeal of the tax expenditure; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_7b__subsec_e__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>an estimate of the number of taxpayers receiving benefit from the tax expenditure. Upon receipt of each tax expenditure report the joint standing committee of the General Assembly having cognizance of matters relating to finance, revenue and bonding shall meet to receive and analyze the report.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_7b__subsec_f">
+            <num>(f)</num>
+            <paragraph eId="12_7b__subsec_f__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>The Office of Fiscal Analysis shall not make known in any manner any information obtained from any such report or inventory, or any information obtained pursuant to subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_7b__subsec_f__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>of this subsection which would allow the identification of any taxpayer or of the amount or source of income, profits, losses, expenditures or any particulars thereof set forth or disclosed in any return, statement or report required to be filed with or submitted to the commissioner which is discernible from such report or inventory, or from such information obtained pursuant to subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_7b__subsec_f__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>of this subsection, except as provided in this subsection. The Office of Fiscal Analysis may disclose such information to other state officers and employees when required in the course of duty. No such officer or employee shall make known any such information to any other person except as provided in this subsection. Any person who violates any provision of this subsection shall be fined not more than one thousand dollars or imprisoned not more than one year, or both.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_7b__subsec_f__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>(A) For purposes of revenue estimating and forecasting only, the Office of Fiscal Analysis may disclose information to any person under a contractual obligation to provide services for purposes of revenue estimating and forecasting to said office, but only to the extent necessary in connection with the providing of such services for purposes of revenue estimating and forecasting. No such person under a contractual obligation to provide such services to said office shall make known any such information to any other person, except as provided in this subsection.
+(B) For purposes of revenue estimating and forecasting only, the Office of Fiscal Analysis may request, and the Commissioner of Revenue Services shall provide, for each type of tax levied by the state, all available return information, as defined in subdivision</p>
+              </content>
+              <subparagraph eId="12_7b__subsec_f__subsec_2__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>For purposes of revenue estimating and forecasting only, the Office of Fiscal Analysis may disclose information to any person under a contractual obligation to provide services for purposes of revenue estimating and forecasting to said office, but only to the extent necessary in connection with the providing of such services for purposes of revenue estimating and forecasting. No such person under a contractual obligation to provide such services to said office shall make known any such information to any other person, except as provided in this subsection.</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_7b__subsec_f__subsec_2__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>For purposes of revenue estimating and forecasting only, the Office of Fiscal Analysis may request, and the Commissioner of Revenue Services shall provide, for each type of tax levied by the state, all available return information, as defined in subdivision</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_7b__subsec_f__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_7b__subsec_h">
+            <num>(h)</num>
+            <content>
+              <p>of section12-15, pertaining to such type of tax levied by the state, to said office, provided names, addresses, account and registration numbers, and, to the extent in excess of four digits, Standard Industrial Classification Manual codes and North American Industrial Classification System United States Manual codes shall first have been redacted from such return information by said commissioner.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

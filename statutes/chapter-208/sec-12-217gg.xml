@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-217gg"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-217gg"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-217gg"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-217gg/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-217gg/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-217gg/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-217gg/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_208">
+        <num>208</num>
+        <heading>Estate Taxes</heading>
+        <section eId="sec_12_217gg">
+          <num>12-217gg</num>
+          <heading>Tax credit for employment expansion project</heading>
+          <subsection eId="12_217gg__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>As used in this section:</p>
+            </content>
+            <paragraph eId="12_217gg__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>“Approved employment expansion project” means an employment expansion project approved by the commissioner pursuant to subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_217gg__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>of this section.</p>
+            </content>
+            <paragraph eId="12_217gg__subsec_e__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>“Commencement date” means the commencement date of the approved employment expansion project as provided in the certificate of eligibility issued by the commissioner pursuant to subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_217gg__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>of this section.</p>
+            </content>
+            <paragraph eId="12_217gg__subsec_f__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>“Commissioner” means the Commissioner of Economic and Community Development.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_217gg__subsec_f__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>“Constituent corporation” means any corporation that holds or has held an interest in the sponsor of an approved employment expansion project (A) as a general partner, limited partner, member or otherwise, and (B) is subject to tax under this chapter either directly or by virtue of holding an interest in such sponsor.</p>
+              </content>
+              <subparagraph eId="12_217gg__subsec_f__subsec_4__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>as a general partner, limited partner, member or otherwise, and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_217gg__subsec_f__subsec_4__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>is subject to tax under this chapter either directly or by virtue of holding an interest in such sponsor.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_217gg__subsec_f__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>“Employment expansion project” means a project: (A) That will result in the creation of at least four hundred new jobs in this state over a period of not more than five full income years following the income year in which the commencement date occurs; (B) for which the allowance to the constituent corporations of credits under this section will be necessary to attract the project to this state; (C) that will be economically viable and will generate direct and indirect economic benefits to the state; and (D) that is, in the judgment of the commissioner, consistent with the strategic economic development priorities of the state and the municipality or municipalities in which the new jobs are to be created.</p>
+              </content>
+              <subparagraph eId="12_217gg__subsec_f__subsec_5__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>That will result in the creation of at least four hundred new jobs in this state over a period of not more than five full income years following the income year in which the commencement date occurs;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_217gg__subsec_f__subsec_5__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>for which the allowance to the constituent corporations of credits under this section will be necessary to attract the project to this state;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_217gg__subsec_f__subsec_5__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>that will be economically viable and will generate direct and indirect economic benefits to the state; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_217gg__subsec_f__subsec_5__subsec_D">
+                <num>(D)</num>
+                <content>
+                  <p>that is, in the judgment of the commissioner, consistent with the strategic economic development priorities of the state and the municipality or municipalities in which the new jobs are to be created.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_217gg__subsec_f__subsec_6">
+              <num>(6)</num>
+              <content>
+                <p>“Income year” has the same meaning as provided in subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_217gg__subsec_f__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_217gg__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of section12-213.</p>
+            </content>
+            <paragraph eId="12_217gg__subsec_a__subsec_7">
+              <num>(7)</num>
+              <content>
+                <p>“New employee” means a person hired by a sponsor or a constituent corporation to fill a new job full-time in this state. A new employee does not include a person who was employed in Connecticut by a related person with respect to the sponsor or constituent corporation during the prior twelve months. The aggregate number of new employees at the end of any income year shall be equal to the excess, if any, of the (A) aggregate number of employees employed in this state by the sponsor and constituent corporations at the end of any income year, less (B) the aggregate number of employees employed in this state by the sponsor and constituent corporations on the commencement date.</p>
+              </content>
+              <subparagraph eId="12_217gg__subsec_a__subsec_7__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>aggregate number of employees employed in this state by the sponsor and constituent corporations at the end of any income year, less</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_217gg__subsec_a__subsec_7__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>the aggregate number of employees employed in this state by the sponsor and constituent corporations on the commencement date.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_217gg__subsec_a__subsec_8">
+              <num>(8)</num>
+              <content>
+                <p>“New job” means a full-time job that (A) did not exist in this state prior to the commencement date, and (B) is filled by a new employee. “New job” does not include a job created when an employee is shifted from an existing location in this state of the sponsor or any constituent corporation to such job.</p>
+              </content>
+              <subparagraph eId="12_217gg__subsec_a__subsec_8__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>did not exist in this state prior to the commencement date, and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_217gg__subsec_a__subsec_8__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>is filled by a new employee. “New job” does not include a job created when an employee is shifted from an existing location in this state of the sponsor or any constituent corporation to such job.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_217gg__subsec_a__subsec_9">
+              <num>(9)</num>
+              <content>
+                <p>“Sponsor” means a partnership, limited partnership, limited liability company or other entity that is treated as a pass-through entity for federal income tax purposes.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_217gg__subsec_a__subsec_10">
+              <num>(10)</num>
+              <content>
+                <p>“Full-time job” means a job in which an employee is required to work at least thirty-five or more hours per week. A full-time job does not include a temporary or seasonal job.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_217gg__subsec_a__subsec_11">
+              <num>(11)</num>
+              <content>
+                <p>“Related person” means (A) a corporation, limited liability company, partnership, association or trust controlled by the taxpayer, (B) an individual, corporation, limited liability company, partnership, association or trust that is in control of the taxpayer, (C) a corporation, limited liability company, partnership, association or trust controlled by an individual, corporation, limited liability company, partnership, association or trust that is in control of the taxpayer, or (D) a member of the same controlled group as the taxpayer.</p>
+              </content>
+              <subparagraph eId="12_217gg__subsec_a__subsec_11__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>a corporation, limited liability company, partnership, association or trust controlled by the taxpayer,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_217gg__subsec_a__subsec_11__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>an individual, corporation, limited liability company, partnership, association or trust that is in control of the taxpayer,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_217gg__subsec_a__subsec_11__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>a corporation, limited liability company, partnership, association or trust controlled by an individual, corporation, limited liability company, partnership, association or trust that is in control of the taxpayer, or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_217gg__subsec_a__subsec_11__subsec_D">
+                <num>(D)</num>
+                <content>
+                  <p>a member of the same controlled group as the taxpayer.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_217gg__subsec_a__subsec_12">
+              <num>(12)</num>
+              <content>
+                <p>“Control”, with respect to a corporation, means ownership, directly or indirectly, of stock possessing fifty per cent or more of the total combined voting power of all classes of the stock of such corporation entitled to vote. “Control”, with respect to a trust, means ownership, directly or indirectly, of fifty per cent or more of the beneficial interest in the principal or income of such trust. The ownership of stock in a corporation, of a capital or profits interest in a partnership, limited liability company or association or of a beneficial interest in a trust shall be determined in accordance with the rules for constructive ownership of stock provided in Section 267</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_217gg__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of the Internal Revenue Code of 1986, or any subsequent corresponding internal revenue code of the United States, as from time to time amended, other than paragraph</p>
+            </content>
+            <paragraph eId="12_217gg__subsec_c__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>of said Section 267</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_217gg__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_217gg__subsec_b">
+            <num>(b)</num>
+            <paragraph eId="12_217gg__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>There shall be allowed to each constituent corporation such credits that the constituent corporation otherwise would have been allowed under this chapter had such constituent corporation itself conducted its pro rata share of the business conducted by the sponsor during any relevant income year.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_217gg__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>Credits shall be allowable under this section for those income years commencing on or after the commencement date as set forth in a certificate of eligibility issued by the commissioner.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_217gg__subsec_c">
+            <num>(c)</num>
+            <paragraph eId="12_217gg__subsec_c__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>For the purposes of this chapter, each constituent corporation shall be deemed to have itself conducted its pro rata share of the business conducted by the sponsor.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_217gg__subsec_c__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>The pro rata share of the business conducted by the sponsor that shall be deemed to have been conducted by each constituent corporation shall be the same percentage as such constituent corporation's distributive share of the profit or loss of the sponsor for any relevant income year.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_217gg__subsec_c__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>The limitation of section12-217zzshall be applied on the return of each constituent corporation or on the combined unitary tax return filed by two or more constituent corporations.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_217gg__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Any sponsor of an employment expansion project may submit an application for a certificate of eligibility to the commissioner in accordance with the provisions of this section. The application shall contain sufficient information to establish that the project is an employment expansion project, and shall include information concerning</p>
+            </content>
+            <paragraph eId="12_217gg__subsec_d__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>the location or locations of the new jobs,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_217gg__subsec_d__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>the number of new jobs to be created in each of the five full income years following the income year in which the commencement date occurs,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_217gg__subsec_d__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>the physical infrastructure that might be created, renovated or expanded,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_217gg__subsec_d__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>feasibility studies or business plans for the project, and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_217gg__subsec_d__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>such other information the commissioner determines is necessary to demonstrate the financial viability of the employment expansion project. The commissioner may impose a fee for such application as the commissioner deems appropriate.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_217gg__subsec_e">
+            <num>(e)</num>
+            <paragraph eId="12_217gg__subsec_e__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>The commissioner, upon consideration of the application and any additional information that the commissioner requires concerning a proposed employment expansion project, may approve the project if the commissioner finds that the project is an employment expansion project. If the commissioner rejects an application, the commissioner shall specifically identify the defects in the application and specifically explain the reasons for such rejection. The commissioner shall render a decision on an application not later than ninety days after its receipt by the commissioner.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_217gg__subsec_e__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>The approval of an employment expansion project by the commissioner may be combined with the exercise of any of the other powers of the commissioner, including, but not limited to, the provision of financial assistance.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_217gg__subsec_e__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>The commissioner shall require the applicant to reimburse the commissioner for all or any part of the cost of any activities performed in the exercise of due diligence reviewing an application pursuant to this subsection.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_217gg__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>Upon approving an employment expansion project, the commissioner shall issue a certificate of eligibility certifying that the applicant has complied with the provisions of this section. The certificate of eligibility shall set forth the commencement date, as well as any other requirements the commissioner deems appropriate.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_217gg__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>Each constituent corporation claiming a credit or credits allowed under this section shall retain a copy of the certificate of eligibility issued under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_217gg__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>of this section and a copy of the certificate of continuing eligibility issued under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_217gg__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>of this section for each income year for which a credit is claimed for at least as long as such income year would otherwise be subject to audit.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_217gg__subsec_h">
+            <num>(h)</num>
+            <content>
+              <p>The credits allowed under this section may be used by constituent corporations joining in a combined unitary tax return under section12-222.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_217gg__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Any constituent corporation allowed a credit under this section may assign such credit to another constituent corporation, provided such other constituent corporation may claim such credit only with respect to an income year for which the assigning constituent corporation would have been eligible to claim such credit and such other constituent corporation or constituent corporations may not further assign such credit. The assignor and assignee shall jointly submit written notification of such assignment to the commissioner. The notification shall include the credit certificate number, the date of assignment, the amount of such credit assigned, the tax identification numbers for both the assignor and assignee, and any other information required by the commissioner. Failure to comply with this subsection will result in a disallowance of the tax credit until there is full compliance on both the part of the assignor and the assignee. The commissioner shall provide a copy of the notification of assignment to the Commissioner of Revenue Services upon request.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_217gg__subsec_j">
+            <num>(j)</num>
+            <paragraph eId="12_217gg__subsec_j__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>The determination of whether the aggregate number of new jobs has been created shall be made as of the end of each of the five full income years following the income year in which the commencement date occurs. Not later than the first day of the fourth month of each year following each of such five income years, the commissioner shall require the sponsor to certify the aggregate number of new jobs created by the end of the preceding income year. Not later than the first day of the seventh month of each year following each of the five income years, the commissioner shall review such certification and, if the aggregate number of new jobs at the end of the preceding income year is at least ninety per cent of the aggregate number of such new jobs set forth in the certificate of eligibility for such income year, shall issue a certificate of continuing eligibility for such preceding income year.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_217gg__subsec_j__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>If the aggregate number of new jobs at the end of any such income year is less than ninety per cent of the aggregate number of such new jobs set forth in the certificate of eligibility for such income year, no credits attributable to the activities of the sponsor during such income year shall be allowed to the constituent corporations. The failure to achieve ninety per cent of the aggregate number of new jobs by the end of any applicable income year shall not preclude the allowance to the constituent corporations of credits from any prior or subsequent income year otherwise available under this section.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

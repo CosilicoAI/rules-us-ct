@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-105a"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-105a"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17b-105a"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-105a/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-105a/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-105a/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-105a/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319s">
+        <num>319s</num>
+        <heading>Connecticut Partnership for Long-Term Care</heading>
+        <section eId="sec_17b_105a">
+          <num>17b-105a</num>
+          <heading>Supplemental nutrition assistance program. Authority of commissioner to seek waiver and implement federal options. Contract with outside vendor to update administrative system to enable staggering of distribution of program benefits</heading>
+          <subsection eId="17b_105a__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The Commissioner of Social Services shall seek a waiver from federal law to allow persons who live in an area in which</p>
+            </content>
+            <paragraph eId="17b_105a__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>the unemployment rate is greater than ten per cent, or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_105a__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>there is an insufficient number of jobs to provide such persons with employment, to be exempt from the three-month participation limit of the supplemental nutrition assistance program implemented pursuant to the Food and Nutrition Act of 2008.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_105a__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The Commissioner of Social Services shall implement vehicle evaluation provisions in accordance with 7 CFR 273.8</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_105a__subsec_f">
+            <num>(f)</num>
+            <paragraph eId="17b_105a__subsec_f__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_105a__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The Commissioner of Social Services, pursuant to 7 USC 2014</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_105a__subsec_e">
+            <num>(e)</num>
+            <paragraph eId="17b_105a__subsec_e__subsec_6">
+              <num>(6)</num>
+              <content>
+                <p>, shall implement the federal option to mandate the use of a standard utility allowance, to be used in place of actual utility costs, for purposes of calculating the excess shelter deduction of applicants for, or recipients of, supplemental nutrition assistance program benefits. Pursuant to 7 USC 2014</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_105a__subsec_e">
+            <num>(e)</num>
+            <paragraph eId="17b_105a__subsec_e__subsec_6">
+              <num>(6)</num>
+              <content>
+                <p>(C)(iii)(III), the commissioner shall not prorate a standard utility allowance based upon the fact that an assisted household shares the utility with an individual who is not a member of the assisted household.</p>
+              </content>
+              <subparagraph eId="17b_105a__subsec_e__subsec_6__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>(iii)(III), the commissioner shall not prorate a standard utility allowance based upon the fact that an assisted household shares the utility with an individual who is not a member of the assisted household.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_105a__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Not later than December 31, 2024, the Commissioner of Social Services shall enter into a contract with an outside vendor to update the system utilized by the Department of Social Services to administer the supplemental nutrition assistance program for the purpose of enabling the department to stagger the distribution of program benefits so that benefits are distributed, in accordance with federal law, to cohorts of program beneficiaries designated by the commissioner at multiple intervals during each month. Not later than March 1, 2026, the commissioner shall commence staggering the distribution of such benefits to such cohorts of beneficiaries each month, in accordance with federal law. Not later than April 1, 2026, and annually thereafter, the commissioner shall report, in accordance with the provisions of section11-4a, to the joint standing committee of the General Assembly having cognizance of matters relating to human services regarding the staggering of distribution benefits pursuant to this subsection.
+See Sec. 17b-112 re temporary family assistance program.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

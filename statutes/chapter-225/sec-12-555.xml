@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-555"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-555"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-555"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-555/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-555/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-555/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-555/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_225">
+        <num>225</num>
+        <heading>Room Occupancy Tax</heading>
+        <section eId="sec_12_555">
+          <num>12-555</num>
+          <heading>Security for delinquent taxes or failure to file returns</heading>
+          <content>
+            <p>Sec. 12-555. Security for delinquent taxes or failure to file returns.Whenever any person (1) owes taxes under this chapter, which taxes have been finally due and payable for a period of ninety days or longer and for which any administrative or judicial remedies, or both, have been exhausted or have lapsed, or (2) has failed to file three or more returns required to be filed with the commissioner under this chapter, the commissioner may require any such person to deposit with the commissioner such security as the commissioner determines. The amount of the security shall be fixed by the commissioner but shall not be greater than six times the person's estimated average liability for the period for which such person files returns, determined in such manner as the commissioner deems proper. The amount of the security may be increased or decreased by the commissioner subject to the limitations herein provided. The commissioner may sell the security at public auction if it becomes necessary so to do in order to recover any tax or any amount required to be collected, or any interest or penalty due. Notice of the sale may be served upon the person who deposited the security personally or by mail. If by mail, service shall be made in the manner prescribed for service of a notice of a deficiency assessment and shall be addressed to the person at the person's address as it appears in the records of the commissioner's office. Upon any sale any surplus above the amounts due shall be returned to the person who deposited the security.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

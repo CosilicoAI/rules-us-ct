@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-792"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-792"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17a-792"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-792/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-792/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-792/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-792/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319l">
+        <num>319l</num>
+        <heading>Nursing Home Financial Assistance</heading>
+        <section eId="sec_17a_792">
+          <num>17a-792</num>
+          <heading>(Formerly Sec. 17b-613). Definitions</heading>
+          <content>
+            <p>Sec. 17a-792. (Formerly Sec. 17b-613). Definitions.As used in this section and sections17a-793and17a-794:
+(1) “Center for independent living” means a consumer-controlled, community-based, nonprofit corporation which provides consumers or their families with independent living services, as identified by community residents with disabilities and service providers. A center shall provide program information to all community residents about the needs of people with disabilities. Personal care assistant services arranged for or provided by independent living centers shall not be required to be licensed or certified;
+(2) “Independent living services” shall include, but not be limited to, advocacy, peer counseling, independent living skills assessment, counseling and training information and referral, and other programs and services which would promote the independence, productivity and quality of life for people with disabilities;
+(3) “Consumer” means an individual with a significant physical or mental impairment whose ability to function independently in the family or community or whose ability to obtain, maintain or advance in employment is substantially limited and for whom the delivery of independent living services will improve the ability to function, continue functioning, or move toward functioning independently in the family or community or to continue in employment, respectively;
+(4) “Consumer-controlled” means that at least fifty-one per cent of the members of the board of directors of a center for independent living are consumers.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

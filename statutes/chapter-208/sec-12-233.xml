@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-233"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-233"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-233"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-233/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-233/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-233/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-233/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_208">
+        <num>208</num>
+        <heading>Estate Taxes</heading>
+        <section eId="sec_12_233">
+          <num>12-233</num>
+          <heading>Examination of returns by commissioner. Deadlines for mailing deficiency assessments. Penalties for deficiencies. Payment by taxpayer</heading>
+          <subsection eId="12_233__subsec_a">
+            <num>(a)</num>
+            <paragraph eId="12_233__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>The commissioner shall examine the tax return filed under this chapter by a taxpayer and may make such further audit or investigation as the commissioner deems necessary, and if the commissioner determines that there is a deficiency with respect to the payment of any tax due under this chapter, the commissioner shall notify the taxpayer thereof. Except as otherwise provided in this section, the commissioner shall (A) in the case of a return on which an operating loss is not reported, not later than three years after the due date for the filing of such return or not later than three years after the date on which such return was received by the commissioner, whichever period expires later, or (B) in the case of a return on which an operating loss is reported, not later than three years after the due date or the date of receipt by the commissioner, whichever period expires later, of the return on which a carry-over of such loss is fully utilized or deemed fully utilized because such loss is not available for deduction in any subsequent income year, examine it and, in case any error is disclosed by such examination, shall mail a notice of deficiency assessment to the taxpayer. Where, within the sixty-day period ending on the day on which the time prescribed in this section for mailing a notice of deficiency assessment for any income year would otherwise expire, the commissioner receives a written document signed by such taxpayer showing that such taxpayer owes an additional amount of tax for such income year, the commissioner then shall have up to sixty days after the day such written document is received in which to mail a notice of deficiency assessment.</p>
+              </content>
+              <subparagraph eId="12_233__subsec_a__subsec_1__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>in the case of a return on which an operating loss is not reported, not later than three years after the due date for the filing of such return or not later than three years after the date on which such return was received by the commissioner, whichever period expires later, or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_233__subsec_a__subsec_1__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>in the case of a return on which an operating loss is reported, not later than three years after the due date or the date of receipt by the commissioner, whichever period expires later, of the return on which a carry-over of such loss is fully utilized or deemed fully utilized because such loss is not available for deduction in any subsequent income year, examine it and, in case any error is disclosed by such examination, shall mail a notice of deficiency assessment to the taxpayer. Where, within the sixty-day period ending on the day on which the time prescribed in this section for mailing a notice of deficiency assessment for any income year would otherwise expire, the commissioner receives a written document signed by such taxpayer showing that such taxpayer owes an additional amount of tax for such income year, the commissioner then shall have up to sixty days after the day such written document is received in which to mail a notice of deficiency assessment.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_233__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>A notice of deficiency assessment may be mailed to the taxpayer at any time in the case of (A) failure to file a return, including any amended return required pursuant to section12-226, or (B) a deficiency due to fraud or intent to evade the provisions of this chapter or regulations adopted thereunder.</p>
+              </content>
+              <subparagraph eId="12_233__subsec_a__subsec_2__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>failure to file a return, including any amended return required pursuant to section12-226, or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_233__subsec_a__subsec_2__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>a deficiency due to fraud or intent to evade the provisions of this chapter or regulations adopted thereunder.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_233__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>In the case of an omission from gross income of an amount properly includable therein that is in excess of twenty-five per cent of the amount of gross income stated in the return, a notice of deficiency assessment may be mailed to the taxpayer at any time not later than six years after the return was filed. For purposes of this subdivision, there shall not be taken into account any amount that is omitted from gross income stated in the return if such amount is disclosed in the return or in a statement attached to the return, in a manner adequate to apprise the commissioner of the nature and amount of such item.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_233__subsec_a__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>In the case of a failure to disclose a listed transaction, as defined in Section 6707A of the Internal Revenue Code, on the taxpayer's federal income tax return, a notice of deficiency assessment may be mailed to the taxpayer at any time not later than six years after the return required under this chapter for the same income year was filed.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_233__subsec_b">
+            <num>(b)</num>
+            <paragraph eId="12_233__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>When it appears that any part of the deficiency for which a deficiency assessment is made is due to negligence or intentional disregard of the provisions of this part or regulations adopted thereunder, there shall be imposed a penalty equal to ten per cent of the amount of such deficiency assessment, or fifty dollars, whichever is greater. When it appears that any part of the deficiency for which a deficiency assessment is made is due to fraud or intent to evade the provisions of this part or regulations adopted thereunder, there shall be imposed a penalty equal to twenty-five per cent of the amount of such deficiency assessment. For audits of returns commencing on or after January 1, 2006, when it appears that any part of the deficiency for which a deficiency assessment is made pursuant to this section is due to failure to disclose a listed transaction, as defined in Section 6707A of the Internal Revenue Code of 1986, or any subsequent corresponding internal revenue code of the United States, as from time to time amended, on the taxpayer's federal tax return, there shall be imposed a penalty equal to seventy-five per cent of the amount of such deficiency assessment.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_233__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>No taxpayer shall be subject to more than one penalty under this section in relation to the same tax period.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_233__subsec_b__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>Any decision rendered by any federal court holding that a taxpayer has filed a fraudulent return with the Director of Internal Revenue shall subject the taxpayer to the penalty imposed by this section without the necessity of further proof thereof, except when it can be shown that the return to the state so differed from the return to the federal government as to afford a reasonable presumption that the attempt to defraud did not extend to the return to the state.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_233__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Not later than thirty days after the mailing of a notice of deficiency assessment, the taxpayer shall pay to the commissioner, in cash or by check, draft or money order drawn to the order of the Commissioner of Revenue Services, any additional amount of tax shown to be due by such notice, or such taxpayer shall be paid by the State Treasurer, upon order of the Comptroller, any amount shown to be due it by the corrected return. The failure of the taxpayer to receive any timely mailed notice required by this section shall not relieve such taxpayer of the obligation to pay the tax assessed under the terms of this part or any interest or penalties thereon.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_233__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>When, before the expiration of the time prescribed in this section for the examination of the return or the assessment of the tax, both the commissioner and the taxpayer have consented in writing to such examination or assessment after such time, the return may be examined and the tax may be assessed at any time prior to the expiration of the period agreed upon. The period so agreed upon may be extended by subsequent agreements in writing made before the expiration of the period previously agreed upon. The commissioner may also in such a case waive the statute of limitations against a claim for refund by such taxpayer.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_233__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>For purposes of this section, a tax return filed under this chapter before the last day prescribed by law or by any regulation adopted pursuant to this chapter for the filing of such return, determined without regard to any extension of time for filing, shall be deemed to be filed on such last day.
+See Sec. 12-30c re penalty on promoter of abusive tax shelters.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

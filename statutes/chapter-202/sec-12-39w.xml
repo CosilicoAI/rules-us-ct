@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-39w"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-39w"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-39w"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-39w/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-39w/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-39w/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-39w/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_202">
+        <num>202</num>
+        <heading>Collection of State Taxes</heading>
+        <section eId="sec_12_39w">
+          <num>12-39w</num>
+          <heading>Claims for refund where results of civil audit, investigation, examination or reexamination have become final</heading>
+          <subsection eId="12_39w__subsec_a">
+            <num>(a)</num>
+            <paragraph eId="12_39w__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>Except as provided in subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_39w__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>of this subsection, where the results of any civil audit, investigation, examination or reexamination conducted by the Commissioner of Revenue Services have become final by operation of law or by exhaustion of all available administrative and judicial rights of appeal, the period covered by such audit, investigation, examination or reexamination shall be closed and the taxpayer may not file any additional claims for refund for such period.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_39w__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>A taxpayer may file a claim of refund for any period for which the results of any civil audit, investigation, examination or reexamination conducted by the commissioner have become final by operation of law or for which the associated administrative or judicial rights of appeal have been exhausted, provided such claim is filed not later than six months after the date such results become final by operation of law or the date such rights of appeal are exhausted, as applicable and whichever is later.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_39w__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The provisions of subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_39w__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section shall not affect claims for refunds authorized under the provisions of sections12-226,12-704and12-727.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

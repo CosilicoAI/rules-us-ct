@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-876"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-876"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17a-876"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-876/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-876/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-876/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-876/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319l">
+        <num>319l</num>
+        <heading>Nursing Home Financial Assistance</heading>
+        <section eId="sec_17a_876">
+          <num>17a-876</num>
+          <heading>(Formerly Sec. 17a-411). Duties of residents' advocates. Posting by nursing home facilities. Funding</heading>
+          <subsection eId="17a_876__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Residents' advocates, under supervision of the regional ombudsmen, shall assist the regional ombudsmen in the performance of all duties and responsibilities of the regional ombudsmen as described in section17a-875.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_876__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>All long-term care facilities shall post or cause to be posted in a conspicuous place therein a list of the names of the appropriate residents' advocates and the names, addresses, and telephone numbers of the appropriate ombudsmen.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_876__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The Commissioner of Aging and Disability Services shall have authority to seek funding for the purposes contained in this section from public and private sources, including, but not limited to, any federal or state funded programs.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

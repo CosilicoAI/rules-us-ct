@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-111"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-111"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-111"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-111/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-111/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-111/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-111/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_203">
+        <num>203</num>
+        <heading>Property Tax Assessment</heading>
+        <section eId="sec_12_111">
+          <num>12-111</num>
+          <heading>Appeals to board of assessment appeals</heading>
+          <subsection eId="12_111__subsec_a">
+            <num>(a)</num>
+            <paragraph eId="12_111__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>Any person, including any lessee of real property whose lease has been recorded as provided in section47-19and who is bound under the terms of a lease to pay real property taxes and any person to whom title to such property has been transferred since the assessment date, claiming to be aggrieved by the doings of the assessors of such town may appeal therefrom to the board of assessment appeals. Such appeal shall be filed in writing or by electronic mail in a manner prescribed by such board on or before February twentieth. The appeal shall include, but is not limited to, the property owner's name, name and position of the signer, description of the property which is the subject of the appeal, name, mailing address and electronic mail address of the party to be sent all correspondence by the board of assessment appeals, reason for the appeal, appellant's estimate of value, signature of property owner, or duly authorized agent of the property owner, and date of signature. The board shall notify each aggrieved taxpayer who filed an appeal in the proper form and in a timely manner, no later than March first immediately following the assessment date, of the date, time and place of the appeal hearing. Such notice shall be sent no later than seven calendar days preceding the hearing date except that the board may elect not to conduct an appeal hearing for any commercial, industrial, utility or apartment property with an assessed value greater than one million dollars.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_111__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>The board shall, not later than March first, notify the appellant that the board has elected not to conduct an appeal hearing. An appellant whose appeal will not be heard by the board may appeal directly to the Superior Court pursuant to section12-117a.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_111__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>The board shall determine all appeals for which the board conducts an appeal hearing and send written notification of the final determination of such appeals to each such person within one week after such determination has been made. Such written notification shall include information describing the property owner's right to appeal the determination of such board. Such board may equalize and adjust the grand list of such town and may increase or decrease the assessment of any taxable property or interest therein and may add an assessment for property omitted by the assessors which should be added thereto; and may add to the grand list the name of any person omitted by the assessors and owning taxable property in such town, placing therein all property liable to taxation which it has reason to believe is owned by such person, at the percentage of its actual valuation, as determined by the assessors in accordance with the provisions of sections12-64and12-71, from the best information that it can obtain. If such property should have been included in the declaration, as required by section12-41or12-43, the board shall add thereto twenty-five per cent of such assessment; but, before proceeding to increase the assessment of any person or to add to the grand list the name of any person so omitted, the board shall mail to such person, postage paid, at least one week before making such increase or addition, a written or printed notice addressed to such person at the town in which such person resides, to appear before such board and show cause why such increase or addition should not be made.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_111__subsec_a__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>When the board increases or decreases the gross assessment of any taxable real property or interest therein, the amount of such gross assessment shall be fixed until the assessment year in which the municipality next implements a revaluation of all real property pursuant to section12-62, unless the assessor increases or decreases the gross assessment of the property to (A) comply with an order of a court of jurisdiction, (B) reflect an addition for new construction, (C) reflect a reduction for damage or demolition, or (D) correct a factual error by issuance of a certificate of correction. Notwithstanding the provisions of this subsection, if, prior to the next revaluation, the assessor increases or decreases a gross assessment established by the board for any other reason, the assessor shall submit a written explanation to the board setting forth the reason for such increase or decrease. The assessor shall also append the written explanation to the property card for the real estate parcel whose gross assessment was increased or decreased.</p>
+              </content>
+              <subparagraph eId="12_111__subsec_a__subsec_4__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>comply with an order of a court of jurisdiction,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_111__subsec_a__subsec_4__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>reflect an addition for new construction,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_111__subsec_a__subsec_4__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>reflect a reduction for damage or demolition, or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_111__subsec_a__subsec_4__subsec_D">
+                <num>(D)</num>
+                <content>
+                  <p>correct a factual error by issuance of a certificate of correction. Notwithstanding the provisions of this subsection, if, prior to the next revaluation, the assessor increases or decreases a gross assessment established by the board for any other reason, the assessor shall submit a written explanation to the board setting forth the reason for such increase or decrease. The assessor shall also append the written explanation to the property card for the real estate parcel whose gross assessment was increased or decreased.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_111__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>If an extension is granted to any assessor or board of assessors pursuant to section12-117, the date by which a taxpayer shall be required to submit a request for appeal to the board of assessment appeals shall be extended to March twentieth and said board shall conduct hearings regarding such requests during the month of April. The board shall send notification to the taxpayer of the time and date of an appeal hearing at least seven calendar days preceding the hearing date, but no later than the first day of April. If the board elects not to hear an appeal for commercial, industrial, utility or apartment property described in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_111__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section, the board shall notify the taxpayer of such decision no later than the first day of April.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-261o"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-261o"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17b-261o"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-261o/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-261o/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-261o/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-261o/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319v">
+        <num>319v</num>
+        <heading>Temporary Assistance for Needy Families</heading>
+        <section eId="sec_17b_261o">
+          <num>17b-261o</num>
+          <heading>Imposition of penalty period when undue hardship exists. Exception</heading>
+          <subsection eId="17b_261o__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Except as provided in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_261o__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of this section, the Commissioner of Social Services shall not impose a penalty period pursuant to subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_261o__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of section17b-261or subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_261o__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of section17b-261aif such imposition would create an undue hardship.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_261o__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>For purposes of this section, “undue hardship” exists when</p>
+            </content>
+            <paragraph eId="17b_261o__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>the life or health of the applicant would be endangered by the deprivation of medical care, or the applicant would be deprived of food, clothing, shelter or other necessities of life,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_261o__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>the applicant is otherwise eligible for medical assistance under section17b-261but for the imposition of the penalty period,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_261o__subsec_b__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>if the applicant is receiving long-term care services at the time of the imposition of a penalty period, the provider of long-term care services has notified the applicant that such provider intends to discharge or discontinue providing long-term care services to the applicant due to nonpayment,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_261o__subsec_b__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>if the applicant is not receiving long-term care services at the time of the imposition of a penalty period, a provider of long-term care services has refused to provide long-term care services to the applicant due to the imposition of a penalty period, and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_261o__subsec_b__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>no other person or organization is willing and able to provide long-term care services to the applicant.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_261o__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The commissioner shall impose a penalty period pursuant to subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_261o__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of section17b-261or subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_261o__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of section17b-261aif</p>
+            </content>
+            <paragraph eId="17b_261o__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>the applicant made a transfer or assignment of assets to deliberately impoverish such applicant in order to obtain or maintain eligibility for medical assistance, or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_261o__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>the transfer or assignment of assets was made by the applicant's legal representative or the joint owner of the assets. The commissioner may waive the imposition of a penalty period pursuant to this subsection if (A) the applicant suffers from dementia or other cognitive impairment and cannot explain the transfer or assignment of assets, (B) the applicant suffered from dementia or other cognitive impairment at the time the transfer or assignment of assets was made, (C) the applicant was exploited into making the transfer or assignment of assets due to dementia or other cognitive impairment, or (D) the applicant's legal representative or the record owner of a jointly held asset made the transfer or assignment of assets without the authorization of the applicant.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+              </content>
+              <subparagraph eId="17b_261o__subsec_a__subsec_2__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>the applicant suffers from dementia or other cognitive impairment and cannot explain the transfer or assignment of assets,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17b_261o__subsec_a__subsec_2__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>the applicant suffered from dementia or other cognitive impairment at the time the transfer or assignment of assets was made,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17b_261o__subsec_a__subsec_2__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>the applicant was exploited into making the transfer or assignment of assets due to dementia or other cognitive impairment, or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17b_261o__subsec_a__subsec_2__subsec_D">
+                <num>(D)</num>
+                <content>
+                  <p>the applicant's legal representative or the record owner of a jointly held asset made the transfer or assignment of assets without the authorization of the applicant.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

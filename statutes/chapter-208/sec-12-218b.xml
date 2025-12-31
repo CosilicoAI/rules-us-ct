@@ -1,0 +1,996 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-218b"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-218b"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-218b"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-218b/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-218b/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-218b/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-218b/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_208">
+        <num>208</num>
+        <heading>Estate Taxes</heading>
+        <section eId="sec_12_218b">
+          <num>12-218b</num>
+          <heading>Apportionment of net income of financial service companies</heading>
+          <subsection eId="12_218b__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>For purposes of this section:</p>
+            </content>
+            <paragraph eId="12_218b__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>“Administrative services” includes, but is not limited to, clerical, fund or investment or account holder accounting, participant record keeping, transfer agency, bookkeeping, data processing, custodial, internal auditing, legal and tax services performed for an investment entity, pension fund or retirement account but only if the provider of such service or services during the income year in which such service or services are provided also provides, or is a related person of a person that provides, management or distribution services to such an investment entity, pension fund or retirement account.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_218b__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>“Billing address” means the location indicated in the books and records of the taxpayer or, as applicable, the investment entity, pension fund or retirement fund on the first day of the taxable year or on such later date in the taxable year when the relationship with the customer or, in the case of an investment entity, pension fund or retirement account, investor or participant began as the address where any notice, statement or bill relating to a customer's, investor's or participant's account is mailed.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_218b__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>“Borrower located in this state” means (A) a borrower that is engaged in a trade or business which maintains its commercial domicile in this state, or (B) a borrower that is not engaged in a trade or business whose billing address is in this state.</p>
+              </content>
+              <subparagraph eId="12_218b__subsec_a__subsec_3__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>a borrower that is engaged in a trade or business which maintains its commercial domicile in this state, or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_218b__subsec_a__subsec_3__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>a borrower that is not engaged in a trade or business whose billing address is in this state.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_218b__subsec_a__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>“Commercial domicile” means the headquarters of the trade or business, that is, the place from which the trade or business is principally managed and directed.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_218b__subsec_a__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>“Distribution services” means the services of advertising, servicing, marketing or selling interests in an investment entity, pension fund or retirement account, but, in the case of advertising, servicing or marketing interests, only where such service is performed by a person that is, or, in the case of a closed-end company, was, either engaged in the service of selling such interests or a related person of a person that is engaged in the service of selling such interests.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_218b__subsec_a__subsec_6">
+              <num>(6)</num>
+              <content>
+                <p>“Financial service company” means:
+(A) Any corporation or other business entity registered under the laws of any state as a bank holding company or registered under the federal Bank Holding Company Act of 1956, as amended, or registered as a savings and loan holding company under the federal National Housing Act, as amended;
+(B) A national bank organized and existing as a national bank association pursuant to the provisions of the National Bank Act, 12 USC Section 21 et seq.;
+(C) A savings association or federal savings bank, as defined in the Federal Deposit Insurance Act, 12 USC 1813</p>
+              </content>
+              <subparagraph eId="12_218b__subsec_a__subsec_6__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>Any corporation or other business entity registered under the laws of any state as a bank holding company or registered under the federal Bank Holding Company Act of 1956, as amended, or registered as a savings and loan holding company under the federal National Housing Act, as amended;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_218b__subsec_a__subsec_6__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>A national bank organized and existing as a national bank association pursuant to the provisions of the National Bank Act, 12 USC Section 21 et seq.;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_218b__subsec_a__subsec_6__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>A savings association or federal savings bank, as defined in the Federal Deposit Insurance Act, 12 USC 1813</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_218b__subsec_b">
+            <num>(b)</num>
+            <paragraph eId="12_218b__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>;
+(D) Any bank, banking association, trust company, savings and loan association or thrift institution incorporated or organized under the laws of any state, or any other corporation or other business entity, the deposits or accounts of which are insured under the Federal Deposit Insurance Act or by the Federal Deposit Insurance Corporation;
+(E) Any corporation organized under the provisions of 12 USC 611 to 631;
+(F) Any foreign bank that has an agency or branch, as defined in 12 USC 3101;
+(G) A credit union organized under the laws of any state the loan assets of which exceed fifty million dollars as of the first day of its income year;
+(H) A production credit association organized under the federal Farm Credit Act of 1933, all of whose stock held by the Federal Production Credit Corporation has been retired;
+(I) Any company whose voting stock is more than fifty per cent owned, directly or indirectly, by any person described in subparagraphs (A) to (H), inclusive, of this subdivision or by an insurance company, other than an insurance company or a company that has more than fifty per cent of its gross income from one or more of the following sources other than from sales to a related person: Manufacturing, construction, mining, transportation and public utilities, retail or wholesale trade, other than the retail or wholesale delivery of the services described in subparagraph (J) of this subdivision, or agriculture, forestry and fishing;
+(J)</p>
+              </content>
+              <subparagraph eId="12_218b__subsec_b__subsec_1__subsec_D">
+                <num>(D)</num>
+                <content>
+                  <p>Any bank, banking association, trust company, savings and loan association or thrift institution incorporated or organized under the laws of any state, or any other corporation or other business entity, the deposits or accounts of which are insured under the Federal Deposit Insurance Act or by the Federal Deposit Insurance Corporation;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_218b__subsec_b__subsec_1__subsec_E">
+                <num>(E)</num>
+                <content>
+                  <p>Any corporation organized under the provisions of 12 USC 611 to 631;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_218b__subsec_b__subsec_1__subsec_F">
+                <num>(F)</num>
+                <content>
+                  <p>Any foreign bank that has an agency or branch, as defined in 12 USC 3101;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_218b__subsec_b__subsec_1__subsec_G">
+                <num>(G)</num>
+                <content>
+                  <p>A credit union organized under the laws of any state the loan assets of which exceed fifty million dollars as of the first day of its income year;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_218b__subsec_b__subsec_1__subsec_H">
+                <num>(H)</num>
+                <content>
+                  <p>A production credit association organized under the federal Farm Credit Act of 1933, all of whose stock held by the Federal Production Credit Corporation has been retired;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_218b__subsec_b__subsec_1__subsec_I">
+                <num>(I)</num>
+                <content>
+                  <p>Any company whose voting stock is more than fifty per cent owned, directly or indirectly, by any person described in subparagraphs</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_218b__subsec_b__subsec_1__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>to</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_218b__subsec_b__subsec_1__subsec_H">
+                <num>(H)</num>
+                <content>
+                  <p>, inclusive, of this subdivision or by an insurance company, other than an insurance company or a company that has more than fifty per cent of its gross income from one or more of the following sources other than from sales to a related person: Manufacturing, construction, mining, transportation and public utilities, retail or wholesale trade, other than the retail or wholesale delivery of the services described in subparagraph</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_218b__subsec_b__subsec_1__subsec_J">
+                <num>(J)</num>
+                <content>
+                  <p>of this subdivision, or agriculture, forestry and fishing;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_218b__subsec_b__subsec_1__subsec_J">
+                <num>(J)</num>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_218b__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Any company, other than an insurance company or a real estate broker, which derives fifty per cent or more of its gross income from one or more of the following sources or activities: Loans; letters of credit and acceptance of drafts; underwriting, purchase, placement, sale or brokerage of securities, commodities contracts or other financial instruments or contracts on its own account or for the account of others; exchanges, exchange clearinghouses and other services allied with the exchange of securities or commodities contracts; investment advisory or management services; investment banking services, corporate trust and escrow services; securities information processing; securities and financial rating agency services; transfer agent, clearing agent, securities custodial and depository services; securities exchange or quotation services; any of the services described in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_218b__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>of section12-218; any of the services described in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_218b__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>of section12-218; management, distribution or administrative services to or on behalf of an investment entity; management, distribution or administrative services to or on behalf of pension funds or retirement accounts; leasing or acting as an agent, broker or adviser in connection with leasing real and personal property that is the functional equivalent of an extension of credit and that transfers substantially all of the benefits and risks incident to the ownership of property, including any direct financing lease or leverage lease that meets the criteria of Financial Accounting Standards Board Statement No. 13, “Accounting for Leases” or any other lease that is accounted for as a financing by a lessor under generally accepted accounting principles; activities of a Morris plan company; credit card activities; third party insurance administration services, claim administration services, claim adjusting services, premium billing and collection services, or employee benefit plan administration services; insurance underwriting or policy issuance services; actuarial services; trust company services; financial planning services; insurance brokerage services; or risk management services;
+(ii) Any company which derives fifty per cent or more of its gross income from an activity in which a person described in subparagraphs (B) to (H), inclusive, of this subdivision is authorized to transact;
+(iii) Whether a company is classified as a financial service company for any income year by virtue of this subparagraph shall be determined based upon the sources of such taxpayer's gross income, other than gross income from nonrecurring, extraordinary transactions, for such income year, except that any taxpayer classified as a financial service company solely by virtue of this subparagraph for any income year shall continue to be classified as a financial service company until the second consecutive year the taxpayer would not otherwise qualify as a financial service company;
+(K)</p>
+            </content>
+          </subsection>
+          <subsection eId="12_218b__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Any person described in subparagraph (J) of this subdivision may submit a petition in writing to the commissioner for permission to apportion its income without regard to the provisions of this section not later than sixty days prior to the due date of the return to which the petition applies, determined with regard to any extension of time for filing such return, and said commissioner shall grant or deny such permission before said due date. The commissioner shall grant such permission only in the event that the petitioner has proved, by clear and convincing evidence, that the income-producing activity of the petitioner is not in substantial competition with a financial service company without regard to subparagraph (I) of this subdivision;
+(ii) Any person may submit a petition in writing to the commissioner for permission to apportion its income in accordance with the provisions of this section not later than sixty days prior to the due date of the return to which the petition applies, determined with regard to any extension of time for filing such return, and said commissioner shall grant or deny such permission before said due date. The commissioner shall grant such permission only in the event that the petitioner has proved, by clear and convincing evidence, that the income-producing activity is substantially similar to the income-producing activities of a financial service company without regard to subparagraph (I) of this subdivision.</p>
+            </content>
+            <paragraph eId="12_218b__subsec_i__subsec_7">
+              <num>(7)</num>
+              <content>
+                <p>“Gross rents” means the actual sum of money or other consideration payable for the use or possession of property, including, but not be limited to, (A) any amount payable for the use or possession of real property or tangible property whether designated as a fixed sum of money or as a percentage of receipts, profits, or otherwise, (B) any amount payable as additional rent or in lieu of rent, such as interest, taxes, insurance, repairs or any other amount required to be paid by the terms of a lease or other arrangement, and (C) a proportionate part of the cost of any improvement to real property made by or on behalf of the taxpayer which reverts to the owner or lessor upon termination of a lease or other arrangement. The amount to be included in gross rents is the amount of amortization or depreciation allowed in computing the taxable income base for the income year, provided where a building is erected on leased land by or on behalf of the taxpayer, the value of the land is determined by multiplying the gross rent by eight and the value of the building is determined in the same manner as if owned by the taxpayer. “Gross rents” shall not include reasonable amounts payable as separate charges for water and electric service furnished by the lessor, reasonable amounts payable as service charges for janitorial services furnished by the lessor, reasonable amounts payable to storage, provided such amounts are payable for space not designated and not under the control of the taxpayer, and that portion of any rental payment which is applicable to the space subleased from the taxpayer and not used by it.</p>
+              </content>
+              <subparagraph eId="12_218b__subsec_i__subsec_7__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>any amount payable for the use or possession of real property or tangible property whether designated as a fixed sum of money or as a percentage of receipts, profits, or otherwise,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_218b__subsec_i__subsec_7__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>any amount payable as additional rent or in lieu of rent, such as interest, taxes, insurance, repairs or any other amount required to be paid by the terms of a lease or other arrangement, and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_218b__subsec_i__subsec_7__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>a proportionate part of the cost of any improvement to real property made by or on behalf of the taxpayer which reverts to the owner or lessor upon termination of a lease or other arrangement. The amount to be included in gross rents is the amount of amortization or depreciation allowed in computing the taxable income base for the income year, provided where a building is erected on leased land by or on behalf of the taxpayer, the value of the land is determined by multiplying the gross rent by eight and the value of the building is determined in the same manner as if owned by the taxpayer. “Gross rents” shall not include reasonable amounts payable as separate charges for water and electric service furnished by the lessor, reasonable amounts payable as service charges for janitorial services furnished by the lessor, reasonable amounts payable to storage, provided such amounts are payable for space not designated and not under the control of the taxpayer, and that portion of any rental </p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_218b__subsec_i__subsec_8">
+              <num>(8)</num>
+              <content>
+                <p>“Insurance company” means any corporation, limited liability company, association, partnership or combination of persons doing any kind or form of insurance business other than a fraternal benefit society, including a receiver, trustee or other fiduciary of any insurance company when the context reasonably permits.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_218b__subsec_i__subsec_9">
+              <num>(9)</num>
+              <content>
+                <p>“Investment entity” means (A) an investment partnership, a real estate investment trust, as defined in Section 856 of the Internal Revenue Code, a real estate mortgage investment conduit, as defined in Section 860D of the Internal Revenue Code, a financial asset securitization investment trust, as defined in Section 860L of the Internal Revenue Code, or a similar investment entity which is exempt from, or is not subject to, federal income tax, or (B) a separate account of an insurance company.</p>
+              </content>
+              <subparagraph eId="12_218b__subsec_i__subsec_9__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>an investment partnership, a real estate investment trust, as defined in Section 856 of the Internal Revenue Code, a real estate mortgage investment conduit, as defined in Section 860D of the Internal Revenue Code, a financial asset securitization investment trust, as defined in Section 860L of the Internal Revenue Code, or a similar investment entity which is exempt from, or is not subject to, federal income tax, or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_218b__subsec_i__subsec_9__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>a separate account of an insurance company.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_218b__subsec_i__subsec_10">
+              <num>(10)</num>
+              <content>
+                <p>“Loan” means any extension of credit resulting from direct negotiations between the taxpayer and its customer, or the purchase or receipt, in whole or in part, of such extension of credit from another. Loans include participations, syndications, and leases treated as loans for federal income tax purposes. Loans shall not include: (A) Futures or forward contracts; (B) options; (C) notional principal contracts such as swaps; (D) credit card receivables, including purchased credit card relationships; (E) non-interest-bearing balances due from depository institutions; (F) cash items in the process of collection; (G) federal funds sold; (H) securities purchased under agreements to resell; (I) assets held in a trading account; (J) securities; (K) interests in a real estate mortgage investment conduit, as defined in Section 860D of the Internal Revenue Code or other mortgage-backed or asset-backed security; and (L) other similar items.</p>
+              </content>
+              <subparagraph eId="12_218b__subsec_i__subsec_10__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>Futures or forward contracts;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_218b__subsec_i__subsec_10__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>options;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_218b__subsec_i__subsec_10__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>notional principal contracts such as swaps;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_218b__subsec_i__subsec_10__subsec_D">
+                <num>(D)</num>
+                <content>
+                  <p>credit card receivables, including purchased credit card relationships;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_218b__subsec_i__subsec_10__subsec_E">
+                <num>(E)</num>
+                <content>
+                  <p>non-interest-bearing balances due from depository institutions;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_218b__subsec_i__subsec_10__subsec_F">
+                <num>(F)</num>
+                <content>
+                  <p>cash items in the process of collection;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_218b__subsec_i__subsec_10__subsec_G">
+                <num>(G)</num>
+                <content>
+                  <p>federal funds sold;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_218b__subsec_i__subsec_10__subsec_H">
+                <num>(H)</num>
+                <content>
+                  <p>securities purchased under agreements to resell;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_218b__subsec_i__subsec_10__subsec_I">
+                <num>(I)</num>
+                <content>
+                  <p>assets held in a trading account;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_218b__subsec_i__subsec_10__subsec_J">
+                <num>(J)</num>
+                <content>
+                  <p>securities;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_218b__subsec_i__subsec_10__subsec_K">
+                <num>(K)</num>
+                <content>
+                  <p>interests in a real estate mortgage investment conduit, as defined in Section 860D of the Internal Revenue Code or other mortgage-backed or asset-backed security; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_218b__subsec_i__subsec_10__subsec_L">
+                <num>(L)</num>
+                <content>
+                  <p>other similar items.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_218b__subsec_i__subsec_11">
+              <num>(11)</num>
+              <content>
+                <p>“Loan secured by real property” means that fifty per cent or more of the aggregate value of the collateral used to secure a loan or other obligation, when valued at fair market value as of the time the original loan or obligation was incurred, was real property.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_218b__subsec_i__subsec_12">
+              <num>(12)</num>
+              <content>
+                <p>“Management services”, when performed on behalf of an investment entity, pension fund or retirement account, means the rendering of investment advice directly or indirectly to an investment entity, pension fund or retirement account, making determinations as to when sales and purchases of property are to be made on behalf of the investment entity, pension fund or retirement account, or the selling or purchasing of property constituting assets of an investment entity, pension fund or retirement account and related activities, but only where such activity or activities are performed (A) pursuant to a contract with the investment entity, pension fund or retirement account, (B) for a person that has entered into such contract with the investment entity, pension fund or retirement account, or (C) for a person that is a related person of a person that has entered into such contract with an investment entity, pension fund or retirement account.</p>
+              </content>
+              <subparagraph eId="12_218b__subsec_i__subsec_12__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>pursuant to a contract with the investment entity, pension fund or retirement account,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_218b__subsec_i__subsec_12__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>for a person that has entered into such contract with the investment entity, pension fund or retirement account, or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_218b__subsec_i__subsec_12__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>for a person that is a related person of a person that has entered into such contract with an investment entity, pension fund or retirement account.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_218b__subsec_i__subsec_13">
+              <num>(13)</num>
+              <content>
+                <p>“Participation” means an extension of credit in which an undivided ownership interest is held on a pro rata basis in a single loan or pool of loans and related collateral. In a loan participation, the credit originator initially makes the loan and then subsequently resells all or a portion of it to other lenders. The participation may or may not be known to the borrower.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_218b__subsec_i__subsec_14">
+              <num>(14)</num>
+              <content>
+                <p>“Pension fund or retirement fund” means any fund, trust, plan, account, annuity or contract referred to in subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_218b__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of section52-321a, or other fund, trust, plan, account, annuity or contract established pursuant to the Internal Revenue Code or any other federal or state statute, including, but not limited to, funds held in an insurance company general or separate account, which is designed to provide pension or retirement benefits.</p>
+            </content>
+            <paragraph eId="12_218b__subsec_a__subsec_15">
+              <num>(15)</num>
+              <content>
+                <p>“Principal base of operations”, with respect to transportation property, means the place of more or less permanent nature from which said property is regularly directed or controlled.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_218b__subsec_a__subsec_16">
+              <num>(16)</num>
+              <content>
+                <p>“Real property owned” and “tangible personal property owned” means real and tangible personal property, respectively, (A) on which the taxpayer may claim depreciation for federal income tax purposes, or (B) property to which the taxpayer holds legal title and on which no other person may claim depreciation for federal income tax purposes or could claim depreciation if subject to federal income tax. Real and tangible personal property does not include coin, currency or property acquired in lieu of or pursuant to a foreclosure.</p>
+              </content>
+              <subparagraph eId="12_218b__subsec_a__subsec_16__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>on which the taxpayer may claim depreciation for federal income tax purposes, or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_218b__subsec_a__subsec_16__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>property to which the taxpayer holds legal title and on which no other person may claim depreciation for federal income tax purposes or could claim depreciation if subject to federal income tax. Real and tangible personal property does not include coin, currency or property acquired in lieu of or pursuant to a foreclosure.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_218b__subsec_a__subsec_17">
+              <num>(17)</num>
+              <content>
+                <p>“Regular place of business” means an office at which the taxpayer carries on its business in a regular and systematic manner and which is continuously maintained, occupied and used by employees of the taxpayer.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_218b__subsec_a__subsec_18">
+              <num>(18)</num>
+              <content>
+                <p>“Related person” means (A) a corporation, limited liability company, partnership, association or trust controlled by the taxpayer, (B) an individual, corporation, limited liability company, partnership, association or trust that is in control of the taxpayer, (C) a corporation, limited liability company, partnership, association or trust controlled by an individual, corporation, limited liability company, partnership, association or trust that is in control of the taxpayer, or (D) a member of the same controlled group as the taxpayer. For purposes of this subdivision, “control”, with respect to a corporation, means ownership, directly or indirectly, of stock possessing fifty per cent or more of the total combined voting power of all classes of the stock of such corporation entitled to vote. “Control”, with respect to a trust, means ownership, directly or indirectly, of fifty per cent or more of the beneficial interest in the principal or income of such trust. The ownership of stock in a corporation, of a capital or profits interest in a partnership or association or of a beneficial interest in a trust shall be determined in accordance with the rules for constructive ownership of stock provided in Section 267</p>
+              </content>
+              <subparagraph eId="12_218b__subsec_a__subsec_18__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>a corporation, limited liability company, partnership, association or trust controlled by the taxpayer,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_218b__subsec_a__subsec_18__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>an individual, corporation, limited liability company, partnership, association or trust that is in control of the taxpayer,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_218b__subsec_a__subsec_18__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>a corporation, limited liability company, partnership, association or trust controlled by an individual, corporation, limited liability company, partnership, association or trust that is in control of the taxpayer, or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_218b__subsec_a__subsec_18__subsec_D">
+                <num>(D)</num>
+                <content>
+                  <p>a member of the same controlled group as the taxpayer. For purposes of this subdivision, “control”, with respect to a corporation, means ownership, directly or indirectly, of stock possessing fifty per cent or more of the total combined voting power of all classes of the stock of such corporation entitled to vote. “Control”, with respect to a trust, means ownership, directly or indirectly, of fifty per cent or more of the beneficial interest in the principal or income of such trust. The ownership of stock in a corporation, of a capital or profits interest in a partnership or association or of a beneficial interest in a trust shall be determined in accordance with the rules for constructive ownership of stock provided in Section 267</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_218b__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of the Internal Revenue Code other than paragraph</p>
+            </content>
+            <paragraph eId="12_218b__subsec_c__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>of said section.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_218b__subsec_c__subsec_19">
+              <num>(19)</num>
+              <content>
+                <p>“State” means a state of the United States, the District of Columbia, the Commonwealth of Puerto Rico, any territory or possession of the United States or any foreign country.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_218b__subsec_c__subsec_20">
+              <num>(20)</num>
+              <content>
+                <p>“Syndication” means an extension of credit in which two or more persons fund and each person is at risk only up to a specified percentage of the total extension of credit or up to a specified dollar amount.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_218b__subsec_c__subsec_21">
+              <num>(21)</num>
+              <content>
+                <p>“Transportation property” means vehicles and vessels capable of moving under their own power, such as aircraft, trains, water vessels and motor vehicles, as well as any equipment or containers attached to such property, such as rolling stock, barges, trailers or the like.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_218b__subsec_b">
+            <num>(b)</num>
+            <paragraph eId="12_218b__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>Except as otherwise specifically provided, a financial service company whose business activity is taxable within this state, whether or not it is taxable outside this state, shall apportion its net income from business carried on within this state in accordance with this section. The net income of a financial service company shall be apportioned to this state by multiplying such income by the receipts factor. The receipts factor for a financial service company is a fraction, the numerator of which is the receipts of the taxpayer in this state during the income year and the denominator of which is the receipts of the taxpayer within and without this state during the income year. The method of calculating receipts for purposes of the denominator is the same as the method used in determining receipts for purposes of the numerator.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_218b__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>Any receipts attributable to an international banking facility, as defined in section12-217, shall not be included in the numerator or denominator of the receipts factor. In lieu of such exclusion of receipts attributable to an international banking facility, the taxpayer, pursuant to the provisions of subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_218b__subsec_b__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>of this subsection, may, on or before the due date or, if applicable, the extended due date, of its corporation business tax return, make an election on its corporation business tax return, to exclude receipts attributable to an international banking facility from the numerator of its receipts factor and to include such receipts in the denominator of its receipts factor.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_218b__subsec_b__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>If the taxpayer makes the election under subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_218b__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>of this subsection, the taxpayer may not, in arriving at its net income, deduct the gross income attributable to the international banking facility from its gross income, but expenses or losses attributable to the international banking facility, to the extent deductible under the Internal Revenue Code, may be deducted from its gross income. The election, if made by the taxpayer, shall be irrevocable for, and applicable for, five successive income years.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_218b__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The numerator of the receipts factor includes receipts from the lease or rental of real property owned by the taxpayer if the property is located within this state and receipts from the sublease of real property if the property is located within this state.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_218b__subsec_d">
+            <num>(d)</num>
+            <paragraph eId="12_218b__subsec_d__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>Except as described in subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_218b__subsec_d__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>of this subsection, the numerator of the receipts factor includes receipts from the lease or rental of tangible personal property owned by the taxpayer if the property is located within this state when it is first placed in service by the lessee.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_218b__subsec_d__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>Receipts from the lease or rental of transportation property owned by the taxpayer are included in the numerator of the receipts factor to the extent that the property is used in this state. The extent an aircraft will be deemed to be used in this state and the amount of receipts that is to be included in the numerator of this state's receipts factor is determined by multiplying all the receipts from the lease or rental of the aircraft by a fraction, the numerator of which is the number of landings of the aircraft in this state and the denominator of which is the total number of landings of the aircraft. If the extent of the use of any transportation property within this state cannot be determined, the property shall be deemed to be used wholly in the state in which the property has its principal base of operations. A motor vehicle shall be deemed to be used wholly in the state in which it is registered.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_218b__subsec_e">
+            <num>(e)</num>
+            <paragraph eId="12_218b__subsec_e__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>The numerator of the receipts factor includes interest and fees or penalties in the nature of interest from loans secured by real property if the property is located within this state. If the property is located both within this state and one or more other states, the receipts described in this subsection are included in the numerator of the receipts factor if more than fifty per cent of the fair market value of the real property is located within this state. If more than fifty per cent of the fair market value of the real property is not located within any one state, the receipts described in this subsection shall be included in the numerator of the receipts factor if the borrower is located in this state.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_218b__subsec_e__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>The determination of whether the real property securing a loan is located within this state shall be made as of the time the original agreement was made and all subsequent substitutions of collateral shall be disregarded.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_218b__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>The numerator of the receipts factor includes interest and fees or penalties in the nature of interest from loans not secured by real property if the borrower is located in this state.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_218b__subsec_g">
+            <num>(g)</num>
+            <paragraph eId="12_218b__subsec_g__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>The numerator of the receipts factor includes net gains from the sale of loans. Net gains from the sale of loans includes income recorded under the coupon stripping rules of Section 1286 of the Internal Revenue Code.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_218b__subsec_g__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>The amount of net gains, but not less than zero, from the sale of loans secured by real property included in the numerator is determined by multiplying such net gains by a fraction the numerator of which is the amount included in the numerator of the receipts factor pursuant to subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_218b__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>of this section and the denominator of which is the total amount of interest and fees or penalties in the nature of interest from loans secured by real property.</p>
+            </content>
+            <paragraph eId="12_218b__subsec_e__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>The amount of net gains, but not less than zero, from the sale of loans not secured by real property included in the numerator is determined by multiplying such net gains by a fraction the numerator of which is the amount included in the numerator of the receipts factor pursuant to subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_218b__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>of this section and the denominator of which is the total amount of interest and fees or penalties in the nature of interest from loans not secured by real property.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_218b__subsec_h">
+            <num>(h)</num>
+            <paragraph eId="12_218b__subsec_h__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>The numerator of the receipts factor includes loan servicing fees derived from loans secured by real property multiplied by a fraction the numerator of which is the amount included in the numerator of the receipts factor pursuant to subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_218b__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>of this section and the denominator of which is the total amount of interest and fees or penalties in the nature of interest from loans secured by real property.</p>
+            </content>
+            <paragraph eId="12_218b__subsec_e__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>The numerator of the receipts factor includes loan servicing fees derived from loans not secured by real property multiplied by a fraction the numerator of which is the amount included in the numerator of the receipts factor pursuant to subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_218b__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>of this section and the denominator of which is the total amount of interest and fees or penalties in the nature of interest from loans not secured by real property.</p>
+            </content>
+            <paragraph eId="12_218b__subsec_f__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>In circumstances in which the taxpayer receives loan servicing fees for servicing either the secured or the unsecured loans of another, the numerator of the receipts factor shall include such fees if the borrower is located in this state.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_218b__subsec_i">
+            <num>(i)</num>
+            <paragraph eId="12_218b__subsec_i__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>Interest, dividends, net gains, but not less than zero, and other income from investment assets and activities and from trading assets and activities shall be included in the receipts factor. Investment assets and activities and trading assets and activities include, but are not limited to, investment securities, trading account assets, federal funds, securities purchased and sold under agreements to resell or repurchase, options, futures contracts, forward contracts, notional principal contracts such as swaps, equities, and foreign currency transactions. With respect to the investment and trading assets and activities described in subparagraphs (A) and (B) of this subdivision, the receipts factor shall include the amounts described in said subparagraphs (A) and (B).
+(A) The receipts factor shall include the amount by which interest from federal funds sold and securities purchased under resale agreements exceeds interest expense on federal funds purchased and securities sold under repurchase agreements.
+(B) The receipts factor shall include the amount by which interest, dividends, gains and other income from trading assets and activities, including, but not limited to, assets and activities in the matched book, in the arbitrage book, and foreign currency transactions, exceed amounts paid in lieu of interest, amounts paid in lieu of dividends and losses from such assets and activities.</p>
+              </content>
+              <subparagraph eId="12_218b__subsec_i__subsec_1__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_218b__subsec_i__subsec_1__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>of this subdivision, the receipts factor shall include the amounts described in said subparagraphs</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_218b__subsec_i__subsec_1__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_218b__subsec_i__subsec_1__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>.</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_218b__subsec_i__subsec_1__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>The receipts factor shall include the amount by which interest from federal funds sold and securities purchased under resale agreements exceeds interest expense on federal funds purchased and securities sold under repurchase agreements.</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_218b__subsec_i__subsec_1__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>The receipts factor shall include the amount by which interest, dividends, gains and other income from trading assets and activities, including, but not limited to, assets and activities in the matched book, in the arbitrage book, and foreign currency transactions, exceed amounts paid in lieu of interest, amounts paid in lieu of dividends and losses from such assets and activities.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_218b__subsec_i__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>The numerator of the receipts factor includes interest, dividends, net gains, but not less than zero, and other income from investment assets and activities and from trading assets and activities described in subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_218b__subsec_i__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>of this subsection that are attributable to this state.
+(A) The amount of interest, dividends, net gains, but not less than zero, and other income from investment assets and activities in the investment account to be attributed to this state and included in the numerator is determined by multiplying all such income from such assets and activities by a fraction, the numerator of which is the average value of such assets which are properly assigned to a regular place of business of the taxpayer within this state and the denominator of which is the average value of all such assets.
+(B) The amount of interest from federal funds sold and purchased and from securities purchased under resale agreements and securities sold under repurchase agreements attributable to this state and included in the numerator is determined by multiplying the amount described in subparagraph (A) of subdivision</p>
+              </content>
+              <subparagraph eId="12_218b__subsec_i__subsec_1__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>The amount of interest, dividends, net gains, but not less than zero, and other income from investment assets and activities in the investment account to be attributed to this state and included in the numerator is determined by multiplying all such income from such assets and activities by a fraction, the numerator of which is the average value of such assets which are properly assigned to a regular place of business of the taxpayer within this state and the denominator of which is the average value of all such assets.</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_218b__subsec_i__subsec_1__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>The amount of interest from federal funds sold and purchased and from securities purchased under resale agreements and securities sold under repurchase agreements attributable to this state and included in the numerator is determined by multiplying the amount described in subparagraph</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_218b__subsec_i__subsec_1__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>of subdivision</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_218b__subsec_i__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>of this subsection from such funds and such securities by a fraction, the numerator of which is the average value of federal funds sold and securities purchased under agreements to resell which are properly assigned to a regular place of business of the taxpayer within this state and the denominator of which is the average value of all such funds and such securities.
+(C) The amount of interest, dividends, gains and other income from trading assets and activities, including, but not limited to, assets and activities in the matched book, in the arbitrage book and foreign currency transactions, but excluding amounts described in subparagraph (A) or (B) of this subdivision, attributable to this state and included in the numerator is determined by multiplying the amount described in subparagraph (B) of subdivision</p>
+              </content>
+              <subparagraph eId="12_218b__subsec_i__subsec_1__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>The amount of interest, dividends, gains and other income from trading assets and activities, including, but not limited to, assets and activities in the matched book, in the arbitrage book and foreign currency transactions, but excluding amounts described in subparagraph</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_218b__subsec_i__subsec_1__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_218b__subsec_i__subsec_1__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>of this subdivision, attributable to this state and included in the numerator is determined by multiplying the amount described in subparagraph</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_218b__subsec_i__subsec_1__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>of subdivision</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_218b__subsec_i__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>of this subsection by a fraction, the numerator of which is the average value of such trading assets which are properly assigned to a regular place of business of the taxpayer within this state and the denominator of which is the average value of all such assets.
+(D) For purposes of this subdivision, the average value of property owned by the taxpayer is computed on an annual basis by adding the value of the property on the first day of the income year and the value on the last day of the income year and dividing the sum by two. If averaging on this basis does not properly reflect average value, the commissioner may require averaging on a more frequent basis. The taxpayer may elect to average on a more frequent basis. When averaging on a more frequent basis is required by the commissioner or is elected by the taxpayer, the same method of valuation must be used consistently by the taxpayer with respect to property within and without this state and on all subsequent returns unless the taxpayer receives prior permission from the commissioner or the commissioner requires a different method of determining average value.</p>
+              </content>
+              <subparagraph eId="12_218b__subsec_i__subsec_1__subsec_D">
+                <num>(D)</num>
+                <content>
+                  <p>For purposes of this subdivision, the average value of property owned by the taxpayer is computed on an annual basis by adding the value of the property on the first day of the income year and the value on the last day of the income year and dividing the sum by two. If averaging on this basis does not properly reflect average value, the commissioner may require averaging on a more frequent basis. The taxpayer may elect to average on a more frequent basis. When averaging on a more frequent basis is required by the commissioner or is elected by the taxpayer, the same method of valuation must be used consistently by the taxpayer with respect to property within and without this state and on all subsequent returns unless the taxpayer receives prior permission from the commissioner or the commissioner requires a different method of determining average value.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_218b__subsec_i__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>In lieu of using the method set forth in subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_218b__subsec_i__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>of this subsection, the taxpayer may elect, or the commissioner may require in order to fairly represent the business activity of the taxpayer in this state, the use of the method set forth in this subdivision.
+(A) The amount of interest, dividends, net gains, but not less than zero, and other income from investment assets and activities in the investment account to be attributed to this state and included in the numerator is determined by multiplying all such income from such assets and activities by a fraction, the numerator of which is the gross income from such assets and activities which are properly assigned to a regular place of business of the taxpayer within this state and the denominator of which is the gross income from all such assets and activities.
+(B) The amount of interest from federal funds sold and purchased and from securities purchased under resale agreements and securities sold under repurchase agreements attributable to this state and included in the numerator is determined by multiplying the amount described in subparagraph (A) of subdivision</p>
+              </content>
+              <subparagraph eId="12_218b__subsec_i__subsec_2__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>The amount of interest, dividends, net gains, but not less than zero, and other income from investment assets and activities in the investment account to be attributed to this state and included in the numerator is determined by multiplying all such income from such assets and activities by a fraction, the numerator of which is the gross income from such assets and activities which are properly assigned to a regular place of business of the taxpayer within this state and the denominator of which is the gross income from all such assets and activities.</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_218b__subsec_i__subsec_2__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>The amount of interest from federal funds sold and purchased and from securities purchased under resale agreements and securities sold under repurchase agreements attributable to this state and included in the numerator is determined by multiplying the amount described in subparagraph</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_218b__subsec_i__subsec_2__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>of subdivision</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_218b__subsec_i__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>of this subsection from such funds and such securities by a fraction, the numerator of which is the gross income from such funds and such securities which are properly assigned to a regular place of business of the taxpayer within this state and the denominator of which is the gross income from all such funds and securities.
+(C) The amount of interest, dividends, gains and other income from trading assets and activities, including, but not limited to, assets and activities in the matched book, in the arbitrage book and foreign currency transactions, but excluding amounts described in subparagraph (A) or (B) of this subdivision, attributable to this state and included in the numerator is determined by multiplying the amount described in subparagraph (B) of subdivision</p>
+              </content>
+              <subparagraph eId="12_218b__subsec_i__subsec_1__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>The amount of interest, dividends, gains and other income from trading assets and activities, including, but not limited to, assets and activities in the matched book, in the arbitrage book and foreign currency transactions, but excluding amounts described in subparagraph</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_218b__subsec_i__subsec_1__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_218b__subsec_i__subsec_1__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>of this subdivision, attributable to this state and included in the numerator is determined by multiplying the amount described in subparagraph</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_218b__subsec_i__subsec_1__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>of subdivision</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_218b__subsec_i__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>of this subsection by a fraction, the numerator of which is the gross income from such trading assets and activities which are properly assigned to a regular place of business of the taxpayer within this state and the denominator of which is the gross income from all such assets and activities.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_218b__subsec_i__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>If the taxpayer elects or is required by the commissioner to use the method set forth in subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_218b__subsec_i__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>of this subsection, it shall use this method on all subsequent returns unless the taxpayer receives prior permission from the commissioner to use, or the commissioner requires a different method.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_218b__subsec_i__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>The taxpayer shall have the burden of proving that an investment asset or activity or trading asset or activity was properly assigned to a regular place of business outside of this state by demonstrating that the day-to-day decisions regarding the asset or activity occurred at a regular place of business outside this state. Where the day-to-day decisions regarding an investment asset or activity or trading asset or activity occur at more than one regular place of business and one such regular place of business is in this state and one such regular place of business is outside this state, such asset or activity shall be considered to be located at the regular place of business of the taxpayer where the investment or trading policies or guidelines with respect to the asset or activity are established. Unless the taxpayer demonstrates to the contrary, such policies and guidelines shall be presumed to be established at the commercial domicile of the taxpayer.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_218b__subsec_j">
+            <num>(j)</num>
+            <paragraph eId="12_218b__subsec_j__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>The numerator of the receipts factor includes receipts received for management, distribution and administrative services performed on behalf of an investment entity in an amount equal to the product of such receipts for the income year multiplied by a fraction (A) the numerator of which shall be the average of</p>
+              </content>
+              <subparagraph eId="12_218b__subsec_j__subsec_1__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>the numerator of which shall be the average of</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_218b__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>the fair market value of the interests in the investment entity issued and outstanding on the first day of such investment entity's taxable year for federal income tax purposes, which ends within or at the same time as the income year of the financial service company, that are owned by investors in such investment entity if the billing address of such investors is in this state, and (ii) the fair market value of the interests in the investment entity issued and outstanding on the last day of such investment entity's taxable year for federal income tax purposes, which ends within or at the same time as the income year of the financial service company, that are owned by investors in such investment entity if the billing address of such investors is in this state; and (B) the denominator of which shall be the average of the fair market value of the interests in the investment entity issued and outstanding that are owned by investors in such investment entity on such dates.</p>
+            </content>
+            <paragraph eId="12_218b__subsec_i__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>The numerator of the receipts factor includes receipts received for management, distribution and administrative services performed on behalf of a pension fund or retirement account in an amount equal to the product of such receipts for the income year multiplied by a fraction (A) the numerator of which shall be the average of</p>
+              </content>
+              <subparagraph eId="12_218b__subsec_i__subsec_2__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>the numerator of which shall be the average of</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_218b__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>the number of participants with an interest in the pension fund or retirement account on the first day of the pension fund or retirement account taxable year, for federal income tax purposes, which ends within or at the same time as the income year of the financial service company, whose billing address is in this state, and (ii) the number of participants with an interest in the pension fund or retirement account on the last day of the pension fund or retirement account taxable year, for federal income tax purposes, which ends within or at the same time as the income year of the financial service company, whose billing address is in this state; and (B) the denominator of which shall be the total number of participants with an interest in the pension fund or retirement account on such dates. In lieu of using the billing addresses of the participants with an interest in the pension fund or retirement account as provided in this subdivision, the taxpayer may elect to determine receipts in the manner provided for in this subsection based upon the average of the fair market value of funds under management in each income year allocated to the commercial domicile of the sponsor of the pension fund or retirement account and, where there is no sponsor for a particular pension fund or retirement account, the billing address of the participant. The election, if made by the taxpayer, shall be irrevocable for, and applicable for, five successive income years and shall be applicable to all receipts from the rendering of management, distribution or administrative services performed for any pension fund or retirement account.</p>
+            </content>
+            <paragraph eId="12_218b__subsec_i__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>In the case of a separate account of an insurance company, to the extent that both subdivisions</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_218b__subsec_i__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_218b__subsec_i__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>of this subsection may be applicable, then subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_218b__subsec_i__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>shall apply.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_218b__subsec_k">
+            <num>(k)</num>
+            <content>
+              <p>This section shall not apply to net income from services or activities described in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_218b__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>,</p>
+            </content>
+          </subsection>
+          <subsection eId="12_218b__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>or</p>
+            </content>
+          </subsection>
+          <subsection eId="12_218b__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>of section12-218, which income shall be apportioned in accordance with said subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_218b__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>,</p>
+            </content>
+          </subsection>
+          <subsection eId="12_218b__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>or</p>
+            </content>
+          </subsection>
+          <subsection eId="12_218b__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>, whether or not the taxpayer is taxable outside this state, or, for income years commencing prior to January 1, 2002, in the case of net income from activities described in said subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_218b__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>that is earned by a taxpayer that is either not eligible to make the election described in said subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_218b__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>or does not make the election described in said subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_218b__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>which income shall be apportioned in accordance with subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_218b__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of said section12-218.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_218b__subsec_l">
+            <num>(l)</num>
+            <content>
+              <p>For all other receipts not otherwise sourced by this section, the numerator of the receipts factor includes all other receipts if the billing address of the customer is in this state; otherwise the numerator will include all other receipts pursuant to the provisions of section12-218.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_218b__subsec_m">
+            <num>(m)</num>
+            <content>
+              <p>Each financial service company that is a member of a combined group required to file a combined unitary tax return pursuant to section12-222shall apportion its net income as provided in subsections</p>
+            </content>
+          </subsection>
+          <subsection eId="12_218b__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>and</p>
+            </content>
+          </subsection>
+          <subsection eId="12_218b__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of section12-218e.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

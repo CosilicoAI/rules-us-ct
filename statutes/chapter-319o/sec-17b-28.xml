@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-28"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-28"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17b-28"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-28/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-28/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-28/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-28/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319o">
+        <num>319o</num>
+        <heading>Personal Care Assistance</heading>
+        <section eId="sec_17b_28">
+          <num>17b-28</num>
+          <heading>Council on Medical Assistance Program Oversight. Duties. Appointments. Standing subcommittee. Reports</heading>
+          <subsection eId="17b_28__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>There is established a Council on Medical Assistance Program Oversight which shall advise the Commissioner of Social Services on the planning and implementation of the health care delivery system for the HUSKY Health program. The council shall monitor planning and implementation of matters related to Medicaid care management initiatives including, but not limited to,</p>
+            </content>
+            <paragraph eId="17b_28__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>eligibility standards,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_28__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>benefits,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_28__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>access,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_28__subsec_a__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>quality assurance,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_28__subsec_a__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>outcome measures, and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_28__subsec_a__subsec_6">
+              <num>(6)</num>
+              <content>
+                <p>the issuance of any request for proposal by the Department of Social Services for utilization of an administrative services organization in connection with such initiatives.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_28__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>On or before June 30, 2011, the council shall be composed of the chairpersons and ranking members of the joint standing committees of the General Assembly having cognizance of matters relating to human services, public health and appropriations and the budgets of state agencies, or their designees; two members of the General Assembly, one to be appointed by the president pro tempore of the Senate and one to be appointed by the speaker of the House of Representatives; the director of the Commission on Aging, or a designee; the director of the Commission on Children, or a designee; a representative of each organization that has been selected by the state to provide managed care and a representative of a primary care case management provider, to be appointed by the president pro tempore of the Senate; two representatives of the insurance industry, to be appointed by the speaker of the House of Representatives; two advocates for persons receiving Medicaid, one to be appointed by the majority leader of the Senate and one to be appointed by the minority leader of the Senate; one advocate for persons with substance use disorders, to be appointed by the majority leader of the House of Representatives; one advocate for persons with psychiatric disabilities, to be appointed by the minority leader of the House of Representatives; two advocates for the Department of Children and Families foster families, one to be appointed by the president pro tempore of the Senate and one to be appointed by the speaker of the House of Representatives; two members of the public who are currently recipients of Medicaid, one to be appointed by the majority leader of the House of Representatives and one to be appointed by the minority leader of the House of Representatives; two representatives of the Department of Social Services, to be appointed by the Commissioner of Social Services; two representatives of the Department of Public Health, to be appointed by the Commissioner of Public Health; tw</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_28__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>On and after October 31, 2017, the council shall be composed of the following members:</p>
+            </content>
+            <paragraph eId="17b_28__subsec_c__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>The chairpersons and ranking members of the joint standing committees of the General Assembly having cognizance of matters relating to aging, human services, public health and appropriations and the budgets of state agencies, or their designees;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_28__subsec_c__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>Five appointed by the speaker of the House of Representatives, one of whom shall be a member of the General Assembly, one of whom shall be a community provider of adult Medicaid health services, one of whom shall be a recipient of Medicaid benefits for the aged, blind and disabled or an advocate for such a recipient, one of whom shall be a representative of the state's federally qualified health clinics and one of whom shall be a member of the Connecticut Hospital Association;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_28__subsec_c__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>Five appointed by the president pro tempore of the Senate, one of whom shall be a member of the General Assembly, one of whom shall be a representative of the home health care industry, one of whom shall be a primary care medical home provider, one of whom shall be an advocate for Department of Children and Families foster families and one of whom shall be a representative of the business community with experience in cost efficiency management;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_28__subsec_c__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>Three appointed by the majority leader of the House of Representatives, one of whom shall be an advocate for persons with substance abuse disabilities, one of whom shall be a Medicaid dental provider and one of whom shall be a representative of the for-profit nursing home industry;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_28__subsec_c__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>Three appointed by the majority leader of the Senate, one of whom shall be a representative of school-based health centers, one of whom shall be a recipient of benefits under the HUSKY Health program and one of whom shall be a physician who serves Medicaid clients;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_28__subsec_c__subsec_6">
+              <num>(6)</num>
+              <content>
+                <p>Three appointed by the minority leader of the House of Representatives, one of whom shall be an advocate for persons with disabilities, one of whom shall be a dually eligible Medicaid-Medicare beneficiary or an advocate for such a beneficiary and one of whom shall be a representative of the not-for-profit nursing home industry;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_28__subsec_c__subsec_7">
+              <num>(7)</num>
+              <content>
+                <p>Three appointed by the minority leader of the Senate, one of whom shall be a low-income adult recipient of Medicaid benefits or an advocate for such a recipient, one of whom shall be a representative of hospitals and one of whom shall be a representative of the business community with experience in cost efficiency management;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_28__subsec_c__subsec_8">
+              <num>(8)</num>
+              <content>
+                <p>The executive director of the Commission on Women, Children, Seniors, Equity and Opportunity, or the executive director's designee;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_28__subsec_c__subsec_9">
+              <num>(9)</num>
+              <content>
+                <p>A member of the Commission on Women, Children, Seniors, Equity and Opportunity, designated by the executive director of said commission;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_28__subsec_c__subsec_10">
+              <num>(10)</num>
+              <content>
+                <p>A representative of the Long-Term Care Advisory Council;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_28__subsec_c__subsec_11">
+              <num>(11)</num>
+              <content>
+                <p>The Commissioners of Social Services, Children and Families, Public Health, Developmental Services, Aging and Disability Services and Mental Health and Addiction Services, or their designees, who shall be ex-officio nonvoting members;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_28__subsec_c__subsec_12">
+              <num>(12)</num>
+              <content>
+                <p>The Comptroller, or the Comptroller's designee, who shall be an ex-officio nonvoting member;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_28__subsec_c__subsec_13">
+              <num>(13)</num>
+              <content>
+                <p>The Secretary of the Office of Policy and Management, or the secretary's designee, who shall be an ex-officio nonvoting member; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_28__subsec_c__subsec_14">
+              <num>(14)</num>
+              <content>
+                <p>One representative of an administrative services organization which contracts with the Department of Social Services in the administration of the Medicaid program, who shall be a nonvoting member.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_28__subsec_d">
+            <num>(d)</num>
+            <heading>The council shall choose a chairperson from among its members</heading>
+            <content>
+              <p>The Joint Committee on Legislative Management shall provide administrative support to such chairperson.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_28__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>The council shall monitor and make recommendations concerning:</p>
+            </content>
+            <paragraph eId="17b_28__subsec_e__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>An enrollment process that ensures access for the HUSKY Health program and effective outreach and client education for said program;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_28__subsec_e__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>available services comparable to those already in the Medicaid state plan, including those guaranteed under the federal Early and Periodic Screening, Diagnostic and Treatment Services Program under 42 USC 1396d;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_28__subsec_e__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>the sufficiency of accessible adult and child primary care providers, specialty providers and hospitals in Medicaid provider networks;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_28__subsec_e__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>the sufficiency of provider rates to maintain the Medicaid network of providers and service access;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_28__subsec_e__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>funding and agency personnel resources to guarantee timely access to services and effective management of the Medicaid program;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_28__subsec_e__subsec_6">
+              <num>(6)</num>
+              <content>
+                <p>participation in care management programs including, but not limited to, medical home and health home models by existing community Medicaid providers;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_28__subsec_e__subsec_7">
+              <num>(7)</num>
+              <content>
+                <p>the linguistic and cultural competency of providers and other program facilitators and data on the provision of Medicaid linguistic translation services;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_28__subsec_e__subsec_8">
+              <num>(8)</num>
+              <content>
+                <p>program quality, including outcome measures and continuous quality improvement initiatives that may include provider quality performance incentives and performance targets for administrative services organizations;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_28__subsec_e__subsec_9">
+              <num>(9)</num>
+              <content>
+                <p>timely, accessible and effective client grievance procedures;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_28__subsec_e__subsec_10">
+              <num>(10)</num>
+              <content>
+                <p>coordination of the Medicaid care management programs with state and federal health care reforms;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_28__subsec_e__subsec_11">
+              <num>(11)</num>
+              <content>
+                <p>eligibility levels for inclusion in the programs;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_28__subsec_e__subsec_12">
+              <num>(12)</num>
+              <content>
+                <p>enrollee cost-sharing provisions;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_28__subsec_e__subsec_13">
+              <num>(13)</num>
+              <content>
+                <p>a benefit package for the HUSKY Health program;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_28__subsec_e__subsec_14">
+              <num>(14)</num>
+              <content>
+                <p>coordination of coverage continuity among Medicaid programs and integration of care, including, but not limited to, behavioral health, dental and pharmacy care provided through programs administered by the Department of Social Services; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_28__subsec_e__subsec_15">
+              <num>(15)</num>
+              <content>
+                <p>the need for program quality studies within the areas identified in this section and the department's application for available grant funds for such studies. The chairperson of the council shall ensure that sufficient members of the council participate in the review of any contract entered into by the Department of Social Services and an administrative services organization.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_28__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>The Commissioner of Social Services may, in consultation with an educational institution, apply for any available funding, including federal funding, to support Medicaid care management programs.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_28__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>The Commissioner of Social Services shall provide monthly reports to the council on the matters described in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_28__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>of this section, including, but not limited to, policy changes and proposed regulations that affect Medicaid health services. The commissioner shall also provide the council with quarterly financial reports for each covered Medicaid population which reports shall include a breakdown of sums expended for each covered population.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_28__subsec_h">
+            <num>(h)</num>
+            <heading>The council shall biannually report on its activities and progress to the General Assembly</heading>
+          </subsection>
+          <subsection eId="17b_28__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>There is established, within the Council on Medical Assistance Program Oversight, a standing subcommittee to study and make recommendations to the council on children and adults who have complex health care needs. The subcommittee shall consist of council members appointed by the chairpersons of the council and other individuals who shall serve for terms prescribed by the cochairpersons to advise the council on specific needs of children and adults with complex health care needs. For the purposes of completing the reports required pursuant to subparagraphs (A) and (B) of this subsection, such individuals shall include, but need not be limited to:</p>
+            </content>
+            <paragraph eId="17b_28__subsec_i__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>The Child Advocate, or the Child Advocate's designee;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_28__subsec_i__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>a family or child advocate;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_28__subsec_i__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>the executive director of the Council on Developmental Disabilities, or the executive director's designee;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_28__subsec_i__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>the executive director of the Connecticut Association of Public School Superintendents, or the executive director's designee;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_28__subsec_i__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>an expert in the diagnosis, evaluation, education and treatment of children and young adults with developmental disabilities; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_28__subsec_i__subsec_6">
+              <num>(6)</num>
+              <content>
+                <p>the Healthcare Advocate, or the Healthcare Advocate's designee. The subcommittee shall submit the following reports, in accordance with section11-4ato the council, the Governor and the joint standing committees of the General Assembly having cognizance of matters relating to children, human services and public health regarding the efficacy of support systems for children and young adults, not older than twenty-one years of age, with developmental disabilities and with or without co-occurring mental health conditions:
+(A) Not later than July 1, 2017, recommendations including, but not limited to:</p>
+              </content>
+              <subparagraph eId="17b_28__subsec_i__subsec_6__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>Not later than July 1, 2017, recommendations including, but not limited to:</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_28__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Metrics for evaluating the quality of state-funded services to such children and young adults that can be utilized by state agencies that fund such services; (ii) statutory changes needed to promote effective service delivery for such children and young adults and their families; and (iii) any other changes needed to address gaps in services identified by the subcommittee or council with respect to such children, young adults and their families; and
+(B) Not later than January 1, 2018, an assessment of:</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_28__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Early intervention services available to such children and young adults in this state; (ii) the system of community-based services for such children and young adults; (iii) the treatment provided by congregate care settings that are operated privately or by the state and provide residential supports and services to such children and young adults and how the quality of care is measured; and (iv) how the state Department of Education, local boards of education, the Department of Children and Families, the Department of Developmental Services and other appropriate agencies can work collaboratively to improve educational, developmental, medical and behavioral health outcomes for such children and young adults and reduce the number at risk of entering institutional care. As used in this subsection, “developmental disability” means a severe, chronic disability of an individual, as defined in 42 USC 15002, as amended from time to time.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-170e"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-170e"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-170e"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-170e/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-170e/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-170e/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-170e/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_204a">
+        <num>204a</num>
+        <heading>Property Tax Relief for Elderly Homeowners and Renters and Persons with Permanent Total Disability</heading>
+        <section eId="sec_12_170e">
+          <num>12-170e</num>
+          <heading>State grants to renters qualified under section 12-170d</heading>
+          <subsection eId="12_170e__subsec_a">
+            <num>(a)</num>
+            <paragraph eId="12_170e__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>A renter qualifying under section12-170dshall be entitled to a payment from the state equivalent to the lesser of the maximum amount in the following table or thirty-five per cent of the sum of all charges for rents, electricity, gas, water and fuel actually paid during the preceding calendar year less five per cent of the qualifying income received during the preceding calendar year.
+Qualifying IncomeGrantMarriedOverNot ExceedingMaximumMinimum$       0$ 8,100$ 900$ 4008,10010,80070030010,80013,50050020013,50016,20025010016,20020,0001505020,000NoneNone
+Qualifying IncomeGrantUnmarriedOverNot ExceedingMaximumMinimum$       0$ 8,100$ 700$ 3008,10010,80050020010,80013,50025010013,50016,2001505016,200NoneNone</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_170e__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>The amounts of income at each level of qualifying income, as provided in the table in subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_170e__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>of this subsection, shall be adjusted annually in a uniform manner to reflect the annual inflation adjustment in Social Security income. Each such adjustment of qualifying income shall be determined to the nearest one hundred dollars and shall be applicable in determining the amount of grant allowed under this subsection with respect to charges for rents, electricity, gas, water and fuel actually paid during the preceding calendar year. Each such adjustment of qualifying income shall be prepared by the Secretary of the Office of Policy and Management in relation to the annual inflation adjustment in Social Security, if any, becoming effective at any time during the twelve-month period immediately preceding the first day of October each year and shall be distributed to the assessors in each municipality not later than the thirty-first day of December next following.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_170e__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>A person who qualifies at the close of any calendar year, who ceased to be a renter during such year, or a person who first became a qualified renter during the calendar year shall apportion his qualifying income on the basis of the number of months that he was a renter and the income so apportioned to the months during which he was a renter shall constitute his qualifying income for purposes of calculating the amount of grant under subdivision</p>
+            </content>
+          </subsection>
+          <subsection eId="12_170e__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section provided the maximum grant shall be a fraction of the amount shown in such table, the numerator of which shall be the number of months of the year that he was a renter and the denominator the numeral twelve.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

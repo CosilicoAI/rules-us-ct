@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-420c"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-420c"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-420c"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-420c/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-420c/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-420c/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-420c/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_219">
+        <num>219</num>
+        <heading>Motor Vehicle Fuels Tax</heading>
+        <section eId="sec_12_420c">
+          <num>12-420c</num>
+          <heading>Managed audit agreements</heading>
+          <subsection eId="12_420c__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The commissioner may, in the commissioner's sole discretion, enter into a managed audit agreement with an eligible taxpayer. Under a managed audit agreement, the commissioner shall</p>
+            </content>
+            <paragraph eId="12_420c__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>agree to accept, upon verification, the eligible taxpayer's determinations for purposes of making a deficiency assessment or otherwise determining the taxpayer's liability for the period under review,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_420c__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>provide written procedural guidelines to be included as part of the managed audit agreement, including, but not limited to, the general scope of the managed audit, what records will be examined and what types of sampling techniques will be used, and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_420c__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>review the results of the managed audit with the eligible taxpayer and issue an audit determination.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_420c__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Such agreement may provide that, upon compliance by the taxpayer with all the terms of such agreement, in calculating the total amount of the audit assessment resulting from such managed audit the first ten thousand dollars of interest and ten per cent of any additional interest otherwise due under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_420c__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of section12-415shall not be imposed. Any interest accruing after the initial assessment shall be at the rate of interest specified in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_420c__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of section12-415.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_420c__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The commissioner may, in the commissioner's sole discretion, terminate a managed audit agreement and conduct an audit of an eligible taxpayer under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_420c__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of section12-415, if the eligible taxpayer fails to fulfill any of the terms of a managed audit agreement, or if the commissioner believes that a managed audit should not be conducted for any other reason.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_420c__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Nothing in this section shall abridge or alter any other requirements, rights or obligations of an eligible taxpayer or the commissioner granted or imposed by statute or regulation, including, but not limited to, penalties for negligence or intentional disregard of the provisions of this chapter, except as provided in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_420c__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of this section; penalties for failure to file returns or for fraud or intent to evade the provisions of this chapter; limitation periods and waivers of limitation periods; the right of an eligible taxpayer to file a written protest under section12-418; the right of an eligible taxpayer to appeal an assessment or a reassessment under section12-422or the right of an eligible taxpayer to claim a refund under section12-425.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

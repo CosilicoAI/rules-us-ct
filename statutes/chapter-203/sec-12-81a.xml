@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-81a"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-81a"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-81a"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-81a/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-81a/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-81a/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-81a/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_203">
+        <num>203</num>
+        <heading>Property Tax Assessment</heading>
+        <section eId="sec_12_81a">
+          <num>12-81a</num>
+          <heading>Property subject to tax exemption. Liability of purchaser</heading>
+          <subsection eId="12_81a__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The purchaser, his heirs, successors or assigns, of any property which, on the assessment date prior to such sale, was tax-exempt to any extent in accordance with the provisions of section12-81or with respect to which taxes for the current tax year were abated to any extent in accordance with the provisions of chapter 204, shall be liable for the payment of municipal taxes on that portion of such property which was so exempt or with respect to which taxes were so abated, from the date on which the conveyance is placed on the land records of the town in which such property is situated, as provided in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_81a__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section, including a prorated share of taxes for the tax year in which the transfer took place. Such liability shall attach to the property as a charge thereon.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_81a__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Such purchaser shall place the deed or other instrument by which such property was conveyed on the land records of the town in which it is situated within ten days after such instrument is delivered to him and, in addition, shall within the same period notify, in writing, the assessor of the town of the transfer; provided, if the purchaser fails so to record the deed or instrument, such failure shall waive rights of appeal as provided hereinafter and shall subject the purchaser to a ten per cent surtax.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_81a__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Notwithstanding other provisions of this chapter, not later than fifteen days after receipt by the assessor of such notice of purchase, the assessor shall add such property or the exempt portion thereof, to the taxable grand list of the town in the name of the purchaser at its normal full assessment value, subject to any exemption for which such purchaser may be eligible in accordance with the provisions of section12-81, prorated from the date of transfer to the next assessment date, and shall not later than five days thereafter notify the purchaser and the tax collector of the town of the assessment so placed upon the property.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_81a__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>The purchaser may appeal the doings of the assessor to the board of assessment appeals and the Superior Court as otherwise provided in this chapter; provided such appeal shall be extended in time to the next succeeding board of assessment appeals, if the statutory period for the meeting of such board has passed.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_81a__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>Upon receipt of such notice from the assessor, the tax collector of the town shall, if such notice is received after the normal billing date, not later than thirty days after such receipt, mail or hand a bill to the purchaser based upon an amount prorated by the assessor. Such tax shall be due and payable and collectible as other municipal taxes and subject to the same liens and processes of collection; provided such tax shall be due and payable in an initial or single installment due and payable not sooner than thirty days after the date such bill is mailed or handed to the purchaser, and in any remaining, regular installments, as the same are due and payable, and the several installments of a tax so due and payable shall be equal.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_81a__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>The provisions of this section shall not apply to any purchaser the property of which is exempt from taxation.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

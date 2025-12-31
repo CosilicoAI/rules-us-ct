@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-117"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-117"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-117"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-117/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-117/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-117/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-117/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_203">
+        <num>203</num>
+        <heading>Property Tax Assessment</heading>
+        <section eId="sec_12_117">
+          <num>12-117</num>
+          <heading>Extension of time for completion of duties of assessors and board of assessment appeals</heading>
+          <subsection eId="12_117__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The period prescribed by law for the completion of the duties of any assessor, board of assessors or board of assessment appeals may, for due cause shown, be extended by the chief executive officer of the town for a period not exceeding one month, and in the case of the board of assessment appeals in any town in the assessment year in which a revaluation, pursuant to section12-62, is required to be effective, such period shall be extended by said chief executive officer for a period not exceeding two months. Not later than two weeks after granting an extension as provided under this subsection, the chief executive officer shall send notice of the extension to the Secretary of the Office of Policy and Management by mail or electronic mail in a manner prescribed by the secretary.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_117__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>If, in the assessment year in which a revaluation is required to be effective, the Secretary of the Office of Policy and Management determines, on the basis of information provided by the board of assessment appeals and the chief executive officer, that the number of appeals pending before such board is such as to preclude fair and equitable consideration of such appeals within the extended period of time provided under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_117__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section, the secretary may authorize a postponement of the implementation of said revaluation until the assessment day next ensuing. If the secretary authorizes such postponement, the town shall not be subject to the penalty provisions of subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_117__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>of section12-62. Upon receipt of the secretary's notice of authorization, the assessor shall revise the real property grand list for the assessment year with respect to which such postponement is applicable, to reflect assessments for such property effective in the assessment year immediately preceding. The real property grand list from which such appeals are taken shall then become the real property grand list for the assessment day next ensuing, subject only to transfers of ownership, additions for new construction, reductions for demolitions and such adjustments as are authorized by the board of assessment appeals, unless the assessor revalues all real property for said assessment day in accordance with section12-62. The secretary shall not grant an authorization to a town, pursuant to this subsection, in consecutive years.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_117__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>During any assessment year in which the provisions of subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_117__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section become applicable, the assessor or board of assessors shall, not later than thirty days after the date on which the Secretary of the Office of Policy and Management authorizes the postponement of revaluation, complete the grand list as required by subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_117__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section. An increase notice shall be prepared in the manner prescribed by section12-55, and, not later than the tenth day after the completion of said grand list, mailed or sent by electronic mail to each owner whose property valuation on said grand list increased above the valuation of such property in the last-preceding assessment year. Notwithstanding the provisions of section12-112, any owner may appeal such increase to the board of assessment appeals not later than thirty days after the date of such notice. If the assessor or board of assessors fails to comply with the notice requirements in this subsection, any such increase shall not take effect until the next succeeding assessment date.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

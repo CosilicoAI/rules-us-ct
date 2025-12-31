@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-572"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-572"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-572"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-572/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-572/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-572/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-572/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_226">
+        <num>226</num>
+        <heading>Prepared Food and Beverage Tax</heading>
+        <section eId="sec_12_572">
+          <num>12-572</num>
+          <heading>Off-track betting facilities. Deposit of daily receipts. Distribution of sums in pari-mutuel pool. Contract disputes</heading>
+          <subsection eId="12_572__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The commissioner may establish or authorize the establishment of such off-track betting facilities throughout the state for the purpose of receiving moneys wagered on the results of races or jai alai games as the commissioner deems will serve the convenience of the public and provide maximum economy and efficiency of operation, provided the establishment of such a facility in any municipality for the purpose of receiving moneys on the results of races or jai alai games shall be subject to the approval of the legislative body of such municipality which shall be given only after a public hearing on the same. Until the effective date of transfer of ownership of the off-track betting system, moneys received at such facilities shall be deposited in a betting fund from which daily payments, in such amount as the commissioner deems suitable, shall be made. If an operator of an off-track betting facility intends to conduct wagering on jai alai games, such operator</p>
+            </content>
+            <paragraph eId="12_572__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>shall conduct wagering on jai alai games conducted by any association licensee which offers such games for off-track betting, provided such operator obtains the written consent of such licensee, and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_572__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>may conduct wagering on out-of-state jai alai games when no such association licensee is conducting such games, provided such operator has complied with the provisions of subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_572__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>of this subsection. No operator of an off-track betting facility shall conduct wagering on any jai alai game if such game is conducted within forty miles of such facility unless such operator has obtained the written consent of the licensee conducting such game. An operator of an off-track betting facility may conduct wagering on out-of-state dog racing events.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_572__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The commissioner may contract with any person or business organization to provide such facilities, components, goods or services as may be necessary for the effective operation of an off-track betting system. Compensation for such facilities, components, goods or services shall be deducted from the moneys retained pursuant to subsections</p>
+            </content>
+          </subsection>
+          <subsection eId="12_572__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>and</p>
+            </content>
+          </subsection>
+          <subsection eId="12_572__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>of this section in such amount as the commissioner shall determine.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_572__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The department or any person or business organization operating an off-track betting system shall distribute all sums deposited in a pari-mutuel pool, to the holders of winning tickets therein, less seventeen per cent of the total deposits of such pool plus the breakage to the dime of the amount so retained, except as provided in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_572__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>of this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_572__subsec_d">
+            <num>(d)</num>
+            <paragraph eId="12_572__subsec_d__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>If the multiple forms of wagering known as daily double, exacta and quinella are permitted, the department or any person or business organization operating the off-track betting system shall distribute all sums deposited in the pari-mutuel pool for any such event to the holders of winning tickets therein, less nineteen per cent of the total deposits in such pool plus the breakage to the dime.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_572__subsec_d__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>If multiple forms of wagering on three or more animals are permitted, the department or such person or business organization operating an off-track betting system shall retain twenty-four and one-half per cent of the total sums deposited in the pool for such event, plus the breakage to the dime.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_572__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>The department or any person or business organization operating an off-track betting system and conducting wagering on racing events or jai alai games held in this state and licensed under the provisions of this chapter shall distribute all sums deposited in a pari-mutuel pool to the holders of winning tickets therein, less the same percentage of the total deposits of such pool applicable to such racing events or jai alai games plus the breakage to the dime of the amount retained by each licensee conducting the racing events or jai alai games.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_572__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>Any person or business organization which has entered into a contract with the state, acting through the commissioner under the provisions of subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_572__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section, except a contract with an individual for personal services, may, in the event of any disputed claims under such contract, bring an action against the state to the superior court for the judicial district of Hartford for the purpose of having such claims determined, provided notice of the general nature of such claims shall have been given in writing to the department not later than one year after the termination of such contract. No action shall be brought under this section later than three years from the date of termination of the contract. Such action shall be tried to the court without a jury. Damages recoverable in such action shall not include any amount attributable to anticipated profits but shall be limited to the recovery of actual damages sustained arising out of such contract. All legal defenses except governmental immunity shall be reserved to the state.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_572__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>The department or any person or business organization operating an off-track betting system may combine wagers placed within such off-track betting system with similar wagering pools at the facility where a racing program is being conducted, regardless of whether such facility is located within or without the state. Such pari-mutuel wagers shall be combined in such form and manner as the commissioner may determine to be in the best interests of the off-track betting system established pursuant to the provisions of section12-571. Notwithstanding the provisions of subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_572__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>or</p>
+            </content>
+          </subsection>
+          <subsection eId="12_572__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>of this section, the department or any person or business organization operating an off-track betting system and conducting wagering on racing events held without this state, may distribute to the holders of winning tickets who have placed wagers in said combined pools such sums as may be deposited in said combined pari-mutuel pools, less the same percentage of the total deposits of such combined pools as is established at the facility where such racing program is conducted plus the breakage to the dime, as shall be determined by the commissioner.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

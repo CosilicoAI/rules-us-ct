@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-341b"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-341b"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-341b"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-341b/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-341b/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-341b/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-341b/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_216">
+        <num>216</num>
+        <heading>Sales and Use Taxes</heading>
+        <section eId="sec_12_341b">
+          <num>12-341b</num>
+          <heading>Taxable transfers by persons dying on and after July 1, 1963</heading>
+          <subsection eId="12_341b__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>By will;</p>
+            </content>
+          </subsection>
+          <subsection eId="12_341b__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>by statutes relating to descent and distribution of property upon the death of the owner;</p>
+            </content>
+          </subsection>
+          <subsection eId="12_341b__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>in contemplation of the death of the transferor, and any transfer of property, either by a direct conveyance or by conveyances through a third party, made and completed within three years next prior to the date of death of the transferor, shall, unless shown to the contrary, be construed prima facie to have been made in contemplation of death, except that no such transfer made more than three years prior to death shall be treated as having been made in contemplation of death;</p>
+            </content>
+          </subsection>
+          <subsection eId="12_341b__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>by gift or grant intended to take effect in possession or enjoyment at or after the death of the transferor. Such a transfer as last mentioned shall include, among other things, a transfer under which the decedent retained for his life, or for any period not ascertainable without reference to his death, or for a period of such duration as to evidence an intention that he should retain for his life</p>
+            </content>
+            <paragraph eId="12_341b__subsec_d__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>the possession or enjoyment of, or the right to the income from, the property, or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_341b__subsec_d__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>the right, either alone or in conjunction with any person or persons, to designate the person or persons who shall possess or enjoy the property or the income therefrom, but shall not include property transferred by the decedent in which he retained, whether by operation of law or otherwise, the possibility, hereinafter referred to as a “reversionary interest”, that the property would return to the decedent or his estate or would be subject to a power of disposition by him, unless the value of such reversionary interest immediately before the death of the decedent exceeded five per cent of the value of the property transferred. The value of a taxable reversionary interest immediately before the death of the decedent shall be determined, without regard to the fact of the decedent's death, by usual methods of valuation, including the use of tables of mortality and actuarial principles, allowing credit for the value of all intervening estates, under regulations prescribed by the Commissioner of Revenue Services;</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_341b__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>in payment of a claim against the estate of a deceased person arising from a contract made by him and payable by its terms at or after his death, but a claim created by an antenuptial agreement made payable by will shall be considered as creating a debt against the estate and shall not constitute a taxable transfer. If any transfer specified in subdivisions</p>
+            </content>
+          </subsection>
+          <subsection eId="12_341b__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>,</p>
+            </content>
+          </subsection>
+          <subsection eId="12_341b__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>and</p>
+            </content>
+          </subsection>
+          <subsection eId="12_341b__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>of this section is made for a valuable consideration, so much thereof as is the equivalent in money value of the money value of the consideration received by the transferor shall not be taxable, but the remaining portion shall be taxable. If it becomes necessary or appropriate in ascertaining such value to use mortality tables, the American Men's Ultimate Mortality tables at four per cent compound interest shall be used, so far as applicable.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-105f"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-105f"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17b-105f"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-105f/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-105f/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-105f/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-105f/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319s">
+        <num>319s</num>
+        <heading>Connecticut Partnership for Long-Term Care</heading>
+        <section eId="sec_17b_105f">
+          <num>17b-105f</num>
+          <heading>Supplemental nutrition assistance employment and training program</heading>
+          <subsection eId="17b_105f__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The Department of Social Services shall administer a supplemental nutrition assistance employment and training program, authorized under the federal Food and Nutrition Act of 2008, as amended from time to time, to provide employment and training activities, support services and other programs and services for recipients of the supplemental nutrition assistance program. The program shall provide for the receipt of federal matching funds to the state from the United States Department of Agriculture for funds expended on behalf of supplemental nutrition assistance recipients by state agencies, local governments, nonprofit entities, institutions of higher education and other eligible supplemental nutrition assistance employment and training providers for employment and training activities that qualify for such matching funds under federal law and regulations. The department shall seek to maximize the use of the federal matching funds provision under the program to the fullest extent permitted by federal law.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_105f__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Federal grants received under the program shall be used in accordance with federal law and regulations to fund supplemental nutrition assistance employment and training activities.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_105f__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The department shall select providers whose employment and training activities qualify for reimbursement under federal law and regulations to participate in the federal matching funds provision of the supplemental nutrition assistance employment and training program. Providers shall be selected in a form and manner prescribed by the Commissioner of Social Services. In selecting providers, the department shall give priority to providers who are members of a supplemental nutrition assistance employment and training community collaborative and whose strategies are aligned with the recommendations of the Child Poverty and Prevention Council and its plan to reduce child poverty developed pursuant to section4-67x.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_105f__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>The department shall distribute to providers pursuant to subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_105f__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of this section federal matching funds in accordance with section17b-105h. Such funds shall be used for poverty reduction strategies.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_105f__subsec_e">
+            <num>(e)</num>
+            <paragraph eId="17b_105f__subsec_e__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>Not later than July 1, 2023, and annually thereafter, the Board of Regents for Higher Education and the Board of Trustees of The University of Connecticut shall consult with the Department of Social Services for the purpose of identifying any educational program offered at an institution of higher education governed by said boards that qualifies as an employment and training program that increases a student's employability and complies with the requirements for an exemption, as specified in 7 CFR 273.5</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_105f__subsec_b">
+            <num>(b)</num>
+            <paragraph eId="17b_105f__subsec_b__subsec_11">
+              <num>(11)</num>
+              <content>
+                <p>, as amended from time to time, from the supplemental nutrition assistance program eligibility rule in 7 CFR 273.5</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_105f__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>, as amended from time to time. In identifying such educational programs, the department and said boards shall seek to maximize the number and types of employment and training programs offered at the institution of higher education governed by said boards.</p>
+            </content>
+            <paragraph eId="17b_105f__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>Any independent institution of higher education in the state may, in such institution's discretion, consult with the Department of Social Services for the purposes set forth in subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_105f__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>of this subsection.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_105f__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>Not later than January 1, 2024, the Department of Social Services, the Board of Regents for Higher Education and the Board of Trustees of The University of Connecticut shall each post, and regularly update, on their Internet web site, the list of educational programs offered at each institution of higher education governed by said boards that has been identified as an employment and training program pursuant to subdivision</p>
+            </content>
+            <paragraph eId="17b_105f__subsec_f__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_105f__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>of this section.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

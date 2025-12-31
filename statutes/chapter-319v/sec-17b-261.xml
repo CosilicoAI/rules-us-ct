@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-261"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-261"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17b-261"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-261/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-261/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-261/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-261/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319v">
+        <num>319v</num>
+        <heading>Temporary Assistance for Needy Families</heading>
+        <section eId="sec_17b_261">
+          <num>17b-261</num>
+          <heading>(Formerly Sec. 17-134b). Medicaid. Eligibility. Assets. Waiver from federal law. State-funded medical assistance for children regardless of immigration status</heading>
+          <subsection eId="17b_261__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Medical assistance shall be provided for any otherwise eligible person</p>
+            </content>
+            <paragraph eId="17b_261__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>whose income, including any available support from legally liable relatives and the income of the person's spouse or dependent child, is not more than one hundred fifty-nine per cent, pending approval of a federal waiver applied for pursuant to subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_261__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>of this section, of the benefit amount paid to a person with no income under the temporary family assistance program and</p>
+            </content>
+            <paragraph eId="17b_261__subsec_e__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>if such person is an institutionalized individual as defined in Section 1917 of the Social Security Act, 42 USC 1396p</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_261__subsec_h">
+            <num>(h)</num>
+            <paragraph eId="17b_261__subsec_h__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>, and has not made an assignment or transfer or other disposition of property for less than fair market value for the purpose of establishing eligibility for benefits or assistance under this section. Any such disposition shall be treated in accordance with Section 1917</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_261__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of the Social Security Act, 42 USC 1396p</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_261__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>. Any disposition of property made on behalf of an applicant or recipient or the spouse of an applicant or recipient by a guardian, conservator, person authorized to make such disposition pursuant to a power of attorney or other person so authorized by law shall be attributed to such applicant, recipient or spouse. A disposition of property ordered by a court shall be evaluated in accordance with the standards applied to any other such disposition for the purpose of determining eligibility. The commissioner shall establish the standards for eligibility for medical assistance at one hundred fifty-nine per cent of the benefit amount paid to a household of equal size with no income under the temporary family assistance program. In determining eligibility, the commissioner shall not consider as income Aid and Attendance pension benefits granted to a veteran, as defined in section27-103, or the surviving spouse of such veteran. Except as provided in section17b-277and section17b-292, the medical assistance program shall provide coverage to persons under the age of nineteen with household income up to one hundred ninety-six per cent of the federal poverty level without an asset limit and to persons under the age of nineteen, who qualify for coverage under Section 1931 of the Social Security Act, with household income not exceeding one hundred ninety-six per cent of the federal poverty level without an asset limit, and their parents and needy caretaker relatives, who qualify for coverage under Section 1931 of the Social Security Act, with household income not exceeding one hundred thirty-three per cent of the federal poverty level without an asset limit. Such levels shall be based on the regional differences in such benefit amount, if applicable, unless such levels based on regional differences are not in conformance with federal law. Any income in excess of the applicable amounts shall be applied as may be required by said federal law, and assistance shall be granted for t</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_261__subsec_e">
+            <num>(e)</num>
+            <paragraph eId="17b_261__subsec_e__subsec_14">
+              <num>(14)</num>
+              <content>
+                <p>of the Social Security Act and the implementing regulations to determine eligibility for HUSKY A, HUSKY B and HUSKY D applicants, as defined in section17b-290. Persons who are determined ineligible for assistance pursuant to this section shall be provided a written statement notifying such persons of their ineligibility and advising such persons of their potential eligibility for one of the other insurance affordability programs as defined in 42 CFR 435.4.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_261__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>For the purposes of the Medicaid program, the Commissioner of Social Services shall consider parental income and resources as available to a child under eighteen years of age who is living with his or her parents and is blind or disabled for purposes of the Medicaid program, or to any other child under twenty-one years of age who is living with his or her parents.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_261__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>For the purposes of determining eligibility for the Medicaid program, an available asset is one that is actually available to the applicant or one that the applicant has the legal right, authority or power to obtain or to have applied for the applicant's general or medical support. If the terms of a trust provide for the support of an applicant, the refusal of a trustee to make a distribution from the trust does not render the trust an unavailable asset. Notwithstanding the provisions of this subsection, the availability of funds in a trust or similar instrument funded in whole or in part by the applicant or the applicant's spouse shall be determined pursuant to the Omnibus Budget Reconciliation Act of 1993, 42 USC 1396p. The provisions of this subsection shall not apply to a special needs trust, as defined in 42 USC 1396p</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_261__subsec_d">
+            <num>(d)</num>
+            <paragraph eId="17b_261__subsec_d__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>(A), as amended from time to time. For purposes of determining whether a beneficiary under a special needs trust, who has not received a disability determination from the Social Security Administration, is disabled, as defined in 42 USC 1382c</p>
+              </content>
+              <subparagraph eId="17b_261__subsec_d__subsec_4__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>, as amended from time to time. For purposes of determining whether a beneficiary under a special needs trust, who has not received a disability determination from the Social Security Administration, is disabled, as defined in 42 USC 1382c</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_261__subsec_a">
+            <num>(a)</num>
+            <paragraph eId="17b_261__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>, the Commissioner of Social Services, or the commissioner's designee, shall independently make such determination. The commissioner shall not require such beneficiary to apply for Social Security disability benefits or obtain a disability determination from the Social Security Administration for purposes of determining whether the beneficiary is disabled.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_261__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>The transfer of an asset in exchange for other valuable consideration shall be allowable to the extent the value of the other valuable consideration is equal to or greater than the value of the asset transferred.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_261__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>The Commissioner of Social Services shall seek a waiver from federal law to permit federal financial participation for Medicaid expenditures for families with incomes of one hundred forty-three per cent of the temporary family assistance program payment standard.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_261__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>To the extent permitted by federal law, Medicaid eligibility shall be extended for one year to a family that becomes ineligible for medical assistance under Section 1931 of the Social Security Act due to income from employment by one of its members who is a caretaker relative or due to receipt of child support income. A family receiving extended benefits on July 1, 2005, shall receive the balance of such extended benefits, provided no such family shall receive more than twelve additional months of such benefits.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_261__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>An institutionalized spouse applying for Medicaid and having a spouse living in the community shall be required, to the maximum extent permitted by law, to divert income to such community spouse in order to raise the community spouse's income to the level of the minimum monthly needs allowance, as described in Section 1924 of the Social Security Act. Such diversion of income shall occur before the community spouse is allowed to retain assets in excess of the community spouse protected amount described in Section 1924 of the Social Security Act. The Commissioner of Social Services, pursuant to section17b-10, may implement the provisions of this subsection while in the process of adopting regulations, provided the commissioner prints notice of intent to adopt the regulations in the Connecticut Law Journal within twenty days of adopting such policy. Such policy shall be valid until the time final regulations are effective.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_261__subsec_h">
+            <num>(h)</num>
+            <content>
+              <p>To the extent permissible under federal law, an institutionalized individual, as defined in Section 1917 of the Social Security Act, 42 USC 1396p</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_261__subsec_h">
+            <num>(h)</num>
+            <paragraph eId="17b_261__subsec_h__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>, shall not be determined ineligible for Medicaid solely on the basis of the cash value of a life insurance policy worth less than ten thousand dollars provided the individual is pursuing the surrender of the policy.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_261__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Medical assistance shall be provided, in accordance with the provisions of subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_261__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>of section17a-6, to any child under the supervision of the Commissioner of Children and Families who is not receiving Medicaid benefits, has not yet qualified for Medicaid benefits or is otherwise ineligible for such benefits. Medical assistance shall also be provided to any child in the behavioral services program operated by the Department of Developmental Services who is not receiving Medicaid benefits, has not yet qualified for Medicaid benefits or is otherwise ineligible for benefits. To the extent practicable, the Commissioner of Children and Families and the Commissioner of Developmental Services shall apply for, or assist such child in qualifying for, the Medicaid program.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_261__subsec_j">
+            <num>(j)</num>
+            <content>
+              <p>The Commissioner of Social Services shall provide Early and Periodic Screening, Diagnostic and Treatment program services, as required and defined as of December 31, 2005, by 42 USC 1396a</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_261__subsec_a">
+            <num>(a)</num>
+            <paragraph eId="17b_261__subsec_a__subsec_43">
+              <num>(43)</num>
+              <content>
+                <p>, 42 USC 1396d</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_261__subsec_r">
+            <num>(r)</num>
+            <content>
+              <p>and 42 USC 1396d</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_261__subsec_a">
+            <num>(a)</num>
+            <paragraph eId="17b_261__subsec_a__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>(B) and applicable federal regulations, to all persons who are under the age of twenty-one and otherwise eligible for medical assistance under this section.</p>
+              </content>
+              <subparagraph eId="17b_261__subsec_a__subsec_4__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>and applicable federal regulations, to all persons who are under the age of twenty-one and otherwise eligible for medical assistance under this section.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_261__subsec_k">
+            <num>(k)</num>
+            <content>
+              <p>A veteran, as defined in section27-103, and any member of his or her family, who applies for or receives assistance under the Medicaid program, shall apply for all benefits for which he or she may be eligible through the United States Department of Veterans Affairs or the United States Department of Defense.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_261__subsec_l">
+            <num>(l)</num>
+            <content>
+              <p>On and after January 1, 2023, and until June 30, 2024, the Commissioner of Social Services shall, within available appropriations, provide state-funded medical assistance to any child twelve years of age and younger, regardless of immigration status,</p>
+            </content>
+            <paragraph eId="17b_261__subsec_l__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>whose household income does not exceed two hundred one per cent of the federal poverty level without an asset limit, and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_261__subsec_l__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>who does not otherwise qualify for Medicaid, the Children's Health Insurance Program, or an offer of affordable, employer-sponsored insurance, as defined in the Affordable Care Act, as an employee or a dependent of an employee. On and after July 1, 2024, the commissioner shall, within available appropriations, provide state-funded medical assistance to any child fifteen years of age and younger, regardless of immigration status, who qualifies pursuant to subdivisions</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_261__subsec_l__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_261__subsec_l__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>of this subsection. A child eligible for such assistance under this subsection shall continue to receive such assistance until such child is nineteen years of age, provided the child continues to meet the eligibility requirements prescribed in subdivisions</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_261__subsec_l__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_261__subsec_l__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>of this subsection. The provisions of section17b-265shall apply with respect to any medical assistance provided pursuant to this subsection.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

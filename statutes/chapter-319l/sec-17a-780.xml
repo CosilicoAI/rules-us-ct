@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-780"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-780"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17a-780"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-780/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-780/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-780/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-780/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319l">
+        <num>319l</num>
+        <heading>Nursing Home Financial Assistance</heading>
+        <section eId="sec_17a_780">
+          <num>17a-780</num>
+          <heading>(Formerly Sec. 17b-650a). Department of Aging and Disability Services. Successor department to Department of Rehabilitation Services</heading>
+          <subsection eId="17a_780__subsec_a">
+            <num>(a)</num>
+            <heading>There is created a Department of Aging and Disability Services</heading>
+            <content>
+              <p>The Department of Aging and Disability Services shall be responsible for providing the following:</p>
+            </content>
+            <paragraph eId="17a_780__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>Services to persons who are deaf, deafblind or hard of hearing;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_780__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>services for persons who are blind or visually impaired;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_780__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>rehabilitation services in accordance with the provisions of the general statutes concerning the Department of Aging and Disability Services; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_780__subsec_a__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>services for older persons and their families. The Department of Aging and Disability Services shall constitute a successor authority to the Department of Rehabilitation Services in accordance with the provisions of sections4-38d,4-38eand4-39.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17a_780__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The department head shall be the Commissioner of Aging and Disability Services, who shall be appointed by the Governor in accordance with the provisions of sections4-5to4-8, inclusive, and shall have the powers and duties described in said sections. The Commissioner of Aging and Disability Services shall appoint such persons as may be necessary to administer the provisions of public act 11-44* and the Commissioner of Administrative Services shall fix the compensation of such persons in accordance with the provisions of section4-40. The Commissioner of Aging and Disability Services may create such sections within the Department of Aging and Disability Services as will facilitate such administration, including a disability determinations section for which one hundred per cent federal funds may be accepted for the operation of such section in conformity with applicable state and federal regulations. The Commissioner of Aging and Disability Services may adopt regulations, in accordance with the provisions of chapter 54, to implement the purposes of the department as established by statute.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_780__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The Commissioner of Aging and Disability Services shall, annually, in accordance with section4-60, submit to the Governor a report in electronic format on the activities of the Department of Aging and Disability Services relating to services provided by the department to persons who</p>
+            </content>
+            <paragraph eId="17a_780__subsec_c__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>are blind or visually impaired,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_780__subsec_c__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>are deaf, deafblind or hard of hearing,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_780__subsec_c__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>receive vocational rehabilitation services, or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_780__subsec_c__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>are older persons or their families. The report shall include the data the department provides to the federal government that relates to the evaluation standards and performance indicators for the vocational rehabilitation services program. The commissioner shall submit the report in electronic format, in accordance with the provisions of section11-4a, to the joint standing committees of the General Assembly having cognizance of matters relating to human services and appropriations and the budgets of state agencies.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17a_780__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>The functions, powers, duties and personnel of the former Department on Aging, or any subsequent division or portion of a division with similar functions, powers, duties and personnel, shall be transferred to the Department of Aging and Disability Services pursuant to the provisions of sections4-38d,4-38eand4-39.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_780__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>The Department of Aging and Disability Services shall constitute a successor department to the former Department on Aging, in accordance with the provisions of sections4-38d,4-38eand4-39. Wherever the words “Commissioner on Aging” are used in the general statutes, the words “Commissioner of Aging and Disability Services” shall be substituted in lieu thereof. Wherever the words “Department on Aging” are used in the general statutes, the words “Department of Aging and Disability Services” shall be substituted in lieu thereof. Any order or regulation of the former Department on Aging that is in force on June 14, 2018, shall continue in force and effect as an order or regulation of the Department of Aging and Disability Services until amended, repealed or superseded pursuant to law.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_780__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>The Governor may, with the approval of the Finance Advisory Committee, transfer funds between the Department of Social Services and the Department of Aging and Disability Services pursuant to subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_780__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of section4-87during the fiscal year ending June 30, 2018.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_780__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>The Department of Aging and Disability Services is designated as the State Unit on Aging to administer, manage, design and advocate for benefits, programs and services for older persons and their families pursuant to the Older Americans Act. The department shall study continuously the conditions and needs of older persons in this state in relation to nutrition, transportation, home care, housing, income, employment, health, recreation and other matters. The department shall be responsible, in cooperation with federal, state, local and area planning agencies on aging, for the overall planning, development and administration of a comprehensive and integrated social service delivery system for older persons. The Department of Aging and Disability Services is designated as the state agency for the administration of nutritional programs for elderly persons described in section17a-852, the fall prevention program described in section17a-859, the CHOICES program described in section17a-857, the Aging and Disability Resource Center Program described in section17a-858and the Alzheimer's respite program described in section17b-860.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

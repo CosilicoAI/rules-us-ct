@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-497"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-497"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-497"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-497/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-497/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-497/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-497/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_223">
+        <num>223</num>
+        <heading>Miscellaneous Tax Provisions</heading>
+        <section eId="sec_12_497">
+          <num>12-497</num>
+          <heading>Payment of tax and filing of return condition precedent to recording. Prohibition re refusal to record deed</heading>
+          <content>
+            <p>Sec. 12-497. Payment of tax and filing of return condition precedent to recording. Prohibition re refusal to record deed.No deed, instrument or writing which is subject to tax under this chapter shall be recorded by any town clerk unless a return prescribed and furnished by the Commissioner of Revenue Services has been filed with such town clerk and the tax reported to be due thereon has been paid, provided no town clerk may refuse to record any such deed, instrument or writing if (1) the tax return accompanying any such deed, instrument or writing does not include Social Security account number information, or (2) an exemption is claimed under section12-498and there is a dispute as to the amount of tax due.
+See Sec. 12-503 re recording without payment of tax as constructive notice.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

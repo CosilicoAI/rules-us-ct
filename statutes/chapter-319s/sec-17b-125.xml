@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-125"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-125"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17b-125"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-125/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-125/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-125/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-125/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319s">
+        <num>319s</num>
+        <heading>Connecticut Partnership for Long-Term Care</heading>
+        <section eId="sec_17b_125">
+          <num>17b-125</num>
+          <heading>(Formerly Sec. 17-280). Eligibility for town relief of owner of real property</heading>
+          <subsection eId="17b_125__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>No resident of a town shall be deemed to be ineligible to receive relief from such town by reason of having an interest in real property, provided such real property</p>
+            </content>
+            <paragraph eId="17b_125__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>is maintained as such resident's primary home, or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_125__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>would not be counted in determining eligibility for assistance under the state supplement program, medical assistance program, temporary family assistance program or supplemental nutrition assistance program, and provided such resident shall deliver to such town, through its board of selectmen, an agreement executed and acknowledged in the form and manner required for the transfer of an interest in real property to reimburse such town for all amounts so paid to such resident or expended by such town on his behalf for maintenance, care or support, with interest at the rate of four per cent per annum. Such agreement shall describe by metes and bounds, and by street number and lot number, if any, the real property in which such beneficiary has an interest and shall be recorded in the land records of the town or towns in which such real property is located, and shall constitute a lien on such real property which may, at any time during which such amounts remain unpaid, be foreclosed in an action brought by such town in a court of competent jurisdiction, and such lien shall have precedence over all subsequently recorded encumbrances, except tax liens or other municipal liens of such towns. Such lien shall be released by such town by its board of selectmen upon payment of the amount, plus interest, by it secured. The board of selectmen of such town is authorized to adjust, remit or cancel, in whole or in part, any interest accruing under such lien, provided such procedure shall be deemed necessary and beneficial to such town by such selectmen and shall be so voted at a meeting of such selectmen and a record of such vote entered in the minutes of the meetings of such board. Such board of selectmen is also authorized to release such lien without payment of the amount secured thereby, in whole or in part, provided such procedure shall be deemed necessary and beneficial to the town by such selectmen and shall be so voted at a meeting of such selectmen and a record of such vot</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_125__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Any lien created pursuant to the provisions of subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_125__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section after October 1, 1964, shall continue to be valid and enforceable notwithstanding the expiration of fifteen years from the date it was recorded.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

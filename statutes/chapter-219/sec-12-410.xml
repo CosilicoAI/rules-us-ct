@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-410"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-410"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-410"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-410/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-410/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-410/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-410/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_219">
+        <num>219</num>
+        <heading>Motor Vehicle Fuels Tax</heading>
+        <section eId="sec_12_410">
+          <num>12-410</num>
+          <heading>Presumptions and resale certificates</heading>
+          <subsection eId="12_410__subsec_a">
+            <num>(a)</num>
+            <heading>Presumption of taxability; resale certificate</heading>
+            <content>
+              <p>For the purpose of the proper administration of this chapter and to prevent evasion of the sales tax it shall be presumed that all receipts are gross receipts that are subject to the tax until the contrary is established. The burden of proving that a sale of tangible personal property or service constituting a sale in accordance with subdivision</p>
+            </content>
+            <paragraph eId="12_410__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_410__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of section12-407is not a sale at retail is upon the person who makes the sale unless such person takes in good faith from the purchaser a certificate to the effect that the property or service is purchased for resale.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_410__subsec_b">
+            <num>(b)</num>
+            <heading>Effect of certificate</heading>
+            <content>
+              <p>The certificate relieves the seller from the burden of proof only if taken in good faith from a person who is engaged in the business of selling tangible personal property or services constituting a sale in accordance with subdivision</p>
+            </content>
+            <paragraph eId="12_410__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_410__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of section12-407and who holds the permit provided for in section12-409and who, at the time of purchasing the tangible personal property or service:</p>
+            </content>
+            <paragraph eId="12_410__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>Intends to sell it in the regular course of business;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_410__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>intends to utilize such personal property in the delivery of landscaping or horticulture services, provided the total sale price of all such landscaping and horticulture services are taxable under this chapter; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_410__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>is unable to ascertain at the time of purchase whether the property or service will be sold or will be used for some other purpose. The burden of establishing that a certificate is taken in good faith is on the seller. A certificate to the effect that property or service is purchased for resale taken from the purchaser by the seller shall be deemed to be taken in good faith if the tangible personal property or service purchased is similar to or of the same general character as property or service which the seller could reasonably assume would be sold by the purchaser in the regular course of business.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_410__subsec_c">
+            <num>(c)</num>
+            <heading>Form of certificate</heading>
+            <content>
+              <p>The certificate shall be signed by and bear the name and address of the purchaser, shall indicate the number of the permit issued to the purchaser and shall indicate the general character of the tangible personal property or service sold by the purchaser in the regular course of business. The certificate shall be substantially in such form as the commissioner prescribes.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_410__subsec_d">
+            <num>(d)</num>
+            <heading>Liability of purchaser</heading>
+            <paragraph eId="12_410__subsec_d__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>If a purchaser who gives a certificate makes any use of the service or property other than retention, demonstration or display while holding it for sale in the regular course of business, the use shall be deemed a retail sale by the purchaser as of the time the service or property is first used by the purchaser, and the cost of the service or property to the purchaser shall be deemed the gross receipts from such retail sale.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_410__subsec_d__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>Notwithstanding the provisions of subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_410__subsec_d__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>of this subsection, any use by a certificated air carrier of an aircraft for purposes other than retention, demonstration or display while holding it for sale in the regular course of business shall not be deemed a retail sale by such carrier as of the time the aircraft is first used by such carrier, irrespective of the classification of such aircraft on the balance sheet of such carrier for accounting and tax purposes.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_410__subsec_e">
+            <num>(e)</num>
+            <heading>Sale for resale</heading>
+            <paragraph eId="12_410__subsec_e__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>For the purpose of the proper administration of this chapter and to prevent evasion of the sales tax, a sale of any service described in subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_410__subsec_e__subsec_37">
+              <num>(37)</num>
+              <content>
+                <p>of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_410__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of section12-407shall be considered a sale for resale only if the service to be resold is an integral, inseparable component part of a service described in said subdivision that is to be subsequently sold by the purchaser to an ultimate consumer. The purchaser of the service for resale shall maintain, in such form as the commissioner requires, records that substantiate: (A) From whom the service was purchased and to whom the service was sold, (B) the purchase price of the service, and (C) the nature of the service to demonstrate that the services were an integral, inseparable component part of a service described in subdivision</p>
+            </content>
+            <paragraph eId="12_410__subsec_a__subsec_37">
+              <num>(37)</num>
+              <content>
+                <p>of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_410__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of section12-407that was subsequently sold to a consumer.</p>
+            </content>
+            <paragraph eId="12_410__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>Notwithstanding the provisions of subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_410__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>of this subsection, no sale of a service described in subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_410__subsec_a__subsec_37">
+              <num>(37)</num>
+              <content>
+                <p>of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_410__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of section12-407by a seller shall be considered a sale for resale if such service is to be subsequently sold by the purchaser to an ultimate consumer that is affiliated with the purchaser in the manner described in subparagraph (A) of subdivision</p>
+            </content>
+            <paragraph eId="12_410__subsec_a__subsec_62">
+              <num>(62)</num>
+              <content>
+                <p>of section12-412.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_410__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>For purposes of subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_410__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>of this subsection, the sale of canned or prewritten computer software shall be considered a sale for resale if such software is subsequently sold, licensed or leased unaltered by the purchaser to an ultimate consumer. The purchaser of the software for resale shall maintain, in such form as the commissioner requires, records that substantiate: (A) From whom the software was purchased and to whom the software was sold, licensed or leased, (B) the purchase price of the software, and (C) the nature of the transaction with the ultimate consumer to demonstrate that the same software was provided unaltered to the ultimate consumer.</p>
+              </content>
+              <subparagraph eId="12_410__subsec_a__subsec_1__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>From whom the software was purchased and to whom the software was sold, licensed or leased,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_410__subsec_a__subsec_1__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>the purchase price of the software, and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_410__subsec_a__subsec_1__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>the nature of the transaction with the ultimate consumer to demonstrate that the same software was provided unaltered to the ultimate consumer.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_410__subsec_a__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>For purposes of subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_410__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>of this subsection, the sale of digital goods shall be considered a sale for resale if the digital goods are subsequently sold, licensed, leased, broadcast, transmitted, or distributed, in whole or in part, as an integral, inseparable component part of a digital good or service described in subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_410__subsec_a__subsec_26">
+              <num>(26)</num>
+              <content>
+                <p>,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_410__subsec_a__subsec_27">
+              <num>(27)</num>
+              <content>
+                <p>,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_410__subsec_a__subsec_37">
+              <num>(37)</num>
+              <content>
+                <p>or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_410__subsec_a__subsec_39">
+              <num>(39)</num>
+              <content>
+                <p>of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_410__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of section12-407by the purchaser of the digital goods to an ultimate consumer. The purchaser of the digital goods for resale shall maintain, in such form as the commissioner requires, records that substantiate: (A) From whom the digital goods were purchased and to whom the services described in subdivision</p>
+            </content>
+            <paragraph eId="12_410__subsec_a__subsec_26">
+              <num>(26)</num>
+              <content>
+                <p>,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_410__subsec_a__subsec_27">
+              <num>(27)</num>
+              <content>
+                <p>,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_410__subsec_a__subsec_37">
+              <num>(37)</num>
+              <content>
+                <p>or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_410__subsec_a__subsec_39">
+              <num>(39)</num>
+              <content>
+                <p>of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_410__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of section12-407was sold, licensed, leased, broadcast, transmitted, or distributed, in whole or in part, (B) the purchase price of the digital goods, and (C) the nature of the transaction with the ultimate consumer.</p>
+            </content>
+            <paragraph eId="12_410__subsec_a__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>For purposes of subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_410__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>of this subsection, the sale of services described in subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_410__subsec_a__subsec_37">
+              <num>(37)</num>
+              <content>
+                <p>of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_410__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of section12-407shall be considered a sale for resale if such services are subsequently resold as an integral, inseparable component part of digital goods sold by the purchaser of the services to an ultimate consumer of the digital goods. The purchaser of the services described in subdivision</p>
+            </content>
+            <paragraph eId="12_410__subsec_a__subsec_37">
+              <num>(37)</num>
+              <content>
+                <p>of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_410__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of section12-407for resale shall maintain, in such form as the commissioner requires, records that substantiate: (A) From whom the services described in subdivision</p>
+            </content>
+            <paragraph eId="12_410__subsec_a__subsec_37">
+              <num>(37)</num>
+              <content>
+                <p>of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_410__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of section12-407were purchases and to whom the digital goods were sold, licensed, or leased, (B) the purchase prices of the services described in subdivision</p>
+            </content>
+            <paragraph eId="12_410__subsec_a__subsec_37">
+              <num>(37)</num>
+              <content>
+                <p>of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_410__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of section12-407, and (C) the nature of the transaction with the ultimate consumer.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_410__subsec_f">
+            <num>(f)</num>
+            <heading>Sales to certain affiliates</heading>
+            <content>
+              <p>For the purpose of the proper administration of this chapter and to prevent evasion of the sales tax, no sale of any service by a seller shall be considered a sale for resale if such service is to be subsequently sold by the purchaser, without change, to an ultimate consumer that is affiliated with the purchaser in the manner described in subparagraph (A) of subdivision</p>
+            </content>
+            <paragraph eId="12_410__subsec_f__subsec_62">
+              <num>(62)</num>
+              <content>
+                <p>of section12-412.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

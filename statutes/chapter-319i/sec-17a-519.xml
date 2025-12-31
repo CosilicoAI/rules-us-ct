@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-519"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-519"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17a-519"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-519/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-519/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-519/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-519/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319i">
+        <num>319i</num>
+        <heading>Connecticut HUSKY Plan</heading>
+        <section eId="sec_17a_519">
+          <num>17a-519</num>
+          <heading>(Formerly Sec. 17-196). Fees, compensation and costs</heading>
+          <content>
+            <p>Sec. 17a-519. (Formerly Sec. 17-196). Fees, compensation and costs.Each officer or indifferent person making legal service of any order, notice, warrant or other paper under the provisions of sections17a-75to17a-83, inclusive,17a-450to17a-483, inclusive,17a-495to17a-528, inclusive,17a-540to17a-550, inclusive,17a-560to17a-575, inclusive, and17a-615to17a-618, inclusive, shall be entitled to the same compensation as is by law provided for like services in civil causes. Physicians, for examining a person alleged to have psychiatric disabilities and making a certificate as provided by said sections, shall be entitled to a reasonable compensation established by the Commissioner of Mental Health and Addiction Services. The fees of the courts of probate shall be such as are provided by law for similar services. The Superior Court, on an appeal, may tax costs at its discretion.
+See Sec. 52-261 re fees and expenses of officers and persons serving process.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

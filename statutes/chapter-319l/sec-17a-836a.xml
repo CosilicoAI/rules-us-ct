@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-836a"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-836a"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17a-836a"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-836a/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-836a/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-836a/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-836a/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319l">
+        <num>319l</num>
+        <heading>Nursing Home Financial Assistance</heading>
+        <section eId="sec_17a_836a">
+          <num>17a-836a</num>
+          <heading>(Formerly Sec. 46a-28). Advisory Board for Persons Who are Deaf, Deafblind or Hard of Hearing: Members, meetings</heading>
+          <subsection eId="17a_836a__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The Advisory Board for Persons Who are Deaf, Deafblind or Hard of Hearing shall consist of the following members:</p>
+            </content>
+            <paragraph eId="17a_836a__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>The consultant appointed by the State Board of Education in accordance with section10-316a, or the consultant's designee;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_836a__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>the president of the Connecticut Council of Organizations Serving the Deaf, or the president's designee;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_836a__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>the president of the Connecticut Association of the Deaf, or the president's designee;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_836a__subsec_a__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>the president of the Connecticut Registry of Interpreters for the Deaf, or the president's designee;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_836a__subsec_a__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>the president of Hear Here Hartford, the Connecticut chapter of the Hearing Loss Association of America, or the president's designee;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_836a__subsec_a__subsec_6">
+              <num>(6)</num>
+              <content>
+                <p>the executive director of the American School for the Deaf, or the executive director's designee;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_836a__subsec_a__subsec_7">
+              <num>(7)</num>
+              <content>
+                <p>a representative of an organization representing Connecticut hospitals, appointed by the speaker of the House of Representatives; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_836a__subsec_a__subsec_8">
+              <num>(8)</num>
+              <content>
+                <p>eight members appointed by the Governor as follows: (A) A person who is deaf; (B) a person who is hard of hearing; (C) a person who is deafblind; (D) an interpreting professional who serves deaf, deafblind or hard of hearing persons; (E) a healthcare professional who works with persons who are deaf, deafblind or hard of hearing; (F) a parent of a student in a predominantly oral education program; (G) an educator who works with children who are deaf, deafblind or hard of hearing; and (H) a parent of a student at the American School for the Deaf. The members of the advisory board shall elect two chairpersons of the advisory board from among the members of the advisory board. On and after October 1, 2024, the director of the Bureau of Services for Persons Who Are Deaf, Deafblind or Hard of Hearing shall serve as administrator of the advisory board.</p>
+              </content>
+              <subparagraph eId="17a_836a__subsec_a__subsec_8__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>A person who is deaf;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17a_836a__subsec_a__subsec_8__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>a person who is hard of hearing;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17a_836a__subsec_a__subsec_8__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>a person who is deafblind;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17a_836a__subsec_a__subsec_8__subsec_D">
+                <num>(D)</num>
+                <content>
+                  <p>an interpreting professional who serves deaf, deafblind or hard of hearing persons;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17a_836a__subsec_a__subsec_8__subsec_E">
+                <num>(E)</num>
+                <content>
+                  <p>a healthcare professional who works with persons who are deaf, deafblind or hard of hearing;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17a_836a__subsec_a__subsec_8__subsec_F">
+                <num>(F)</num>
+                <content>
+                  <p>a parent of a student in a predominantly oral education program;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17a_836a__subsec_a__subsec_8__subsec_G">
+                <num>(G)</num>
+                <content>
+                  <p>an educator who works with children who are deaf, deafblind or hard of hearing; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17a_836a__subsec_a__subsec_8__subsec_H">
+                <num>(H)</num>
+                <content>
+                  <p>a parent of a student at the American School for the Deaf. The members of the advisory board shall elect two chairpersons of the advisory board from among the members of the advisory board. On and after October 1, 2024, the director of the Bureau of Services for Persons Who Are Deaf, Deafblind or Hard of Hearing shall serve as administrator of the advisory board.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="17a_836a__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The advisory board shall meet at least quarterly or more often at the call of the chairpersons or a majority of the members. A majority of members in office but not less than nine voting members shall constitute a quorum.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_836a__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Any appointed member who fails to attend three consecutive meetings or who fails to attend fifty per cent of all meetings held during any calendar year shall be deemed to have resigned. Vacancies occurring otherwise than by expiration of term in the membership of the advisory board shall be filled by the Governor or the appointing authority, as the case may be.
+See Sec. 46a-34 re definitions of “deaf”, “hard of hearing” and “deafblind”.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

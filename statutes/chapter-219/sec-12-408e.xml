@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-408e"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-408e"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-408e"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-408e/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-408e/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-408e/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-408e/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_219">
+        <num>219</num>
+        <heading>Motor Vehicle Fuels Tax</heading>
+        <section eId="sec_12_408e">
+          <num>12-408e</num>
+          <heading>Marketplace facilitators and marketplace sellers. Tax collection and remittance</heading>
+          <subsection eId="12_408e__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>As used in this section:</p>
+            </content>
+            <paragraph eId="12_408e__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>“Marketplace facilitator” means any person who (A) facilitates retail sales of at least two hundred fifty thousand dollars during the prior twelve-month period by marketplace sellers by providing a forum that lists or advertises tangible personal property subject to tax under this chapter or taxable services, including digital goods, for sale by such marketplace sellers, (B) directly or indirectly through agreements or arrangements with third parties, collects receipts from the customer and remits payments to the marketplace sellers, and (C) receives compensation or other consideration for such services;</p>
+              </content>
+              <subparagraph eId="12_408e__subsec_a__subsec_1__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>facilitates retail sales of at least two hundred fifty thousand dollars during the prior twelve-month period by marketplace sellers by providing a forum that lists or advertises tangible personal property subject to tax under this chapter or taxable services, including digital goods, for sale by such marketplace sellers,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_408e__subsec_a__subsec_1__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>directly or indirectly through agreements or arrangements with third parties, collects receipts from the customer and remits payments to the marketplace sellers, and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_408e__subsec_a__subsec_1__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>receives compensation or other consideration for such services;</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_408e__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>“Marketplace seller” means any person who has an agreement with a marketplace facilitator regarding retail sales of such person, whether or not such person is required to obtain a permit under section12-409; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_408e__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>“Forum” means a physical or electronic place, including, but not limited to, a store, a booth, an Internet web site, a catalog or a dedicated sales software application, where tangible personal property or taxable services are offered for sale.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_408e__subsec_b">
+            <num>(b)</num>
+            <paragraph eId="12_408e__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>A marketplace facilitator shall be considered the retailer of each sale such facilitator facilitates on its forum for a marketplace seller. Each marketplace facilitator shall (A) be required to collect and remit for each such sale any tax imposed under section12-408, (B) be responsible for all obligations imposed under this chapter as if such marketplace facilitator was the retailer of such sale, and (C) in accordance with the provisions of subdivision</p>
+              </content>
+              <subparagraph eId="12_408e__subsec_b__subsec_1__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>be required to collect and remit for each such sale any tax imposed under section12-408,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_408e__subsec_b__subsec_1__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>be responsible for all obligations imposed under this chapter as if such marketplace facilitator was the retailer of such sale, and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_408e__subsec_b__subsec_1__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>in accordance with the provisions of subdivision</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_408e__subsec_b__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>of section12-426, keep such records and information as may be required by the Commissioner of Revenue Services to ensure proper collection and remittance of such tax.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_408e__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>The provisions of subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_408e__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>of this subsection shall not apply to the facilitation by a marketplace facilitator of the rental of a passenger motor vehicle or rental truck on behalf of a rental company, as those terms are defined in section12-692.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_408e__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Any marketplace seller who is a retailer with a valid permit issued under section12-409shall not be required to collect the tax imposed under this chapter for a particular sale and shall not include the receipts from such sale in its taxable receipts for purposes of its return under section12-414, if:</p>
+            </content>
+            <paragraph eId="12_408e__subsec_c__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>The marketplace seller can show that such sale was facilitated by a marketplace facilitator (A) with whom the marketplace seller has a contract that explicitly provides that the marketplace facilitator will collect and remit sales tax on all taxable sales such facilitator facilitates for such seller, or (B) from whom such seller requested and received in good faith a properly completed certificate of collection certifying that such facilitator is registered to collect sales tax and will collect sales tax on all taxable sales by such seller and facilitated by such facilitator; and</p>
+              </content>
+              <subparagraph eId="12_408e__subsec_c__subsec_1__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>with whom the marketplace seller has a contract that explicitly provides that the marketplace facilitator will collect and remit sales tax on all taxable sales such facilitator facilitates for such seller, or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_408e__subsec_c__subsec_1__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>from whom such seller requested and received in good faith a properly completed certificate of collection certifying that such facilitator is registered to collect sales tax and will collect sales tax on all taxable sales by such seller and facilitated by such facilitator; and</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_408e__subsec_c__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>any failure of such facilitator to collect the proper amount of tax for such sale was not the result of such seller providing such facilitator with incorrect information. The commissioner shall administer the provisions of this subsection in a manner consistent with section12-410and as if the language of said section had expressly referred to a certificate of collection under this section.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_408e__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Any purchaser of tangible personal property or taxable services who overpaid sales or use tax to a marketplace facilitator may submit a claim for refund with the commissioner in accordance with the provisions of section12-425, in such form and manner as the commissioner prescribes. No such purchaser shall have a cause of action against a marketplace facilitator for the recovery of any such overpayment under any provision of the general statutes.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

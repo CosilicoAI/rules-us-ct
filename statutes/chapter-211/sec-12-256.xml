@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-256"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-256"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-256"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-256/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-256/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-256/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-256/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_211">
+        <num>211</num>
+        <heading>Income Tax</heading>
+        <section eId="sec_12_256">
+          <num>12-256</num>
+          <heading>Tax on gross earnings of community antenna television systems, one-way satellite transmission businesses and certified competitive video service providers</heading>
+          <subsection eId="12_256__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>For purposes of this section, “quarterly period” means a period of three calendar months commencing on the first day of January, April, July or October and ending on the last day of March, June, September or December, respectively.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_256__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Each person operating a community antenna television system under chapter 289 or a certified competitive video service pursuant to sections16-331eto16-331o, inclusive, and each person operating a business that provides one-way transmission to subscribers of video programming by satellite, shall pay a quarterly tax upon the gross earnings from</p>
+            </content>
+            <paragraph eId="12_256__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>the lines, facilities, apparatus and auxiliary equipment in this state used for operating a community antenna television system, or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_256__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>the transmission to subscribers in this state of video programming by satellite or by a certified competitive video service provider, as the case may be. No deduction shall be allowed from such gross earnings for operations related to commissions, rebates or other payments, except such refunds as arise from errors or overcharges. On or before the last day of the month next succeeding each quarterly period, each such person shall render to the commissioner a return on forms prescribed or furnished by the commissioner, signed by the person performing the duties of treasurer or an authorized agent or officer of the system or service operated by such person, which return shall include information regarding the name and location within this state of such system or service and the total amount of gross earnings derived from such operations and such other facts as the commissioner may require for the purpose of making any computation required by this chapter.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_256__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>For purposes of this chapter, a holder of a certificate of cable franchise authority under section16-331p, and a community antenna television company issued a certificate of video franchise authority under section16-331efor any service area in which it was not certified to provide community antenna television service pursuant to section16-331on or before October 1, 2007, shall be treated as a person operating a community antenna television system under chapter 289.
+See Sec. 12-268d re returns of transportation and utility companies.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

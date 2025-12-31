@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-877"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-877"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17a-877"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-877/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-877/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-877/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-877/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319l">
+        <num>319l</num>
+        <heading>Nursing Home Financial Assistance</heading>
+        <section eId="sec_17a_877">
+          <num>17a-877</num>
+          <heading>(Formerly Sec. 17a-414). Legal counsel for residents and applicants and to assist the ombudsman and representatives of the office in performance of their official duties. Regional ombudsmen and residents' advocates considered state employees for purposes of certain civil actions</heading>
+          <subsection eId="17a_877__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The state agency shall ensure that:</p>
+            </content>
+            <paragraph eId="17a_877__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>Adequate legal counsel is available and is able, without conflict of interest, to: (A) Provide advice and consultation needed to protect the health, safety, welfare and rights of residents and applicants in relation to their applications to long-term care facilities; and (B) assist the State Ombudsman and representatives of the office in the performance of the official duties of the State Ombudsman and representatives of the office; and</p>
+              </content>
+              <subparagraph eId="17a_877__subsec_a__subsec_1__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>Provide advice and consultation needed to protect the health, safety, welfare and rights of residents and applicants in relation to their applications to long-term care facilities; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17a_877__subsec_a__subsec_1__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>assist the State Ombudsman and representatives of the office in the performance of the official duties of the State Ombudsman and representatives of the office; and</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="17a_877__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>Administrative, legal and other appropriate remedies are pursued on behalf of residents and applicants in relation to their applications to long-term care facilities.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17a_877__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The regional ombudsmen and residents' advocates shall be considered state employees under section4-141for the purposes of any civil action for damages on account of any act or omission that is not wanton, wilful or malicious and that is within the scope of employment or duties under sections17a-412,17a-413,17a-870to17a-880, inclusive,19a-531and19a-532.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-28l"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-28l"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17b-28l"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-28l/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-28l/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-28l/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-28l/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319o">
+        <num>319o</num>
+        <heading>Personal Care Assistance</heading>
+        <section eId="sec_17b_28l">
+          <num>17b-28l</num>
+          <heading>Community health worker reimbursement under Medicaid. Program development. Required reporting</heading>
+          <subsection eId="17b_28l__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>For purposes of this section, “certified community health worker” has the same meaning as provided in section20-195ttt. The Commissioner of Social Services shall design and implement a program to provide Medicaid reimbursement to certified community health workers for services provided to HUSKY Health program members, including, but not limited to:</p>
+            </content>
+            <paragraph eId="17b_28l__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>Coordination of medical, oral and behavioral health care services and social supports;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_28l__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>connection to and navigation of health systems and services;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_28l__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>prenatal, birth, lactation and postpartum supports; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_28l__subsec_a__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>health promotion, coaching and self-management education.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_28l__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The Commissioner of Social Services and the commissioner's designees shall consult with certified community health workers, Medicaid beneficiaries and advocates, including, but not limited to, advocates for persons with physical, mental and developmental disabilities, and others throughout the design and implementation of the certified community health worker reimbursement program in a manner that</p>
+            </content>
+            <paragraph eId="17b_28l__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>is inclusive of community-based and clinic-based certified community health workers;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_28l__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>is representative of medical assistance program member demographics; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_28l__subsec_b__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>helps shape the reimbursement program's design and implementation. The commissioner, in consultation with community health workers, Medicaid beneficiaries and such advocates, shall explore options for the reimbursement program's design that ensures access to such community health workers, encourages workforce growth to support such access and averts the risk of creating financial incentives for other providers to limit access to such community health workers.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_28l__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Not later than January 1, 2024, and annually thereafter until the reimbursement program is fully implemented, the Commissioner of Social Services shall submit a report, in accordance with the provisions of section11-4a, to the joint standing committee of the General Assembly having cognizance of matters relating to human services and the Council on Medical Assistance Program Oversight. The initial report shall be submitted not less than six months prior to the implementation of the reimbursement program. The reports shall contain an update on the certified community health worker reimbursement program design, including, but not limited to</p>
+            </content>
+            <paragraph eId="17b_28l__subsec_c__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>an analysis regarding the program elements designed to ensure access to such services, promote workforce growth and avert the risk of creating financial incentives for other providers to limit access to such community health workers, and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_28l__subsec_c__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>an evaluation of any impact of the program on health outcomes and health equity.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

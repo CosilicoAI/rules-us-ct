@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-91"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-91"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-91"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-91/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-91/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-91/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-91/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_203">
+        <num>203</num>
+        <heading>Property Tax Assessment</heading>
+        <section eId="sec_12_91">
+          <num>12-91</num>
+          <heading>Exemption for farm machinery, horses or ponies. Additional optional exemptions for farm machinery and farm buildings or buildings used for housing for seasonal employees</heading>
+          <subsection eId="12_91__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>All farm machinery, except motor vehicles, as defined in section14-1, to the assessed value of one hundred thousand dollars, any horse or pony that is actually and exclusively used in farming, as defined in section1-1, when owned and kept in this state by, or when held in trust for, any farmer or group of farmers operating as a unit, a partnership or a corporation, a majority of the stock of which corporation is held by members of a family actively engaged in farm operations, shall be exempt from local property taxation; provided each such farmer, whether operating individually or as one of a group, partnership or corporation, shall qualify for such exemption in accordance with the standards set forth in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_91__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>of this section for the assessment year for which such exemption is sought. Only one such exemption shall be allowed to each such farmer, group of farmers, partnership or corporation. Subdivision</p>
+            </content>
+            <paragraph eId="12_91__subsec_d__subsec_38">
+              <num>(38)</num>
+              <content>
+                <p>of section12-81shall not apply to any person, group, partnership or corporation receiving the exemption provided for in this subsection.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_91__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Any municipality, upon approval by its legislative body, may provide an additional exemption from property tax for such machinery to the extent of an additional assessed value of two hundred fifty thousand dollars. Any such exemption shall be subject to the same limitations as the exemption provided under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_91__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section and the application and qualification process provided in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_91__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>of this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_91__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Any municipality, upon approval by its legislative body, may provide an exemption from property tax for any building used actually and exclusively in farming, as defined in section1-1, or for any building used to provide housing for seasonal employees of such farmer. The municipality shall establish the amount of such exemption from the assessed value, provided such amount may not exceed five hundred thousand dollars with respect to each eligible building. Such exemption shall not apply to the residence of such farmer and shall be subject to the application and qualification process provided in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_91__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>of this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_91__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Annually, on or before the first day of November or the extended filing date granted by the assessor pursuant to section12-42, each such individual farmer, group of farmers, partnership or corporation shall make written application for the exemption provided for in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_91__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section to the assessor or board of assessors in the town in which such farm is located, including therewith a notarized affidavit certifying that such farmer, individually or as part of a group, partnership or corporation, derived at least fifteen thousand dollars in gross sales from such farming operation, or incurred at least fifteen thousand dollars in expenses related to such farming operation, with respect to the most recently completed taxable year of such farmer prior to the commencement of the assessment year for which such application is made, on forms to be prescribed by the Commissioner of Agriculture. Failure to file such application in said manner and form on or before the first day of November shall be considered a waiver of the right to such exemption for the assessment year. Any person aggrieved by any action of the assessors shall have the same rights and remedies for appeal and relief as are provided in the general statutes for taxpayers claiming to be aggrieved by the doings of the assessors or board of assessment appeals.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-261u"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-261u"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17b-261u"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-261u/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-261u/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-261u/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-261u/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319v">
+        <num>319v</num>
+        <heading>Temporary Assistance for Needy Families</heading>
+        <section eId="sec_17b_261u">
+          <num>17b-261u</num>
+          <heading>Alternate coverage after loss of Medicaid eligibility for parent or needy caretaker relative. Review. Quarterly reports</heading>
+          <subsection eId="17b_261u__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The Commissioner of Social Services shall review whether a parent or needy caretaker relative, who qualifies for Medicaid coverage under Section 1931 of the Social Security Act and is no longer eligible on and after August 1, 2015, pursuant to section17b-261, remains eligible for Medicaid under the same or a different category of coverage before terminating coverage.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_261u__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The commissioner and the Connecticut Health Insurance Exchange, established pursuant to section38a-1081, shall ensure that such parent or needy caretaker relative is given an opportunity to enroll in a qualified health plan without a gap in coverage. The Connecticut Health Insurance Exchange shall enlist the assistance of health and social services community-based organizations to contact and advise such parent or needy caretaker relative of options for health insurance coverage.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_261u__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Not later than November 1, 2015, and quarterly thereafter until December 1, 2017, the commissioner and the Connecticut Health Insurance Exchange shall report to the Council on Medical Assistance Program Oversight on the number of such parents and caretaker relatives who, due to changes in income eligibility effective August 1, 2015,</p>
+            </content>
+            <paragraph eId="17b_261u__subsec_c__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>were no longer eligible for Medicaid,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_261u__subsec_c__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>remained eligible after the commissioner's review pursuant to this section,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_261u__subsec_c__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>lost Medicaid coverage and enrolled in a qualified health plan without a gap in coverage,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_261u__subsec_c__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>lost Medicaid coverage and did not enroll in a qualified health plan immediately after such coverage loss, and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_261u__subsec_c__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>enrolled in a qualified health plan but were disenrolled for failure to pay premiums.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

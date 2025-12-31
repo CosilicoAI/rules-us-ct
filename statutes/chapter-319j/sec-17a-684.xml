@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-684"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-684"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17a-684"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-684/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-684/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-684/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-684/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319j">
+        <num>319j</num>
+        <heading>Health Care For Uninsured Children</heading>
+        <section eId="sec_17a_684">
+          <num>17a-684</num>
+          <heading>(Formerly Sec. 19a-126d). Emergency treatment, grounds, application, procedure, detention and release. Rights after commitment</heading>
+          <subsection eId="17a_684__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>A person who is intoxicated at the time of application for commitment pursuant to subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_684__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section and who</p>
+            </content>
+            <paragraph eId="17a_684__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>is dangerous to himself or dangerous to others unless committed,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_684__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>needs medical treatment for detoxification for potentially life-threatening symptoms of withdrawal from alcohol or drugs or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_684__subsec_b__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>is incapacitated by alcohol, may be committed for emergency treatment to a treatment facility operated by the Department of Mental Health and Addiction Services or a private treatment facility approved by the department to provide emergency treatment. The requirement that a person be intoxicated at the time of application may be waived if a licensed physician determines that the person is in immediate need of medical treatment for detoxification for potentially life-threatening withdrawal symptoms. A refusal to undergo treatment shall not constitute evidence of lack of judgment as to the need for treatment.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17a_684__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>A physician, spouse, guardian or relative of the person to be committed, or any other responsible person, may make a written application for commitment under this section, directed to the administrator of a treatment facility operated by the department or approved by the department to provide emergency treatment. The application shall state facts to support the need for emergency treatment and be accompanied by a physician's certificate stating that he has examined the person sought to be committed within two days before the certificate's date and facts supporting the need for emergency treatment.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_684__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Upon tentative approval of the application by the administrator of the treatment facility, the person shall be transferred to the facility. The medical officer of the treatment facility shall immediately examine the person sought to be committed and advise the administrator of the treatment facility whether the application sustains the grounds to commit the person for emergency treatment. The administrator shall either accept the application or refuse the application if the application fails to sustain the grounds for commitment. If the administrator accepts the application, the person shall be retained at the facility to which he was admitted, or transferred to another appropriate treatment facility, until discharged under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_684__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>of this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_684__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>When, on the advice of the medical officer, the administrator determines that the grounds for commitment for emergency treatment no longer exist, the administrator shall discharge a person committed under this section. No person committed under this section may be detained in any treatment facility for more than five days. If an application for involuntary commitment under section17a-685has been filed within the five-day period and the administrator of the treatment facility, on the advice of the medical officer of the facility, finds that grounds for commitment exist under the provisions of said section, he may detain the person until the application has been heard and determined, but no longer than seven business days after filing the application.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_684__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>A copy of the written application for commitment and a written explanation of the person's right to counsel, shall be given by the administrator of the treatment facility to the person within twenty-four hours after commitment under this section. The administrator shall provide a reasonable opportunity for the person to consult counsel.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-517c"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-517c"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-517c"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-517c/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-517c/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-517c/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-517c/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_224">
+        <num>224</num>
+        <heading>Community Revitalization and Investment</heading>
+        <section eId="sec_12_517c">
+          <num>12-517c</num>
+          <heading>Interest added when estimated payment on dividends, interest income or capital gains is less than minimum required</heading>
+          <subsection eId="12_517c__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>In addition to the tax imposed on dividends, interest income and gains from the sale or exchange of capital assets under this chapter with respect to any taxable year, any taxpayer subject to said tax who has not, as provided in section12-517a, made payment</p>
+            </content>
+            <paragraph eId="12_517c__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>on account of the tax applicable to dividends and interest income for such taxable year, on or before the fifteenth day of the sixth month of such taxable year, of an installment at least equal to the lesser of (A) fifty per cent of the estimated tax for such taxable year, which estimated tax for purposes of this section may not be less than ninety per cent of the tax determined to be due for such taxable year or (B) sixty per cent of the assumed tax with respect to dividends and interest income for such taxable year,</p>
+              </content>
+              <subparagraph eId="12_517c__subsec_a__subsec_1__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>fifty per cent of the estimated tax for such taxable year, which estimated tax for purposes of this section may not be less than ninety per cent of the tax determined to be due for such taxable year or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_517c__subsec_a__subsec_1__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>sixty per cent of the assumed tax with respect to dividends and interest income for such taxable year,</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_517c__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>on account of the tax applicable to gains from the sale or exchange of capital assets for such taxable year, on or before the fifteenth day of the sixth month of such taxable year, in an amount at least equal to the lesser of (A) one hundred per cent of the tax with respect to all such gains earned, received in fact or constructively, accrued or credited to the taxpayer during the first five full months of such taxpayer's taxable year, as provided in subdivision</p>
+              </content>
+              <subparagraph eId="12_517c__subsec_a__subsec_2__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>one hundred per cent of the tax with respect to all such gains earned, received in fact or constructively, accrued or credited to the taxpayer during the first five full months of such taxpayer's taxable year, as provided in subdivision</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_517c__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_517c__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of section12-517aor (B) sixty per cent of the assumed tax with respect to gains from the sale or exchange of capital assets for such taxable year, or</p>
+            </content>
+            <paragraph eId="12_517c__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>on account of the tax applicable to dividends, interest income and gains from the sale or exchange of capital assets for such taxable year, on or before the fifteenth day of the second month following the end of such taxable year, in an amount which, together with any prior payments on account of such tax, is at least equal to the lesser of (A) one hundred per cent of such estimated tax, which for purposes of this section may not be less than ninety per cent of the tax determined to be due for such taxable year or (B) one hundred per cent of the assumed tax with respect to such taxable year, shall on or before the due date for filing the final return for such taxable year prescribed in section12-508pay to the commissioner interest on the part of any such installment not so paid, at the rate of one and one-fourth per cent per month, or fraction thereof, from the aforementioned date relating to the installment to the date of payment. For purposes of this subsection the term “assumed tax” means the amount obtained by computing with respect to the taxpayer a tax at the rates applicable to such taxable year but on the basis of all other facts relating to the taxpayer for, and all other provisions of law applicable to, the next preceding taxable year.</p>
+              </content>
+              <subparagraph eId="12_517c__subsec_a__subsec_3__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>one hundred per cent of such estimated tax, which for purposes of this section may not be less than ninety per cent of the tax determined to be due for such taxable year or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_517c__subsec_a__subsec_3__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>one hundred per cent of the assumed tax with respect to such taxable year, shall on or before the due date for filing the final return for such taxable year prescribed in section12-508pay to the commissioner interest on the part of any such installment not so paid, at the rate of one and one-fourth per cent per month, or fraction thereof, from the aforementioned date relating to the installment to the date of payment. For purposes of this subsection the term “assumed tax” means the amount obtained by computing with respect to the taxpayer a tax at the rates applicable to such taxable year but on the basis of all other facts relating to the taxpayer for, and all other provisions of law applicable to, the next preceding taxable year.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_517c__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>If any part of the interest referred to in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_517c__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section with respect to tax for any taxable year is not paid to the commissioner on or before the due date for filing the final return for such taxable year prescribed in said section12-508, such unpaid interest shall be added to the tax imposed under section12-506for such taxable year.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_517c__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>If any installment payment, as required in section12-517a, is less than the minimum amount required under this section for such income year, a penalty shall be imposed with respect to such payment in the amount of ten per cent of the part of such installment which is less than such minimum amount, or fifty dollars, whichever amount is greater.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_517c__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>The commissioner shall waive any penalty applicable with respect to gains from the sale or exchange of capital assets earned, received in fact or constructively, accrued or credited to a taxpayer, in the calendar year commencing January 1, 1989, whose adjusted gross income, reduced by the amount of any such gains, is less than fifty-four thousand dollars.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

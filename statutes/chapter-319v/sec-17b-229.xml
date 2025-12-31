@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-229"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-229"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17b-229"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-229/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-229/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-229/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-229/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319v">
+        <num>319v</num>
+        <heading>Temporary Assistance for Needy Families</heading>
+        <section eId="sec_17b_229">
+          <num>17b-229</num>
+          <heading>(Formerly Sec. 17-299). Liability for prior charges</heading>
+          <subsection eId="17b_229__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>No relative of a patient in a state humane institution, nor the estate of such relative, shall be liable for any portion of the cost of support of any such patient in such institution for any period prior to July 1, 1955, except unpaid charges billed by the Welfare Commissioner.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_229__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The provisions of sections17a-502,17b-222,17b-223,17b-228,17b-232,17b-745,46b-215and53-304shall not affect or impair the responsibility of any patient or patient's estate for his care in a state humane institution prior to July 1, 1955, and the same may be enforced by any action by which such responsibility would have been enforceable prior to July 1, 1955, but only to the extent of that portion of such estate</p>
+            </content>
+            <paragraph eId="17b_229__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>that may be charged pursuant to section4a-12, and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_229__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>that is not needed for the support of the spouse, parents and dependent children of such patient.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-590"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-590"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-590"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-590/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-590/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-590/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-590/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_227">
+        <num>227</num>
+        <heading>Rental Surcharge on Leasing Companies</heading>
+        <section eId="sec_12_590">
+          <num>12-590</num>
+          <heading>Penalty for failure to pay tax when due. Waiver of penalty</heading>
+          <subsection eId="12_590__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>If any company fails to pay the tax reported to be due on its return within the time specified under the provisions of this chapter, there shall be imposed a penalty equal to ten per cent of such tax due and unpaid or fifty dollars, whichever is greater. Such tax shall bear interest at the rate of one per cent per month or a fraction thereof, from the due date of such tax until the date of payment.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_590__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>If any company has not made its return within one month after the time specified under the provisions of this chapter, the commissioner may make such return at any time thereafter according to the best information obtainable and according to the form prescribed. To the tax imposed upon the basis of such return, there shall be added an amount equal to ten per cent of such tax, or fifty dollars, whichever is greater. No taxpayer shall be subject to a penalty under both subsections</p>
+            </content>
+          </subsection>
+          <subsection eId="12_590__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>and</p>
+            </content>
+          </subsection>
+          <subsection eId="12_590__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section in relation to the same tax period. The tax shall bear interest at the rate of one per cent per month or fraction thereof, from the due date of such tax until the date of payment.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_590__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Subject to the provisions of section12-3a, the commissioner may waive all or part of the penalties provided under this chapter when it is proven to his satisfaction that the failure to pay any tax was due to reasonable cause and was not intentional or due to neglect.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

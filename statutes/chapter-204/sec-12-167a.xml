@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-167a"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-167a"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-167a"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-167a/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-167a/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-167a/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-167a/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_204">
+        <num>204</num>
+        <heading>Local Levy and Collection of Taxes</heading>
+        <section eId="sec_12_167a">
+          <num>12-167a</num>
+          <heading>Affidavit concerning facts within personal knowledge of affiant re giving of notice of tax sales. Recording and indexing</heading>
+          <content>
+            <p>Sec. 12-167a. Affidavit concerning facts within personal knowledge of affiant re giving of notice of tax sales. Recording and indexing.A tax collector or his agent, or a grantee of a tax collector's deed, or the heirs, successors or assigns of such grantee, may execute and swear to an affidavit concerning facts within the personal knowledge of such affiant concerning the means of giving notice to any person affected by a tax sale, to which may be attached (1) copies or facsimiles of notices given under section12-157, (2) copies of any notice subsequently given to any person to confirm that such person has received written notice of the pendency or occurrence of a sale of real property, and (3) copies of postal receipts reproduced by photographic, xerographic or similar means, which shall contain a legal description of the real property affected thereby and the name, for indexing purposes, of the then current owner or owners of record. Such affidavit may be recorded in the land records of the town in which the real property is situated, and shall be indexed by the town clerk in the name of the record owner or owners stated therein. If so recorded, and if the affiant is deceased or otherwise not available to testify in court, then such affidavit or a certified copy thereof is admissible as prima facie evidence of the facts stated in it, so far as those facts affect title to real estate in any action involving the title to that real estate or any interest in it.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-274g"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-274g"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17b-274g"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-274g/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-274g/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-274g/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-274g/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319v">
+        <num>319v</num>
+        <heading>Temporary Assistance for Needy Families</heading>
+        <section eId="sec_17b_274g">
+          <num>17b-274g</num>
+          <heading>Preferred drug list purchases. Prohibition on Medicaid cost sharing. Reporting, notice requirements for other Medicaid cost-sharing requirements</heading>
+          <subsection eId="17b_274g__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The Commissioner of Social Services shall not impose a cost-sharing requirement for the purchase of prescription drugs on the preferred drug list pursuant to section17b-274don a parent or needy caretaker relative otherwise eligible for Medicaid pursuant to section17b-261. If the commissioner determines a cost-sharing requirement for nonpreferred drugs or other Medicaid services provided to such parent or needy caretaker relative is necessary, the commissioner shall, thirty days before imposing such requirement, notify</p>
+            </content>
+            <paragraph eId="17b_274g__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>the joint standing committee of the General Assembly having cognizance of matters relating to human services, and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_274g__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>such parent or needy caretaker relative. The commissioner shall notify such parent or needy caretaker relative that he or she shall not be denied Medicaid service for inability to meet such cost-sharing requirement.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_274g__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The commissioner shall not impose cost sharing for nonpreferred prescription drugs if a physician certifies that the nonpreferred drug is medically necessary.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_274g__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>If the commissioner imposes a cost-sharing requirement on a parent or needy caretaker relative otherwise eligible for Medicaid pursuant to section17b-261, the commissioner shall submit a quarterly report, in accordance with the provisions of section11-4a, to the joint standing committee of the General Assembly having cognizance of matters relating to human services on:</p>
+            </content>
+            <paragraph eId="17b_274g__subsec_c__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>Any decrease in the number of visits to Medicaid providers by such parent or needy caretaker relative compared to the same time period before the cost-sharing requirement was imposed, and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_274g__subsec_c__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>any difference in the average number of visits to Medicaid providers made by such parent or needy caretaker relative compared to other Medicaid recipients of comparable health not subject to a cost-sharing requirement.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

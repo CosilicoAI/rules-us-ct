@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-165"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-165"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-165"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-165/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-165/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-165/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-165/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_204">
+        <num>204</num>
+        <heading>Local Levy and Collection of Taxes</heading>
+        <section eId="sec_12_165">
+          <num>12-165</num>
+          <heading>Municipal suspense tax book</heading>
+          <content>
+            <p>Sec. 12-165. Municipal suspense tax book.Each municipality shall have a suspense tax book. At least once in each year each collector of taxes in each municipality shall deliver to the board of finance or other similar board by whatever name called or, if no such board exists, to the board of selectmen if a town not consolidated with a city or borough, to the common council or board of aldermen if a city, to the warden and burgesses if a borough and to the governing board if any other municipality, a statement giving by rate bill: (1) The name and address of the person against whom each uncollectible tax was levied, and (2) the reason why such collector believes each such tax is uncollectible. At the end of such statement, the tax collector shall certify that, to the best of his knowledge and belief, each tax contained in such statement has not been paid and is uncollectible. A detailed examination shall be made by the authority to which such statement has been given of each tax shown thereon and, after such examination, it shall designate in writing each tax which is believed by it to be uncollectible. Thereupon, each tax so designated as uncollectible shall be transferred by such collector to the suspense tax book. (3) Each tax so transferred shall not thereafter be included as an asset of such municipality. The amount of each tax so transferred during the last fiscal year and the name of the person against whom each such tax was levied shall be published in the next annual report of such municipality or filed in the town clerk's office within sixty days of the end of the fiscal year. (4) Nothing herein contained shall be construed as an abatement of any tax so transferred, but any such tax, as it has been increased by interest or penalty, fees and charges, may be collected by the collector then or subsequently in office. The provisions of section12-147shall be applicable to all moneys so collected.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-202"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-202"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-202"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-202/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-202/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-202/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-202/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_207">
+        <num>207</num>
+        <heading>Gift Tax</heading>
+        <section eId="sec_12_202">
+          <num>12-202</num>
+          <heading>Tax on direct premiums of domestic insurance companies. Exception</heading>
+          <subsection eId="12_202__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Each domestic insurance company shall, annually, pay a tax on the total net direct premiums received by such company during the calendar year next preceding from policies written on property or risks located or resident in this state. The rate of tax on all net direct insurance premiums received</p>
+            </content>
+            <paragraph eId="12_202__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>on or after January 1, 1995, and prior to January 1, 2018, shall be one and three-quarters per cent, and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_202__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>on and after January 1, 2018, shall be one and one-half per cent. The franchise tax imposed under this section on premium income for the privilege of doing business in the state is in addition to the tax imposed under chapter 208. In the case of any local domestic insurance company the admitted assets of which as of the end of an income year do not exceed ninety-five million dollars, eighty per cent of the tax paid by such company under chapter 208 during such income year reduced by any refunds of taxes paid by such company and granted under said chapter within such income year and eighty per cent of the assessment paid by such company under section38a-48during such income year shall be allowed as a credit in the determination of the tax under this chapter payable with respect to total net direct premiums received during such income year, provided that these two credits shall not reduce the tax under this chapter to less than zero, and provided further in the case of a local domestic insurance company that is a member of an insurance holding company system, as defined in section38a-129, these credits shall apply if the total admitted assets of the local domestic insurance company and its affiliates, as defined in said section, do not exceed two hundred fifty million dollars or, in the alternative, in the case of a local domestic insurance company that is a member of an insurance holding company system, these credits shall apply only if total direct written premiums are derived from policies issued or delivered in Connecticut, on risk located in Connecticut and, as of the end of the income year the company and its affiliates have admitted assets minus unpaid losses and loss adjustment expenses that are also discounted for federal and state tax purposes and that for such local domestic insurance company and its affiliates, as defined in section38a-129, do not exceed two hundred fifty million dollars.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_202__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Notwithstanding the provisions of subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_202__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section, the tax shall not apply to surplus lines insurance policies issued by domestic insurance companies designated as surplus lines insurers pursuant to section38a-271a.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

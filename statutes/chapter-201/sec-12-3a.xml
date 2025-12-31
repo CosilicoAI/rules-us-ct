@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-3a"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-3a"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-3a"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-3a/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-3a/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-3a/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-3a/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_201">
+        <num>201</num>
+        <heading>State and Local Revenue Services. Department of Revenue Services</heading>
+        <section eId="sec_12_3a">
+          <num>12-3a</num>
+          <heading>Penalty Review Committee. Waiver of penalties; appeals</heading>
+          <subsection eId="12_3a__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>There is created a Penalty Review Committee, which shall consist of the State Comptroller or an employee of the office of the State Comptroller designated by said Comptroller, the Secretary of the Office of Policy and Management or an employee of the Office of Policy and Management designated by said secretary and the Commissioner of Revenue Services or an employee of the Department of Revenue Services designated by said commissioner. Said committee shall meet monthly or as often as necessary to approve any waiver of penalty in excess of five thousand dollars, which the Commissioner of Revenue Services is authorized to waive in accordance with this title, or which the Commissioner of Consumer Protection is authorized to waive in accordance with chapter 226. A majority vote of the committee shall be required for approval of such waiver.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_3a__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>An itemized statement of all waivers approved under this section shall be available to the public for inspection by any person.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_3a__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The Penalty Review Committee created pursuant to subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_3a__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section shall adopt regulations, in accordance with chapter 54, establishing guidelines for the waiver of any penalty in accordance with this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_3a__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Any person aggrieved by the action of the Penalty Review Committee may, not later than thirty days after notice of such action is delivered or mailed to such person, appeal therefrom to the superior court for the judicial district of New Britain, which shall be accompanied by a citation to the members of said committee to appear before said court. Such citation shall be signed by the same authority, and such appeal shall be returnable at the same time and served and returned in the same manner as is required in case of a summons in a civil action. The authority issuing the citation shall take from the appellant a bond or recognizance to the state of Connecticut with surety to prosecute the appeal to effect and to comply with the orders and decrees of the court in the premises. Such appeals shall be preferred cases, to be heard, unless cause appears to the contrary, at the first session, by the court or by a committee appointed by it. Said court may grant such relief as may be equitable. If the appeal is without probable cause, the court may tax double or triple costs, as the case demands; and, upon all such appeals which may be denied, costs may be taxed against the appellant at the discretion of the court, but no costs shall be taxed against the state.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

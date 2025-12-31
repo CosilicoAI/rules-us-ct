@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-861"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-861"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17a-861"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-861/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-861/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-861/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-861/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319l">
+        <num>319l</num>
+        <heading>Nursing Home Financial Assistance</heading>
+        <section eId="sec_17a_861">
+          <num>17a-861</num>
+          <heading>(Formerly Sec. 17b-251). Connecticut Partnership for Long-Term Care: Outreach program established</heading>
+          <content>
+            <p>Sec. 17a-861. (Formerly Sec. 17b-251). Connecticut Partnership for Long-Term Care: Outreach program established.The Office of Policy and Management shall establish an outreach program to educate consumers as to: (1) The need for long-term care; (2) mechanisms for financing such care; (3) the availability of long-term care insurance; and (4) the asset protection provided under sections17b-252to17b-254, inclusive, and38a-475. The Office of Policy and Management shall provide public information to assist individuals in choosing appropriate insurance coverage.
+See Sec. 17b-252 re overview of program.
+See Sec. 17b-253 re amendments to Medicaid regulations and state plan, and regulations re determining eligibility of applicants for Medicaid and coverage requirements for long-term care benefits.
+See Sec. 17b-254 re foundation funds and federal approval and report to General Assembly.
+See Sec. 38a-475 re precertification of long-term care insurance policies.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

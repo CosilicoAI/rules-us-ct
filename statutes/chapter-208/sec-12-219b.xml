@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-219b"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-219b"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-219b"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-219b/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-219b/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-219b/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-219b/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_208">
+        <num>208</num>
+        <heading>Estate Taxes</heading>
+        <section eId="sec_12_219b">
+          <num>12-219b</num>
+          <heading>Election with respect to apportionment of net income</heading>
+          <subsection eId="12_219b__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>With respect to the taxation under this chapter in income years commencing on or after January 1, 1996, of a company's distributive share as a partner of partnership income or loss in all partnerships in which it is or may become a partner, a company may, on or before the due date, or, if applicable, the extended due date, of its corporation business tax return for its income year beginning during 1996, make an election, on its corporation business tax return for such income year, not to have the provisions of subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_219b__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>of section12-218and subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_219b__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of section12-219aapply. Except as otherwise provided by subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_219b__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section, the election shall be irrevocable.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_219b__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>If a company makes the election as provided in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_219b__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section, such company may revoke such election, on its corporation business tax return and such revocation shall not be effective for any income year beginning before January 1, 2001. The revocation, if any, of such election shall be irrevocable.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

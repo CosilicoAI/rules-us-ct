@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-541"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-541"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-541"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-541/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-541/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-541/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-541/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_225">
+        <num>225</num>
+        <heading>Room Occupancy Tax</heading>
+        <section eId="sec_12_541">
+          <num>12-541</num>
+          <heading>Admissions tax. Sunset</heading>
+          <subsection eId="12_541__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The provisions of subsections</p>
+            </content>
+          </subsection>
+          <subsection eId="12_541__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>and</p>
+            </content>
+          </subsection>
+          <subsection eId="12_541__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of this section shall apply to sales occurring prior to July 1, 2021.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_541__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Except as provided in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_541__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of this section, there is hereby imposed a tax of ten per cent of the admission charge to any place of amusement, entertainment or recreation. No tax shall be imposed with respect to any admission charge:</p>
+            </content>
+            <paragraph eId="12_541__subsec_c__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>When the admission charge is less than one dollar or, in the case of any motion picture show, when the admission charge is not more than five dollars;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_541__subsec_c__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>When a daily admission charge is imposed that entitles the patron to participate in an athletic or sporting activity;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_541__subsec_c__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>To any event, other than events held at the stadium facility, as defined in section32-651, if all of the proceeds from the event inure exclusively to an entity that is exempt from federal income tax under the Internal Revenue Code, provided such entity actively engages in and assumes the financial risk associated with the presentation of such event;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_541__subsec_c__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>To any event, other than events held at the stadium facility, as defined in section32-651, that, in the opinion of the commissioner, is conducted primarily to raise funds for an entity that is exempt from federal income tax under the Internal Revenue Code, provided the commissioner is satisfied that the net profit that inures to such entity from such event will exceed the amount of the admissions tax that, but for this subdivision, would be imposed upon the person making such charge to such event;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_541__subsec_c__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>Other than for events held at the stadium facility, as defined in section32-651, paid by centers of service for elderly persons, as described in section17a-855;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_541__subsec_c__subsec_6">
+              <num>(6)</num>
+              <content>
+                <p>To any production featuring live performances by actors or musicians presented at Gateway's Candlewood Playhouse, Ocean Beach Park or any nonprofit theater or playhouse in the state, provided such theater or playhouse possesses evidence confirming exemption from federal tax under Section 501 of the Internal Revenue Code;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_541__subsec_c__subsec_7">
+              <num>(7)</num>
+              <content>
+                <p>To any carnival or amusement ride;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_541__subsec_c__subsec_8">
+              <num>(8)</num>
+              <content>
+                <p>To any interscholastic athletic event held at the stadium facility, as defined in section32-651;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_541__subsec_c__subsec_9">
+              <num>(9)</num>
+              <content>
+                <p>If the admission charge would have been subject to tax under the provisions of section12-542of the general statutes, revision of 1958, revised to January 1, 1999; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_541__subsec_c__subsec_10">
+              <num>(10)</num>
+              <content>
+                <p>On and after July 1, 2020, to any event at the Dunkin' Donuts Park in Hartford.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_541__subsec_c">
+            <num>(c)</num>
+            <paragraph eId="12_541__subsec_c__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>For the following venues and events, for sales occurring on or after July 1, 2019, but prior to July 1, 2020, the tax imposed under this section shall be seven and one-half per cent of the admission charge to:
+(A) Any event at the XL Center in Hartford;
+(B) Any event at Dillon Stadium in Hartford;
+(C) Any athletic event presented by a member team of the Atlantic League of Professional Baseball at the New Britain Stadium;
+(D) Any event at the Webster Bank Arena in Bridgeport;
+(E) Any event at the Harbor Yard Amphitheater in Bridgeport;
+(F) Any event at Dodd Stadium in Norwich;
+(G) Any event at the Oakdale Theatre in Wallingford; and
+(H) Any event other than an interscholastic athletic event at the stadium facility, as defined in section32-651.</p>
+              </content>
+              <subparagraph eId="12_541__subsec_c__subsec_1__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>Any event at the XL Center in Hartford;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_541__subsec_c__subsec_1__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>Any event at Dillon Stadium in Hartford;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_541__subsec_c__subsec_1__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>Any athletic event presented by a member team of the Atlantic League of Professional Baseball at the New Britain Stadium;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_541__subsec_c__subsec_1__subsec_D">
+                <num>(D)</num>
+                <content>
+                  <p>Any event at the Webster Bank Arena in Bridgeport;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_541__subsec_c__subsec_1__subsec_E">
+                <num>(E)</num>
+                <content>
+                  <p>Any event at the Harbor Yard Amphitheater in Bridgeport;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_541__subsec_c__subsec_1__subsec_F">
+                <num>(F)</num>
+                <content>
+                  <p>Any event at Dodd Stadium in Norwich;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_541__subsec_c__subsec_1__subsec_G">
+                <num>(G)</num>
+                <content>
+                  <p>Any event at the Oakdale Theatre in Wallingford; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_541__subsec_c__subsec_1__subsec_H">
+                <num>(H)</num>
+                <content>
+                  <p>Any event other than an interscholastic athletic event at the stadium facility, as defined in section32-651.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_541__subsec_c__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>For sales occurring on or after July 1, 2019, but prior to July 1, 2020, for any event at the Dunkin' Donuts Park in Hartford, the tax imposed under this section shall be five per cent of the admission charge.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_541__subsec_c__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>For the venues and events specified in subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_541__subsec_c__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>of this subsection, for sales occurring on or after July 1, 2020, the tax imposed under this section shall be five per cent of the admission charge.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_541__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>On and after July 1, 2001, but prior to January 1, 2023, the tax imposed under this section on any motion picture show with an admission charge of more than five dollars shall be six per cent of the admission charge. The tax shall be imposed upon the person making such charge and reimbursement for the tax shall be collected by such person from the purchase. Such reimbursement, termed “tax”, shall be paid by the purchaser to the person making the admission charge. Such tax, when added to the admission charge, shall be a debt from the purchaser to the person making the admission charge and shall be recoverable at law. The amount of tax reimbursement, when so collected, shall be deemed to be a special fund in trust for the state of Connecticut.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

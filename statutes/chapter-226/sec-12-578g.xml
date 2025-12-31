@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-578g"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-578g"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-578g"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-578g/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-578g/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-578g/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-578g/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_226">
+        <num>226</num>
+        <heading>Prepared Food and Beverage Tax</heading>
+        <section eId="sec_12_578g">
+          <num>12-578g</num>
+          <heading>Payments by MMCT Venture, LLC</heading>
+          <subsection eId="12_578g__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>For the purposes of this section, “gross gaming revenue” has the same meaning as provided in section12-557b.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_578g__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Not later than thirty days after the date the authorization of MMCT Venture, LLC, to conduct authorized games at a casino gaming facility is effective pursuant to section12-578f, MMCT Venture, LLC, shall pay to the state one million dollars for the initial costs to be incurred by the state to regulate the casino gaming facility. Such money shall be credited against unpaid required payments pursuant to subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_578g__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of this section for the first full calendar year in which the casino gaming facility is conducting authorized games.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_578g__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Not later than thirty days after the date the casino gaming facility is operational and on a monthly basis thereafter while such casino gaming facility is operational, MMCT Venture, LLC, shall pay to the state:</p>
+            </content>
+            <paragraph eId="12_578g__subsec_c__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>Ten per cent of the gross gaming revenue from the operation of authorized games, except video facsimile games, which shall be deposited in the state-wide tourism marketing account, established pursuant to section10-395a;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_578g__subsec_c__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>fifteen per cent of the gross gaming revenue from the operation of authorized games, except video facsimile games, which shall be deposited in the General Fund; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_578g__subsec_c__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>twenty-five per cent of the gross gaming revenue from the operation of video facsimile games, which shall be deposited as follows: (A) Seven million five hundred thousand dollars annually in the municipal gaming account, established pursuant to section12-578h, and (B) any remaining amounts in the General Fund.</p>
+              </content>
+              <subparagraph eId="12_578g__subsec_c__subsec_3__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>Seven million five hundred thousand dollars annually in the municipal gaming account, established pursuant to section12-578h, and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_578g__subsec_c__subsec_3__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>any remaining amounts in the General Fund.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_578g__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Not later than the date the casino gaming facility is operational and annually thereafter while such casino gaming facility is operational, MMCT Venture, LLC, shall contribute three hundred thousand dollars to the chronic gamblers treatment and rehabilitation account created pursuant to section17a-713.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

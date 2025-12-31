@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-39m"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-39m"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-39m"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-39m/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-39m/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-39m/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-39m/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_202">
+        <num>202</num>
+        <heading>Collection of State Taxes</heading>
+        <section eId="sec_12_39m">
+          <num>12-39m</num>
+          <heading>Posting of bond by taxpayer objecting to an assessment. Regulations</heading>
+          <subsection eId="12_39m__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>A taxpayer, objecting to the assessment of any tax due the state or interest thereon, may at any time on or before the making of such assessment but prior to the expiration of the later of</p>
+            </content>
+            <paragraph eId="12_39m__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>the time period for contesting such tax, or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_39m__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>the entry of an order by the Superior Court upholding such assessment, make a remittance that is designated in writing as a deposit in the nature of a cash bond. Such remittance shall not be deemed to be a concession by the taxpayer of the liability therefor and shall not diminish or abrogate the taxpayer's right to contest the applicability of the tax, interest or penalty, prior to the time otherwise available for contesting the tax or penalty.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_39m__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Notwithstanding the provisions of section12-39h, at the time of the application of the cash bond upon the final resolution of the controversy, there shall be applied first to the payment of the tax finally determined to be due so much of the cash bond as is represented by the ratio, determined as of the date of receipt of the cash bond, of the tax assessed over the total of the tax assessed and the interest accrued as of such date, and the balance shall be treated as interest paid on the tax assessed as of such date. Interest on the outstanding balance of the tax due and not deemed satisfied by the cash bond shall be determined as if the cash bond so applied to the payment of tax had been a tax payment as of the date of receipt of the cash bond, such that the deposit stops the further accrual or compounding of interest with respect to the portion of the assessment deemed paid as of such date. The balance of the cash bond, if any, shall be applied to the payment of interest as of the date of receipt of the cash bond, with any excess applied in accordance with said section12-39h.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_39m__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>A taxpayer having remitted a cash bond in accordance with this section shall not be entitled to the payment of interest with respect to that portion of the tax assessment that is subsequently abated by action of the Commissioner of Revenue Services or a court of competent jurisdiction to the extent the amount of such assessment was represented by such cash bond. A cash bond shall not be subject to a claim for credit or refund as an overpayment.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_39m__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>The taxpayer may request a return of all or part of the cash bond at any time before the expiration of the later of the time period for contesting such tax or the entry of an order by the Superior Court upholding such assessment, unless the Commissioner of Revenue Services determines that collection of the tax would be in jeopardy, in which case the cash bond will not be returned, but will be applied against such assessment. Upon the return of such amounts, the taxpayer shall be treated for all purposes hereunder as if such cash bond had never been paid.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_39m__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>The Commissioner of Revenue Services may adopt regulations, in accordance with the provisions of chapter 54, to implement the provisions of subsections</p>
+            </content>
+          </subsection>
+          <subsection eId="12_39m__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>to</p>
+            </content>
+          </subsection>
+          <subsection eId="12_39m__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>, inclusive, of this section.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-504b"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-504b"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-504b"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-504b/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-504b/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-504b/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-504b/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_223">
+        <num>223</num>
+        <heading>Miscellaneous Tax Provisions</heading>
+        <section eId="sec_12_504b">
+          <num>12-504b</num>
+          <heading>Payment of tax; land declassified; assessment change</heading>
+          <content>
+            <p>Sec. 12-504b. Payment of tax; land declassified; assessment change.Said conveyance tax shall be due and payable by the particular grantor who caused such classification to be made to the town clerk of the town in which the property is entered upon the tax list at the time of the recording of his deed or other instrument of conveyance. Such conveyance tax and the revenues produced thereby shall become part of the general revenue of such municipality. No deed or other instrument of conveyance which is subject to tax under sections12-504ato12-504f, inclusive, shall be recorded by any town clerk unless the tax imposed by said sections has been paid. Upon the recording of such deed and the payment of the required conveyance tax such land shall be automatically declassified and the assessor shall forthwith record with the town clerk a certificate setting forth that such land has been declassified. Thereafter, such land shall be assessed at its fair market value as determined by the assessor under the provisions of section12-63for all other property, until such time as a record owner may reclassify such land.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

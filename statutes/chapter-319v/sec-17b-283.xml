@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-283"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-283"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17b-283"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-283/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-283/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-283/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-283/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319v">
+        <num>319v</num>
+        <heading>Temporary Assistance for Needy Families</heading>
+        <section eId="sec_17b_283">
+          <num>17b-283</num>
+          <heading>(Formerly Sec. 17-134ee). Medicaid home and community-based services waiver program for children and young adults with disabilities</heading>
+          <subsection eId="17b_283__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of the Social Security Act to provide home and community-based services for persons who are institutionalized or at risk of institutionalization and who</p>
+            </content>
+            <paragraph eId="17b_283__subsec_c__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>are twenty-one years of age or younger;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_283__subsec_c__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>have a physical disability and may also have a co-occurring developmental disability; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_283__subsec_c__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>meet the financial eligibility criteria established in the waiver.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

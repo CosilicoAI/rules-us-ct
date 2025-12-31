@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-39aa"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-39aa"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-39aa"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-39aa/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-39aa/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-39aa/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-39aa/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_202">
+        <num>202</num>
+        <heading>Collection of State Taxes</heading>
+        <section eId="sec_12_39aa">
+          <num>12-39aa</num>
+          <heading>Tax returns, claims, statements or other documents concerning state taxes. When deemed received</heading>
+          <subsection eId="12_39aa__subsec_a">
+            <num>(a)</num>
+            <paragraph eId="12_39aa__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>If any return, claim, statement, or other document required to be filed with or any payment required to be made to the Department of Revenue Services within a prescribed period on or before a prescribed date under authority of any provision of the general statutes is, after such period or such date, delivered by United States mail to the Department of Revenue Services, the date of the United States postmark stamped on the cover in which such return, claim, statement, or other document, or payment, is mailed shall be deemed to be the date of delivery or the date of payment, as the case may be, provided the return, claim, statement, or other document, or payment, was deposited in the mail in the United States in an envelope or other appropriate wrapper, with sufficient postage prepaid properly addressed to the Department of Revenue Services and the postmark was made by the United States Postal Service.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_39aa__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>If the postmark is illegible, omitted or purported to be erroneous, the person who is required to file the return, claim, statement, or other document, or to make the payment, shall bear the burden of proving by competent evidence that such return, claim, statement, or other document or payment was deposited in the mail in the United States on or before the due date for filing, or payment.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_39aa__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>If the return, claim, statement or other document or payment, is sent by United States registered mail, it shall be deemed to have a postmark date that is the date of registration, and, if sent by United States certified mail, it shall be deemed to have a postmark date that is the date that the sender's receipt is postmarked by the postal employee.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_39aa__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Unless it is otherwise determined by the commissioner to be inadequate for the needs of the state,</p>
+            </content>
+            <paragraph eId="12_39aa__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>any reference in subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_39aa__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section to the United States mail shall be treated as including a reference to any delivery service designated by the Secretary of the Treasury of the United States pursuant to Section 7502 of the Internal Revenue Code of 1986, or any subsequent corresponding internal revenue code of the United States, as from time to time amended,</p>
+            </content>
+            <paragraph eId="12_39aa__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>any reference in subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_39aa__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section to a postmark made by the United States Postal Service shall be treated as including a reference to any date recorded or marked in the manner described in said Section 7502 of said Internal Revenue Code by a designated delivery service, and</p>
+            </content>
+            <paragraph eId="12_39aa__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>any equivalent of registered or certified mail designated by the Secretary of the Treasury of the United States pursuant to said Section 7502 of said Internal Revenue Code shall be included within the meaning of registered or certified mail as used in subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_39aa__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

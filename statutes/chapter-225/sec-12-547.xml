@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-547"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-547"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-547"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-547/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-547/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-547/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-547/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_225">
+        <num>225</num>
+        <heading>Room Occupancy Tax</heading>
+        <section eId="sec_12_547">
+          <num>12-547</num>
+          <heading>Returns. Payment of tax. Penalty</heading>
+          <content>
+            <p>Sec. 12-547. Returns. Payment of tax. Penalty.Each person subject to a tax imposed under this chapter shall file a return on or before the last day of each month setting forth the amount of tax due for the preceding month and such additional information as the commissioner may require. Each return shall be signed by the person required to file the return or his authorized agent but need not be verified by oath. Any return required to be filed by a corporation shall be signed by an officer of such corporation or his authorized agent. Payment of the tax shall accompany such return. If any person fails to pay the amount of tax reported to be due on his return within the time specified under the provisions of this section, there shall be imposed a penalty equal to ten per cent of such amount due and unpaid or fifty dollars, whichever is greater. The tax shall bear interest at the rate of one per cent per month or fraction thereof, from the due date.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

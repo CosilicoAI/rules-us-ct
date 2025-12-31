@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-263c"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-263c"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17b-263c"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-263c/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-263c/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-263c/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-263c/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319v">
+        <num>319v</num>
+        <heading>Temporary Assistance for Needy Families</heading>
+        <section eId="sec_17b_263c">
+          <num>17b-263c</num>
+          <heading>Medical homes. Regulations</heading>
+          <subsection eId="17b_263c__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The Commissioner of Social Services may establish medical homes as a model for delivering care to recipients of assistance under medical assistance programs administered by the Department of Social Services.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_263c__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The commissioner may implement policies and procedures necessary to</p>
+            </content>
+            <paragraph eId="17b_263c__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>establish medical homes as provided for in subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_263c__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section, and</p>
+            </content>
+            <paragraph eId="17b_263c__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>pursue optional initiatives or policies authorized pursuant to the Patient Protection and Affordable Care Act, P.L. 111-148, and the Health Care and Education Reconciliation Act of 2010, including, but not limited, to: (A) Coverage of family planning services; (B) the establishment of a temporary high risk pool for individuals with preexisting conditions; (C) the establishment of an incentive program for the prevention of chronic diseases; (D) the provision of health homes to medical assistance beneficiaries with chronic conditions; (E) the establishment of Medicaid payments to institutions for mental disease demonstration project; (F) the establishment of a dual eligible demonstration program; (G) the establishment of a balancing incentive payment program for home and community-based services; (H) the establishment of a “Community First Choice Option”; (I) the establishment of a demonstration project to make bundled payments to hospitals; (J) the establishment of a demonstration project to allow pediatric medical providers to organize as accountable care organizations; (K) implementation of modified adjusted gross income eligibility rules; and (L) coordination of an integrated eligibility system with the Connecticut Health Insurance Exchange while in the process of adopting such policies and procedures in regulation form, provided the commissioner prints notice of the intention to adopt the regulations in the Connecticut Law Journal not later than twenty days after the date of implementation of such policies and procedures. Such policies and procedures shall remain valid for three years following the date of publication in the Connecticut Law Journal unless otherwise provided for by the General Assembly. Notwithstanding the time frames established in subsection</p>
+              </content>
+              <subparagraph eId="17b_263c__subsec_a__subsec_2__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>Coverage of family planning services;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17b_263c__subsec_a__subsec_2__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>the establishment of a temporary high risk pool for individuals with preexisting conditions;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17b_263c__subsec_a__subsec_2__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>the establishment of an incentive program for the prevention of chronic diseases;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17b_263c__subsec_a__subsec_2__subsec_D">
+                <num>(D)</num>
+                <content>
+                  <p>the provision of health homes to medical assistance beneficiaries with chronic conditions;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17b_263c__subsec_a__subsec_2__subsec_E">
+                <num>(E)</num>
+                <content>
+                  <p>the establishment of Medicaid payments to institutions for mental disease demonstration project;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17b_263c__subsec_a__subsec_2__subsec_F">
+                <num>(F)</num>
+                <content>
+                  <p>the establishment of a dual eligible demonstration program;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17b_263c__subsec_a__subsec_2__subsec_G">
+                <num>(G)</num>
+                <content>
+                  <p>the establishment of a balancing incentive payment program for home and community-based services;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17b_263c__subsec_a__subsec_2__subsec_H">
+                <num>(H)</num>
+                <content>
+                  <p>the establishment of a “Community First Choice Option”;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17b_263c__subsec_a__subsec_2__subsec_I">
+                <num>(I)</num>
+                <content>
+                  <p>the establishment of a demonstration project to make bundled payments to hospitals;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17b_263c__subsec_a__subsec_2__subsec_J">
+                <num>(J)</num>
+                <content>
+                  <p>the establishment of a demonstration project to allow pediatric medical providers to organize as accountable care organizations;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17b_263c__subsec_a__subsec_2__subsec_K">
+                <num>(K)</num>
+                <content>
+                  <p>implementation of modified adjusted gross income eligibility rules; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17b_263c__subsec_a__subsec_2__subsec_L">
+                <num>(L)</num>
+                <content>
+                  <p>coordination of an integrated eligibility system with the Connecticut Health Insurance Exchange while in the process of adopting such policies and procedures in regulation form, provided the commissioner prints notice of the intention to adopt the regulations in the Connecticut Law Journal not later than twenty days after the date of implementation of such policies and procedures. Such policies and procedures shall remain valid for three years following the date of publication in the Connecticut Law Journal unless otherwise provided for by the General Assembly. Notwithstanding the time frames established in subsection</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_263c__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of section17b-10, the commissioner shall submit such policies and procedures in proposed regulation form to the legislative regulation review committee not later than three years following the date of publication of its intent to adopt regulations as provided for in this subsection. In the event that the commissioner is unable to submit proposed regulations prior to the expiration of the three-year time period as provided for in this subsection, the commissioner shall submit written notice, not later than thirty-five days prior to the date of expiration of such time period, to the legislative regulation review committee and the joint standing committees of the General Assembly having cognizance of matters relating to human services and appropriations and the budgets of state agencies indicating that the department will not be able to submit the proposed regulations on or before such date and shall include in such notice</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_263c__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>the reasons why the department will not submit the proposed regulations by such date, and (ii) the date by which the department will submit the proposed regulations. The legislative regulation review committee may require the department to appear before the committee at a time prescribed by the committee to further explain such reasons and to respond to any questions by the committee about the policy. The legislative regulation review committee may request the joint standing committee of the General Assembly having cognizance of matters relating to human services to review the department's policy, the department's reasons for not submitting the proposed regulations by the date specified in this section and the date by which the department will submit the proposed regulations. Said joint standing committee may review the policy, such reasons and such date, may schedule a hearing thereon and may make a recommendation to the legislative regulation review committee.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

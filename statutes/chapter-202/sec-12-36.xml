@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-36"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-36"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-36"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-36/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-36/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-36/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-36/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_202">
+        <num>202</num>
+        <heading>Collection of State Taxes</heading>
+        <section eId="sec_12_36">
+          <num>12-36</num>
+          <heading>Jeopardy collection of taxes due state</heading>
+          <content>
+            <p>Sec. 12-36. Jeopardy collection of taxes due state.If, before the due date of any state tax, except a tax imposed under chapter 219 or 229, any state collection agency believes that the collection of such tax will be jeopardized by delay, he shall, subject to the provisions of this section, collect such tax forthwith. He may enforce collection thereof by using the method provided in section12-35or by using any other method provided for in the general statutes relating to the enforced collection of taxes. If the amount of such tax has been definitely fixed, the amount so fixed shall be collected. If the amount of such tax has not been definitely fixed, the state collection agency shall collect such amount as, in his opinion, from the facts available to him, is sufficient. If, after the payment of any tax in conformity with the provisions of this section, it is found that the amount so paid is in excess of the amount which would have been paid on the tax due date or after appeal to the courts, the excess so paid shall be returned to the taxpayer upon written application by him to the Comptroller. Such written application shall contain a recital of the facts, shall show the amount of rebate to which the applicant believes he is entitled, shall be approved by the state collection agency and shall be made within the period of one year from the date of the definite determination of such tax. The person against whom jeopardy collection proceedings have been begun may obtain a stay of collection of the whole or any part of the amount of the tax so represented by such proceedings by filing with the state collection agency a bond in such an amount, not exceeding double the amount as to which the stay is desired, and with such surety as the state collection agency deems necessary, conditioned upon the payment of as much of the amount, the collection of which is stayed by the bond, as is found to be due from such person. The amount of the tax which is stayed by the bond shall be paid on notice and demand of the state collection agency at any time after the tax due date. The person subject to jeopardy collection proceedings, under the provisions of this section, who has obtained a stay of collection in whole or in part, may waive such stay at any time in respect to the whole or any part of the amount covered by the bond, and if, as the result of such waiver, any part of the amount covered by the bond is paid, the bond shall, at the request of the taxpayer, be proportionately reduced.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

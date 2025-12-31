@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-124a"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-124a"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-124a"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-124a/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-124a/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-124a/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-124a/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_204">
+        <num>204</num>
+        <heading>Local Levy and Collection of Taxes</heading>
+        <section eId="sec_12_124a">
+          <num>12-124a</num>
+          <heading>Municipal option to abate taxes on residence exceeding eight per cent of occupants' income</heading>
+          <subsection eId="12_124a__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Any municipality may, upon approval by its legislative body or in any town in which the legislative body is a town meeting, by the board of selectmen, abate the property taxes due for any tax year with respect to any residential dwelling occupied by the owner or owners and for whom such dwelling is the primary place of residence, to the extent that such property taxes exceed eight per cent or more of the total income from any source, adjusted for self-employed persons to reflect the allowance for expenses in determining adjusted gross income for federal income tax purposes, of such owner or owners and any other person for whom such dwelling is the primary place of residence, for the calendar year immediately preceding the beginning of the tax year for which such taxes are due. Application for such abatement shall be made not later than thirty days preceding the tax due date for such tax year, provided if the amount of such taxes has not been determined on such date, within ten days following determination of the amount of such taxes.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_124a__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Whenever any municipality has approved abatement of taxes as provided in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_124a__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section, the owner or owners shall deliver to the tax collector in such municipality, not later than ten days following the tax due date for such taxes abated, an agreement, on a form executed and acknowledged in the form and manner required for the transfer of an interest in real property, to reimburse such municipality in the amount of the taxes abated, with interest at six per cent per annum or such rate as approved by the legislative body. Such agreement shall contain a legal description of the real property with respect to which such abatement is approved and shall be recorded in the land records of such municipality. Such agreement shall constitute a lien on such real property which shall remain valid until paid. Such lien shall be due and payable in full upon the sale or transfer of such real property or upon the death of the owner, or if owned by more than one person at the time such lien is created, upon the death of the last of such owners surviving. Such lien shall be released by the tax collector in such municipality when the taxes secured thereby have been paid. Liens recorded under the provisions of this subsection shall have the same precedence as tax liens under section12-172.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

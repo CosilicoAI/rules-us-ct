@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-278l"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-278l"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17b-278l"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-278l/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-278l/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-278l/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-278l/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319v">
+        <num>319v</num>
+        <heading>Temporary Assistance for Needy Families</heading>
+        <section eId="sec_17b_278l">
+          <num>17b-278l</num>
+          <heading>Medical assistance for obesity treatment, surgery. Definitions. State plan amendments</heading>
+          <subsection eId="17b_278l__subsec_a">
+            <num>(a)</num>
+            <paragraph eId="17b_278l__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>As used in this section, “bariatric surgery” means surgical changes to the digestive system to help a patient with obesity to lose weight;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_278l__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>“Body mass index” means the number calculated by dividing an individual's weight in kilograms by the individual's height in meters squared;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_278l__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>“Medical services” means (A) prescription drugs approved by the federal Food and Drug Administration for the treatment of obesity on an outpatient basis, and (B) nutritional counseling provided by a registered dietitian-nutritionist certified pursuant to section20-206n;</p>
+              </content>
+              <subparagraph eId="17b_278l__subsec_a__subsec_3__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>prescription drugs approved by the federal Food and Drug Administration for the treatment of obesity on an outpatient basis, and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17b_278l__subsec_a__subsec_3__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>nutritional counseling provided by a registered dietitian-nutritionist certified pursuant to section20-206n;</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="17b_278l__subsec_a__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>“Severe obesity” means a body mass index that is:
+(A) Greater than forty; or
+(B) Thirty-five or more if an individual has been diagnosed with a comorbid disease or condition, including, but not limited to, a cardiopulmonary condition, diabetes, hypertension or sleep apnea; and</p>
+              </content>
+              <subparagraph eId="17b_278l__subsec_a__subsec_4__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>Greater than forty; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17b_278l__subsec_a__subsec_4__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>Thirty-five or more if an individual has been diagnosed with a comorbid disease or condition, including, but not limited to, a cardiopulmonary condition, diabetes, hypertension or sleep apnea; and</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="17b_278l__subsec_a__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>“Obesity” means a body mass index of thirty or higher.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_278l__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The Commissioner of Social Services shall provide medical assistance for</p>
+            </content>
+            <paragraph eId="17b_278l__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>bariatric surgery and related medical services for Medicaid and HUSKY B beneficiaries with severe obesity, and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_278l__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>medical services for Medicaid and HUSKY B beneficiaries with a body mass index greater than thirty-five, provided such beneficiaries otherwise meet conditions set by the Centers for Medicare and Medicaid Services for such surgery and medical services. If necessary, the commissioner may amend the Medicaid state plan and the state plan for the Children's Health Insurance Program to implement the provisions of this section.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

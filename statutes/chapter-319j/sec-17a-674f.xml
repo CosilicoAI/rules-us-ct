@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-674f"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-674f"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17a-674f"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-674f/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-674f/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-674f/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-674f/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319j">
+        <num>319j</num>
+        <heading>Health Care For Uninsured Children</heading>
+        <section eId="sec_17a_674f">
+          <num>17a-674f</num>
+          <heading>Opioid Settlement Committee. Report</heading>
+          <subsection eId="17a_674f__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Not later than January 15, 2023, and annually thereafter, the committee shall report, in accordance with the provisions of section11-4a, to the joint standing committees of the General Assembly having cognizance of matters relating to public health and appropriations and the budgets of state agencies, on the activities carried out by the committee pursuant to sections17a-674cto17a-674e, inclusive, including, but not limited to, the following:</p>
+            </content>
+            <paragraph eId="17a_674f__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>The opening and closing balance of the fund for the most recent fiscal year;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_674f__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>An accounting of all credits to, and expenditures from, the fund;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_674f__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>An inventory of fund investments as of the most recent fiscal year and the net income the fund earned for the most recent fiscal year as determined by the State Treasurer pursuant to section17a-674c;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_674f__subsec_a__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>The name and a description of each recipient of moneys from the fund, and the amount awarded to such recipient;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_674f__subsec_a__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>A description of each award's intended use, including, but not limited to, the (A) specific program, service or resource funded, (B) population served, and (C) measures that the recipient will use to assess the impact of the award;</p>
+              </content>
+              <subparagraph eId="17a_674f__subsec_a__subsec_5__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>specific program, service or resource funded,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17a_674f__subsec_a__subsec_5__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>population served, and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17a_674f__subsec_a__subsec_5__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>measures that the recipient will use to assess the impact of the award;</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="17a_674f__subsec_a__subsec_6">
+              <num>(6)</num>
+              <content>
+                <p>The primary criteria used to determine each recipient and its respective award amount;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_674f__subsec_a__subsec_7">
+              <num>(7)</num>
+              <content>
+                <p>A summary of information included in the recipient report required under subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17a_674f__subsec_h">
+            <num>(h)</num>
+            <content>
+              <p>of section17a-674d;</p>
+            </content>
+            <paragraph eId="17a_674f__subsec_h__subsec_8">
+              <num>(8)</num>
+              <content>
+                <p>All applications for an award of moneys from the fund received during the most recent fiscal year;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_674f__subsec_h__subsec_9">
+              <num>(9)</num>
+              <content>
+                <p>A description of any finding or concern as to whether all moneys disbursed from the fund, other than expenses authorized under section17a-674c, supplemented, and did not supplant or replace, any existing or future local, state or federal government funding;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_674f__subsec_h__subsec_10">
+              <num>(10)</num>
+              <content>
+                <p>The performance indicators and progress toward achieving the goals and objectives developed pursuant to section17a-674d, including, but not limited to, metrics on improving outcomes and reducing mortality and other harms related to substance use disorders;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_674f__subsec_h__subsec_11">
+              <num>(11)</num>
+              <content>
+                <p>The dollar amount and the percentage of the fund balance incurred for expenses of administering and staffing the fund and the committee during the most recent fiscal year;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_674f__subsec_h__subsec_12">
+              <num>(12)</num>
+              <content>
+                <p>The dollar amount and the percentage of the fund balance incurred for expenses associated with managing, investing and disbursing moneys in the fund during the most recent fiscal year; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_674f__subsec_h__subsec_13">
+              <num>(13)</num>
+              <content>
+                <p>An explanation of any funds certified by the commissioner and Attorney General pursuant to section17a-674cas being inconsistent with the intent of this section and sections17a-674cto17a-674e, inclusive, and the account or fund where such funds were deposited.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17a_674f__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The commissioner shall post the report required under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_674f__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section on the department's Internet web site.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

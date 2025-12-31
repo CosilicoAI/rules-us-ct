@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-436"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-436"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-436"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-436/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-436/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-436/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-436/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_220">
+        <num>220</num>
+        <heading>Controlled Substances Tax</heading>
+        <section eId="sec_12_436">
+          <num>12-436</num>
+          <heading>Distributor's license. Importation of alcoholic beverages. Invoices. Shipment into military reservation</heading>
+          <subsection eId="12_436__subsec_a">
+            <num>(a)</num>
+            <paragraph eId="12_436__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>Each distributor of alcoholic beverages, before engaging in such business, shall make application to the Commissioner of Revenue Services, on forms to be prescribed and furnished by the commissioner, for a distributor's license, which license, in case the applicant has complied with all other laws of the state pertaining to such business, shall authorize the manufacture and processing of alcoholic beverages in this state and importation into this state of alcoholic beverages and the sale within this state of such manufactured, processed or imported beverages.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_436__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>The commissioner may, in the commissioner's discretion, refuse to issue a license if the commissioner has reasonable ground to believe that the distributor has wilfully made any false statement of substance with respect to such application for a license, that the distributor has neglected to pay any taxes due to this state or that the distributor has been convicted of violating any of the alcoholic beverages tax laws of this or any other state or the alcoholic beverages tax laws of the United States or has such a criminal record that the commissioner reasonably believes that such distributor is not a suitable person to be issued a license, provided no refusal shall be rendered under this subdivision except in accordance with the provisions of sections 46a80 and 46a81.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_436__subsec_b">
+            <num>(b)</num>
+            <paragraph eId="12_436__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>No person, except a licensed distributor and railroad or airline companies so far as they conduct such beverage business in cars or passenger trains or airplanes, shall sell any alcoholic beverages in this state or possess such beverages with intent to sell, unless such beverages have previously been subject to the tax imposed by this chapter.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_436__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>(A) Except as otherwise provided in this subdivision and sections30-18and30-18a, no person shall ship, transport or import alcoholic beverages into this state unless such alcoholic beverages are delivered to a licensed distributor or to an internal revenue or United States customs bonded warehouse under regulations prescribed by the Commissioner of Revenue Services, or are transported in bonded trucks to vessels in Connecticut ports for export.
+(B)</p>
+              </content>
+              <subparagraph eId="12_436__subsec_b__subsec_2__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>Except as otherwise provided in this subdivision and sections30-18and30-18a, no person shall ship, transport or import alcoholic beverages into this state unless such alcoholic beverages are delivered to a licensed distributor or to an internal revenue or United States customs bonded warehouse under regulations prescribed by the Commissioner of Revenue Services, or are transported in bonded trucks to vessels in Connecticut ports for export.</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_436__subsec_b__subsec_2__subsec_B">
+                <num>(B)</num>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_436__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Any individual may import alcoholic beverages purchased by such individual within the territorial limits of the United States to an amount not to exceed five gallons in any sixtyday period for such individual's own consumption, (ii) any individual may import alcoholic beverages, whether or not purchased by such individual, from outside the territorial limits of the United States to an amount not to exceed five gallons in any three-hundred-sixty-five-day period for such individual's own consumption, and (iii) any individual who has resided outside the United States for a period of six months or more may, on one occasion and in conjunction with the return of such individual's personal and household goods and effects upon the termination of such foreign residency, import wine to an amount not to exceed one hundred gallons, of which not more than twenty gallons shall be of the same brand and spirits not to exceed ten gallons of which not more than two gallons shall be of the same brand, after making application in each such case to the Department of Revenue Services and presenting with the application a tax return prescribed by the Commissioner of Revenue Services and reporting the taxes under this chapter and under chapter 219 for which the applicant is liable. Payment of such taxes shall accompany such application and tax return. A copy of the importation certificate issued by the Department of Revenue Services shall accompany each such shipment.</p>
+            </content>
+            <paragraph eId="12_436__subsec_i__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>The provisions of this section shall not apply to alcoholic beverages which are actually brought into the state by any individual in quantities of four gallons or less.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_436__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The commissioner may require a licensed distributor who is a consignee of any alcoholic beverages transported, shipped or imported into this state to prepare and sign two copies of an invoice, the form to be prescribed by the commissioner, furnishing a description of each shipment received. Such licensed distributor shall, on demand of the commissioner, within five days after the receipt of any shipment, file one copy of such invoice with the commissioner and retain the other copy in such licensed distributor's files.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_436__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Each distributor, when making a taxable sale, shall furnish to the purchaser an invoice showing the quantities of alcoholic beverages sold and the classification thereof within the provisions of this chapter. The distributor shall keep all such invoices as part of the distributor's records.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_436__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>Any person holding a distributor's license may, not later than ten days before the end of any month, apply to the commissioner for cancellation of such license, such cancellation to be effective from the first day of the following month.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_436__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>Any distributor shipping any alcoholic beverages into any military reservation located within the territorial boundaries of this state shall, upon request by the commissioner, provide such commissioner with a copy of the invoice showing the quantities of alcoholic beverages shipped and the classification thereof within the provisions of this chapter.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_436__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>Any person who violates any provision of this section shall be fined not more than one thousand dollars or imprisoned not more than one year or both for each offense.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_436__subsec_h">
+            <num>(h)</num>
+            <paragraph eId="12_436__subsec_h__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>The commissioner may suspend or revoke the license of any distributor for failure to comply with any of the provisions of this chapter or regulations related thereto, following a hearing with respect to which notice in writing, specifying the time and place of such hearing and requiring such distributor to show cause why such license should not be revoked, is mailed or delivered to such distributor not less than ten days preceding the date of such hearing. Such notice may be served personally or by registered or certified mail.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_436__subsec_h__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>The commissioner shall not issue a new license to a distributor whose license is revoked unless the commissioner is satisfied that such distributor will comply with the provisions of this chapter and regulations related thereto.
+See Sec. 12-453 re exceptions to chapter provisions.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

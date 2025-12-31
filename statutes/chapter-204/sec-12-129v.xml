@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-129v"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-129v"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-129v"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-129v/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-129v/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-129v/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-129v/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_204">
+        <num>204</num>
+        <heading>Local Levy and Collection of Taxes</heading>
+        <section eId="sec_12_129v">
+          <num>12-129v</num>
+          <heading>Municipal option to provide residential property tax credit. Designation of community supporting organization</heading>
+          <subsection eId="12_129v__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>As used in this section:</p>
+            </content>
+            <paragraph eId="12_129v__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>“Residential property” means (A) a building containing three or fewer dwelling units used for human habitation, the parcel of land on which such building is situated and any accessory buildings or other improvements located on such parcel, (B) a condominium, as defined in section47-68a, that is used for residential purposes, or (C) a common interest community, as defined in section47-202;</p>
+              </content>
+              <subparagraph eId="12_129v__subsec_a__subsec_1__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>a building containing three or fewer dwelling units used for human habitation, the parcel of land on which such building is situated and any accessory buildings or other improvements located on such parcel,</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_129v__subsec_a__subsec_1__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>a condominium, as defined in section47-68a, that is used for residential purposes, or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_129v__subsec_a__subsec_1__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>a common interest community, as defined in section47-202;</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_129v__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>“community supporting organization” means an organization that is (A) exempt from taxation pursuant to Section 501</p>
+              </content>
+              <subparagraph eId="12_129v__subsec_a__subsec_2__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>exempt from taxation pursuant to Section 501</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_129v__subsec_c">
+            <num>(c)</num>
+            <paragraph eId="12_129v__subsec_c__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>of the Internal Revenue Code of 1986, or any subsequent corresponding internal revenue code of the United States, as amended from time to time, and (B) organized solely to support municipal expenditures for public programs and services, including public education; and</p>
+              </content>
+              <subparagraph eId="12_129v__subsec_c__subsec_3__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>organized solely to support municipal expenditures for public programs and services, including public education; and</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12_129v__subsec_c__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>“municipality” means any town, city or borough, consolidated town and city or consolidated town and borough.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_129v__subsec_b">
+            <num>(b)</num>
+            <paragraph eId="12_129v__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>Upon approval, on or before October first of each year, by a municipality's legislative body, or in any town in which the legislative body is a town meeting, by the board of selectmen, any municipality may provide a residential property tax credit for the following fiscal year in accordance with the provisions of this section. The municipality shall determine the amount of such tax credit, except that such amount shall not exceed the lesser of (A) the amount of property tax owed, or (B) eighty-five per cent of the amount of voluntary, unrestricted and irrevocable cash donations made by or on behalf of the owner of a residential property located in the municipality to a community supporting organization during the calendar year preceding the year in which an application for such tax credit is filed. The municipality may include in any such approval a residency requirement or other requirement the municipality deems necessary or desirable. Any grant amounts received by a municipality from the designated community supporting organization pursuant to subsection</p>
+              </content>
+              <subparagraph eId="12_129v__subsec_b__subsec_1__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>the amount of property tax owed, or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12_129v__subsec_b__subsec_1__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>eighty-five per cent of the amount of voluntary, unrestricted and irrevocable cash donations made by or on behalf of the owner of a residential property located in the municipality to a community supporting organization during the calendar year preceding the year in which an application for such tax credit is filed. The municipality may include in any such approval a residency requirement or other requirement the municipality deems necessary or desirable. Any grant amounts received by a municipality from the designated community supporting organization pursuant to subsection</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_129v__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of this section shall be subject to municipal appropriation and expenditure.</p>
+            </content>
+            <paragraph eId="12_129v__subsec_c__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>Upon approval of a tax credit under subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_129v__subsec_c__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>of this subsection, the owner of a residential property located in the municipality or a person on behalf of such owner may make a voluntary, unrestricted and irrevocable cash donation or donations to the community supporting organization designated pursuant to subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_129v__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_129v__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Any municipality that approves a tax credit pursuant to subdivision</p>
+            </content>
+            <paragraph eId="12_129v__subsec_c__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_129v__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section shall designate a single community supporting organization to receive cash donations that will qualify for such tax credit. The chief executive officer of such municipality shall enter into an agreement with such designated community supporting organization that requires</p>
+            </content>
+            <paragraph eId="12_129v__subsec_b__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>the designated community supporting organization to only accept voluntary, unrestricted and irrevocable cash donations,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_129v__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>the community supporting organization to provide, on or after July first but not later than July thirty-first of each fiscal year for which the tax credit has been approved, a grant to the municipality in an amount equal to all cash donations received during the prior fiscal year and a written statement of all cash donations received during such prior fiscal year, including the name and residential address of each donor, the name and residential address of the owner of the residential property if the donation was made on behalf of such owner and the date each such donation was received,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_129v__subsec_b__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>the municipality to provide, not later than December thirty-first following the close of a fiscal year in which the community supporting organization paid a grant to the municipality pursuant to subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_129v__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>of this subsection, a written statement to the designated community supporting organization of the municipal programs and services supported by such grant,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_129v__subsec_b__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>the municipality to serve as the administrative and fiscal agent for the designated community supporting organization. The municipality may retain and expend an amount of not more than fifteen per cent of the total amount of the grant received during a fiscal year as the reasonable costs of providing such service as the administrative and fiscal agent, and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_129v__subsec_b__subsec_5">
+              <num>(5)</num>
+              <content>
+                <p>the designated community supporting organization to provide a contemporaneous written receipt to a donor of a voluntary, unrestricted and irrevocable cash donation.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_129v__subsec_d">
+            <num>(d)</num>
+            <paragraph eId="12_129v__subsec_d__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>A taxpayer that has made a voluntary, unrestricted and irrevocable cash donation pursuant to subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_129v__subsec_d__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_129v__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section may file an application for the tax credit under this section with the tax collector of the municipality in which the residential property is located. No tax credit under this section shall be allowed unless the taxpayer or an authorized agent of the taxpayer files the application on or after January first and prior to April second prior to the fiscal year for which such tax credit is being claimed.</p>
+            </content>
+            <paragraph eId="12_129v__subsec_b__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>Each such applicant shall include evidence satisfactory to the tax collector of the total amount of such donations made during the preceding calendar year to a community supporting organization and an affidavit, on a form prescribed by the Secretary of the Office of Policy and Management, affirming that such donations were made in cash and were voluntary, unrestricted and irrevocable.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_129v__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>Upon the receipt of all information required under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_129v__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>of this section, the tax collector shall apply the residential property tax credit, subject to any limitations set forth by the municipality in the authorizing ordinance, to the residential property tax due and payable for the fiscal year for which the application was received.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_129v__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>No taxpayer may use a cash donation made pursuant to subdivision</p>
+            </content>
+            <paragraph eId="12_129v__subsec_f__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_129v__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section to claim a tax credit with respect to more than one fiscal year. Any taxpayer who knowingly submits a false record or knowingly makes a false affidavit to claim the tax credit under this section shall be fined not more than five hundred dollars and shall refund to the municipality the entire amount of the tax credit improperly received.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

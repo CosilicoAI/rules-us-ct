@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-48"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-48"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-48"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-48/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-48/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-48/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-48/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_203">
+        <num>203</num>
+        <heading>Property Tax Assessment</heading>
+        <section eId="sec_12_48">
+          <num>12-48</num>
+          <heading>Tenant for life or years to list property</heading>
+          <content>
+            <p>Sec. 12-48. Tenant for life or years to list property.When one is entitled to the ultimate enjoyment of real or personal estate liable to taxation, and another is entitled to the use of the same as an estate for life or for a term of years by gift or devise and not by contract, such estate shall be set in the list of the party in the immediate possession or use thereof, except when it is specially provided otherwise. Real estate so held shall be charged with the payment of any tax laid upon it, and the community laying such tax, or the tax collector or other authorized officer thereof, may collect or secure such tax in any manner provided by law for collection or securing of taxes on real estate; provided, upon the failure of the life tenant or person in immediate possession or use of such real estate to pay any tax laid upon it, the person or persons entitled to the ultimate enjoyment of such real estate may pay such tax and shall be subrogated to all the rights and remedies of the community laying the same for the collection or securing of such tax.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

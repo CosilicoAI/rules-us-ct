@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-244"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-244"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17b-244"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-244/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-244/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-244/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-244/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319v">
+        <num>319v</num>
+        <heading>Temporary Assistance for Needy Families</heading>
+        <section eId="sec_17b_244">
+          <num>17b-244</num>
+          <heading>(Formerly Sec. 17-313b). Payments to private facilities providing functional or vocational services for severely handicapped persons and payments for residential care. Establishment of rate. Regulations</heading>
+          <subsection eId="17b_244__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The room and board component of the rates to be paid by the state to private facilities and facilities operated by regional education service centers which are licensed to provide residential care pursuant to section17a-227, but not certified to participate in the Title XIX Medicaid program as intermediate care facilities for individuals with intellectual disabilities, shall be determined annually by the Commissioner of Social Services, except that rates effective April 30, 1989, shall remain in effect through October 31, 1989. Any facility with real property other than land placed in service prior to July 1, 1991, shall, for the fiscal year ending June 30, 1995, receive a rate of return on real property equal to the average of the rates of return applied to real property other than land placed in service for the five years preceding July 1, 1993. For the fiscal year ending June 30, 1996, and any succeeding fiscal year, the rate of return on real property for property items shall be revised every five years. The commissioner shall, upon submission of a request by such facility, allow actual debt service, comprised of principal and interest, on the loan or loans in lieu of property costs allowed pursuant to section 17-313b-5 of the regulations of Connecticut state agencies, whether actual debt service is higher or lower than such allowed property costs, provided such debt service terms and amounts are reasonable in relation to the useful life and the base value of the property. In the case of facilities financed through the Connecticut Housing Finance Authority, the commissioner shall allow actual debt service, comprised of principal, interest and a reasonable repair and replacement reserve on the loan or loans in lieu of property costs allowed pursuant to section 17-313b-5 of the regulations of Connecticut state agencies, whether actual debt service is higher or lower than such allowed property costs, provided such debt service terms and amounts are determined by th</p>
+            </content>
+            <paragraph eId="17b_244__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>the rate paid to a facility may be higher than the rate paid to the facility for the period ending June 30, 2009, if a capital improvement required by the Commissioner of Developmental Services for the health or safety of the residents was made to the facility during the fiscal years ending June 30, 2010, or June 30, 2011, and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17b_244__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>any facility that would have been issued a lower rate for the fiscal year ending June 30, 2010, or June 30, 2011, due to interim rate status or agreement with the department, shall be issued such lower rate. For the fiscal year ending June 30, 2012, rates in effect for the period ending June 30, 2011, shall remain in effect until June 30, 2012, except that (A) the rate paid to a facility may be higher than the rate paid to the facility for the period ending June 30, 2011, if a capital improvement required by the Commissioner of Developmental Services for the health or safety of the residents was made to the facility during the fiscal year ending June 30, 2012, and (B) any facility that would have been issued a lower rate for the fiscal year ending June 30, 2012, due to interim rate status or agreement with the department, shall be issued such lower rate. Any facility that has a significant decrease in land and building costs shall receive a reduced rate to reflect such decrease in land and building costs. The rate paid to a facility may be increased if a capital improvement approved by the Department of Developmental Services, in consultation with the Department of Social Services, for the health or safety of the residents was made to the facility during the fiscal year ending June 30, 2014, or June 30, 2015, only to the extent such increases are within available appropriations. For the fiscal years ending June 30, 2016, and June 30, 2017, rates shall not exceed those in effect for the period ending June 30, 2015, except the rate paid to a facility may be higher than the rate paid to the facility for the period ending June 30, 2015, if a capital improvement approved by the Department of Developmental Services, in consultation with the Department of Social Services, for the health or safety of the residents was made to the facility during the fiscal year ending June 30, 2016, or June 30, 2017, to the extent such rate increases are within available appropriations. For</p>
+              </content>
+              <subparagraph eId="17b_244__subsec_a__subsec_2__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>the rate paid to a facility may be higher than the rate paid to the facility for the period ending June 30, 2011, if a capital improvement required by the Commissioner of Developmental Services for the health or safety of the residents was made to the facility during the fiscal year ending June 30, 2012, and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="17b_244__subsec_a__subsec_2__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>any facility that would have been issued a lower rate for the fiscal year ending June 30, 2012, due to interim rate status or agreement with the department, shall be issued such lower rate. Any facility that has a significant decrease in land and building costs shall receive a reduced rate to reflect such decrease in land and building costs. The rate paid to a facility may be increased if a capital improvement approved by the Department of Developmental Services, in consultation with the Department of Social Services, for the health or safety of the residents was made to the facility during the fiscal year ending June 30, 2014, or June 30, 2015, only to the extent such increases are within available appropriations. For the fiscal years ending June 30, 2016, and June 30, 2017, rates shall not exceed those in effect for the period ending June 30, 2015, except the rate paid to a facility may be higher than the rate paid to the facility for the period ending June 30, 2015, if a capital imp</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="17b_244__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Notwithstanding the provisions of subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_244__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section, state rates of payment for the fiscal years ending June 30, 2018, June 30, 2019, June 30, 2020, and June 30, 2021, for residential care homes and community living arrangements that receive the flat rate for residential services under section 17-311-54 of the regulations of Connecticut state agencies shall be set in accordance with section 298 of public act 19-117*. For the fiscal years ending June 30, 2022, and June 30, 2023, rates shall be based upon rates in effect for the fiscal year ending June 30, 2021, inflated by the gross domestic product deflator applicable to each rate year.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_244__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>For the fiscal year ending June 30, 2024, and each subsequent fiscal year, the commissioner may, in the commissioner's discretion and within available appropriations, provide pro rata fair rent increases to facilities which have documented fair rent additions placed in service in the cost report years that are not otherwise included in rates issued.</p>
+            </content>
+          </subsection>
+          <subsection eId="17b_244__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>The Commissioner of Social Services and the Commissioner of Developmental Services shall adopt regulations in accordance with the provisions of chapter 54 to implement the provisions of this section.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

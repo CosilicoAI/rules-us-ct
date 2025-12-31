@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-836"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-836"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17a-836"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-836/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-836/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-836/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-836/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319l">
+        <num>319l</num>
+        <heading>Nursing Home Financial Assistance</heading>
+        <section eId="sec_17a_836">
+          <num>17a-836</num>
+          <heading>(Formerly Sec. 46a-27). Advisory Board for Persons Who are Deaf, Deafblind or Hard of Hearing. Duties. Reporting</heading>
+          <content>
+            <p>Sec. 17a-836. (Formerly Sec. 46a-27). Advisory Board for Persons Who are Deaf, Deafblind or Hard of Hearing. Duties. Reporting.The Advisory Board for Persons Who are Deaf, Deafblind or Hard of Hearing is hereby created to advocate, strengthen and advise the Governor and the General Assembly concerning state policies affecting persons who are deaf, deafblind or hard of hearing and their relationship to the public, industry, health care and educational opportunity. The board shall:
+(1) Monitor services for persons who are deaf, deafblind or hard of hearing;
+(2) Establish an annual leadership roundtable meeting with the Board of Regents for Higher Education, the Commissioners of Aging and Disability Services, Public Health, Social Services, Mental Health and Addiction Services, Education, Developmental Services, Children and Families, Early Childhood, Economic and Community Development, Emergency Services and Public Protection, Correction, Housing and Higher Education and the Labor Commissioner, or their designees, to discuss best practices to serve persons who are deaf, deafblind or hard of hearing, identify gaps in such services and make recommendations to rectify such gaps;
+(3) Refer persons with complaints concerning the qualification and registration of interpreters for persons who are deaf, deafblind or hard of hearing to the entity designated pursuant to section46a-10b;
+(4) Make recommendations for (A) technical assistance and resources for state agencies in order to serve persons who are deaf, deafblind or hard of hearing; (B) public policy and legislative changes needed to address gaps in services; and (C) the qualifications and registration of interpreters pursuant to section17a-838. The advisory board shall submit a report on such recommendations and the activities of the Bureau of Services for Persons Who are Deaf, Deafblind or Hard of Hearing in the previous calendar year, in accordance with section11-4a, not later than January 1, 2025, and annually thereafter, to the Governor and the joint standing committees of the General Assembly having cognizance of matters relating to appropriations, aging, commerce, education, higher education, housing, human services, the judiciary, labor, public health and public safety.
+See Sec. 46a-34 re definitions of “deaf”, “hard of hearing” and “deafblind”.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

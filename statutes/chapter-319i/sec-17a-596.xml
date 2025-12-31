@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-596"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-596"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17a-596"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-596/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-596/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-596/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-596/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319i">
+        <num>319i</num>
+        <heading>Connecticut HUSKY Plan</heading>
+        <section eId="sec_17a_596">
+          <num>17a-596</num>
+          <heading>(Formerly Sec. 17-257q). Board hearing procedures</heading>
+          <subsection eId="17a_596__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Prior to any hearing by the board concerning the discharge, conditional release, temporary leave or confinement of the acquittee, the board, acquittee and state's attorney may each choose a psychiatrist or psychologist to examine the acquittee. The results of the examination shall be in writing and filed with the board, and shall include, but need not be limited to, an opinion as to whether the acquittee is a person with psychiatric disabilities or a person with intellectual disability to the extent that the acquittee's release would constitute a danger to himself or others and whether the acquittee could be adequately controlled with treatment as a condition of release. To facilitate examination of the acquittee, the board may order the acquittee placed in the temporary custody of any hospital for psychiatric disabilities or other suitable facility or placed with the Commissioner of Developmental Services.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_596__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The board shall consider all evidence available to it that is material, relevant and reliable regarding the issues before the board. Such evidence may include, but need not be limited to, the record of trial, the information supplied by the state's attorney or by any other interested party, including the acquittee, and information concerning the acquittee's mental condition and the entire psychiatric and criminal history of the acquittee.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_596__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Testimony shall be taken upon oath or affirmation of the witness from whom the testimony is received.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_596__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Any hearing by the board, including the taking of any testimony at such hearing, shall be open to the public. At any hearing before the board, the acquittee shall have all the rights given a party to a contested case under chapter 54. In addition to the rights enumerated in chapter 54, the acquittee shall have the right to appear at all proceedings before the board, except board deliberations, and to be represented by counsel, to consult with counsel prior to the hearing and, if indigent, to have counsel provided, pursuant to the provisions of chapter 887, without cost. At any hearing before the board, copies of documents and reports considered by the board shall be available for examination by the acquittee, counsel for the acquittee and the state's attorney. Psychiatric or psychological reports concerning the acquittee that are in the possession of the board shall not be public records, as defined in section1-200, except that information in such reports relied on by the board or used as evidence concerning the discharge, conditional release, temporary leave or confinement of the acquittee shall not be confidential. The provisions of sections52-146cto52-146j, inclusive, shall not apply to such reports for the purposes of this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_596__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>Upon request of any party before the board, or on its own motion, the board may continue a hearing for a reasonable time not to exceed sixty days to obtain additional information or testimony or for other good cause shown.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_596__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>At any hearing before the board, the acquittee, or any applicant seeking an order less restrictive than the existing order, shall have the burden of proving by a preponderance of the evidence the existence of conditions warranting a less restrictive order.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_596__subsec_g">
+            <num>(g)</num>
+            <heading>A record shall be kept of all hearings before the board, except board deliberations</heading>
+          </subsection>
+          <subsection eId="17a_596__subsec_h">
+            <num>(h)</num>
+            <content>
+              <p>Within twenty-five days of the conclusion of the hearing, the board shall provide the acquittee, the acquittee's counsel, the state's attorney and any victim as defined in section17a-601with written notice of the board's decision. If there is no victim or the victim is unidentified or cannot be located, the board shall be relieved of the requirement of providing notice to the victim.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

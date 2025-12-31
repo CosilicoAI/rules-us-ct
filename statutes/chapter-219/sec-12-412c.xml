@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-412c"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-412c"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-412c"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-412c/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-412c/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-412c/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-412c/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_219">
+        <num>219</num>
+        <heading>Motor Vehicle Fuels Tax</heading>
+        <section eId="sec_12_412c">
+          <num>12-412c</num>
+          <heading>Mobile manufactured home, modular or prefabricated home subject to sales tax when sold by manufacturer and subject to tax as a conveyance of realty when sold at its location in a mobile manufactured home park</heading>
+          <subsection eId="12_412c__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>On or after July 1, 1986, the sale of a new mobile manufactured home, and on or after July 1, 1993, the sale of a new modular or prefabricated home, from a manufacturer shall be subject to sales and use taxes under this chapter, except that for purposes of said taxes the sales price of such new mobile manufactured home or new modular or prefabricated home shall be deemed to be seventy per cent of the manufacturer's sales price applicable with respect to such sale. For the purpose of this subsection, “mobile manufactured home” means a home at least twelve feet in width, which cannot proceed under its own power, which is towed or placed on flatbed trucks to be taken to its destination and which requires a limited duration oversize load permit in order to be transported on the highways of this state, and a “new modular or prefabricated home” means a modular or prefabricated home, as defined in section21-85, which has not been previously sold or occupied as a dwelling unit.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_412c__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>On or after July 1, 1986, the resale of any mobile manufactured home located in a mobile manufactured home park licensed pursuant to chapter 412 or located on a single-family lot as a permitted nonconforming use or as otherwise permitted by the zoning regulations of the municipality in which the home is located, and on or after July 1, 1993, the resale of any modular home, shall be exempt from the sales and use taxes imposed by this chapter and shall be taxed as a conveyance of realty in accordance with the provisions of chapter 223.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

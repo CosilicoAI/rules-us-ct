@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-569"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-569"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-569"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-569/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-569/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-569/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-569/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_226">
+        <num>226</num>
+        <heading>Prepared Food and Beverage Tax</heading>
+        <section eId="sec_12_569">
+          <num>12-569</num>
+          <heading>Breach of fiduciary responsibility by lottery sales agent</heading>
+          <subsection eId="12_569__subsec_a">
+            <num>(a)</num>
+            <paragraph eId="12_569__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>If the president of the Connecticut Lottery Corporation determines that any lottery sales agent has breached such agent's fiduciary responsibility to the corporation in that the account of such lottery sales agent with respect to moneys received from the sale of lottery tickets has become delinquent in accordance with regulations adopted under section12-568a, the president shall notify the commissioner of the breach of fiduciary duty and the commissioner shall impose a delinquency assessment upon such account equal to ten per cent of the amount due or ten dollars, whichever amount is greater, plus simple interest at the rate of one and one-half per cent of such amount for each month or fraction of a month from the date such amount is due to the date of payment.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_569__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>A lottery sales agent whose account was delinquent prior to July 1, 2022, and whose delinquency assessment was subject to compounding interest on June 30, 2022, may apply to the commissioner on or after July 1, 2022, for a hardship waiver to reduce the amount of interest delinquent, outstanding and payable to an amount based on simple interest.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_569__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>Subject to the provisions of section12-3a, the commissioner may waive all or part of the penalties provided under this subsection when it is proven to the commissioner's satisfaction that the failure to pay such moneys to the state within the time allowed was due to reasonable cause and was not intentional or due to neglect.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_569__subsec_a__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>Any such delinquent lottery sales agent shall be notified of such delinquency assessment and shall be afforded an opportunity to contest the validity and amount of such assessment before the commissioner who may conduct such hearing. Upon request of the president of the Connecticut Lottery Corporation, the commissioner may prepare and sign a warrant directed to any state marshal, constable or any collection agent employed by the Connecticut Lottery Corporation for distraint upon any property of such delinquent lottery sales agent within the state, whether personal or real property. An itemized bill shall be attached to the warrant certified by the commissioner as a true statement of the amount due from such lottery sales agent. Such warrant shall have the same force and effect as an execution issued in accordance with chapter 906. Such warrant shall be levied on any real, personal, tangible or intangible property of such agent and sale made pursuant to such warrant in the same manner and with the same force and effect as a levy and sale pursuant to an execution.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_569__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The commissioner shall adopt regulations in accordance with chapter 54 to carry out the purposes of this section.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

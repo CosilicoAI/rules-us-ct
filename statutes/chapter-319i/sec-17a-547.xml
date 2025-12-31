@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-547"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-547"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17a-547"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-547/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-547/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-547/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-547/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319i">
+        <num>319i</num>
+        <heading>Connecticut HUSKY Plan</heading>
+        <section eId="sec_17a_547">
+          <num>17a-547</num>
+          <heading>(Formerly Sec. 17-206h). Visitors. Restrictions on mail, telephone and visitor privileges, when allowed</heading>
+          <subsection eId="17a_547__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Every patient shall be permitted to receive visitors at regular visiting hours, except as herein provided. The head of the hospital shall:</p>
+            </content>
+            <paragraph eId="17a_547__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>Establish visiting hours, and inform all patients and their families and other visitors of these hours; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_547__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>designate the areas of the hospital where a patient may receive visitors, and inform all patients and their families and other visitors of these areas.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17a_547__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>If, because of extenuating circumstances, a patient's family cannot visit during the regular visiting hours, the head of the hospital shall designate one two-hour period per week, at a mutually convenient time, during which the patient's family may visit the patient.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_547__subsec_c">
+            <num>(c)</num>
+            <heading>A patient's clergyman, lawyer or physician may visit the patient at any reasonable time</heading>
+          </subsection>
+          <subsection eId="17a_547__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>If the head of the hospital determines that it is medically harmful for the patient to receive visitors, he shall so inform the patient's family and other visitors. When the patient has recovered sufficiently to receive visitors, the head of the hospital shall immediately notify the patient's family and other visitors who have requested notification. A copy of the notification of any restriction of visitors, and the reasons therefor, shall be signed by the head of the hospital and placed in the patient's permanent clinical record.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_547__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>The provisions of this section shall not apply to any patient in a program or facility for the treatment of drug-dependent persons.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_547__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>No restriction of any patient's rights to send and receive mail, make and receive telephone calls, or receive visitors shall be made in any manner, or for any reasons, other than prescribed in section17a-546and this section.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-491"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-491"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-491"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-491/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-491/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-491/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-491/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_222">
+        <num>222</num>
+        <heading>Unrelated Business Income Tax</heading>
+        <section eId="sec_12_491">
+          <num>12-491</num>
+          <heading>Use of services of other departments. Investigation or hearing procedures</heading>
+          <subsection eId="12_491__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The Commissioner of Revenue Services is authorized to avail himself or herself of the services of the state police, the Commissioner of Motor Vehicles and the Public Utilities Regulatory Authority in enforcing the provisions of this chapter.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_491__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>In carrying out the provisions of this chapter, the commissioner, and any representative of the commissioner authorized to conduct any inquiry, investigation or hearing, may administer oaths and take testimony under oath in any inquiry or investigation related to the tax imposed under this chapter. At any such hearing ordered by the commissioner, the commissioner or the commissioner's representative authorized to conduct such hearing and to issue such process as may be necessary for such hearing may subpoena witnesses and require the production of books, papers and documents pertinent to such inquiry. No witness under subpoena shall be excused from testifying or from producing books or other documentary evidence on the ground that such testimony or the production of such books or other documentary evidence would tend to incriminate the witness provided such evidence or the books or other documentary evidence so produced shall not be used in any criminal proceeding against the witness. If any person disobeys such process or, having appeared in obedience to such process, refuses to answer any pertinent question put to him or her by the commissioner or the commissioner's authorized representative, or to produce any books and other documentary evidence pursuant to such questioning, the commissioner or such representative may apply to the superior court for the judicial district in which the taxpayer resides or in which the business has been conducted setting forth such disobedience to process or refusal to answer. The court shall order such person to appear before said court to answer such question or to produce such books and documentary evidence and, upon such person's refusal to do so, shall commit such person to a community correctional center until such person testifies, but not for a longer period than sixty days. Notwithstanding the serving of the term of such commitment by any person, the commissioner may proceed in all respects with such inquiry and examination</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

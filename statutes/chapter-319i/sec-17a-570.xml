@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-570"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-570"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17a-570"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-570/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-570/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-570/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-570/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319i">
+        <num>319i</num>
+        <heading>Connecticut HUSKY Plan</heading>
+        <section eId="sec_17a_570">
+          <num>17a-570</num>
+          <heading>(Formerly Sec. 17-251). Review and disposition of case after periodic examination. Report of determination to court. Hearing</heading>
+          <subsection eId="17a_570__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>As soon as is practicable, the director of the Whiting Forensic Hospital shall act upon the examination reports of the director's staff. Upon review of each report and upon consideration of what is for the benefit of the patient and for the benefit of society, the director shall determine whether such patient:</p>
+            </content>
+            <paragraph eId="17a_570__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>Is to remain in the hospital for further treatment, or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_570__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>has sufficiently improved to warrant discharge from the hospital, provided if such patient was sentenced and confined in the hospital under section17a-567, such patient shall not be released except upon order of the court by which such patient was confined under said section, after notice to said court by the director. The director shall report each determination made under this subsection to the court by which the patient was confined in the hospital.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17a_570__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>If a report submitted by the director to the court under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_570__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section recommends that the patient be returned to the custody of the Commissioner of Correction, the court shall set the matter for a hearing not later than fifteen days after receipt of such report.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_570__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The court, upon its own motion or at the request of the patient or the patient's attorney, may at any time hold a hearing to determine whether such patient should be discharged from the hospital prior to the expiration of the maximum period of the patient's sentence. Prior to such hearing, the hospital shall file a report with the court concerning the patient's mental condition. The court may appoint a physician specializing in psychiatry to examine the patient and report to the court. Such hearing shall be held at least once every five years. If the court determines that the patient should be discharged from the hospital, the patient shall be returned to the custody of the Commissioner of Correction.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

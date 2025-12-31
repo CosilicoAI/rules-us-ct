@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-485e"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-485e"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17a-485e"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-485e/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-485e/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-485e/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-485e/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319i">
+        <num>319i</num>
+        <heading>Connecticut HUSKY Plan</heading>
+        <section eId="sec_17a_485e">
+          <num>17a-485e</num>
+          <heading>State contractual authority re state assistance on bonds issued by the Connecticut Housing Finance Authority for permanent supportive housing initiatives</heading>
+          <subsection eId="17a_485e__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>For purposes of this section “state assistance” means a payment by the state of actual debt service, comprised of principal, interest, interest rate swap payments, liquidity fees, letter of credit fees, trustee fees, and other similar bond-related expenses.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_485e__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The State Bond Commission may authorize the State Treasurer and the Secretary of the Office of Policy and Management to enter into a contract or contracts to provide state assistance on bonds issued by the Connecticut Housing Finance Authority as provided in this section. If so authorized by the State Bond Commission, the state, acting by and through the Secretary of the Office of Policy and Management and the State Treasurer, shall enter into a contract or contracts with the Connecticut Housing Finance Authority that provide the state shall pay to said authority state assistance on bonds issued by said authority for purposes of providing funds for mortgage loans made by said authority pursuant to the provisions of section17a-485c, funds for reasonable repair and replacement reserves and costs of issuance in an aggregate principal amount not to exceed one hundred five million dollars. Any provision of such a contract entered into providing for payments equal to annual debt service shall constitute a full faith and credit obligation of the state and as part of the contract of the state with the holders of any bonds or refunding bonds, as applicable, appropriation of all amounts necessary to meet punctually the terms of such contract is hereby made and the State Treasurer shall pay such amounts as the same become due. The Connecticut Housing Finance Authority may pledge such state assistance as security for the payment of such bonds or refunding bonds issued by said authority. Any bonds so issued for permanent supportive housing initiatives by the Connecticut Housing Finance Authority and at any time outstanding may, at any time or from time to time, be refunded, in whole or in part, by the Connecticut Housing Finance Authority by the issuance of its refunding bonds in such amounts as the authority may deem necessary or appropriate, but not exceeding an amount sufficient to refund the principal amount of the bonds to be so refunded, any unpaid interest thereon, and an</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_485e__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Notwithstanding any contract entered into by the state with the Connecticut Housing Finance Authority for state assistance the bonds or refunding bonds to which such state assistance applies shall not constitute bonds or notes issued or guaranteed by the state within the meaning of section3-21.
+See Sec. 17a-485c re permanent supportive housing initiatives.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

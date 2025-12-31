@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-686a"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-686a"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17a-686a"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-686a/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-686a/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-686a/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-686a/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319j">
+        <num>319j</num>
+        <heading>Health Care For Uninsured Children</heading>
+        <section eId="sec_17a_686a">
+          <num>17a-686a</num>
+          <heading>Application for writ of habeas corpus for confined individual</heading>
+          <content>
+            <p>Sec. 17a-686a. Application for writ of habeas corpus for confined individual.An individual confined in a hospital or inpatient treatment facility for treatment of alcohol or drug dependency in this state may seek a writ of habeas corpus in the Superior Court. The question of the legality of such confinement shall be determined by the court or judge issuing such writ. The writ shall be directed to the superintendent or director of the hospital or treatment facility and, if illegality or invalidity of the commitment is alleged in such writ, a copy shall also be directed to the judge of the committing court as to such claim. Such judge shall be represented by the state's attorney for the judicial district in which such committing court is located. If the court or judge before whom such case is brought decides that the confinement is not illegal, such decision shall not bar issuance of such writ again, provided it is claimed that such individual is no longer subject to the condition for which the individual was confined. Such writ may be sought by the confined individual or on behalf of the individual by any relative, friend or person interested in the individual's welfare. Court fees may not be charged against the superintendent or director of the hospital or the judge.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

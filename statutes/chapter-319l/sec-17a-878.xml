@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-878"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-878"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17a-878"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-878/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-878/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-878/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-878/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319l">
+        <num>319l</num>
+        <heading>Nursing Home Financial Assistance</heading>
+        <section eId="sec_17a_878">
+          <num>17a-878</num>
+          <heading>(Formerly Sec. 17a-415). Powers of ombudsman and representatives. Access to records, facilities and residents. Penalty for wilful interference with representatives of office. Confidentiality. Assistance from outside persons or entities</heading>
+          <subsection eId="17a_878__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The State Ombudsman and representatives of the office shall have:</p>
+            </content>
+            <paragraph eId="17a_878__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>Access to long-term care facilities and residents;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_878__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>Appropriate access to review the medical and social records of a resident, including, but not limited to, the discharge plan developed pursuant to subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17a_878__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>to section19a-535, if (A) the representative of the office has the permission of the resident, or the legal representative of the resident, (B) the resident is unable to consent to the review and has no legal representative, or (C) access to the records is necessary to investigate a complaint and a resident representative refuses to give permission, a representative of the office has reasonable cause to believe that the resident representative is not acting in the best interests of the resident, and the representative of the office obtains the approval of the ombudsman;</p>
+            </content>
+            <paragraph eId="17a_878__subsec_e__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>Access to the administrative records, policies and documents, to which the residents have, or the general public has access, of long-term care facilities; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="17a_878__subsec_e__subsec_4">
+              <num>(4)</num>
+              <content>
+                <p>Access to and, on request, copies of all licensing and certification records maintained by the state with respect to long-term care facilities.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="17a_878__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Any person or entity who wilfully interferes with representatives of the office in the performance of the official duties of the representatives of the office, or any long-term care facility or other entity which retaliates or exacts reprisals with respect to any resident, employee or other person for filing a complaint with, providing information to, or otherwise cooperating with any representative of the office, or long-term care facility which refuses to permit the State Ombudsman or any regional ombudsman or any residents' advocate entry into such facility or refuses to cooperate with the State Ombudsman, or any regional ombudsman or any residents' advocate in the carrying out of their mandated duties and responsibilities enumerated under sections17a-412,17a-413,17a-870to17a-880, inclusive,19a-531and19a-532or refuses to permit residents or staff to communicate freely with the State Ombudsman or any regional ombudsman or any residents' advocate shall be subject to the penalty prescribed for a class B violation under section19a-527.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_878__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>In carrying out the duties enumerated in sections17a-412,17a-413,17a-870to17a-880, inclusive,19a-531and19a-532, the State Ombudsman, the regional ombudsmen and the residents' advocates shall have access to all relevant public records, except that records which are confidential to a resident shall only be divulged with the written consent of the resident.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_878__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>In the performance of the duties and responsibilities enumerated under sections17a-412,17a-413,17a-870to17a-880, inclusive,19a-531and19a-532, the State Ombudsman, the regional ombudsmen and the residents' advocates may utilize any other state department, agency or commission, or any other public or private agencies, groups or individuals who are appropriate and who may be available.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

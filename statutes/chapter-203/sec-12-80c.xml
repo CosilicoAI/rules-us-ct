@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-80c"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-80c"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-80c"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-80c/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-80c/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-80c/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-80c/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_203">
+        <num>203</num>
+        <heading>Property Tax Assessment</heading>
+        <section eId="sec_12_80c">
+          <num>12-80c</num>
+          <heading>Payment of personal property tax by mobile telecommunications service provider re property used in rendering telecommunications service</heading>
+          <subsection eId="12_80c__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>For purposes of this section, “taxpayer” means any person that provides mobile telecommunications service and is subject to taxation for personal property as provided in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_80c__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>of section12-80a. Each such taxpayer shall pay personal property tax in accordance with the provisions of this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_80c__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Notwithstanding the provisions of section7-383, for the assessment year commencing October 1, 2010, any municipal tax collector may mail or deliver, in accordance with the provisions of section12-130, a first installment of a tax bill to a taxpayer prior to July 1, 2011. The amount of such first installment shall be equal to fifty per cent of such taxpayer's total assessment for property subject to taxation pursuant to subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_80c__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>of section12-80a, multiplied by the mill rate in effect in such municipality for the fiscal year commencing July 1, 2010. The tax collector shall mail or deliver the second installment of such tax bill on or after July 1, 2011. The second installment shall be equal to fifty per cent of such taxpayer's total assessment for property subject to taxation pursuant to said subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_80c__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>of section12-80a, multiplied by the mill rate in effect in such municipality for the fiscal year commencing July 1, 2011. Any installment of a tax bill mailed or delivered pursuant to this subsection shall be due and payable and collectible as other municipal taxes and subject to the same liens and processes of collection.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_80c__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>For assessment years commencing on or after October 1, 2011, such taxpayer shall be subject to tax collection under the provisions of this chapter and chapter 204 that are applicable to all other persons subject to taxation under said chapters.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-112d"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-112d"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17b-112d"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-112d/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-112d/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17b-112d/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17b-112d/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319s">
+        <num>319s</num>
+        <heading>Connecticut Partnership for Long-Term Care</heading>
+        <section eId="sec_17b_112d">
+          <num>17b-112d</num>
+          <heading>Eligibility for temporary assistance for needy families or supplemental nutrition assistance program for person convicted of controlled substance felony</heading>
+          <content>
+            <p>Sec. 17b-112d. Eligibility for temporary assistance for needy families or supplemental nutrition assistance program for person convicted of controlled substance felony.A person convicted of any offense under federal or state law, on or after August 22, 1996, which (1) is classified as a felony, and (2) has as an element the possession, use or distribution of a controlled substance, as defined in Subsection (6) of 21 USC 802, shall be eligible for benefits pursuant to the temporary assistance for needy families program or the supplemental nutrition assistance program pursuant to the Food and Nutrition Act of 2008, if such person has completed a sentence imposed by a court. A person shall also be eligible for said benefits if such person is satisfactorily serving a sentence of a period of probation or is in the process of completing or has completed a sentence imposed by the court of mandatory participation in a substance abuse treatment program or mandatory participation in a substance abuse testing program.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

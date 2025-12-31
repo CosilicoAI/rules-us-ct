@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-460c"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-460c"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="17a-460c"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-460c/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-460c/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-17a-460c/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-17a-460c/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_319i">
+        <num>319i</num>
+        <heading>Connecticut HUSKY Plan</heading>
+        <section eId="sec_17a_460c">
+          <num>17a-460c</num>
+          <heading>Connecticut Mental Health Center: Provider agreements</heading>
+          <subsection eId="17a_460c__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The center, when authorized by the commissioner, may enter into provider agreements and other contractual arrangements with Medicaid and Medicare managed care plans, governmental health plans, health maintenance organizations, health insurance plans, employer and union health plans, preferred provider organizations, physician-hospital organizations, managed care plans, networks and other similar arrangements or plans offered by insurers, third-party payers or other entities offering health care plans to their members or employees and their dependents.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_460c__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The agreements and other contractual arrangements identified in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_460c__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section may include plans and arrangements certified by the Department of Social Services, the Department of Mental Health and Addiction Services, or the federal Centers for Medicare and Medicaid Services, to provide services to Medicaid, Medicare, Department of Mental Health and Addiction Services or Centers for Medicare and Medicaid Services beneficiaries, as well as private plans and arrangements satisfactory to the commissioner.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_460c__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Participation in the agreements and other contractual arrangements identified in this section and approved by the commissioner shall not be subject to the review and approval of other state agencies except as otherwise required by law.</p>
+            </content>
+          </subsection>
+          <subsection eId="17a_460c__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>To the extent the commissioner permits, the center may bill and accept as reimbursement for services provided pursuant to the agreements and other contractual arrangements identified in this section negotiated rates, including rates based on charges, discounted charges, per diem or per case rates or other forms of reimbursement. Such reimbursement shall be subject to review or approval by the Secretary of the Office of Policy and Management based on demonstrated impact on federal reimbursement.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

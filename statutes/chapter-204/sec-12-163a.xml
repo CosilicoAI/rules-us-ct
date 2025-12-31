@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-163a"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-163a"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-163a"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-163a/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-163a/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-163a/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-163a/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_204">
+        <num>204</num>
+        <heading>Local Levy and Collection of Taxes</heading>
+        <section eId="sec_12_163a">
+          <num>12-163a</num>
+          <heading>Receivership of rents for the collection of delinquent taxes</heading>
+          <subsection eId="12_163a__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Any municipality may petition the Superior Court or a judge thereof, for appointment of a receiver of the rents or payments for use and occupancy for any property for which the owner, agent, lessor or manager is delinquent in the payment of real property taxes. The court or judge shall forthwith issue an order to show cause why a receiver should not be appointed, which shall be served upon the owner, agent, lessor, manager, mortgagees, assignees of rent and other parties with an interest in the rents or payments for use and occupancy of the property in a manner most reasonably calculated to give notice to such owner, lessor, manager, mortgagees, assignees of rent and other parties with an interest in the rents or payments for use and occupancy of the property as determined by such court or judge, including, but not limited to, a posting of such order on the premises in question. A hearing shall be had on such order no later than seventy-two hours after its issuance or the first court day thereafter. The sole purpose of such a hearing shall be to determine whether there is an amount due and owing between the owner, agent, lessor or manager and the municipality. The court shall make a determination of any amount due and owing and any amount so determined shall constitute a lien upon the real property of such owner. A certificate of such amount may be recorded in the land records of the town in which such property is located describing the amount of the lien and the name of the party who owes the taxes. When the amount due and owing has been paid, the municipality shall issue a certificate discharging the lien and shall file the certificate in the land records of the town in which such lien was recorded. The receiver appointed by the court shall collect all rents or payments for use and occupancy forthcoming from the occupants of the building in question in place of the owner, agent, lessor or manager. The receiver shall make payments from such rents or payments for us</p>
+            </content>
+          </subsection>
+          <subsection eId="12_163a__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Any receivership established pursuant to subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_163a__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>shall be terminated by the court upon its finding that the tax delinquency which was the subject of the original petition has been satisfied.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_163a__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Nothing in this section shall be construed to prevent the petitioner from pursuing any other action or remedy at law or equity that it may have against the owner, agent, lessor or manager.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_163a__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Any owner, agent, lessor or manager who collects or attempts to collect any rent or payment for use and occupancy from any occupant of a building subject to an order appointing a receiver shall be found, after due notice and hearing, to be in contempt of court.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_163a__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>If a proceeding is initiated pursuant to sections47a-14ato47a-14h, inclusive, or sections47a-56to47a-56i, inclusive, or if a receiver of rents is appointed pursuant to chapter 735a or pursuant to any other action involving the making of repairs to real property under court supervision, rent or use and occupancy payments shall be made pursuant to such proceeding or action without regard to whether such proceeding or action is initiated before or after a receivership is established under this section, and such proceeding or action shall take priority over a receivership established under this section in regard to expenditure of such rent or use and occupancy payments.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_163a__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>If a receiver of rents or payments for use and occupancy is appointed pursuant to section16-262fprior to the date a receivership is established under this section, rent or use and occupancy payments shall be made pursuant to said section16-262fand the receivership established pursuant to said section16-262fshall take priority over a receivership established under this section in regard to expenditure of such rent or use and occupancy payments provided the receiver appointed under said section16-262fgives notice of such appointment to the chief executive official of the municipality where the residential dwelling is located.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

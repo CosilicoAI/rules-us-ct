@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ct-legislature">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-295"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-295"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ct-legislature"/>
+          <FRBRcountry value="us-ct"/>
+          <FRBRnumber value="12-295"/>
+          <FRBRname value="CGS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-295/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-295/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ct/act/cgs/sec-12-295/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ct/act/cgs/sec-12-295/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="ct-legislature" href="https://www.cga.ct.gov" showAs="Connecticut General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_214">
+        <num>214</num>
+        <heading>Business Tax Credits</heading>
+        <section eId="sec_12_295">
+          <num>12-295</num>
+          <heading>Suspension or revocation of license. Civil penalty. Issuance of new license after revocation</heading>
+          <subsection eId="12_295__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The commissioner may suspend or revoke the license of any dealer or distributor for</p>
+            </content>
+            <paragraph eId="12_295__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>failure to comply with any provision of this chapter or regulations related thereto, or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_295__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>for the sale or delivery of cigarettes or tobacco products to a person under twenty-one years of age, following a hearing with respect to which notice in writing, specifying the time and place of such hearing and requiring such dealer or distributor to show cause why such license should not be revoked, is mailed or delivered to such dealer or distributor not less than ten days preceding the date of such hearing. Such notice may be served personally or by registered or certified mail.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_295__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>If the commissioner finds, after a hearing as provided in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_295__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section, that a dealer has violated any provision of sections12-326ato12-326h, inclusive, the commissioner shall, for a first violation, suspend such dealer's license for not less than seven days and assess a civil penalty of not less than one thousand dollars and, for a second or subsequent violation on or before five years after the date of the first violation, suspend such dealer's license for not less than thirty days and assess a civil penalty of not less than five thousand dollars. The commissioner shall order such dealer to conspicuously post a notice in a public place stating that cigarettes and tobacco products cannot be sold during the period of such suspension and the reason therefor. Any sale of cigarettes or tobacco products by such dealer during the period of such suspension shall be deemed an additional violation of said sections.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_295__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>If the commissioner finds, after a hearing as provided in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="12_295__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section, that a distributor has violated any provision of sections12-326ato12-326h, inclusive, the commissioner shall</p>
+            </content>
+            <paragraph eId="12_295__subsec_a__subsec_1">
+              <num>(1)</num>
+              <content>
+                <p>for a first violation, suspend such distributor's license for not less than seven days and assess a civil penalty of not more than ten thousand dollars,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_295__subsec_a__subsec_2">
+              <num>(2)</num>
+              <content>
+                <p>for a second violation on or before five years after the date of the first violation, suspend such distributor's license for not less than thirty days and assess a civil penalty of not more than twenty-five thousand dollars, and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12_295__subsec_a__subsec_3">
+              <num>(3)</num>
+              <content>
+                <p>for a subsequent violation on or before five years after the date of the first violation, revoke such distributor's license and assess a civil penalty of not more than fifty thousand dollars, except that if the violation is of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12_295__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of section12-326b, the commissioner shall assess an additional civil penalty of one thousand dollars for each carton of cigarettes sold or bought in violation of said subsection. The commissioner shall order such distributor to conspicuously post a notice in a public place stating that cigarettes or tobacco products cannot be sold during the period of such suspension and the reason therefor. Any sale of cigarettes or tobacco products by such distributor during the period of such suspension shall be deemed an additional violation of said sections.</p>
+            </content>
+          </subsection>
+          <subsection eId="12_295__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>The commissioner shall not issue a new license to a former licensee whose license was revoked unless the commissioner is satisfied that such former licensee will comply with the provisions of this chapter or regulations related thereto.
+(Return to ChapterTable of Contents)(Return toList of Chapters)(Return toList of Titles)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>
